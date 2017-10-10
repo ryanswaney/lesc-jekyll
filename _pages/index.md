@@ -2,7 +2,7 @@
 title:
 tagline: >-
 permalink: /
-layout: page
+layout: default
 ---
 
 # Index
