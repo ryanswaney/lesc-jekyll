@@ -1,0 +1,55 @@
+// Sass Variables
+
+
+// Content Width
+$content-width: 800px;
+$on-palm: 600px;
+$on-laptop: 800px;
+$on-large: 1200px;
+
+// Typography
+$base-font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+$base-font-size:   18px;
+$base-font-weight: 400;
+$base-line-height: 1.5;
+
+$display-heading: $base-font-size * 3.375;
+$xlarge-heading: $base-font-size * 2.25;
+$large-heading: $base-font-size * 1.5;
+$base-heading: $base-font-size;
+$small-heading: $base-font-size * 0.667;
+$xsmall-heading: $base-font-size * 0.444;
+
+$small-font-size:  $base-font-size * 0.875;
+
+$spacing-unit: 1.3rem;
+
+// Primary Colors
+$primary: #0071bc;
+$primary-darker: #205493;
+$primary-darkest: #112e51;
+$primary-alt: #02bfe7;
+$primary-alt-dark: #00a6d2;
+$primary-alt-darkest: #046b99;
+$primary-alt-light: #9bdaf1;
+$primary-alt-lightest: #e1f3f8;
+
+// Secondary Color
+$secondary: #e31c3d;
+$secondary-dark: #cd2026;
+$secondary-darkest: #981b1e;
+$secondary-light: #e59393;
+$secondary-lightest: #f9dede;
+
+// Base and Neutral Colors
+$base: #212121;
+$gray: #5b616b;
+$gray-dark: #323a45;
+$gray-light: #aeb0b5;
+$gray-lighter: #d6d7d9;
+$gray-lightest: #f1f1f1;
+$white: #ffffff;
+$gold: #fdb81e;
+$gold-light: #f9c642;
+$gold-lighter: #fad980;
+$gold-lightest: #fff1d2;
