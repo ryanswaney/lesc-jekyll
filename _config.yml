@@ -11,7 +11,8 @@ collections:
     output: true
   speakers:
     title: Speakers
-    output: true
+    output: false
+    permalink: speakers
   uploads:
     title: Uploads
     output: true
