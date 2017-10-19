@@ -1,33 +1,32 @@
-# Site settings
-title:
-email:
-description: >-
-url:
-
-# Jekyll Collections settings
+---
+title: Lesc Jekyll
+timezone: UTC
 collections:
   pages:
+    title: Pages
     output: true
     permalink: pretty
   posts:
+    title: Posts
     output: true
-    permalink: /:year/:month/:day/:title/
-
-# Jekyll Build settings
+  uploads:
+    title: Uploads
+    output: true
+email: 
+description: ''
+url: 
 markdown: kramdown
 sass:
-    sass_dir: assets/_sass
-    style: compressed
+  sass_dir: assets/_sass
+  style: compressed
 exclude:
 - Gemfile
 - Gemfile.lock
 - Vagrantfile
 - bootstrap.sh
-- .vagrant
-- .gitignore
+- ".vagrant"
+- ".gitignore"
 - README.md
-
-# Jekyll Livereload settings
 port: 4000
 host: 0.0.0.0
 livereload: true

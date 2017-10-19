@@ -1,7 +1,7 @@
 ---
-title:
-tagline: >-
-permalink: /
+title: Index
+permalink: "/"
+tagline: ''
 layout: default
 ---
 
