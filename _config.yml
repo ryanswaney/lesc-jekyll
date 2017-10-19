@@ -5,6 +5,7 @@ collections:
   event:
     title: Event
     output: true
+    permalink: event
   speakers:
     title: People
     output: false
