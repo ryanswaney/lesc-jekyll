@@ -10,7 +10,7 @@ collections:
     output: false
     permalink: speakers
   uploads:
-    title: Uploads
+    title: uploads
     output: true
 email: 
 description: 
