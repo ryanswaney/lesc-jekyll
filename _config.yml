@@ -2,13 +2,6 @@
 title: Low-Emissions Solutions
 timezone: UTC
 collections:
-  pages:
-    title: Pages
-    output: true
-    permalink: pretty
-  posts:
-    title: Posts
-    output: true
   speakers:
     title: Speakers
     output: false
@@ -16,9 +9,9 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: 
-description: 
-url: 
+email:
+description:
+url:
 markdown: kramdown
 sass:
   sass_dir: assets/_sass
