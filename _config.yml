@@ -2,6 +2,9 @@
 title: Low-Emissions Solutions
 timezone: UTC
 collections:
+  event:
+    title: Event
+    output: true
   speakers:
     title: People
     output: false
