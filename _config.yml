@@ -6,15 +6,12 @@ collections:
     title: People
     output: false
     permalink: people
-  posts:
-    title: Posts
-    output: true
   uploads:
     title: uploads
     output: true
-email: 
-description: 
-url: 
+email:
+description:
+url:
 markdown: kramdown
 sass:
   sass_dir: assets/_sass
