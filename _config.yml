@@ -21,14 +21,12 @@ defaults:
 - scope:
     path: ''
     type: event
-    permalink: "/:collection/:name"
   values:
     layout: default
     Speakers:
 - scope:
     path: ''
     type: speakers
-    permalink: "/:collection/:name"
   values:
     layout: default
     title and organization:
@@ -36,7 +34,7 @@ defaults:
     photo:
 email: info@lowemissions.solutions
 description:
-baseurl: ""
+baseurl: ''
 url: http://lowemissions.solutions
 markdown: kramdown
 sass:
