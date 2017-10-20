@@ -1,18 +1,16 @@
 ---
 title: Low-Emissions Solutions
 timezone: UTC
-twitter_username: Low2No
-facebook_username: Low2No
 collections:
   event:
     title: Event
     output: true
-  speakers:
-    title: Speakers
-    output: false
   posts:
     title: Posts
     output: true
+  speakers:
+    title: Speakers
+    output: false
   uploads:
     title: uploads
     output: true
@@ -20,22 +18,22 @@ defaults:
 - scope:
     path: ''
     type: event
-    permalink: "/:collection/:name"
   values:
     layout: default
-    Speakers:
+    Speakers: 
 - scope:
     path: ''
     type: speakers
-    permalink: "/:collection/:name"
   values:
     layout: default
-    title:
-    short bio text:
-    photo:
+    title: 
+    short bio text: 
+    photo: 
+twitter_username: Low2No
+facebook_username: Low2No
 email: info@lowemissions.solutions
-description:
-baseurl: ""
+description: 
+baseurl: ''
 url: http://lowemissions.solutions
 markdown: kramdown
 sass:
