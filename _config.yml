@@ -24,6 +24,14 @@ defaults:
     values:
       layout: "default"
       People:
+  -
+    scope:
+      path: ""
+      type: "speakers"
+    values:
+      layout: "default"
+      short bio text:
+      full bio text:
 email:
 description:
 url:
