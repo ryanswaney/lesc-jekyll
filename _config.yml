@@ -12,7 +12,7 @@ collections:
   speakers:
     title: People
     output: false
-    permalink: /:collection/:name
+    permalink: "/:collection/:name"
   posts:
     title: Posts
     output: true
