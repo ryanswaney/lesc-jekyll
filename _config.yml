@@ -5,10 +5,7 @@ collections:
   event:
     title: Event
     output: true
-    permalink: "/:collection/:name"
-    layout: default
-    values:
-      People: 
+    permalink: /:collection/:name
   speakers:
     title: People
     output: false
@@ -19,9 +16,18 @@ collections:
   uploads:
     title: uploads
     output: true
-email: 
-description: 
-url: 
+defaults:
+  -
+    scope:
+      path: "Event"
+    values:
+      layout: "default"
+      People:
+
+
+email:
+description:
+url:
 markdown: kramdown
 sass:
   sass_dir: assets/_sass
