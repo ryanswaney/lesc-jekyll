@@ -6,12 +6,6 @@ collections:
     title: Event
     output: true
     permalink: event
-    Speakers:
-      Name: 
-      Title: 
-      Short Bio Text: 
-      Full Bio Text: 
-      Photo: 
   speakers:
     title: People
     output: false
