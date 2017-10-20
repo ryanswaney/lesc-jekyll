@@ -17,16 +17,15 @@ collections:
     title: uploads
     output: true
 defaults:
-  -
-    scope:
-      path: ""
-      type: "event"
-    values:
-      layout: "default"
-      People:
-email:
-description:
-url:
+- scope:
+    path: ''
+    type: event
+  values:
+    layout: default
+    People: 
+email: 
+description: 
+url: 
 markdown: kramdown
 sass:
   sass_dir: assets/_sass
