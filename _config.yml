@@ -3,13 +3,14 @@ title: Low-Emissions Solutions
 timezone: UTC
 twitter_username: Low2No
 facebook_username: Low2No
+permalink: pretty
 collections:
   event:
     title: Event
     output: true
   speakers:
     title: Speakers
-    output: false
+    output: true
   posts:
     title: Posts
     output: true
@@ -30,7 +31,7 @@ defaults:
     permalink: "/:collection/:name"
   values:
     layout: default
-    title:
+    title and organization:
     short bio text:
     photo:
 email: info@lowemissions.solutions
