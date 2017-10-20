@@ -19,7 +19,8 @@ collections:
 defaults:
   -
     scope:
-      path: "event"
+      path: ""
+      type: "event"
     values:
       layout: "default"
       People:
