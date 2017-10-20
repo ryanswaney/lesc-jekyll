@@ -7,6 +7,8 @@ collections:
     output: true
     permalink: /:collection/:name
     layout: "default"
+    values:
+      People:
   speakers:
     title: People
     output: false
