@@ -5,21 +5,21 @@ collections:
   event:
     title: Event
     output: true
-    permalink: /:collection/:name
-    layout: "default"
+    permalink: "/:collection/:name"
+    layout: default
   speakers:
     title: People
     output: false
-    permalink: /:collection/:name
+    permalink: "/:collection/:name"
   posts:
     title: Posts
     output: true
   uploads:
     title: uploads
     output: true
-email:
-description:
-url:
+email: 
+description: 
+url: 
 markdown: kramdown
 sass:
   sass_dir: assets/_sass
