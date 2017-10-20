@@ -5,7 +5,7 @@ collections:
   event:
     title: Event
     output: true
-    permalink: /:collection/:name
+    permalink: "/:collection/:name"
   speakers:
     title: People
     output: false
