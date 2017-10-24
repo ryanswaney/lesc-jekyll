@@ -1,0 +1,8 @@
+---
+title: Deepak Divan
+date: 2017-10-24 19:02:00 Z
+title and organization: 'Georgia Institute of Technology '
+photo: "/uploads/Divan_Deepak.jpg"
+---
+
+Dr. Deepak Divan is Professor, John E Pippin Chair, GRA Eminent Scholar and Director of the Center for Distributed Energy at the Georgia Institute of Technology in Atlanta, GA. His field of research is in the areas of power electronics, power systems, smart grids and distributed control of power systems. He works closely with utilities, industry and is actively involved in research, teaching, entrepreneurship and starting new ventures. Dr. Divan also serves as Founder and Chief Scientist at Varentec, in Santa Clara, CA, and was President and CTO from 2011-14, leading the company as it developed its suite of innovative distributed real-time grid control technologies. Varentec is funded by leading green-tech Venture Capital firm Khosla Ventures and renowned investor Bill Gates. Dr. Divan is an elected Member of the US National Academy of Engineers, a Fellow of the IEEE, past President of the IEEE Power Electronics Society, and is a recipient of the IEEE William E Newell Field Medal. He has 40 years of academic and industrial experience, 65 issued and pending patents, and over 400 refereed publications. He has founded or seeded several new ventures including Soft Switching Technologies, Innovolt, Varentec and Smart Wires, which together have raised >$150M in venture funding. He received his B. Tech from IIT Kanpur, and his MS and PhD degrees from the University of Calgary, Canada.

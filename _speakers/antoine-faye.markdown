@@ -1,0 +1,8 @@
+---
+title: Antoine Faye
+date: 2017-10-24 19:04:00 Z
+title and organization: 'Chief Resilience Officer, City of Dakar, Senegal '
+photo: "/uploads/Faye_Antoine.jpg"
+---
+
+Since May 1st, 2014, Antoine Faye has been the Chief Resilience Officer (CRO) of the city of Dakar in Senegal, West Africa. The city of Dakar was selected in December 2013 to be a member of the “100 Resilient Cities Network” pioneered by the Rockefeller Foundation. Antoine oversees the elaboration of a Dakar Resilience Strategy. He trusts his compelling personal ability to define the contours of problem solving, make informed choices, order priorities, and plan for the future. Antoine Faye has graduated from the School of International and Public Affairs (SIPA) at Columbia University in the City of New York with a Master in International Affairs (MIA). After that academic journey in the US, he returned home in Senegal in 2011 to occupy the position of the International Affairs/Climate Change Adviser at the then Senegalese Minister of Renewable Energies. Shortly afterward, Antoine served as the Regional Coordinator for both; the Climate Technology Initiative’s Private Financing Advisory Network (CTI PFAN) and the U.S. Agency for International Development (USAID) Nexant, Inc. managed Regional Clean Energy Investment Initiative (RCEII) for West Africa from 2013 to 2015. Since 2014, Antoine is the Chief Resilience Officer (CRO) of the City of Dakar in Senegal in relation with Dakar being a member city of the 100ResilientCities Network pioneered by the Rockefeller Foundation. Antoine’s strength lies upon a trusted personal ability in solving problems and helping organizations to make informed choices that order priorities and plan for the future.

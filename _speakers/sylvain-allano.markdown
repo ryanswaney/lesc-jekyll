@@ -2,7 +2,7 @@
 title: Sylvain Allano
 date: 2017-10-24 18:41:00 Z
 position: 2
-title and organization: 'Chief Scientific Officer, PSA Peugeot Citroën '
+title and organization: Chief Scientific Officer, PSA Peugeot Citroën
 photo: "/uploads/Ken_Alex-441b46.jpg"
 ---
 
