@@ -4,7 +4,7 @@ date: 2017-10-19 19:39:00 Z
 permalink: event/lesc23
 Speakers:
 - Elena Crete
-layout: event
+layout: default
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a pharetra ex, pretium placerat magna. Curabitur in ex a nisi fermentum consectetur in nec odio. Morbi eu pharetra felis. Pellentesque iaculis eget eros quis egestas. Sed ac bibendum dolor, quis auctor enim. Donec porta felis a justo gravida, sed elementum urna faucibus. Nulla nec bibendum velit, et placerat mauris. In hac habitasse platea dictumst. Nulla velit nisl, commodo ac quam id, efficitur molestie leo.

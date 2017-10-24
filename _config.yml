@@ -22,31 +22,31 @@ defaults:
     path: ''
     type: event
   values:
-    layout: event
-    Speakers:
-    schedule text:
+    layout: default
+    Speakers: 
+    schedule text: 
 - scope:
     path: ''
     type: speakers
   values:
     layout: default
-    title and organization:
-    short bio text:
-    photo:
+    title and organization: 
+    short bio text: 
+    photo: 
 - scope:
     path: ''
     type: solutions
   values:
     layout: default
-    title:
-    short text:
-    url:
-    image:
+    title: 
+    short text: 
+    url: 
+    image: 
 twitter_username: Low2No
 facebook_username: Low2No
 permalink: pretty
 email: info@lowemissions.solutions
-description:
+description: 
 baseurl: ''
 url: http://lowemissions.solutions
 markdown: kramdown
