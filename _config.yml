@@ -1,9 +1,6 @@
 ---
 title: Low-Emissions Solutions
 timezone: UTC
-twitter_username: Low2No
-facebook_username: Low2No
-permalink: pretty
 collections:
   event:
     title: Event
@@ -44,6 +41,9 @@ defaults:
     short text:
     url:
     image:
+twitter_username: Low2No
+facebook_username: Low2No
+permalink: pretty
 email: info@lowemissions.solutions
 description:
 baseurl: ''
