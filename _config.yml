@@ -5,15 +5,15 @@ collections:
   event:
     title: Event
     output: true
-  speakers:
-    title: Speakers
-    output: false
-  solutions:
-    title: Solutions
-    output: false
   posts:
     title: Posts
     output: true
+  solutions:
+    title: Solutions
+    output: false
+  speakers:
+    title: Speakers
+    output: false
   uploads:
     title: Uploads
     output: true
@@ -23,29 +23,29 @@ defaults:
     type: event
   values:
     layout: default
-    Speakers:
+    Speakers: 
 - scope:
     path: ''
     type: speakers
   values:
     layout: default
-    title and organization:
-    short bio text:
-    photo:
+    title and organization: 
+    short bio text: 
+    photo: 
 - scope:
     path: ''
     type: solutions
   values:
     layout: default
-    title:
-    short text:
-    url:
-    image:
+    title: 
+    short text: 
+    url: 
+    image: 
 twitter_username: Low2No
 facebook_username: Low2No
 permalink: pretty
 email: info@lowemissions.solutions
-description:
+description: 
 baseurl: ''
 url: http://lowemissions.solutions
 markdown: kramdown
