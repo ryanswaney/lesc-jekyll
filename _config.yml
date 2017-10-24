@@ -10,12 +10,15 @@ collections:
     output: true
   speakers:
     title: Speakers
-    output: true
+    output: false
+  solutions:
+    title: Solutions
+    output: false
   posts:
     title: Posts
     output: true
   uploads:
-    title: uploads
+    title: Uploads
     output: true
 defaults:
 - scope:
@@ -32,6 +35,15 @@ defaults:
     title and organization:
     short bio text:
     photo:
+- scope:
+    path: ''
+    type: solutions
+  values:
+    layout: default
+    title:
+    short text:
+    url:
+    image:
 email: info@lowemissions.solutions
 description:
 baseurl: ''
