@@ -1,0 +1,8 @@
+---
+title: Vijay Modi
+date: 2017-10-24 19:42:00 Z
+title and organization: 'Professor of Mechanical Engineering at Columbia University '
+photo: "/uploads/Modi_Vijay.jpg"
+---
+
+Vijay Modi is a Professor and past-Chair of Mechanical Engineering in the School of Engineering and Applied Science and a faculty member at the Earth Institute, Columbia University. Between October 2011 and 2012, he was a member of the U.N. Secretary General’s high-level task force on “Sustainable Energy for All” and he currently leads the U.N. Sustainable Development Solutions Network working group on Energy Access for All. He received his Ph.D. from Cornell University in 1984 and worked as a post-doc at MIT from 1984 to 1986 before joining the faculty at Columbia University. Prof. Modi’s areas of expertise are energy resources and energy conversion technologies. His laboratory, the Sustainable Engineering Lab (SEL), has been responsible for technologies such as “SharedSolar” and widely used tools such as “Network Planner” and a free open-source app called FormHub, used over a million times. While his early work was on computational fluid dynamics and micro-electro-mechanical systems, his recent work has been on energy infrastructure design & planning; solar energy; energy efficiency in agriculture, and data analytics spanning from urban settings to remote rural settings. He is currently working closely with city and national agencies/utilities to understand how energy services can be more accessible, more efficient and cleaner. His recent project on minigrids is providing a unique understanding of consumer behavior, demand for energy, and business models for deploying energy solutions and energy efficiency.
