@@ -1,7 +1,7 @@
 ---
 title: Terry Boston
 date: 2017-10-24 18:56:00 Z
-title and organization: 'Former President and CEO, PJM Interconnection '
+title and organization: Former President and CEO, PJM Interconnection
 photo: "/uploads/boston_terry.jpg"
 ---
 
