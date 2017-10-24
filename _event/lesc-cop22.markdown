@@ -5,6 +5,12 @@ Speakers:
 - Khalid Al-Falih
 - Ken Alex
 - Sylvain Allano
+schedule text: |-
+  # November 14
+  ## Morning
+
+  ### Welcome and General Introduction
+  9:15 – 10:30am
 ---
 
 event description
