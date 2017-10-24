@@ -1,6 +1,7 @@
 ---
 title: Nour Amrani
 date: 2017-10-24 18:42:00 Z
+position: 1
 title and organization: 'Public Affairs and Public Relations Manager, Novozymes '
 photo: "/uploads/amrani_nour.jpg"
 ---

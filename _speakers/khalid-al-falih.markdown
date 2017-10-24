@@ -1,6 +1,7 @@
 ---
 title: Khalid Al-Falih
 date: 2017-10-24 18:35:00 Z
+position: 0
 title and organization: Minister Energy, Industry and Mineral Resources Saudi Arabia
 photo: "/uploads/Al-Falih_Khalid-bb8c99.jpg"
 ---
