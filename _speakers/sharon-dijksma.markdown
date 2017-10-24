@@ -1,7 +1,7 @@
 ---
 title: Sharon Dijksma
 date: 2017-10-24 19:02:00 Z
-title and organization: 'Minister for the Environment, Netherlands '
+title and organization: Minister for the Environment, Netherlands
 photo: "/uploads/dijksma_sharon.jpg"
 ---
 
