@@ -11,16 +11,17 @@
       {{ content }}
     </main>
 
-    <aside id="speakers">
+    <section id="speakers">
       <ul>
-      {% for speaker in page.Speakers %}
+      {% for item in page.Speakers %}
+        {% assign speaker = site.speakers | where: 'title', item | first %}
         <li>
-          <h2>{{ speaker }}</h2>
-          <h3>{{ speaker['title and organization'] }}</h3>
+          <h1>{{ speaker.title }}</h1>
+          <h2>{{ speaker['title and organization'] }}</h2>
         </li>
       {% endfor %}
       </ul>
-    </aside>
+    </section>
 
     {% include footer.html %}
 
