@@ -1,0 +1,8 @@
+---
+title: Manuela Ojan
+date: 2017-10-24 19:45:00 Z
+title and organization: " Global Environmental Sustainability, HeidelbergCement "
+photo: "/uploads/Ojan_Manuela.jpg"
+---
+
+Manuela Ojan is an engineer with twenty years’ experience in the environmental and energy field. Since mid-2016 she is in charge of Public Affairs in the Global Environmental Sustainability department at HeidelbergCement. Previously she held for ten years the position of Energy and Climate manager within the Sustainable Development department at Italcementi group. She had the responsibility of ensuring compliance with the European emission trading directive as well as any other carbon market mechanism, carbon MRV activities, and the scouting and development of carbon offsetting projects, including in renewable energies. She is in charge of advocacy activities in the climate protection field and sustainable construction. She represents the company externally in various fora, including the WBCSD (World Business Council for Sustainable Development) – Cement Sustainability Initiative, and other relevant business associations and international organisations. In the scope of CSI activities, she is involved in the development and review of Technology Roadmaps and various engagements with World Bank and EBRD. Her experience is grounded in hands-on experience in environmental M&A auditing in many countries as well as consultant and lead auditor in ISO14001 and ISO50001.
