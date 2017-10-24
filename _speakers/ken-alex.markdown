@@ -1,7 +1,7 @@
 ---
 title: Ken Alex
 date: 2017-10-24 18:39:00 Z
-position: 3
+position: 2
 title and organization: 'Director of the Governor’s Office of Planning and Research '
 photo: "/uploads/Ken_Alex.jpg"
 ---
