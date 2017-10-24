@@ -1,7 +1,7 @@
 ---
 title: Peter Bakker
 date: 2017-10-24 18:49:00 Z
-position: 1
+position: 0
 title and organization: 'President and CEO, WBCSD '
 photo: "/uploads/Bakker_Peter.jpg"
 ---
