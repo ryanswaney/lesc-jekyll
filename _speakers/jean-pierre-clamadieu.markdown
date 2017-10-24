@@ -1,7 +1,7 @@
 ---
 title: Jean-Pierre Clamadieu
 date: 2017-10-24 19:00:00 Z
-title and organization: 'CEO, Solvay '
+title and organization: CEO, Solvay
 photo: "/uploads/Clamadieu_jean_pierre.jpg"
 ---
 
