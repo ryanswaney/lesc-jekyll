@@ -21,7 +21,7 @@
 
     <section id="speakers">
       <ul>
-        {% assign cat = page.category %}
+        {% assign cat = page.categories %}
         {% assign event-speakers = site.speakers | where: "categories", cat %}
         {% for speaker in event-speakers %}
           <li>
@@ -29,6 +29,20 @@
             <h2>{{ speaker['title and organization'] }}</h2>
             <img src="{{ speaker.photo }}">
           </li>
+        {% endfor %}
+      </ul>
+    </section>
+
+    <section id="speakers">
+      <ul>
+        {% for speaker in site.speakers %}
+          {% if speaker.categories contains page.categories %}
+          <li>
+            <h1>{{ speaker.title }}</h1>
+            <h2>{{ speaker['title and organization'] }}</h2>
+            <img src="{{ speaker.photo }}">
+          </li>
+          {% endif %}
         {% endfor %}
       </ul>
     </section>

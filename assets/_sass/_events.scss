@@ -1,0 +1,21 @@
+.speakers-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;
+  gap: 10px;
+
+  list-style: none;
+}
+.speaker {
+
+}
+.speaker-name {
+  font-size: $base-heading;
+  margin-bottom: 0;
+}
+.speaker-title {
+  font-size: $small-heading;
+}
+.speaker-photo {
+  max-width: 100%;
+}
