@@ -9,23 +9,27 @@
 
     <main role="main" class="content">
       <section id="event-description">
+        <header>
+          <h1>{{ page.title }}</h1>
+        </header>
         {{ content }}
       </section>
       <section id="event-schedule">
-        {{ page.['schedule text'] | markdownify }}
+        {{ page['schedule text'] | markdownify }}
       </section>
     </main>
 
     <section id="speakers">
       <ul>
-      {% for item in page.Speakers %}
-        {% assign speaker = site.speakers | where: 'title', item | first %}
-        <li>
-          <h1>{{ speaker.title }}</h1>
-          <h2>{{ speaker['title and organization'] }}</h2>
-          <img src="{{ speaker.photo }}">
-        </li>
-      {% endfor %}
+        {% assign cat = page.category %}
+        {% assign event-speakers = site.speakers | where: "categories", cat %}
+        {% for speaker in event-speakers %}
+          <li>
+            <h1>{{ speaker.title }}</h1>
+            <h2>{{ speaker['title and organization'] }}</h2>
+            <img src="{{ speaker.photo }}">
+          </li>
+        {% endfor %}
       </ul>
     </section>
 

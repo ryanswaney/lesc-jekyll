@@ -1,8 +1,7 @@
 ---
 title: Stuart Hocking
 date: 2017-10-24 19:20:00 Z
-title and organization: Deputy Chief Executive, Department of Treasury and Finance,
-  South Australia
+title and organization: Deputy Chief Executive, Department of Treasury and Finance, South Australia
 photo: "/uploads/Hocking_Stuart.jpg"
 ---
 

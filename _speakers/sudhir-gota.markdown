@@ -1,8 +1,7 @@
 ---
 title: Sudhir Gota
 date: 2017-10-24 19:16:00 Z
-title and organization: 'Transport Specialist in Clean Air Initiative for Asian cities
-  (CAI-Asia) '
+title and organization: 'Transport Specialist in Clean Air Initiative for Asian cities (CAI-Asia)'
 photo: "/uploads/Gota_Sudhir.jpg"
 ---
 

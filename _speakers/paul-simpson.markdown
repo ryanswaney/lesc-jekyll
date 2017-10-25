@@ -1,7 +1,7 @@
 ---
 title: Paul Simpson
 date: 2017-10-24 19:56:00 Z
-title and organization: " CEO, Carbon Disclosure Project "
+title and organization: "CEO, Carbon Disclosure Project"
 photo: "/uploads/Simpson_Paul.jpg"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Paul Simons
 date: 2017-10-24 19:56:00 Z
-title and organization: " Deputy Executive Director, International Energy Agency (IEA) "
+title and organization: "Deputy Executive Director, International Energy Agency (IEA)"
 photo: "/uploads/Simons_Paul.jpg"
 ---
 

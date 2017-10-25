@@ -1,8 +1,7 @@
 ---
 title: Neil Gerber
 date: 2017-10-24 19:11:00 Z
-title and organization: " Director of Strategy, Energy & Environment, Energy & Utilities
-  Industry, IBM"
+title and organization: "Director of Strategy, Energy & Environment, Energy & Utilities Industry, IBM"
 photo: "/uploads/Gerber_Neil.jpg"
 ---
 

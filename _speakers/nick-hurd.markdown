@@ -1,8 +1,7 @@
 ---
 title: Nick Hurd
 date: 2017-10-24 19:22:00 Z
-title and organization: 'Minister of State for Climate Change and Industry, Department
-  of Business, Energy and Industrial Strategy, United Kingdom '
+title and organization: 'Minister of State for Climate Change and Industry, Department of Business, Energy and Industrial Strategy, United Kingdom'
 photo: "/uploads/hurd_nick.jpg"
 ---
 

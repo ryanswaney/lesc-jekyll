@@ -1,8 +1,7 @@
 ---
 title: Teng Fei
 date: 2017-10-24 19:06:00 Z
-title and organization: Professor at the Institute of Energy, Environment, and Economy,
-  Tsinghua University
+title and organization: Professor at the Institute of Energy, Environment, and Economy, Tsinghua University
 photo: "/uploads/Fei_Teng.jpg"
 ---
 

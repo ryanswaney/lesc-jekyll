@@ -1,7 +1,7 @@
 ---
 title: Ségolène Royal
 date: 2017-10-24 19:53:00 Z
-title and organization: " Minister of Environment, Energy and Marine Affairs, France "
+title and organization: "Minister of Environment, Energy and Marine Affairs, France"
 photo: "/uploads/Royal_Segolene.jpg"
 ---
 

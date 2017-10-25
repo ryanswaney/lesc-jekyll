@@ -1,8 +1,7 @@
 ---
 title: Rachel Kyte
 date: 2017-10-24 19:31:00 Z
-title and organization: 'Chief Executive Officer of Sustainable Energy for All and
-  Special Representative of the UN Secretary-General for Sustainable Energy for All '
+title and organization: 'Chief Executive Officer of Sustainable Energy for All and Special Representative of the UN Secretary-General for Sustainable Energy for All'
 photo: "/uploads/Kyte_Rachel.jpg"
 ---
 

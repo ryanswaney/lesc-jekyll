@@ -1,8 +1,7 @@
 ---
 title: Paul Polman
 date: 2017-10-24 19:49:00 Z
-title and organization: 'CEO of Unilever & Chairman of World Business Council for
-  Sustainable Development (WBCSD) '
+title and organization: 'CEO of Unilever & Chairman of World Business Council for Sustainable Development (WBCSD)'
 photo: "/uploads/Polman_Paul.jpg"
 ---
 

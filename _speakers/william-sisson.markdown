@@ -1,8 +1,7 @@
 ---
 title: William Sisson
 date: 2017-10-24 19:58:00 Z
-title and organization: " Director of United Technologies Corporation’s (UTC) strategic
-  efforts and advocacy for sustainable development "
+title and organization: " Director of United Technologies Corporation’s (UTC) strategic efforts and advocacy for sustainable development "
 photo: "/uploads/Sisson_William.jpg"
 ---
 

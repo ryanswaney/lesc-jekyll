@@ -1,8 +1,7 @@
 ---
 title: Roman Mendle
 date: 2017-10-24 19:41:00 Z
-title and organization: 'Smart Cities Program Manager, ICLEI, Local Governments for
-  Sustainability '
+title and organization: 'Smart Cities Program Manager, ICLEI, Local Governments for Sustainability'
 photo: "/uploads/Mendle_Roman.jpg"
 ---
 

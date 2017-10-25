@@ -1,8 +1,7 @@
 ---
 title: Patrick Oliva
 date: 2017-10-24 19:45:00 Z
-title and organization: 'Senior Vice President of Sustainable Mobility and Energy
-  Transition, Michelin Group '
+title and organization: 'Senior Vice President of Sustainable Mobility and Energy Transition, Michelin Group'
 photo: "/uploads/Oliva_Patrick.jpg"
 ---
 

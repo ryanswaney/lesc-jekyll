@@ -1,7 +1,7 @@
 ---
 title: Sean Simpson
 date: 2017-10-24 19:58:00 Z
-title and organization: " Chief Scientific Officer & Co-Founder, LanzaTech "
+title and organization: "Chief Scientific Officer & Co-Founder, LanzaTech"
 photo: "/uploads/Simpson_Sean-1.jpg"
 ---
 

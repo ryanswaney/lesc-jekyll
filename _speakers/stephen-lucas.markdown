@@ -1,8 +1,7 @@
 ---
 title: Stephen Lucas
 date: 2017-10-24 19:38:00 Z
-title and organization: Senior Associate Deputy Minister at Environment and Climate
-  Change Canada
+title and organization: Senior Associate Deputy Minister at Environment and Climate Change Canada
 photo: "/uploads/Lucas_Stephen.jpg"
 ---
 

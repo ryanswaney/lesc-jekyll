@@ -1,7 +1,7 @@
 ---
 title: Vijay Modi
 date: 2017-10-24 19:42:00 Z
-title and organization: 'Professor of Mechanical Engineering at Columbia University '
+title and organization: 'Professor of Mechanical Engineering at Columbia University'
 photo: "/uploads/Modi_Vijay.jpg"
 ---
 

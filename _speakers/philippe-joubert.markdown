@@ -1,8 +1,7 @@
 ---
 title: Philippe Joubert
 date: 2017-10-24 19:25:00 Z
-title and organization: 'Executive Chairman Global Electricity Initiative, World Energy
-  Council '
+title and organization: 'Executive Chairman Global Electricity Initiative, World Energy Council'
 photo: "/uploads/Joubert_Philippe.jpg"
 ---
 

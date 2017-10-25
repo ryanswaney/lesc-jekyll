@@ -1,7 +1,7 @@
 ---
 title: Nev Hyman
 date: 2017-10-24 19:24:00 Z
-title and organization: 'Founder, Nev House '
+title and organization: 'Founder, Nev House'
 photo: "/uploads/Hyman_Nev.jpg"
 ---
 

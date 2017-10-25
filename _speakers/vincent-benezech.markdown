@@ -1,8 +1,7 @@
 ---
 title: Vincent Benezech
 date: 2017-10-24 18:54:00 Z
-title and organization: 'Transport Analyst, Organisation for Economic Co-operation
-  and Development (OECD) International Transport Forum '
+title and organization: 'Transport Analyst, Organisation for Economic Co-operation and Development (OECD) International Transport Forum '
 photo: "/uploads/Benezech_Vincent.jpg"
 ---
 
