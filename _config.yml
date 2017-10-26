@@ -23,7 +23,10 @@ defaults:
     type: event
   values:
     layout: event
-    schedule text:
+    hashtag:
+    logo-file:
+    logo-vector-file:
+    schedule-text:
     Speakers:
 - scope:
     path: ''
@@ -43,6 +46,7 @@ defaults:
     url:
     image:
 twitter_username: Low2No
+twitter_hashtag: LESC
 facebook_username: Low2No
 permalink: pretty
 email: info@lowemissions.solutions

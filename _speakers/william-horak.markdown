@@ -1,0 +1,7 @@
+---
+title: William Horak
+date: 2017-10-24 19:42:00 Z
+title and organization: 'Chair of the Department of Nuclear Science and Technology, Brookhaven National Laboratory'
+photo: "/uploads/William_Horak.jpg"
+---
+The Nuclear Science and Technology Department conducts research and development related to nuclear technologies (reactors and accelerator-driven systems), reliability and risk assessment, and advanced modeling techniques for reactor simulation and energy systems. Horak has a B.S. in aeronautical and astronautical engineering and an M.S. and a Ph.D. in nuclear engineering from the University of Illinois. He is an internationally recognized expert on energy issues and has served on numerous boards, committees, and panels, both in the U.S. and for international organizations, such as the European Bank for Reconstruction and Development. Since coming to Brookhaven in 1979 as an assistant nuclear engineer, Horak has served as group leader for the International Projects Division for the then-Department of Nuclear Energy and head of the Energy and Nuclear Technology Division of the Department of Advanced Technology. He had a lead role in the Department of Energy's activities in response to the Chernobyl accident, including evaluations of Soviet-designed facilities. He has implemented and managed numerous programs in nuclear safety, international safeguards, and energy-system development. In his current position, Horak initiated new research programs on materials for extreme environments, hydrogen storage, and advanced battery design.

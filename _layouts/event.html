@@ -1,54 +1,40 @@
-<!DOCTYPE html>
-<html>
+---
+layout: default
+---
+<section id="event-description">
+  <header>
+    <h1>{{ page.title }}</h1>
+  </header>
+  {{ content }}
+</section>
+<section id="event-schedule">
+  {{ page['schedule text'] | markdownify }}
+</section>
 
-  {% include head.html %}
+<section id="speakers">
+  <ul>
+    {% assign cat = page.categories %}
+    {% assign event-speakers = site.speakers | where: "categories", cat %}
+    {% for speaker in event-speakers %}
+      <li>
+        <h1>{{ speaker.title }}</h1>
+        <h2>{{ speaker['title and organization'] }}</h2>
+        <img src="{{ speaker.photo }}">
+      </li>
+    {% endfor %}
+  </ul>
+</section>
 
-  <body class="{{ page.collection }} {{ page.slug }}">
-
-    {% include header.html %}
-
-    <main role="main" class="content">
-      <section id="event-description">
-        <header>
-          <h1>{{ page.title }}</h1>
-        </header>
-        {{ content }}
-      </section>
-      <section id="event-schedule">
-        {{ page['schedule text'] | markdownify }}
-      </section>
-    </main>
-
-    <section id="speakers">
-      <ul>
-        {% assign cat = page.categories %}
-        {% assign event-speakers = site.speakers | where: "categories", cat %}
-        {% for speaker in event-speakers %}
-          <li>
-            <h1>{{ speaker.title }}</h1>
-            <h2>{{ speaker['title and organization'] }}</h2>
-            <img src="{{ speaker.photo }}">
-          </li>
-        {% endfor %}
-      </ul>
-    </section>
-
-    <section id="speakers">
-      <ul>
-        {% for speaker in site.speakers %}
-          {% if speaker.categories contains page.categories %}
-          <li>
-            <h1>{{ speaker.title }}</h1>
-            <h2>{{ speaker['title and organization'] }}</h2>
-            <img src="{{ speaker.photo }}">
-          </li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-    </section>
-
-    {% include footer.html %}
-
-  </body>
-
-</html>
+<section id="speakers">
+  <ul>
+    {% for speaker in site.speakers %}
+      {% if speaker.categories contains page.categories %}
+      <li>
+        <h1>{{ speaker.title }}</h1>
+        <h2>{{ speaker['title and organization'] }}</h2>
+        <img src="{{ speaker.photo }}">
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</section>
