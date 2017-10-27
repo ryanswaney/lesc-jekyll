@@ -18,7 +18,7 @@ layout: default
     {% for speaker in event-speakers %}
       <li>
         <h1>{{ speaker.title }}</h1>
-        <h2>{{ speaker['title and organization'] }}</h2>
+        <h2>{{ speaker.title-and-organization }}</h2>
         <img src="{{ speaker.photo }}">
       </li>
     {% endfor %}
@@ -31,7 +31,7 @@ layout: default
       {% if speaker.categories contains page.categories %}
       <li>
         <h1>{{ speaker.title }}</h1>
-        <h2>{{ speaker['title and organization'] }}</h2>
+        <h2>{{ speaker.title-and-organization }}</h2>
         <img src="{{ speaker.photo }}">
       </li>
       {% endif %}

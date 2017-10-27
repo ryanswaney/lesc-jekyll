@@ -22,27 +22,26 @@ defaults:
     path: ''
     type: event
   values:
-    layout: event
+    layout: singles/event
+    permalink: /:collection/:name
     hashtag:
     logo-file:
     logo-vector-file:
     schedule-text:
-    Speakers:
+    location-text:
 - scope:
     path: ''
     type: speakers
   values:
     layout: default
-    title and organization:
-    short bio text:
+    title-and-organization:
     photo:
 - scope:
     path: ''
     type: solutions
   values:
     layout: default
-    title:
-    short text:
+    short-text:
     url:
     image:
 twitter_username: Low2No
