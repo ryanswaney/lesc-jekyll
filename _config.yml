@@ -23,12 +23,12 @@ defaults:
     type: event
   values:
     layout: singles/event
-    permalink: /:collection/:name
     hashtag:
     logo-file:
     logo-vector-file:
     schedule-text:
     location-text:
+    permalink: "/:collection/:name"
 - scope:
     path: ''
     type: speakers
