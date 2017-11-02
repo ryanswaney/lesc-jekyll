@@ -1,5 +1,5 @@
 ---
 title: Events
 permalink: "/events"
-layout: pages/event-archive
+layout: event-archive
 ---

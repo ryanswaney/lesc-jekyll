@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en" dir="ltr">
 
   {% include head.html %}
 
-  <body class="{{ page.collection }} {{ page.slug }}">
+  <body class="{{ page.layout | default: layout.layout }}">
 
     {% include header.html %}
 

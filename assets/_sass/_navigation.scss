@@ -1,0 +1,65 @@
+/* == Navigation Styles ==
+      1. Primary Nav
+      2. Social Nav
+      3. Footer Nav
+======================== */
+
+/* == 1. Primary Nav == */
+.site-nav {
+  background: $gray-lightest;
+  padding: $spacing-unit;
+}
+
+.site-menu {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: $spacing-unit;
+  gap: $spacing-unit;
+  list-style: none;
+  margin: 0;
+  align-items: center;
+  text-align: center;
+
+  @include media-query($on-laptop) {
+    grid-template-columns: repeat(6, 1fr);
+  }
+}
+
+.menu-item {}
+
+.menu-link {
+  border: none;
+  text-decoration: none;
+
+  &:hover {
+    border: none;
+  }
+}
+
+/* == 2. Social Nav == */
+.social-nav {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.social-menu-item {
+  display: inline-block;
+  margin-right: $spacing-unit / 2;
+}
+
+.social-menu-link {
+  border: 0;
+  &:hover {
+    border: 0;
+  }
+}
+
+.social-menu-link svg {
+  fill: $secondary;
+  width: $spacing-unit * 1.2;
+
+  &:hover {
+    fill: $primary;
+  }
+}

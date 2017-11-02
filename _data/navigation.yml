@@ -1,0 +1,18 @@
+# Site Navigation
+site-nav:
+  - title: "Register"
+    url: https://fs8.formsite.com/iclei12/form164/index.html
+  - title: "Events"
+    url: /events/
+  - title: "About"
+    url: /about/
+  - title: "News"
+    url: /news/
+
+social-nav:
+  - title: Facebook
+    url: https://www.facebook.com/Low2No/
+    icon: icons/facebook.svg
+  - title: Twitter
+    url: https://twitter.com/Low2No
+    icon: icons/twitter.svg

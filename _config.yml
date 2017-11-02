@@ -5,9 +5,6 @@ collections:
   event:
     title: Event
     output: true
-  posts:
-    title: Posts
-    output: true
   solutions:
     title: Solutions
     output: false
@@ -19,10 +16,21 @@ collections:
     output: true
 defaults:
 - scope:
+      path: ""
+      type: "pages"
+  values:
+      layout: page
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: default
+- scope:
     path: ''
     type: event
   values:
-    layout: singles/event
+    layout: event
+    theme:
     hashtag:
     logo-file:
     logo-vector-file:
