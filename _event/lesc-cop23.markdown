@@ -8,8 +8,8 @@ logo-vector-file: "/uploads/LESC_COP23_FFF.svg"
 theme: Implementation at Scale
 permalink: /event/lesc-at-cop23
 location-text: |-
-  GOP Theatre,
-  Karl-Carstens-Straße 1, 53113 Bonn, Germany
+  GOP Theatre, Karl-Carstens-Straße 1, 53113 Bonn, Germany
+event-date: 2017-11-16 14:09:00 -0700
 ---
 # Introduction and Background
 

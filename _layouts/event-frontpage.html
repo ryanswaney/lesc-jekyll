@@ -14,7 +14,12 @@ layout: default
     <h1>{{ event.title }}</h1>
     {% endif %}
 
-    <div></div>
+    <div class="event-meta">
+      <date class="event-date">{{ event.event-date | date: '%B %d, %Y' }}</date>
+      <div class="event-location">
+        {{ event.location-text }}
+      </div>
+    </div>
 
   </header>
 </section>

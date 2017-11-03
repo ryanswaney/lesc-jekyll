@@ -37,6 +37,7 @@ defaults:
     logo-vector-file:
     schedule-text:
     location-text:
+    event-date:
     permalink: "/:collection/:name"
 - scope:
     path: ''
