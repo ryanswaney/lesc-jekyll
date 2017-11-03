@@ -1,5 +1,5 @@
 ---
 title: Index
 permalink: "/"
-layout: default
+layout: event-frontpage
 ---

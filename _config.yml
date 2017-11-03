@@ -32,6 +32,7 @@ defaults:
     layout: event
     theme:
     hashtag:
+    is-featured:
     logo-file:
     logo-vector-file:
     schedule-text:
@@ -58,7 +59,7 @@ facebook_username: Low2No
 permalink: pretty
 email: info@lowemissions.solutions
 description:
-baseurl: ''
+baseurl: '/'
 url: http://lowemissions.solutions
 markdown: kramdown
 sass:

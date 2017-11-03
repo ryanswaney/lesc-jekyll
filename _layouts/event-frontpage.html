@@ -1,0 +1,22 @@
+---
+layout: default
+---
+{% for event in site.event %}
+  {% if event.is-featured == true %}
+<section class="event-feature">
+  <header class="event-feature-header">
+
+    {% if event.logo-vector-file %}
+    <img src="{{ event.logo-vector-file }}" class="event-logo">
+    {% elsif event.logo-file %}
+    <img src="{{ event.logo-file }}" class="event-logo">
+    {% else %}
+    <h1>{{ event.title }}</h1>
+    {% endif %}
+
+    <div></div>
+
+  </header>
+</section>
+  {% endif %}
+{% endfor %}
