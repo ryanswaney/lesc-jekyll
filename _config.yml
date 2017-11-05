@@ -35,9 +35,9 @@ defaults:
     is-featured:
     logo-file:
     logo-vector-file:
-    schedule-text:
     location-text:
-    event-date:
+    event-date-text:
+    schedule-text:
     permalink: "/:collection/:name"
 - scope:
     path: ''

@@ -19,10 +19,13 @@ $large-heading: $base-font-size * 1.5;
 $base-heading: $base-font-size;
 $small-heading: $base-font-size * 0.667;
 $xsmall-heading: $base-font-size * 0.444;
-
 $small-font-size:  $base-font-size * 0.875;
 
+// Spacing
 $spacing-unit: 1.3rem;
+
+// Borders
+$base-border-size: 18px;
 
 // Primary Colors
 $primary: #00b1ee;

@@ -7,15 +7,17 @@ layout: default
   <header class="event-feature-header">
 
     {% if event.logo-vector-file %}
-    <img src="{{ event.logo-vector-file }}" class="event-logo">
+    <a href="{{ event.permalink }}">
+      <img src="{{ event.logo-vector-file }}" class="event-logo" alt="{{ event.title }}">
+    </a>
     {% elsif event.logo-file %}
-    <img src="{{ event.logo-file }}" class="event-logo">
+    <img src="{{ event.logo-file }}" class="event-logo" alt="{{ event.title }}">
     {% else %}
     <h1>{{ event.title }}</h1>
     {% endif %}
 
     <div class="event-meta">
-      <date class="event-date">{{ event.event-date | date: '%B %d, %Y' }}</date>
+      <date class="event-date">{{ event.event-date-text }}</date>
       <div class="event-location">
         {{ event.location-text }}
       </div>

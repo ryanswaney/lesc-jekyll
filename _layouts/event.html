@@ -1,20 +1,44 @@
 ---
 layout: default
 ---
-<section id="">
-  <header>
-    <h1>{{ page.title }}</h1>
+<section class="event-feature">
+  <header class="event-feature-header">
+
+    {% if page.logo-vector-file %}
+    <img src="{{ page.logo-vector-file }}" class="event-logo" alt="{{ page.title }}">
+    {% elsif page.logo-file %}
+    <img src="{{ page.logo-file }}" class="event-logo" alt="{{ page.title }}">
+    {% else %}
+    <h1 class="event-title">{{ page.title }}</h1>
+    {% endif %}
+    {% if page.theme %}
+    <h2 class="event-theme">{{ page.theme }}</h2>
+    {% endif %}
+
+    {% if page.event-date-text || page.location-text %}
+    <div class="event-meta">
+      <date class="event-date">{{ page.event-date-text }}</date>
+      <div class="event-location">
+        {{ page.location-text }}
+      </div>
+    </div>
+    {% endif %}
+
   </header>
 </section>
 
-<section id="event-description">
-  {{ content }}
-</section>
+<section id="event-content">
 
-{% if page.schedule %}
-<section id="event-schedule">
-  {{ page.schedule-text | markdownify }}
+  <section id="event-description">
+    {{ content }}
+  </section>
+
+  {% if page.schedule-text %}
+  <section id="event-schedule">
+    {{ page.schedule-text | markdownify }}
+  </section>
+  {% endif %}
+
 </section>
-{% endif %}
 
 <section id="speakers"></section>

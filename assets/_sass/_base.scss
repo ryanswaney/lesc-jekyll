@@ -109,7 +109,7 @@ h3 + h4 {
  */
 a {
     color: $primary;
-    border-bottom: 2px solid $primary;
+    //border-bottom: 2px solid $primary;
     text-decoration: none;
 
     &:visited {
@@ -119,7 +119,7 @@ a {
     &:focus,
     &:hover {
         color: $secondary;
-        border-bottom: 1.776px solid $secondary;
+        //border-bottom: 1.776px solid $secondary;
     }
 }
 

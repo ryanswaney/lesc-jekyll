@@ -3,13 +3,13 @@ title: LESC at COP23
 date: 2017-10-19 19:39:00 Z
 hashtag: lesc23
 is-featured: true
-logo-file: "/uploads/LESC_COP23_FFF.png"
-logo-vector-file: "/uploads/LESC_COP23_FFF.svg"
+logo-file: "/uploads/LESC_COP23_logo.png"
+logo-vector-file: "/uploads/LESC_COP23_logo.svg"
 theme: Implementation at Scale
 permalink: /event/lesc-at-cop23
 location-text: |-
   GOP Theatre, Karl-Carstens-Straße 1, 53113 Bonn, Germany
-event-date: 2017-11-16 14:09:00 -0700
+event-date-text: November 16, 2017
 ---
 # Introduction and Background
 
