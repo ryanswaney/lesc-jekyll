@@ -1,0 +1,9 @@
+#page-content {
+  margin: $spacing-unit auto;
+  padding: $spacing-unit;
+  width: 95%;
+
+  @include media-query($on-laptop) {
+    width: 75%;
+  }
+}

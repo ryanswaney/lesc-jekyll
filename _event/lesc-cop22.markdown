@@ -5,6 +5,7 @@ hashtag: lesc22
 theme: Global brainstorming on pathways to low emissions at COP22.
 permalink: /event/lesc-at-cop22
 event-date-text: November 14-16, 2016
+location-text: Atlantic Room, Blue Zone, Marrakech, Morocco, COP22
 schedule-text: |-
   # Schedule
 
