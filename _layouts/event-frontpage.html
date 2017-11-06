@@ -23,6 +23,17 @@ layout: default
       </div>
     </div>
 
+    <div class="event-cta">
+      {% if event.registration-url %}
+      <a href="{{ event.registration-url }}" class="cta-register">
+        Register
+      </a>
+      {% endif %}
+      <a href="{{ event.url }}" class="cta-default">
+        Learn More
+      </a>
+    </div>
+
   </header>
 </section>
   {% endif %}

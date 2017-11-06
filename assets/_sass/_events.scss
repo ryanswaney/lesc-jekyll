@@ -77,6 +77,23 @@
   color: $white;
   font-size: $display-heading;
 }
+.event-cta {
+  margin-top: $spacing-unit;
+}
+.cta-default,
+.cta-register {
+  background: $primary;
+  color: $white;
+  display: inline-block;
+  padding: $spacing-unit / 2;
+
+  &:hover, &:visited {
+    color: $white;
+  }
+  &:focus, &:hover {
+    background: $primary-darker;
+  }
+}
 
 /* == Event Speakers == */
 .speakers-grid {

@@ -2,7 +2,7 @@
 title: Outcomes from the 2017 NYC Low-Emission Solutions Conference
 date: 2017-10-19
 ---
-# Bringing Emissions Solutions to Scale for a Sustainable Future
+## Bringing Emissions Solutions to Scale for a Sustainable Future
 
 The second Low-Emissions Solutions Conference (LESC) took place during Climate Week NYC 2017 at Columbia University in New York. LESC is focused on technological developments that can support the implementation of the Paris Agreement. It aims to promote problem-solving, brainstorming and global co-creation of multi-sector solutions to address climate change. The solutions are within reach and yet, our targets fall short and our timelines do not align. Most alarmingly, global climate change is still rapidly approaching dangerous tipping points due to the slow pace of implementation.
 
@@ -12,7 +12,7 @@ Climate champion Ms. Laurence Tubiana opened LESC NYC 2017 with a vision of the 
 
 SDSN Director Professor Jeffrey Sachs, renowned economist and sustainable development champion, spoke on the important role of technology and the need to connect the decision makers with low-emissions innovators to accelerate progress on climate change. Following the opening remarks, there were five substantive panel sessions on issues of “scale” including the quantitative scale of the emissions problem; the geographical scale of policy action; and the physical, financial and time scales of technical solutions. Throughout these sessions, a variety of scalable solutions and initiatives were presented that will help realize a low-emissions world. The following is a summary of those solutions.
 
-## A. Deep Decarbonization Pathways: Where Do They Lead?
+### A. Deep Decarbonization Pathways: Where Do They Lead?
 
 Transformative decarbonization demands long-term, spatially explicit, multi-sector and technically detailed pathways analysis of the infrastructure and fleet transformation required in each country, region, state and city. Professor Jim Williams of the University of San Francisco explained the origins of the Deep Decarbonization Pathways Projects (DDPP), through which technological scenarios were mapped for 16 of the world’s highest greenhouse gas (GHG) emitting countries, accounting for more than 70% of global emissions. Aligning these strategies with long-term low-emission development strategies led by government, as called for in Paris Agreement Article 4.19, is a necessary step to increase traction of NDCs and support domestic policy development and implementation. Professor Williams concluded that analysis that is both transparent and rigorous provides a foundation for sectoral planning, coordination among jurisdictions and the design of policy packages. While scientists and policy makers are designing curated solutions to address these needs, political forces often render complex, multisectoral approaches less ambitious and specific. Weakened action can result in emission lockin, as the infrastructure we build today commits us to emissions output decades into the future, increases the costs of low-emissions solutions and decreases the likelihood of their success. Pathways analysis and subsequent advocacy conducted by outside parties – sub-nationals, academia, nongovernmental organizations (NGOs), businesses and neighboring jurisdictions – is needed to inform, challenge and increase the ambition and effectiveness of governmental strategies.
 
@@ -24,7 +24,7 @@ Dr. Daniel Buira discussed the status of the Mexico Miles project, an attempt to
 
 Ms. Grace Wu, a PhD candidate at U.C. Berkeley and researcher at the Lawrence Berkeley National Lab, turned the conversation to the next phases of research in this realm, detailing her work alongside Dr. Margaret Torn on land use and the impacts of various activities on the global carbon budget. Ms. Wu expressed the need for land use pathways that can simultaneously meet multiple competing needs, including carbon storage, food and fiber production, ecosystem services and siting of renewable energy facilities. The Food, Agriculture, Biodiversity, Land use and Energy (FABLE) project is a promising new research project that considers the impact of land use decisions and mirrors the successful DDPP – long-term energy pathways – method.
 
-## B. Demand Side Solutions to Renewable Integration: Do They Scale?
+### B. Demand Side Solutions to Renewable Integration: Do They Scale?
 
 Demand side solutions cover an array of applications, from consumer-managed demand and decentralized storage options to new digital load management techniques. Space heating, the dominant source of GHG emissions in many areas, typically relies on burning on-site fossil fuels. There is wide agreement that this issue will be addressed by the electrification of heating via heat pumps (HP), but that solution will in turn affect the demand curve. Therefore, we need to consider efficiency measures, digitization and automation alongside fuel switching and water heater phase-out. Other solutions include real-time pricing, power electronics, wider geographic areas of integration, scheduling loads, improved forecasting, differentiated reliability, pumped hydro and microgrids that can be used as dispatchable storage. One project trying an array of these solutions is the BQDM Program in New York.
 
@@ -36,7 +36,7 @@ Another issue discussed in this panel included the need for digitization and dat
 
 The panel concluded that the grid will be the enabler for demand side solutions. As transport and heating systems switch to electrical systems, the grid will need to evolve to support these new demands. Storage is probably the most commonly known and discussed demand side solution. The lesser-known side of this sector is electro-fuels and chemicals, which are the frontier for distributed energy solutions. According to Professor Modi, these may just be the key to the needed transition.
 
-## C. Renewable Electricity Systems: How High Can You Go?
+### C. Renewable Electricity Systems: How High Can You Go?
 
 In the not-too-distant past, a 100% renewable energy (RE) grid seemed implausible. Today, communities as diverse as Aspen, Colorado and Georgetown, Texas supply residents with electric power sourced entirely by renewables. They are joined by hundreds of local governments worldwide who have announced their commitments to 100% renewable energy.
 
@@ -67,7 +67,7 @@ An electric utility company that is rethinking how renewables are incorporated i
 
 The final panelist, Mr. Jean-Pierre Maugendre, sustainable development deputy manager with Suez Environnement, discussed the 2020 roadmap Zero Energy, Zero Waste of EMASAGRA (a public-private partnership between Suez Environnement and the city of Granada, Spain), in which waste-to-energy technologies will be used in reaching towards a complete reduction of fossil fuels. Suez Environnement is not only a provider of these fossil-fuel reducing technologies but also leads by example, setting corporate commitments to renewables and high expectations for government and research partners.
 
-## D. Autonomous and Electric Vehicles: On the Road to Deep Decarbonization
+### D. Autonomous and Electric Vehicles: On the Road to Deep Decarbonization
 
 Electric vehicles are starting to replace combustion engines. Some regions (such as Norway and Silicon Valley) are as high as 10%, while most other parts of the developed world still only 7 have 1-2% market penetration. This panel explored what is in store for electric vehicles and how the market will be impacted by the evolving technology of autonomous vehicles.
 
@@ -79,7 +79,7 @@ Lyft is looking to invest in electric vehicles and is “going all in” on auto
 
 The panel concluded that the individual transport solution will always be context-specific. Developing and developed countries and cities will have different needs and capacity to implement these technologies. However, all of the major players in the auto industry are looking 8 ahead and see the potential for growth in electric and autonomous vehicles through economic, public safety and technological factors.
 
-## E. Alternative Energy, Nuclear and CCS: What are the Prospects?
+### E. Alternative Energy, Nuclear and CCS: What are the Prospects?
 
 While the expansion of energy decarbonization, renewable energy and demand side solutions encourage optimism in the future prospects of reducing emissions within our economies, some argue that the prospects of staying within the Paris Agreement’s 2°C temperature increase limit are quickly fading, if not already far out of reach. This session focused on three alternative low-emission technologies that may be crucial in balancing our carbon budget and achieving that goal: nuclear fission, nuclear fusion and carbon capture and sequestration (CCS). Dr. William Horak, chair of the Department of Nuclear Science and Technology at Brookhaven National Laboratory, detailed these technologies, which are often referred to as key building blocks in our transition to a decarbonized future. But what do scientists, engineers, business leaders and economists say about their potential?
 

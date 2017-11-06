@@ -8,10 +8,12 @@ $on-laptop: 800px;
 $on-large: 1200px;
 
 // Typography
-$base-font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+$base-font-family: "KlintStd-Regular",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 $base-font-size:   18px;
 $base-font-weight: 400;
 $base-line-height: 1.5;
+
+$heading-font-family: "KlintStd-Bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 
 $display-heading: $base-font-size * 3.375;
 $xlarge-heading: $base-font-size * 2.25;
@@ -29,13 +31,15 @@ $base-border-size: 18px;
 
 // Primary Colors
 $primary: #00b1ee;
-$primary-darker: #1ea6df;
+$primary-darker: #0c26f7;
 $primary-darkest: #114e66;
 $primary-alt: #5764ae;
 $primary-alt-dark: #3c4ca0;
 $primary-alt-darkest: #2a3f99;
 $primary-alt-light: #6b70a6;
 $primary-alt-lightest: #787a9e;
+
+
 
 // Secondary Color
 $secondary: #6fe224;

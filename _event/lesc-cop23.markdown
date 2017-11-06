@@ -11,7 +11,7 @@ location-text: GOP Theatre, Karl-Carstens-Straße 1, 53113 Bonn, Germany
 event-date-text: November 16, 2017
 registration-url: https://fs8.formsite.com/iclei12/form164/index.html
 ---
-# Introduction and Background
+**Introduction and Background**
 
 Under the Paris Agreement, every country is responsible for developing both a near-term nationally determined contribution (NDC) and a long-term Low-Emission Development Strategy (LEDS) with the engagement of governments at all levels and among all relevant actors. To support the preparation of NDCs and LEDS that embody state-of-the-art technical understanding, the Low-Emissions Solutions Conference (LESC) was launched successfully at COP22 in Marrakech in 2016.  In September 2017, the LESC held a sister event during Climate Week in New York focused on deep decarbonization pathways. During the event, practitioners and world-renowned experts presented the latest developments in national strategic planning, demand-side solutions and battery storage, renewable energy penetration, and the status of new alternative energy options that may be the key to transitioning to a low-emission future. While this event had a distinct academic flavor, it remained true to the original concept in bringing cities, academia, business and policy-makers together for an in-depth discussion on technical solutions and their applications.
 

@@ -8,8 +8,6 @@ permalink: /event/lesc-at-cop22
 event-date-text: November 14-16, 2016
 location-text: Atlantic Room, Blue Zone, Marrakech, Morocco, COP22
 schedule-text: |-
-  # Schedule
-
   ## November 14
   ### Morning
 
@@ -22,8 +20,6 @@ schedule-text: |-
 
   #### Sustainable Cities and Built Environments
 ---
-# About LESC
-
 The first LESC was launched at COP22 and was the first large-scale technical-solutions conference organized for country delegations, placing innovative technological solutions at the core of the COP meeting.
 
 **The specific objectives of the conference were to:**

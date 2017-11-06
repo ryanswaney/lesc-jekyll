@@ -4,6 +4,6 @@
   width: 95%;
 
   @include media-query($on-laptop) {
-    width: 75%;
+    width: $content-width * 1.2;
   }
 }

@@ -2,12 +2,18 @@
 layout: default
 ---
 
-{% for event in site.event %}
-<section id="">
+
+<section id="page-content">
   <header>
     <h1>
-      <a href="{{ event.permalink }}">{{ event.title }}</a>
+      {{ page.title }}</a>
     </h1>
   </header>
+  {% for event in site.event %}
+  <article class="event">
+    <a href="{{ event.url }}">
+      <h2>{{ event.title }}</h2>
+    </a>
+  </article>
+  {% endfor %}
 </section>
-{% endfor %}
