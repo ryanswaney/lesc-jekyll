@@ -2,6 +2,8 @@
 title: LESC in NYC
 date: 2017-10-24 14:54:00 Z
 hashtag: lescnyc
+logo-file: "/uploads/LESC_NYC_logo_reversed.png"
+logo-vector-file: "/uploads/LESC_NYC_logo_reversed.svg"
 theme: The Scale of Deep Decarbonization
 permalink: /event/lesc-in-nyc
 ---

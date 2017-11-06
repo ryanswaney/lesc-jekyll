@@ -31,19 +31,17 @@
   background: $secondary;
   background-image: url("/uploads/green_arrow_secondary_light_144.png"),
   url("/uploads/waves_primary_144.png");
-  background-position: 50% 15%, 50% 20%;
+  background-position: 50% 15%, 50% 40%;
   background-repeat: no-repeat;
-  height: 100%;
-  height: 90vh;
   transition: background-color .25s, background-position .25s;
-  padding: $spacing-unit;
+  padding: $spacing-unit * 2 $spacing-unit;
   width: 100%;
 
   &:hover {
     background: $primary;
     background-image: url("/uploads/green_arrow_secondary_light_144.png"),
     url("/uploads/waves_primary_dark_144.png");
-    background-position: 50% 15%, 50% 15%;
+    background-position: 50% 15%, 50% 10%;
     background-repeat: no-repeat;
   }
 

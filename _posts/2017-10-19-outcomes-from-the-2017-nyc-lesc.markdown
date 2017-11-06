@@ -1,8 +1,8 @@
 ---
-title: Bringing Emissions Solutions to Scale for a Sustainable Future
+title: Outcomes from the 2017 NYC Low-Emission Solutions Conference
 date: 2017-10-19
 ---
-# Outcomes from the 2017 NYC Low-Emission Solutions Conference
+# Bringing Emissions Solutions to Scale for a Sustainable Future
 
 The second Low-Emissions Solutions Conference (LESC) took place during Climate Week NYC 2017 at Columbia University in New York. LESC is focused on technological developments that can support the implementation of the Paris Agreement. It aims to promote problem-solving, brainstorming and global co-creation of multi-sector solutions to address climate change. The solutions are within reach and yet, our targets fall short and our timelines do not align. Most alarmingly, global climate change is still rapidly approaching dangerous tipping points due to the slow pace of implementation.
 

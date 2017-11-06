@@ -15,9 +15,11 @@ layout: default
     <h2 class="event-theme">{{ page.theme }}</h2>
     {% endif %}
 
-    {% if page.event-date-text || page.location-text %}
+    {% if page.event-date-text or page.location-text %}
     <div class="event-meta">
-      <date class="event-date">{{ page.event-date-text }}</date>
+      <date class="event-date">
+        {{ page.event-date-text }}
+      </date>
       <div class="event-location">
         {{ page.location-text }}
       </div>
