@@ -30,8 +30,10 @@ schedule-text: |-
   ## Table talks among partners with dinner served
   19:30 – 20:10
 
-  ## City stories on innovation: Johanna Partin, Carbon Neutral Cities Alliance (CNCA)
+  ## City stories on innovation
   20:10 – 20:20
+
+  - Johanna Partin, Carbon Neutral Cities Alliance (CNCA)
 
   ## Warm-up Dialogue-2: City and business leaders on science-based policy and actions
   20:20 – 21:00
@@ -39,11 +41,12 @@ schedule-text: |-
   ## Table talks among partners with desserts served
   21:00 – 21:20
 
-  ## Corporate leadership on carbon pricing - a debrief of today's high level discussions: Feike Sijbesma, CEO, Royal DSM
+  ## Corporate leadership on carbon pricing - a debrief of today's high level discussions
   21:20 – 21:30
 
-  ## Remarks by COP23 presidency and high level climate champions:  
-  The way towards and beyond 2018 Facilitative Dialogue
+  - Feike Sijbesma, CEO, Royal DSM
+
+  ## Remarks by COP23 presidency and high level climate champions: The way towards and beyond 2018 Facilitative Dialogue
   21:30 – 21:40
 
   ## Closing Remarks
