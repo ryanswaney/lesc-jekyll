@@ -19,10 +19,12 @@
   border-bottom: $base-border-size / 2 solid $primary-darker;
   border-top: $base-border-size / 2 solid $primary-darker;
   padding: $spacing-unit;
+}
 
+#event-schedule {
   @include media-query($on-laptop) {
-    max-height: 60%;
-    max-height: 60vh;
+    max-height: 75%;
+    max-height: 75vh;
     overflow-y: scroll;
     overflow-x: hidden;
     padding: $spacing-unit;
@@ -104,6 +106,10 @@
 #event-description {
   h1 {
     font-size: $large-heading;
+  }
+
+  h2, h3, h4, h5, h6 {
+    font-size: $base-font-size;
   }
 
   h2, h3, h4, h5, h6 {
