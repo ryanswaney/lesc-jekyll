@@ -152,6 +152,8 @@
   Event Partners
 ***/
 #partners-and-sponsors {
+  background: $primary-darker;
+  padding-top: $spacing-unit;
 
   p { font-size: 70%;}
 }
@@ -166,29 +168,29 @@
 .partner-list {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
-  grid-gap: $spacing-unit / 2;
-  gap: $spacing-unit /2 ;
+  grid-gap: $spacing-unit / 2.2;
+  gap: $spacing-unit / 2.2 ;
   margin: $spacing-unit auto 0 0;
   list-style: none;
-  border-top: $base-border-size / 2 solid $primary-darker;
 
   @include media-query($on-laptop) {
     grid-template-columns: repeat(5, 1fr);
   }
 
-
   li {
 
     margin-bottom: 0;
-    padding: $spacing-unit;
+    padding: $spacing-unit / 2;
 
     h2 {
-      color: $base;
-      font-size: $large-heading;
+      color: $white;
+      font-size: $base-heading;
     }
+    p {
+      color: $white; }
 
   }
 }
 .partner-logo {
-  max-width: 100%;
+  max-width: 75%;
 }
