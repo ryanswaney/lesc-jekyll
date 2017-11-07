@@ -26,15 +26,26 @@ layout: default
     <div class="event-cta">
       {% if event.registration-url %}
       <a href="{{ event.registration-url }}" class="cta-register">
-        Register
+        Register Now
       </a>
       {% endif %}
-      <a href="{{ event.url }}" class="cta-default">
-        Learn More
-      </a>
     </div>
 
   </header>
+</section>
+
+<section id="event-content">
+
+  <section id="event-description">
+    {{ event.content }}
+  </section>
+
+  {% if event.schedule-text %}
+  <section id="event-schedule">
+    {{ event.schedule-text | markdownify }}
+  </section>
+  {% endif %}
+
 </section>
   {% endif %}
 {% endfor %}

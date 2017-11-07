@@ -7,11 +7,53 @@ logo-file: "/uploads/LESC_COP23_logo.png"
 logo-vector-file: "/uploads/LESC_COP23_logo.svg"
 theme: Implementation at Scale
 permalink: /event/lesc-at-cop23
+event-date-text: November 13, 2017
 location-text: GOP Theatre, Karl-Carstens-Straße 1, 53113 Bonn, Germany
-event-date-text: November 16, 2017
 registration-url: https://fs8.formsite.com/iclei12/form164/index.html
+schedule-text: |-
+
+  # Agenda
+
+  ## Arrival of guests and reception  
+  ### 17:30 - 18:30
+
+  ## Welcome keynote and setting the scene  
+  ### 18:30 - 18:50
+
+  - Leena Wokeck, CSR Asia (Moderator)
+  - Peter Bakker, President & CEO, WBCSD
+  - Ashok Sridharan, Mayor, Bonn, Germany; ICLEI First Vice President
+
+  ## Ice-breaker Dialogue-1: City and business leaders on innovation
+  18:50 - 19:30
+
+  ## Table talks among partners with dinner served
+  19:30 – 20:10
+
+  ## City stories on innovation: Johanna Partin, Carbon Neutral Cities Alliance (CNCA)
+  20:10 – 20:20
+
+  ## Warm-up Dialogue-2: City and business leaders on science-based policy and actions
+  20:20 – 21:00
+
+  ## Table talks among partners with desserts served
+  21:00 – 21:20
+
+  ## Corporate leadership on carbon pricing - a debrief of today's high level discussions: Feike Sijbesma, CEO, Royal DSM
+  21:20 – 21:30
+
+  ## Remarks by COP23 presidency and high level climate champions:  
+  The way towards and beyond 2018 Facilitative Dialogue
+  21:30 – 21:40
+
+  ## Closing Remarks
+  21:40 – 21:50
+
+  ---
+
+  Note that this event has been designed in a unique way to allow all guests to contribute in dialogue
 ---
-**Introduction and Background**
+# Introduction and Background
 
 Under the Paris Agreement, every country is responsible for developing both a near-term nationally determined contribution (NDC) and a long-term Low-Emission Development Strategy (LEDS) with the engagement of governments at all levels and among all relevant actors. To support the preparation of NDCs and LEDS that embody state-of-the-art technical understanding, the Low-Emissions Solutions Conference (LESC) was launched successfully at COP22 in Marrakech in 2016.  In September 2017, the LESC held a sister event during Climate Week in New York focused on deep decarbonization pathways. During the event, practitioners and world-renowned experts presented the latest developments in national strategic planning, demand-side solutions and battery storage, renewable energy penetration, and the status of new alternative energy options that may be the key to transitioning to a low-emission future. While this event had a distinct academic flavor, it remained true to the original concept in bringing cities, academia, business and policy-makers together for an in-depth discussion on technical solutions and their applications.
 

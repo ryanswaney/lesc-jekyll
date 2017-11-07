@@ -2,10 +2,6 @@
 site-nav:
   - title: "About"
     url: /about/
-  - title: "Events"
-    url: /events/
-  - title: "News"
-    url: /news/
 
 # Social Navigation
 social-nav:

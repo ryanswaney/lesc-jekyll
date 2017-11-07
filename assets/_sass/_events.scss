@@ -16,7 +16,8 @@
 }
 #event-description,
 #event-schedule {
-  border: $base-border-size / 2 solid $secondary;
+  border-bottom: $base-border-size / 2 solid $primary-darker;
+  border-top: $base-border-size / 2 solid $primary-darker;
   padding: $spacing-unit;
 
   @include media-query($on-laptop) {
@@ -30,8 +31,8 @@
 .event-feature {
   background: $secondary;
   background-image: url("/uploads/green_arrow_secondary_light_144.png"),
-  url("/uploads/waves_primary_144.png");
-  background-position: 50% 15%, 50% 40%;
+  url("/uploads/waves_primary_dark_144.png");
+  background-position: -40% 15%, 50% 40%;
   background-repeat: no-repeat;
   transition: background-color .25s, background-position .25s;
   padding: $spacing-unit * 2 $spacing-unit;
@@ -52,7 +53,11 @@
 .event-logo {
   display: block;
   margin: 0 auto $spacing-unit auto;
-  width: 50%;
+  width: 100%;
+
+  @include media-query($on-laptop) {
+    width: 50%;
+  }
 }
 .event-meta {
   margin: 0 auto;
@@ -82,7 +87,7 @@
 }
 .cta-default,
 .cta-register {
-  background: $primary;
+  background: $primary-darker;
   color: $white;
   display: inline-block;
   padding: $spacing-unit / 2;
@@ -93,6 +98,32 @@
   &:focus, &:hover {
     background: $primary-darker;
   }
+}
+
+/* Event Description */
+#event-description {
+  h1 {
+    font-size: $large-heading;
+  }
+
+  h2, h3, h4, h5, h6 {
+    color: $primary-darker;
+  }
+}
+
+/* Event Schedule */
+#event-schedule h1 {
+  font-size: $large-heading;
+}
+#event-schedule h2 {
+  color: $primary-darker;
+  font-size: $base-heading;
+  margin-bottom: 0;
+}
+#event-schedule h3 {
+  font-size: $base-font-size;
+  font-family: $base-font-family;
+  font-weight: 400;
 }
 
 /* == Event Speakers == */
@@ -114,5 +145,50 @@
   font-size: $small-heading;
 }
 .speaker-photo {
+  max-width: 100%;
+}
+
+/***
+  Event Partners
+***/
+#partners-and-sponsors {
+
+  p { font-size: 70%;}
+}
+.event-partners {
+  padding: 1em 4em;
+
+  h1 {
+    font-size: 2em;
+    text-align: center;
+  }
+}
+.partner-list {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-gap: $spacing-unit / 2;
+  gap: $spacing-unit /2 ;
+  margin: $spacing-unit auto 0 0;
+  list-style: none;
+  border-top: $base-border-size / 2 solid $primary-darker;
+
+  @include media-query($on-laptop) {
+    grid-template-columns: repeat(5, 1fr);
+  }
+
+
+  li {
+
+    margin-bottom: 0;
+    padding: $spacing-unit;
+
+    h2 {
+      color: $base;
+      font-size: $large-heading;
+    }
+
+  }
+}
+.partner-logo {
   max-width: 100%;
 }
