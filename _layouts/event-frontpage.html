@@ -44,6 +44,10 @@ layout: default
   </section>
 
   {% if event.schedule-text %}
+
+  {% capture words %}
+    {{ event.schedule-text | number_of_words }}
+  {% endcapture %}
   <section id="event-schedule">
     {{ event.schedule-text | markdownify }}
   </section>

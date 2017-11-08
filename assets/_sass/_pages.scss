@@ -7,3 +7,21 @@
     width: $content-width * 1.2;
   }
 }
+
+.page-header {
+ position: relative;
+
+ &:before {
+   content: "";
+   position: absolute;
+   width: 200px;
+   height: 100px;
+   z-index: -1;
+   background: url("/uploads/waves_primary_dark_144.png") 0 0 repeat;
+   background-size: 100%;
+   -webkit-transform: rotate(-30deg);
+   transform: rotate(-30deg);
+   top: -20%;
+   left: -10%;
+ }
+}

@@ -106,6 +106,12 @@ h3 + h4 {
   text-transform: uppercase;
 }
 /**
+ * Emphasis
+ */
+strong {
+  color: $primary-darker;
+}
+/**
  * Links
  */
 a {
