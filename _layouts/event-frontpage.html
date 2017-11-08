@@ -15,6 +15,9 @@ layout: default
     {% else %}
     <h1>{{ event.title }}</h1>
     {% endif %}
+    {% if event.theme %}
+    <h2 class="event-theme">{{ event.theme }}</h2>
+    {% endif %}
 
     <div class="event-meta">
       <date class="event-date">{{ event.event-date-text }}</date>

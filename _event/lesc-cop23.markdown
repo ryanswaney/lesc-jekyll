@@ -8,7 +8,7 @@ logo-vector-file: "/uploads/LESC_COP23_logo.svg"
 theme: Implementation at Scale
 permalink: /event/lesc-at-cop23
 event-date-text: November 13, 2017
-location-text: GOP Theatre, Karl-Carstens-Straße 1, 53113 Bonn, Germany
+location-text: GOP Theatre, Karl-Carstens-Straße 1, 53113 Bonn, Germany, COP23
 registration-url: https://fs8.formsite.com/iclei12/form164/index.html
 schedule-text: |-
 

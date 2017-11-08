@@ -2,7 +2,8 @@
 title: LESC at COP22
 date: 2017-10-24 14:57:00 Z
 hashtag: lesc22
-logo-vector-file: "/uploads/LESC_COP22_logo_reversed.svg"
+logo-file: "/uploads/LESC_COP22_logo.png"
+logo-vector-file: "/uploads/LESC_COP22_logo.svg"
 theme: Global brainstorming on pathways to low emissions at COP22.
 permalink: /event/lesc-at-cop22
 event-date-text: November 14-16, 2016
