@@ -25,6 +25,10 @@ defaults:
     type: posts
   values:
     layout: post
+    videos:
+      title:
+      url:
+      description:  
 - scope:
     path: ''
     type: event

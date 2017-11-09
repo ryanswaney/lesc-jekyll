@@ -4,7 +4,7 @@
   width: 95%;
 
   @include media-query($on-laptop) {
-    width: $content-width * 1.2;
+    width: $content-width;
   }
 }
 
@@ -17,11 +17,19 @@
    width: 200px;
    height: 100px;
    z-index: -1;
-   background: url("/uploads/waves_primary_dark_144.png") 0 0 repeat;
+   background: url("/uploads/waves_primary_dark_144.png"),
+   url("/uploads/green_arrow_secondary_light_144.png");
    background-size: 100%;
    -webkit-transform: rotate(-30deg);
    transform: rotate(-30deg);
    top: -20%;
    left: -10%;
  }
+}
+
+.page-title {
+  display: inline-block;
+  padding: .5rem;
+  color: $primary-darker;
+  border-bottom: $base-border-size / 2 solid $primary-darker;
 }
