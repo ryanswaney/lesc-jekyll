@@ -9,5 +9,21 @@ layout: default
       </h1>
     </header>
     {{ content }}
+
+    {% if page.related-videos %}
+    <ul class="video-grid">
+    {% for video in page.related-videos %}
+      <li>
+        <div class="video" data-embed="">
+          <div class="play-button"></div>
+        </div>
+        <div class="video-meta">
+          <h2 class="video-title">{{ video.title }}</h2>
+          <p class="video-excerpt">{{ video.description | markdownify }}</p>
+        </div>
+      </li>
+    {% endfor %}
+    {% endif %}
+
   </article>
 </section>
