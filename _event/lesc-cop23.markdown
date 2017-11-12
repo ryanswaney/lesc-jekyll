@@ -55,6 +55,15 @@ schedule-text: |-
   ---
 
   Note that this event has been designed in a unique way to allow all guests to contribute in dialogue
+related-media:
+  - description: |-
+      ### Location
+      The event will take place at the GOP Varieté Theatre in Bonn. This is located at the centre of the Bula Zone. The street address is Karl-Carstens-Straße 1, 53113 Bonn.
+    image: "/uploads/lesc_map_overview.png"
+  - description: |-
+      ### Venue Access
+      Entrance will only be permitted to confirmed participants with a valid ticket issued by LESC. Access to the venue will be assured for ticket holders. No Bula Zone accreditation will be necessary.
+    image: "/uploads/lesc_map_bula_zone.png"
 ---
 # Introduction and Background
 

@@ -14,7 +14,7 @@ layout: default
     <ul class="video-grid">
     {% for video in page.related-videos %}
       <li>
-        <div class="video" data-embed="">
+        <div class="video" data-embed="{{ video.url }}">
           <div class="play-button"></div>
         </div>
         <div class="video-meta">

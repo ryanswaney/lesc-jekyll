@@ -49,6 +49,23 @@ layout: default
   </section>
   {% endif %}
 
+  {% if page.related-media %}
+  <section id="event-media">
+    <ul class="media-gallery">
+    {% for media in page.related-media %}
+      <li class="media-item">
+        <div class="media-description">
+          {{ media.description | markdownify }}
+        </div>
+        <a href="{{ media.image }}">
+          <img src="{{ media.image }}" />
+        </a>
+      </li>
+    {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
 </section>
 
 <section id="speakers"></section>

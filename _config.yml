@@ -43,6 +43,9 @@ defaults:
     event-date-text:
     registration-url:
     schedule-text:
+    related-media:
+      - description:
+        image:
     permalink: "/:collection/:name"
 - scope:
     path: ''
