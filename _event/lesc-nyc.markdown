@@ -6,6 +6,8 @@ logo-file: "/uploads/LESC_NYC_logo_reversed.png"
 logo-vector-file: "/uploads/LESC_NYC_logo_reversed.svg"
 theme: The Scale of Deep Decarbonization
 permalink: /event/lesc-in-nyc
+event-date-text: September 20-21, 2017
+location-text: Faculty House, Columbia University 64 Morningside Drive, New York, NY 10027
 schedule-text: |-
   # Agenda
 
@@ -99,7 +101,7 @@ schedule-text: |-
   - Bjørn Otto Sverdrup Senior Vice President, Corporate Sustainability, Statoil ASA
 
   ## Closing Remarks
-  ## 11:45am
+  ### 11:45am
   - Jeff Sachs, Director, SDSN
 
   ## Documentary Pre-Screening

@@ -115,12 +115,12 @@ strong {
  * Links
  */
 a {
-    color: $primary;
+    color: $primary-darker;
     //border-bottom: 2px solid $primary;
     text-decoration: none;
 
     &:visited {
-        color: $primary-darkest;
+        color: $primary-darker;
     }
 
     &:focus,
