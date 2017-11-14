@@ -10,10 +10,12 @@ layout: default
     </h1>
   </header>
   {% for event in site.event %}
-  <article class="event">
+  <article class="event-archive">
     <a href="{{ event.url }}">
-      <h2>{{ event.title }}</h2>
+      <h2 class="event-archive-title">{{ event.title }}</h2>
     </a>
+    <h3 class="event-archive-theme">{{ event.theme }}</h3>
+    <date class="event-archive-date">{{ event.event-date-text }}</date>
   </article>
   {% endfor %}
 </section>

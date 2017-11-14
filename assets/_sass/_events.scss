@@ -140,6 +140,17 @@
   font-weight: 400;
 }
 
+/* == Event Archives == */
+article.event-archive {
+  margin-bottom: $spacing-unit;
+}
+.event-archive-title {
+  margin-bottom: 0;
+}
+.event-archive-theme {
+  margin-bottom: 0;
+}
+
 /* == Event Speakers == */
 .speakers-grid {
   display: grid;
