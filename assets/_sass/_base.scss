@@ -110,6 +110,7 @@ h3 + h4 {
  */
 strong {
   color: $primary-darker;
+  font-family: $heading-font-family;
 }
 /**
  * Links
@@ -117,7 +118,7 @@ strong {
 a {
     color: $primary-darker;
     //border-bottom: 2px solid $primary;
-    text-decoration: none;
+    //text-decoration: none;
 
     &:visited {
         color: $primary-darker;
