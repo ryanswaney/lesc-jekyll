@@ -29,7 +29,13 @@
 
 .page-title {
   display: inline-block;
+  font-size: $xlarge-heading;
   padding: .5rem;
   color: $primary-darker;
   border-bottom: $base-border-size / 2 solid $primary-darker;
+
+  @include media-query($on-laptop) {
+    font-size: $display-heading;
+  }
+
 }
