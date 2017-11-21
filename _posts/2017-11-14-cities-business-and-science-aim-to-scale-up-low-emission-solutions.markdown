@@ -24,4 +24,4 @@ Many participants shared their excitement to see all those actors coming togethe
 
 ---
 
-*This post originally appeared on [CityTalk, a blog by ICLEI](http://talkofthecities.iclei.org/cities-business-and-science-aim-to-scale-up-low-emission-solutions/)**
+_This post originally appeared on [CityTalk, a blog by ICLEI](http://talkofthecities.iclei.org/cities-business-and-science-aim-to-scale-up-low-emission-solutions/)_
