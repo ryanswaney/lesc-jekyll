@@ -107,6 +107,10 @@ schedule-text: |-
   ## Documentary Pre-Screening
   ### 12:45 - 2:30pm
   Private theatre screening of a new, not yet released, documentary followed by live Q&A with filmmaker David Schumacher. The screening is in the Schapiro/CEPSR building, Davis Auditorium on the 4th floor (campus level), room 412 (10 minute walk from Conference Venue). This part of the program is co-hosted with the Columbia University Center on Global Energy Policy.
+related-media:
+  - description: |-
+      ### Download resources and presentations from the LESC NYC event.
+      [Presentations & Resources: LESC NYC](/2017/10/17/resources-from-lesc-nyc/)
 ---
 # Introduction and Background
 

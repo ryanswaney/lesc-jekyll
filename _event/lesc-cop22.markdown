@@ -325,6 +325,10 @@ schedule-text: |-
   * Jeffrey Sachs
   * Gino Van Begin
   * Jean-Pierre Clamadieu
+related-media:
+  - description: |-
+      ### Download resources and presentations from the LESC at COP22 event.
+      [Presentations & Resources: LESC at COP22](/2017/03/10/resources-from-lesc-cop22/)
 ---
 # Introduction and Background
 
