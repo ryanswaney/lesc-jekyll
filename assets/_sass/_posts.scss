@@ -5,3 +5,6 @@ article.post {
   font-size: $xlarge-heading;
   margin-bottom: 0;
 }
+a > .post-title {
+  font-size: $large-heading;
+}
