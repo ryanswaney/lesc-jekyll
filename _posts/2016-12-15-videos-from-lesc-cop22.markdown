@@ -1,6 +1,6 @@
 ---
 title: 'Video Series: Sessions from LESC at COP22'
-date: 2017-03-10
+date: 2016-12-18
 related-videos:
   - title: Nezha Larhrissi's Opening Address
     url: https://youtu.be/aN-639Po-do
