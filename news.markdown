@@ -1,5 +1,5 @@
 ---
-title: News & Resources
+title: News and Resources
 permalink: "/news"
 layout: post-archive
 ---
