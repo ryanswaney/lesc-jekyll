@@ -1,14 +1,14 @@
 ---
-title: LESC in NYC
+title: LESC in New York
 date: 2017-10-24 14:54:00 Z
 permalink: "/event/lesc-in-nyc"
+theme: The Scale of Deep Decarbonization
 hashtag: lescnyc
 logo-file: "/uploads/LESC_NYC_logo_reversed.png"
 logo-vector-file: "/uploads/LESC_NYC_logo_reversed.svg"
-theme: The Scale of Deep Decarbonization
-event-date-text: September 20-21, 2017
 location-text: Faculty House, Columbia University 64 Morningside Drive, New York,
   NY 10027
+event-date-text: September 20-21, 2017
 schedule-text: |-
   # Agenda
 
