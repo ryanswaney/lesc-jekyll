@@ -1,7 +1,8 @@
 ---
 title: 'Presentations & Resources: LESC at COP22'
-date: 2016-11-18
+date: 2016-11-18 00:00:00 Z
 ---
+
 ### Presentations
 * [**Presentations from Monday, Nov. 14th (27.63mb)**](https://www.dropbox.com/s/kd8qhcyyq2y3vd8/Day%201_Monday.pptx?dl=0)
 * [**Presentations from Tuesday, Nov. 15th (329.79mb)**](https://www.dropbox.com/s/q7tsdwx0a2cu93s/Day%202_Tuesday.pptx?dl=0)

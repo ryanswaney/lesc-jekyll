@@ -1,13 +1,14 @@
 ---
 title: LESC in NYC
 date: 2017-10-24 14:54:00 Z
+permalink: "/event/lesc-in-nyc"
 hashtag: lescnyc
 logo-file: "/uploads/LESC_NYC_logo_reversed.png"
 logo-vector-file: "/uploads/LESC_NYC_logo_reversed.svg"
 theme: The Scale of Deep Decarbonization
-permalink: /event/lesc-in-nyc
 event-date-text: September 20-21, 2017
-location-text: Faculty House, Columbia University 64 Morningside Drive, New York, NY 10027
+location-text: Faculty House, Columbia University 64 Morningside Drive, New York,
+  NY 10027
 schedule-text: |-
   # Agenda
 
@@ -108,10 +109,11 @@ schedule-text: |-
   ### 12:45 - 2:30pm
   Private theatre screening of a new, not yet released, documentary followed by live Q&A with filmmaker David Schumacher. The screening is in the Schapiro/CEPSR building, Davis Auditorium on the 4th floor (campus level), room 412 (10 minute walk from Conference Venue). This part of the program is co-hosted with the Columbia University Center on Global Energy Policy.
 related-media:
-  - description: |-
-      ### Download resources and presentations from the LESC NYC event.
-      [Presentations & Resources: LESC NYC](/2017/10/17/resources-from-lesc-nyc/)
+- description: |-
+    ### Download resources and presentations from the LESC NYC event.
+    [Presentations & Resources: LESC NYC](/2017/10/17/resources-from-lesc-nyc/)
 ---
+
 # Introduction and Background
 
 The second Low-Emissions Solutions Conference (LESC) took place during Climate Week NYC 2017 at Columbia University in New York. LESC is focused on technological developments that can support the implementation of the Paris Agreement. It aims to promote problem-solving, brainstorming and global co-creation of multi-sector solutions to address climate change. The solutions are within reach and yet, our targets fall short and our timelines do not align. Most alarmingly, global climate change is still rapidly approaching dangerous tipping points due to the slow pace of implementation.

@@ -1,7 +1,8 @@
 ---
 title: 'Presentations & Resources: LESC NYC'
-date: 2017-10-17
+date: 2017-10-17 00:00:00 Z
 ---
+
 ### Session A: Deep Decarbonization Pathways: Where Do They Lead?
 * [**Scale Challenges of Deep Decarbonization**](/uploads/files/decks/2017_nyc_lesc/0_Session_A_Scale_Challenges_of_Deep_Decarbonization.pdf)  
 Remarks by Prof. Jim Williams, University of San Francisco

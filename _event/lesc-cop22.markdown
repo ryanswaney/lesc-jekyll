@@ -1,11 +1,11 @@
 ---
 title: LESC at COP22
 date: 2017-10-24 14:57:00 Z
+permalink: "/event/lesc-at-cop22"
 hashtag: lesc22
 logo-file: "/uploads/LESC_COP22_logo.png"
 logo-vector-file: "/uploads/LESC_COP22_logo.svg"
 theme: Global brainstorming on pathways to low emissions at COP22.
-permalink: /event/lesc-at-cop22
 event-date-text: November 14-16, 2016
 location-text: Atlantic Room, Blue Zone, Marrakech, Morocco, COP22
 schedule-text: |-
@@ -326,10 +326,11 @@ schedule-text: |-
   * Gino Van Begin
   * Jean-Pierre Clamadieu
 related-media:
-  - description: |-
-      ### Download resources and presentations from the LESC at COP22 event.
-      [Presentations & Resources: LESC at COP22](/2017/03/10/resources-from-lesc-cop22/)
+- description: |-
+    ### Download resources and presentations from the LESC at COP22 event.
+    [Presentations & Resources: LESC at COP22](/2017/03/10/resources-from-lesc-cop22/)
 ---
+
 # Introduction and Background
 
 The first LESC was launched at COP22 and was the first large-scale technical-solutions conference organized for country delegations, placing innovative technological solutions at the core of the COP meeting.

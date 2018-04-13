@@ -1,7 +1,8 @@
 ---
 title: Cities, business and science aim to scale up low-emission solutions
-date: 2017-11-14
+date: 2017-11-14 00:00:00 Z
 ---
+
 On 13 November 2017, during COP23, cities, businesses and researchers gathered in a unique forum to discuss the implementation at scale of low-emissions solutions. Created by the [World Business Council for Sustainable Development (WBCSD)](http://www.wbcsd.org/), the [Sustainable Development Solutions Network (UNSDSN)](http://www.unsdsn.org/) and [ICLEI – Local Governments for Sustainability](http://www.iclei.org/), this was the third **Low Emission Solutions Conference (LESC)** building the connection between a range of climate stakeholders.
 
 The actors in the room hold one key thing in common: They are all convinced that the future needs to be low-carbon. Private companies are now committing to science-based targets, well aware that transitioning to a low-carbon economy is the only way forward. As Peter Bakker, President and CEO of WBCSD put it, referencing the motto of the COP: “The move to a low-carbon society is now inevitable, and we need to collectively work out how to do to it further, faster, together”.

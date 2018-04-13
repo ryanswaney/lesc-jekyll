@@ -1,7 +1,8 @@
 ---
 title: IISD Publishes Coverage of the Low-Emissions Solutions Conference at COP23
-date: 2017-11-14
+date: 2017-11-14 00:00:00 Z
 ---
+
 The **Low-Emissions Solutions Conference (LESC)** took place at the GOP Theatre in Bonn, Germany, on the sidelines of the 23rd session of the Conference of the Parties (COP 23) to the UN Framework Convention on Climate Change (UNFCCC). Organized by the [World Business Council for Sustainable Development (WBCSD)](http://www.wbcsd.org/), the [Sustainable Development Solutions Network (SDSN)](http://www.unsdsn.org/) and [ICLEI - Local Governments for Sustainability (ICLEI)](http://www.iclei.org/), the conference sought to create a space for in-depth dialogue with policymakers on implementing ambitious Nationally Determined Contributions (NDCs) at scale by taking action at the city, local and project levels.
 
 Held in a relaxed dinner format designed to encourage interaction among participants from governments, business, academia and civil society, the event included open discussion with participants, table-level discussions and spotlight presentations on what is still needed and how public-private partnerships can support the common objectives among countries, cities, businesses and academia.

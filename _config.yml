@@ -5,12 +5,15 @@ collections:
   event:
     title: Event
     output: true
+  posts:
+    title: Posts
+    output: true
   uploads:
     title: Uploads
     output: true
 defaults:
 - scope:
-    path: ""
+    path: ''
     type: pages
   values:
     layout: page
@@ -20,34 +23,34 @@ defaults:
   values:
     layout: post
     related-videos:
-      - title:
-        url:
-        description:
+    - title: 
+      url: 
+      description: 
 - scope:
     path: ''
     type: event
   values:
     layout: event
-    theme:
-    hashtag:
-    is-featured:
-    logo-file:
-    logo-vector-file:
-    location-text:
-    event-date-text:
-    registration-url:
-    schedule-text:
+    theme: 
+    hashtag: 
+    is-featured: 
+    logo-file: 
+    logo-vector-file: 
+    location-text: 
+    event-date-text: 
+    registration-url: 
+    schedule-text: 
     related-media:
-      - description:
-        image:
+    - description: 
+      image: 
     permalink: "/:collection/:name"
 twitter_username: Low2No
 twitter_hashtag: LESC
 facebook_username: Low2No
 permalink: pretty
 email: info@lowemissions.solutions
-description:
-baseurl: '/'
+description: 
+baseurl: "/"
 url: http://lowemissions.solutions
 markdown: kramdown
 sass:
