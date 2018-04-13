@@ -1,10 +1,6 @@
 ---
 title: We have the tools to safeguard our planet.
 permalink: "/"
-events:
-  title: LESC at COP23
-  location: Bonn, Germany
-  date: 2013-11-01 00:00:00 Z
 ---
 
 The successful implementation of the Paris Agreement will depend on the deployment of Low Emission Development Strategies (LEDSs) and Nationally Determined Contributions (NDCs). **Technological developments and innovative practices will be key** in this process.
