@@ -1,7 +1,6 @@
 ---
 title: We have the tools to safeguard our planet.
 permalink: "/"
-event: LESC in NYC
 ---
 
 The successful implementation of the Paris Agreement will depend on the deployment of Low Emission Development Strategies (LEDSs) and Nationally Determined Contributions (NDCs). **Technological developments and innovative practices will be key** in this process.
