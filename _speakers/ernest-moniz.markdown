@@ -1,8 +1,0 @@
----
-title: Ernest Moniz
-date: 2017-10-24 19:43:00 Z
-title and organization: 'Secretary of Energy, United States '
-photo: "/uploads/Moniz_Ernest.jpg"
----
-
-As United States Secretary of Energy, Dr. Ernest Moniz is tasked with implementing critical Department of Energy missions in support of President Obama’s goals of growing the economy, enhancing security and protecting the environment. Prior to his appointment, Dr. Moniz was the Cecil and Ida Green Professor of Physics and Engineering Systems at the Massachusetts Institute of Technology (MIT), where he was a faculty member since 1973. At MIT, he headed the Department of Physics and the Bates Linear Accelerator Center. Most recently, Dr. Moniz served as the founding Director of the MIT Energy Initiative and as Director of the MIT Laboratory for Energy and the Environment where he was a leader of multidisciplinary technology and policy studies on the future of nuclear power, coal, nuclear fuel cycles, natural gas and solar energy in a low-carbon world. From 1997 until January 2001, Dr. Moniz served as Under Secretary of the Department of Energy. He was responsible for overseeing the Department’s science and energy programs, leading a comprehensive review of nuclear weapons stockpile stewardship, and serving as the Secretary’s special negotiator for the disposition of Russian nuclear materials. From 1995 to 1997, he served as Associate Director for Science in the Office of Science and Technology Policy in the Executive Office of the President.

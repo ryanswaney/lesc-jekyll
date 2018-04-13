@@ -1,8 +1,0 @@
----
-title: Jonathan Pershing
-date: 2017-10-24 19:48:00 Z
-title and organization: " Special Envoy on Climate Change "
-photo: "/uploads/Pershing_jonathan.jpg"
----
-
-Dr. Jonathan Pershing is the Special Envoy for Climate Change at the U.S. Department of State. Previously, he served as the Senior Climate Advisor to the U.S. Secretary of Energy and the Principal Deputy Director of the Office of Energy Policy and Systems Analysis at the Department of Energy. Prior to joining DOE, Dr. Pershing was the Deputy Special Envoy for Climate Change and the lead negotiator representing the United States at meetings of the UN Framework Convention on Climate Change. Before his appointment to the Obama Administration, he spent six years as the Director of the Climate, Energy and Pollution Program at the World Resources Institute, a Washington, D.C., think tank; five years as the Head of the Environment Division at the International Energy Agency in Paris; and for nearly a decade in the 1990s, served the Science Advisor and Deputy Director of the Office of Global Change in the U.S. Department of State. Dr. Pershing holds a Ph.D. in geology and geophysics, and has also held positions in the private sector as a petroleum and mining geologist, and as an adjunct faculty member at the University of Minnesota and at American University. He has published and lectured widely on climate and energy issues, and has served as a lead author, review editor and contributor for reports of the Nobel-prize winning Intergovernmental Panel on Climate Change.

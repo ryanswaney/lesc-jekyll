@@ -1,8 +1,0 @@
----
-title: Leszek Drogosz
-date: 2017-10-24 19:03:00 Z
-title and organization: 'Director of Infrastructure Department, City of Warsaw, Poland '
-photo: "/uploads/Drogosz_Leszek.jpg"
----
-
-Mr. Leszek Drogosz is responsible for climate protection, energy, and water and wastewater management in the City of Warsaw. He has spent his entire career working for City, particularly in the management of enterprises dealing with transportation, water, wastewater, heat, and solid waste. He has been involved in the implementation of several large and medium-sized European Union projects such as those co-financed by the EU Cohesion Fund. Drogosz has extensive experience working with NGOs and has represented Warsaw in the EUROCITIES Climate and Energy Working Group, and the C40 Large Cities Climate Leadership Group and has served as Deputy Chairman of the Management Board of Association of Municipalities Polish Network “Energie Cités”, member of the Management Board of the Warsaw Tourism Organization. He is also one of the designers and Deputy Chairman of the Climate Protection Committee established within Warsaw City Hall, which is chaired by Mayor of Warsaw. As the Director of the Infrastructure Department, Leszek Drogosz is responsible for overall implementation of the Sustainable Energy Action Plan, an outcome of the City of Warsaw joining the Covenant of Mayors as well as for adopted by Warsaw City Council Low Carbon Economy Action Plan.
