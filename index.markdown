@@ -1,20 +1,16 @@
 ---
 title: Home
+permalink: "/"
 message: We have the tools to safeguard our planet.
 metrics:
-  -
-    icon: speakers
-    data: 200+ Speakers
-  -
-    icon: energy
-    data: 3 Cross-cutting Themes
-  -
-    icon: people
-    data: 500+ Participants
-  -
-    icon: cogs
-    data: 50+ Solutions
-permalink: "/"
+- icon: speakers
+  data: 200+ Speakers
+- icon: energy
+  data: 3 Cross-cutting Themes
+- icon: people
+  data: 500+ Participants
+- icon: cogs
+  data: 50+ Solutions
 layout: frontpage
 ---
 

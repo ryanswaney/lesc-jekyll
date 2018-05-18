@@ -3,6 +3,7 @@ title: About
 permalink: "/about"
 layout: page
 ---
+
 The first LESC was launched at COP22 and was the __first large-scale technical-solutions conference__ organized for country delegations, placing __innovative technological solutions__ at the core of the COP meeting.
 
 ## The specific objectives of the conference are:
