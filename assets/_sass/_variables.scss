@@ -30,9 +30,11 @@ $spacing-unit: 1.3rem;
 $base-border-size: 18px;
 
 // Primary Colors
-$primary: #00b1ee;
-$primary-darker: #0c26f7;
+$primary: #0c26f7;
+//$primary: #00b1ee;
+$primary-darker: #0a20c4;
 $primary-darkest: #114e66;
+
 $primary-alt: #5764ae;
 $primary-alt-dark: #3c4ca0;
 $primary-alt-darkest: #2a3f99;
@@ -43,10 +45,11 @@ $primary-alt-lightest: #787a9e;
 
 // Secondary Color
 $secondary: #6fe224;
-$secondary-dark: #55833b;
-$secondary-darkest: #2e431d;
-$secondary-light: #b4d560;
-$secondary-lightest: #c8e09a;
+$secondary-darkest: #49bd2f;
+//$secondary-dark: #55833b;
+//$secondary-darkest: #2e431d;
+//$secondary-light: #b4d560;
+//$secondary-lightest: #c8e09a;
 
 // Base and Neutral Colors
 $base: #212121;

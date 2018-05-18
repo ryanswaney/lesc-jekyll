@@ -1,41 +1,50 @@
 ---
 layout: default
 ---
-<!--
-<section id="frontpage-content">
-  <header class="frontpage-header">
-    <h1 class="frontpage-title">
-      <span>{{ page.title }}</span>
-    </h1>
-  </header>
-
-  <div class="frontpage-content-block">
-    {{ content }}
-  </div>
-</section>
--->
-
+{% if page.metrics %}
+{% include icons/icons.svg %}
+{% endif %}
 <section class="content-block-grid">
   <header class="grid-header">
     <h1 class="grid-title">
-      <span>{{ page.title }}</span>
+      <span>{{ page.message }}</span>
     </h1>
   </header>
+
   <div class="grid-content-large">
     {{ content }}
   </div>
+
+  {% if page.metrics %}
+  {% for metric in page.metrics %}
   <div class="grid-content-small">
-    Fig 1
+
+    {% case metric.icon %}
+
+    {% when 'people' %}
+    <svg viewBox="0 0 500 500" class="callout-icon">
+      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#people"></use>
+    </svg>
+    {% when 'cogs' %}
+    <svg viewBox="500 0 500 500" class="callout-icon">
+      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#cogs"></use>
+    </svg>
+    {% when 'speakers' %}
+    <svg viewBox="1000 0 500 500" class="callout-icon">
+      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#speakers"></use>
+    </svg>
+    {% when 'energy' %}
+    <svg viewBox="1525 0 500 500" class="callout-icon">
+      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#energy"></use>
+    </svg>
+    {% else %}
+
+    {% endcase %}
+
+    <p class="callout-text">{{ metric.data }}</p>
   </div>
-  <div class="grid-content-small">
-    Fig 2
-  </div>
-  <div class="grid-content-small">
-    Fig 3
-  </div>
-  <div class="grid-content-small">
-    Fig 4
-  </div>
+  {% endfor %}
+  {% endif %}
 </section>
 
 <!--

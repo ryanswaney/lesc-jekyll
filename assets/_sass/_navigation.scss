@@ -5,8 +5,15 @@
 ======================== */
 
 /* == 1. Primary Nav == */
+.site-header {
+  max-width: $content-width * 1.5;
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  margin: 0 auto;
+}
 .site-nav {
-  background: $gray-lightest;
+  //background: $gray-lightest;
   padding: $spacing-unit;
 }
 
@@ -28,11 +35,29 @@
 .menu-item {}
 
 .menu-link {
-  border: none;
+  //border: none;
   text-decoration: none;
+  background: $white;
+  border: 6px solid #0a27c4;
+  margin-bottom: $spacing-unit * 3;
+  padding: $spacing-unit;
+  display: block;
+  position: relative;
+
+  &:after {
+    content: "";
+    height: 100%;
+    width: 100%;
+    background-color: #0a27c4;
+    position: absolute;
+    bottom: -14px;
+    left: 14px;
+    z-index: -1;
+    border: 0;
+  }
 
   &:hover {
-    border: none;
+    //border: none;
   }
 }
 
@@ -54,6 +79,10 @@
     border: 0;
   }
 }
+.site-logo {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
 
 .social-menu-link svg {
   fill: $secondary;
@@ -62,4 +91,7 @@
   &:hover {
     fill: $primary-darker;
   }
+}
+#icons {
+  display: none;
 }
