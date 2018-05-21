@@ -57,9 +57,10 @@
   }
 
   &:hover {
-    //border: none;
+    border-color: $secondary;
   }
 }
+
 
 /* == 2. Social Nav == */
 .social-nav {
@@ -75,22 +76,30 @@
 
 .social-menu-link {
   border: 0;
+  background: $white;
+  padding: $spacing-unit / 2;
+  display: block;
+  position: relative;
+  line-height: 0;
+
   &:hover {
     border: 0;
+  }
+}
+.social-menu-link svg {
+  fill: $secondary;
+  width: $spacing-unit * 1.2;
+}
+.social-menu-link {
+  &:hover {
+    svg {
+      fill: $primary-darker;
+    }
   }
 }
 .site-logo {
   grid-column-start: 1;
   grid-column-end: 3;
-}
-
-.social-menu-link svg {
-  fill: $secondary;
-  width: $spacing-unit * 1.2;
-
-  &:hover {
-    fill: $primary-darker;
-  }
 }
 #icons {
   display: none;
