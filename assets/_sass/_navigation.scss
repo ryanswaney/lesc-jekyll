@@ -7,10 +7,15 @@
 /* == 1. Primary Nav == */
 .site-header {
   max-width: $content-width * 1.5;
-  position: sticky;
+  position: relative;
   top: 0;
   z-index: 20;
   margin: 0 auto;
+
+  @include media-query($on-laptop){
+    position: sticky;
+  }
+
 }
 .site-nav {
   //background: $gray-lightest;
