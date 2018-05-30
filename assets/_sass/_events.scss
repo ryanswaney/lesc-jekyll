@@ -30,10 +30,6 @@
 
 #event-schedule {
   @include media-query($on-laptop) {
-    //max-height: 10%;
-    //max-height: 100vh;
-    //overflow-y: scroll;
-    //overflow-x: hidden;
     padding: $spacing-unit;
   }
 }
@@ -51,7 +47,7 @@
     background: $primary;
     background-image: url("/uploads/green_arrow_secondary_light_144.png"),
     url("/uploads/waves_primary_dark_144.png");
-    background-position: 50% 15%, 50% 10%;
+    background-position: 140% 15%, 50% 10%;
     background-repeat: no-repeat;
   }
 

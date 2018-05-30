@@ -120,16 +120,24 @@
 }
 .content-block-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: auto auto auto auto;
+  //grid-template-columns: repeat(auto-fit, minmax(3, 1fr));
+  grid-template-rows: repeat(1, 1fr);
   grid-column-gap: $spacing-unit * 2;
   grid-row-gap: $spacing-unit * 2;
   margin: $spacing-unit auto $spacing-unit * 3 auto;
-  max-width: 80%;
+  width: 90%;
+
+
+  @include media-query($on-laptop) {
+    grid-template-columns: repeat(3, 1fr);
+    //grid-template-rows: auto auto auto auto;
+    width: 80%;
+    max-width: 1125px;
+  }
+
 }
 .grid-header {
-  grid-column-start: 1;
-  grid-column-end: 4;
+
   grid-row-start: 1;
   background-color: $primary;
   border-right: 6px solid $white;
@@ -138,28 +146,33 @@
   padding: $spacing-unit;
   position: relative;
 
+  @include media-query($on-laptop) {
+    grid-column-start: 1;
+    grid-column-end: 4;
+
+    &:after {
+      content: "";
+      height: 100%;
+      width: 100%;
+      background-color: #0a27c4;
+      position: absolute;
+      bottom: -30px;
+      left: 30px;
+      z-index: -1;
+      border: 0;
+    }
+  }
+
   &:hover {
     background-color: #6fe224;
     background-image: url("/uploads/green_arrow_secondary_light_144.png");
     background-size: 40%;
     background-position: 50% 50%;
   }
-
-  &:after {
-    content: "";
-    height: 100%;
-    width: 100%;
-    background-color: #0a27c4;
-    position: absolute;
-    bottom: -30px;
-    left: 30px;
-    z-index: -1;
-    border: 0;
-  }
 }
 .grid-title {
   color: $white;
-  font-size: 8vw;
+  font-size: 160%;
   line-height: .9;
   display: inline;
 
@@ -174,10 +187,13 @@
     border:0;
     margin-bottom: $spacing-unit * 2;
   }
+
+  @include media-query($on-laptop) {
+    font-size: 8vw;
+  }
 }
 .grid-content-large {
-  grid-column-start: 1;
-  grid-column-end: span 2;
+
   grid-row-start: 2;
   grid-row-end: span 2;
   background-color: $white;
@@ -186,17 +202,25 @@
   padding: $spacing-unit;
   position: relative;
 
-  &:after {
-    content: "";
-    height: 100%;
-    width: 100%;
-    background-color: $primary-darker;
-    position: absolute;
-    bottom: -30px;
-    left: 30px;
-    z-index: -1;
-    border: 0;
+  @include media-query($on-laptop){
+    grid-column-start: 1;
+    grid-column-end: span 2;
+
+    &:after {
+      content: "";
+      height: 100%;
+      width: 100%;
+      background-color: $primary-darker;
+      position: absolute;
+      bottom: -30px;
+      left: 30px;
+      z-index: -1;
+      border: 0;
+    }
+
   }
+
+
 }
 .grid-content-small {
   background-color: $primary;
@@ -220,17 +244,23 @@
     }
   }
 
-  &:after {
-    content: "";
-    height: 100%;
-    width: 100%;
-    background-color: $primary-darker;
-    position: absolute;
-    bottom: -24px;
-    left: 24px;
-    z-index: -1;
-    border: 0;
+  @include media-query($on-laptop) {
+
+    &:after {
+      content: "";
+      height: 100%;
+      width: 100%;
+      background-color: $primary-darker;
+      position: absolute;
+      bottom: -24px;
+      left: 24px;
+      z-index: -1;
+      border: 0;
+    }
+
   }
+
+
 
 
 }
