@@ -19,7 +19,7 @@
 }
 .site-nav {
   //background: $gray-lightest;
-  padding: $spacing-unit;
+  padding: $spacing-unit / 2;
 }
 
 .site-menu {
@@ -29,7 +29,7 @@
   gap: $spacing-unit;
   list-style: none;
   margin: 0;
-  align-items: center;
+  //align-items: top;
   text-align: center;
 
   @include media-query($on-laptop) {
@@ -45,9 +45,10 @@
   background: $white;
   border: 6px solid #0a27c4;
   margin-bottom: $spacing-unit * 3;
-  padding: $spacing-unit;
+  padding: $spacing-unit / 2;
   display: block;
   position: relative;
+  font-size: $base-font-size * .85;
 
   &:after {
     content: "";
@@ -104,7 +105,11 @@
 }
 .site-logo {
   grid-column-start: 1;
-  grid-column-end: 3;
+  grid-column-end: 2;
+
+  .menu-link {
+    padding: $spacing-unit / 2;
+  }
 }
 #icons {
   display: none;

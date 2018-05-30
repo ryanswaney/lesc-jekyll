@@ -6,6 +6,8 @@ site-nav:
     url: /events/
   - title: "Resources"
     url: /news/
+  - title: "Contact"
+    url: "/contact/"
 
 # Social Navigation
 social-nav:
