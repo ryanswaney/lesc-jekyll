@@ -1,5 +1,18 @@
+.post-grid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
 article.post {
+  flex: 100%;
   margin-bottom: $spacing-unit;
+
+  @include media-query($on-laptop) {
+    flex: 45%;
+    margin-right: 5%;
+    flex-grow: 0;
+  }
 }
 .post-title {
   font-size: $xlarge-heading;
@@ -7,4 +20,23 @@ article.post {
 }
 a > .post-title {
   font-size: $large-heading;
+}
+article.post {
+  background-color: $white;
+  border: 6px solid $primary-darker;
+  padding: $spacing-unit;
+}
+.post-date {
+  display: block;
+  font-size: 70%;
+  margin-bottom: $spacing-unit;
+}
+.post-category {
+  background: $primary-darker;
+  color: $white;
+  font-size: 70%;
+  //margin-bottom: $spacing-unit / 2;
+  padding: $spacing-unit / 2;
+  display: inline-block;
+  text-transform: uppercase;
 }

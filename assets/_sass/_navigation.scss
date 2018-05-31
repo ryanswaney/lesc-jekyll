@@ -108,7 +108,12 @@
   grid-column-end: 2;
 
   .menu-link {
-    padding: $spacing-unit / 2;
+    border: none;
+    padding: 0;
+
+    &:after {
+      content: none;
+    }
   }
 }
 #icons {

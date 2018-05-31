@@ -1,6 +1,5 @@
 ---
-title: Past Events
+title: Events
 permalink: "/events"
 layout: event-archive
 ---
-

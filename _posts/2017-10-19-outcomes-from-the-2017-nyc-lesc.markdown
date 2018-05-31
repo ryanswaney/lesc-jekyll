@@ -1,6 +1,7 @@
 ---
 title: Outcomes from the 2017 NYC Low-Emission Solutions Conference
 date: 2017-10-19 00:00:00 Z
+category: news
 ---
 
 ## Bringing Emissions Solutions to Scale for a Sustainable Future
