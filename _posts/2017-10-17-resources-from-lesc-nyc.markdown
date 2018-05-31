@@ -1,7 +1,8 @@
 ---
 title: 'Presentations & Resources: LESC NYC'
 date: 2017-10-17 00:00:00 Z
-category: presentations
+categories:
+- presentations
 ---
 
 ### Session A: Deep Decarbonization Pathways: Where Do They Lead?

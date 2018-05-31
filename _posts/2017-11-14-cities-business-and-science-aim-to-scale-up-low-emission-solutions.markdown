@@ -1,7 +1,8 @@
 ---
 title: Cities, business and science aim to scale up low-emission solutions
 date: 2017-11-14 00:00:00 Z
-category: news
+categories:
+- news
 ---
 
 On 13 November 2017, during COP23, cities, businesses and researchers gathered in a unique forum to discuss the implementation at scale of low-emissions solutions. Created by the [World Business Council for Sustainable Development (WBCSD)](http://www.wbcsd.org/), the [Sustainable Development Solutions Network (UNSDSN)](http://www.unsdsn.org/) and [ICLEI – Local Governments for Sustainability](http://www.iclei.org/), this was the third **Low Emission Solutions Conference (LESC)** building the connection between a range of climate stakeholders.

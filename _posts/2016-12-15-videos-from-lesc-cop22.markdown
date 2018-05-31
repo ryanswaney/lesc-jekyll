@@ -1,7 +1,8 @@
 ---
 title: 'Video Series: Sessions from LESC at COP22'
 date: 2016-12-15 00:00:00 Z
-category: videos
+categories:
+- videos
 related-videos:
 - title: Nezha Larhrissi's Opening Address
   url: https://youtu.be/aN-639Po-do
@@ -260,3 +261,4 @@ related-videos:
     of Climate Change, Gov. Argentina), and David Turk (Head of Energy Environment
     Division, International Energy Agency).
 ---
+

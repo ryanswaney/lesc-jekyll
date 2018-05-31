@@ -1,7 +1,8 @@
 ---
 title: 'Presentations & Resources: LESC at COP22'
 date: 2016-11-18 00:00:00 Z
-category: presentations
+categories:
+- presentations
 ---
 
 ### Presentations

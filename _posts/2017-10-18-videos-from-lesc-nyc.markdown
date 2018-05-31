@@ -1,7 +1,8 @@
 ---
 title: 'Video Series: Sessions from LESC NYC'
 date: 2017-10-18 00:00:00 Z
-category: videos
+categories:
+- videos
 related-videos:
 - title: LESC Partner Welcome
   url: https://youtu.be/WaT0Yzo5dm8
@@ -20,3 +21,4 @@ related-videos:
   description: Francesco Starace, CEO of Enel, discusses how new technologies can
     allow the future of the energy industry achieve zero emissions.
 ---
+
