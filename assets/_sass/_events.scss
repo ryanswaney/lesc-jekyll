@@ -147,13 +147,37 @@
 
 /* == Event Archives == */
 article.event-archive {
-  margin-bottom: $spacing-unit;
+  flex: 100%;
+  margin-bottom: $spacing-unit * 2;
+  background-color: $white;
+  background-image: url("/uploads/green_arrow_secondary_light_144.png");
+  background-position: -10% center;
+  background-size: 70%;
+  border: 6px solid $primary-darker;
+  padding: $spacing-unit / 2;
+
+  @include media-query($on-laptop) {
+    flex: 45%;
+    margin-right: 5%;
+    margin-bottom: $spacing-unit * 2.5;
+    flex-grow: 0;
+  }
+
+  header {
+    background: $white;
+    margin-top: -$spacing-unit * 1.25;
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+    padding-bottom: $spacing-unit;
+  }
 }
 .event-archive-title {
-  margin-bottom: 0;
+  font-size: $base-heading;
+  margin-bottom: $spacing-unit / 2;
 }
 .event-archive-theme {
-  margin-bottom: 0;
+  font-size: $large-heading;
+  margin-bottom: $spacing-unit / 2;
 }
 
 /* == Event Speakers == */

@@ -35,7 +35,7 @@ defaults:
     theme:
     hashtag:
     is-featured:
-    is-upcoming: 
+    is-upcoming:
     logo-file:
     logo-vector-file:
     location-text:
@@ -51,7 +51,8 @@ twitter_hashtag: LESC
 facebook_username: Low2No
 permalink: pretty
 email: info@lowemissions.solutions
-description:
+description: >
+  The Low-Emissions Solutions Conference (LESC) is aimed at problem solving, brainstorming, and global co-creation to inform nations about the latest technology developments. It brings together technical experts and world-leading scientists, engineers and innovators from business, academia, and cities, to share knowledge, exchange information, identify bottlenecks, discuss best practices, and prioritize future research in order to set common technological trajectories for a decarbonized economy as well as the transformations necessary in each sector.
 baseurl: "/"
 url: http://lowemissions.solutions
 markdown: kramdown
