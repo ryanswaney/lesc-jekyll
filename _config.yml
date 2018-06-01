@@ -24,35 +24,42 @@ defaults:
     layout: post
     permalink: "/:year/:month/:day/:title"
     related-videos:
-    - title:
-      url:
-      description:
+    - title: 
+      url: 
+      description: 
 - scope:
     path: ''
     type: event
   values:
     layout: event
-    theme:
-    hashtag:
-    is-featured:
-    is-upcoming:
-    logo-file:
-    logo-vector-file:
-    location-text:
-    event-date-text:
-    registration-url:
-    schedule-text:
+    theme: 
+    hashtag: 
+    is-featured: 
+    is-upcoming: 
+    logo-file: 
+    logo-vector-file: 
+    location-text: 
+    event-date-text: 
+    registration-url: 
+    schedule-text: 
     related-media:
-    - description:
-      image:
+    - description: 
+      image: 
     permalink: "/:collection/:name"
 twitter_username: Low2No
 twitter_hashtag: LESC
 facebook_username: Low2No
 permalink: pretty
 email: info@lowemissions.solutions
-description: >
-  The Low-Emissions Solutions Conference (LESC) is aimed at problem solving, brainstorming, and global co-creation to inform nations about the latest technology developments. It brings together technical experts and world-leading scientists, engineers and innovators from business, academia, and cities, to share knowledge, exchange information, identify bottlenecks, discuss best practices, and prioritize future research in order to set common technological trajectories for a decarbonized economy as well as the transformations necessary in each sector.
+description: 'The Low-Emissions Solutions Conference (LESC) is aimed at problem solving,
+  brainstorming, and global co-creation to inform nations about the latest technology
+  developments. It brings together technical experts and world-leading scientists,
+  engineers and innovators from business, academia, and cities, to share knowledge,
+  exchange information, identify bottlenecks, discuss best practices, and prioritize
+  future research in order to set common technological trajectories for a decarbonized
+  economy as well as the transformations necessary in each sector.
+
+'
 baseurl: "/"
 url: http://lowemissions.solutions
 markdown: kramdown
