@@ -7,6 +7,10 @@
               <img src="/assets/images/LESC_logo.png">
             </a>
           </li>
+          <li class="menu-item nav-toggle">
+            <a class="menu-link toggle-link">Menu</a>
+          </li>
+          <div class="menu-wrapper">
           {% for link in site.data.navigation.site-nav %}
           <li class="menu-item">
             <a href="{{ link.url }}" class="menu-link">{{ link.title }}</a>
@@ -23,6 +27,7 @@
           {% endfor %}
             </ul>
           </li>
+        </div>
       </ul>
     </nav>
 

@@ -8,9 +8,15 @@ layout: default
 
 <section class="content-block-grid">
   <header class="grid-header">
+    {% if page.callout %}
     <h1 class="grid-title">
-      <span>{{ page.message }}</span>
+      <span>{{ page.callout}}</span>
     </h1>
+    {% else %}
+    <h1 class="grid-title">
+      <span>{{ page.title }}</span>
+    </h1>
+    {% endif %}
   </header>
 
   <div class="grid-content-large">
@@ -73,9 +79,11 @@ layout: default
         <h2 class="post-title">{{ post.title }}</h2>
       </a>
       <time class="post-date">{{ post.date | date: "%B %-d, %Y" }}</time>
-      {% if post.category %}
+      {% if post.categories %}
       <div class="post-category">
-        {{ post.category }}
+        {% for category in post.categories %}
+          {{ category }}
+        {% endfor %}
       </div>
       {% endif %}
     </header>

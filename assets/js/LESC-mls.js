@@ -3,7 +3,7 @@
  MyFonts Webfont Build ID 3478576, 2017-11-06T16:24:01-0500
 
  The fonts listed in this notice are subject to the End User License
- Agreement(s) entered into by the website owner. All other parties are 
+ Agreement(s) entered into by the website owner. All other parties are
  explicitly restricted from using the Licensed Webfonts(s).
 
  You may obtain a valid license at the URLs below.

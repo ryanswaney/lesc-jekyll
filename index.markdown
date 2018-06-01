@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: "/"
-message: We have the tools to safeguard our planet.
+callout: We have the tools to safeguard our planet.
 metrics:
 - icon: speakers
   data: 200+ Speakers
