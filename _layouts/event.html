@@ -46,7 +46,9 @@ layout: default
 
   {% if page.schedule-text %}
   <section id="event-schedule">
-    {{ page.schedule-text | markdownify }}
+    <div class="event-schedule-wrapper">
+      {{ page.schedule-text | markdownify }}
+    </div>
   </section>
   {% endif %}
 

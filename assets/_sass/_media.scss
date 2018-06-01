@@ -25,13 +25,14 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  margin: 0;
   padding: 0;
   list-style: none;
 
   li {
     flex: 100%;
     margin-bottom: 2em;
-    padding: 0 1.25em;
+    padding: 0 $spacing-unit / 1.2;
 
     @include media-query($on-laptop) {
       flex: 50%;
@@ -111,8 +112,8 @@
   margin-top: 1em;
 }
 .video-title {
-
+  font-size: $large-heading;
 }
 .video-excerpt {
-  font-size: 80%;
+  font-size: 70%;
 }

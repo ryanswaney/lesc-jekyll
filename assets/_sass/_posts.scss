@@ -4,13 +4,21 @@
   flex-wrap: wrap;
 }
 
+.post-grid {
+  .page-header {
+    flex: 100%;
+    margin-bottom: $spacing-unit * 2;
+  }
+}
+
 article.post {
   flex: 100%;
-  margin-bottom: $spacing-unit;
+  margin-bottom: $spacing-unit * 2;
 
   @include media-query($on-laptop) {
     flex: 45%;
     margin-right: 5%;
+    margin-bottom: $spacing-unit * 2.5;
     flex-grow: 0;
   }
 }
@@ -23,8 +31,18 @@ a > .post-title {
 }
 article.post {
   background-color: $white;
+  background-image: url("/uploads/waves_primary_dark_144.png");
+  background-position: -10% center;
+  background-size: 30%;
   border: 6px solid $primary-darker;
-  padding: $spacing-unit;
+  padding: $spacing-unit / 2;
+}
+article.post header {
+  background: $white;
+  margin-top: -$spacing-unit * 1.25;
+  padding-right: $spacing-unit;
+  padding-left: $spacing-unit;
+  padding-bottom: $spacing-unit;
 }
 .post-date {
   display: block;

@@ -21,18 +21,27 @@
     grid-row: 2 ;
   }
 }
+#event-description {
+  padding: $spacing-unit;
+}
 #event-description,
 #event-schedule {
   border-bottom: $base-border-size / 2 solid $primary-darker;
   border-top: $base-border-size / 2 solid $primary-darker;
-  padding: $spacing-unit;
 }
 
 #event-schedule {
+
   @include media-query($on-laptop) {
-    padding: $spacing-unit;
+    //padding: $spacing-unit;
   }
 }
+.event-schedule-wrapper {
+  max-height: 100vh;
+  overflow-x: scroll;
+  padding: $spacing-unit;
+}
+
 .event-feature {
   background: $secondary;
   background-image: url("/uploads/green_arrow_secondary_light_144.png"),

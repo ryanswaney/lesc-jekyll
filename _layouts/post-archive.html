@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<section id="page-content">
+<section id="page-content" class="post-grid">
   <header class="page-header">
     <h1 class="page-title">
       {{ page.title }}</a>
@@ -15,7 +15,12 @@ layout: default
       <a href="{{ post.url }}">
         <h2 class="post-title">{{ post.title }}</h2>
       </a>
-      <time>{{ post.date | date: "%B %-d, %Y" }}</time>
+      <time class="post-date">{{ post.date | date: "%B %-d, %Y" }}</time>
+      {% if post.category %}
+      <div class="post-category">
+        {{ post.category }}
+      </div>
+      {% endif %}
     </header>
   </article>
   {% endfor %}
