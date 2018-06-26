@@ -2,7 +2,7 @@
 title: LESC at COP23
 date: 2017-10-19 19:39:00 Z
 permalink: "/event/lesc-at-cop23"
-position: 3
+position: 2
 hashtag: lesc23
 is-featured: true
 logo-file: "/uploads/LESC_COP23_logo.png"
