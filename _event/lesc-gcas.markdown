@@ -2,7 +2,7 @@
 title: LESC at GCAS 2018
 date: 2018-06-26 14:20:00 Z
 position: 0
-theme: Land-use Pathways and Energy Pathways to Deep Decarbonization
+theme: Land-use Pathways & Energy Pathways to Deep Decarbonization
 location-text: University of San Francisco
 event-date-text: September 11 or 12, 2018 (TBC)
 registration-url: https://www.eventbrite.com/e/low-emissions-solutions-conference-lesc-at-the-global-climate-action-summit-registration-45493626662
