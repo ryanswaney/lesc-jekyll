@@ -8,7 +8,8 @@ layout: default
       {{ page.title }}</a>
     </h1>
   </header>
-  {% for event in site.event %}
+  {% assign events = site.event | sort: 'position' %}
+  {% for event in events %}
   <article class="event-archive">
     <header class="event-archive-header">
       <h2 class="event-archive-title">{{ event.title }}</h2>

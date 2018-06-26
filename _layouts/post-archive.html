@@ -12,10 +12,6 @@ layout: default
   {% for post in site.posts %}
   <article class="post">
     <header>
-      <a href="{{ post.url }}">
-        <h2 class="post-title">{{ post.title }}</h2>
-      </a>
-      <time class="post-date">{{ post.date | date: "%B %-d, %Y" }}</time>
       {% if post.categories %}
       <div class="post-category">
         {% for category in post.categories %}
@@ -23,6 +19,11 @@ layout: default
         {% endfor %}
       </div>
       {% endif %}
+      <a href="{{ post.url }}">
+        <h2 class="post-title">{{ post.title }}</h2>
+      </a>
+      <time class="post-date">{{ post.date | date: "%B %-d, %Y" }}</time>
+
     </header>
   </article>
   {% endfor %}

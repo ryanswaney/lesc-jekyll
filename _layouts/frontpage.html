@@ -6,8 +6,8 @@ layout: default
 {% include icons/icons.svg %}
 {% endif %}
 
-<section class="content-block-grid">
-  <header class="grid-header">
+<section class="content-grid">
+  <header class="content-grid-header">
     {% if page.callout %}
     <h1 class="grid-title">
       <span>{{ page.callout}}</span>
@@ -19,40 +19,9 @@ layout: default
     {% endif %}
   </header>
 
-  <div class="grid-content-large">
+  <div class="content-grid-content-large">
     {{ content }}
   </div>
-
-  {% if page.metrics %}
-  {% for metric in page.metrics %}
-  <div class="grid-content-small">
-
-    {% case metric.icon %}
-
-    {% when 'people' %}
-    <svg viewBox="0 0 500 500" class="callout-icon">
-      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#people"></use>
-    </svg>
-    {% when 'cogs' %}
-    <svg viewBox="500 0 500 500" class="callout-icon">
-      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#cogs"></use>
-    </svg>
-    {% when 'speakers' %}
-    <svg viewBox="1000 0 500 500" class="callout-icon">
-      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#speakers"></use>
-    </svg>
-    {% when 'energy' %}
-    <svg viewBox="1525 0 500 500" class="callout-icon">
-      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#energy"></use>
-    </svg>
-    {% else %}
-
-    {% endcase %}
-
-    <p class="callout-text">{{ metric.data }}</p>
-  </div>
-  {% endfor %}
-  {% endif %}
 </section>
 
 {% if site.event %}
@@ -65,7 +34,8 @@ layout: default
     </header>
   </article>
 
-  {% for event in site.event limit: 3 %}
+  {% assign events = site.event | sort: 'position' %}
+  {% for event in events limit: 3 %}
   <article class="event-archive">
     <header class="event-archive-header">
       <h2 class="event-archive-title">{{ event.title }}</h2>
@@ -77,6 +47,40 @@ layout: default
   </article>
   {% endfor %}
 </section>
+{% endif %}
+
+{% if page.metrics %}
+<ul class="icon-grid">
+{% for metric in page.metrics %}
+  <li>
+    <div class="icon-wrap">
+  {% case metric.icon %}
+
+  {% when 'people' %}
+  <svg viewBox="0 0 500 500" class="callout-icon">
+    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#people"></use>
+  </svg>
+  {% when 'cogs' %}
+  <svg viewBox="500 0 500 500" class="callout-icon">
+    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#cogs"></use>
+  </svg>
+  {% when 'speakers' %}
+  <svg viewBox="1000 0 500 500" class="callout-icon">
+    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#speakers"></use>
+  </svg>
+  {% when 'energy' %}
+  <svg viewBox="1525 0 500 500" class="callout-icon">
+    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#energy"></use>
+  </svg>
+  {% else %}
+
+  {% endcase %}
+
+  <p class="callout-text">{{ metric.data }}</p>
+  </div>
+  </li>
+{% endfor %}
+</ul>
 {% endif %}
 
 {% if site.posts %}
@@ -92,10 +96,6 @@ layout: default
   {% for post in site.posts limit: 5 %}
   <article class="post">
     <header>
-      <a href="{{ post.url }}">
-        <h2 class="post-title">{{ post.title }}</h2>
-      </a>
-      <time class="post-date">{{ post.date | date: "%B %-d, %Y" }}</time>
       {% if post.categories %}
       <div class="post-category">
         {% for category in post.categories %}
@@ -103,6 +103,11 @@ layout: default
         {% endfor %}
       </div>
       {% endif %}
+      <a href="{{ post.url }}">
+        <h2 class="post-title">{{ post.title }}</h2>
+      </a>
+      <time class="post-date">{{ post.date | date: "%B %-d, %Y" }}</time>
+
     </header>
   </article>
   {% endfor %}

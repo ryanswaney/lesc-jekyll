@@ -50,11 +50,13 @@ article.post header {
   margin-bottom: $spacing-unit;
 }
 .post-category {
-  background: $primary-darker;
-  color: $white;
+  //background: $primary-darker;
+  //color: $white;
+  color: $primary-darker;
   font-size: 70%;
   //margin-bottom: $spacing-unit / 2;
-  padding: $spacing-unit / 2;
+  //padding: $spacing-unit / 2;
+  padding: $spacing-unit 0 $spacing-unit $spacing-unit $spacing-unit;
   display: inline-block;
   text-transform: uppercase;
 }

@@ -4,13 +4,13 @@ permalink: "/"
 callout: We have the tools to safeguard our planet.
 metrics:
 - icon: speakers
-  data: 200+ Speakers
+  data: Amplifying Impact
 - icon: energy
-  data: 3 Cross-cutting Themes
+  data: Discovering Solutions
 - icon: people
-  data: 500+ Participants
+  data: Building Partnerships
 - icon: cogs
-  data: 50+ Solutions
+  data: Forging Pathways
 layout: frontpage
 ---
 
