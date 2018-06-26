@@ -35,7 +35,7 @@ layout: default
   </article>
 
   {% assign events = site.event | sort: 'position' %}
-  {% for event in events limit: 3 %}
+  {% for event in events limit: 4 %}
   <article class="event-archive">
     <header class="event-archive-header">
       <h2 class="event-archive-title">{{ event.title }}</h2>
@@ -46,6 +46,12 @@ layout: default
     </header>
   </article>
   {% endfor %}
+  <a href="/news" class="post-archive-link">
+    <svg viewBox="0 0 500 500">
+      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#people"></use>
+    </svg>
+    View all Events
+  </a>
 </section>
 {% endif %}
 
@@ -93,7 +99,7 @@ layout: default
     </header>
   </article>
 
-  {% for post in site.posts limit: 5 %}
+  {% for post in site.posts limit: 4 %}
   <article class="post">
     <header>
       {% if post.categories %}
@@ -107,10 +113,16 @@ layout: default
         <h2 class="post-title">{{ post.title }}</h2>
       </a>
       <time class="post-date">{{ post.date | date: "%B %-d, %Y" }}</time>
-
     </header>
   </article>
   {% endfor %}
+
+  <a href="/news" class="post-archive-link">
+    <svg viewBox="500 0 500 500">
+      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#cogs"></use>
+    </svg>
+    View all Resources
+  </a>
 
 </section>
 {% endif %}
