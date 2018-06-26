@@ -1,6 +1,7 @@
 ---
 title: LESC at ICSD 2018
 date: 2018-06-26 14:25:00 Z
+position: 4
 location-text: Alfred Lerner Hall, Columbia University
 event-date-text: September 27, 2018
 registration-url: http://ic-sd.org/register/

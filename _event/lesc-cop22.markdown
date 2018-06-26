@@ -2,6 +2,7 @@
 title: LESC at COP22
 date: 2017-10-24 14:57:00 Z
 permalink: "/event/lesc-at-cop22"
+position: 3
 hashtag: lesc22
 logo-file: "/uploads/LESC_COP22_logo.png"
 logo-vector-file: "/uploads/LESC_COP22_logo.svg"

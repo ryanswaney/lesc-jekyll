@@ -1,6 +1,7 @@
 ---
 title: LESC at GCAS 2018
 date: 2018-06-26 14:20:00 Z
+position: 0
 theme: Land-use Pathways and Energy Pathways to Deep Decarbonization
 location-text: University of San Francisco
 event-date-text: September 11 or 12, 2018 (TBC)
