@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: LESC at GCAS 2018
 date: 2018-06-26 14:20:00 Z
 position: 0
@@ -98,6 +99,9 @@ schedule-text: |-
 
   ## Evening Cocktail Reception
   18:15
+=======
+title: Lesc Gcas
+>>>>>>> 920405321317686ebb41e5ec85bbc81452e4c779
 ---
 
 The **2018 Global Climate Action Summit** will bring together leaders from state and local governments and business from around the world. In an official GCAS affiliate side-event, LESC will host panels featuring distinguished speakers who will highlight the current state of technological solutions in each field and identify research, funding, and policy gaps. The agenda will include facilitated networking sessions to promote multi-stakeholder collaboration.
