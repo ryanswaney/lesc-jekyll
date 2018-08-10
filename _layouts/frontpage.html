@@ -27,7 +27,7 @@ layout: default
 {% if site.event %}
 <section id="page-content" class="post-grid">
 
-  <article class="post">
+  <article class="post post-full-grid-width">
     <header>
       <h2>Events</h2>
       <p>Stay informed about what is upcoming at LESC or explore our past events.</p>
@@ -36,14 +36,27 @@ layout: default
 
   {% assign events = site.event | sort: 'position' %}
   {% for event in events limit: 4 %}
+  {% if event.is-featured == true %}
+  <article class="event-archive featured-event">
+  {% else %}
   <article class="event-archive">
+  {% endif %}
     <header class="event-archive-header">
       <h2 class="event-archive-title">{{ event.title }}</h2>
       <a href="{{ event.url }}">
       <h3 class="event-archive-theme">{{ event.theme }}</h3>
       </a>
-      <date class="event-archive-date">{{ event.event-date-text }}</date>
+      <div class="event-archive-date">{{ event.event-date-text }}</div>
+      {% if event.blurb %}
+      <p class="event-blurb">{{ event.blurb  }}</p>
+      {% endif %}
+      {% if event.registration-url %}
+      <a href="{{ event.registration-url }}" class="cta-register">
+        Register for {{ event.title }}
+      </a>
+      {% endif %}
     </header>
+
   </article>
   {% endfor %}
   <a href="/events" class="post-archive-link">

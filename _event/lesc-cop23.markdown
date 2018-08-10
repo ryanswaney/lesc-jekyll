@@ -4,7 +4,6 @@ date: 2017-10-19 19:39:00 Z
 permalink: "/event/lesc-at-cop23"
 position: 2
 hashtag: lesc23
-is-featured: true
 logo-file: "/uploads/LESC_COP23_logo.png"
 logo-vector-file: "/uploads/LESC_COP23_logo.svg"
 theme: Implementation at Scale

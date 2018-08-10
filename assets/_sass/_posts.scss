@@ -22,6 +22,9 @@ article.post {
     flex-grow: 0;
   }
 }
+article.post-full-grid-width {
+  flex: 100%;
+}
 .post-title {
   font-size: $xlarge-heading;
   margin-bottom: 0;

@@ -179,6 +179,26 @@ article.event-archive {
   font-size: $large-heading;
   margin-bottom: $spacing-unit / 2;
 }
+.event-archive-date {
+  margin-bottom: $spacing-unit;
+}
+.featured-event {
+  flex: 100% !important;
+  border: 10px solid $primary-darker !important;
+
+  h2,
+  h3,
+  p {
+    font-size: 120%;
+
+    @include media-query($on-laptop) {
+      font-size: 140%;
+    }
+  }
+}
+.event-blurb {
+  margin-top: $spacing-unit;
+}
 
 /* == Event Speakers == */
 .speakers-grid {
