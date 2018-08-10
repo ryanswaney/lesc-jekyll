@@ -7,7 +7,6 @@ theme: The Land-Energy Nexus In Climate Change Mitigation
 location-text: University of San Francisco
 event-date-text: September 11, 2018
 registration-url: https://www.eventbrite.com/e/low-emissions-solutions-conference-lesc-at-the-global-climate-action-summit-registration-45493626662
-<<<<<<< HEAD
 blurb: "The 2018 Global Climate Action Summit will bring together leaders from state and local governments and business from around the world. In an official GCAS affiliate side-event, LESC will host panels featuring distinguished speakers who will highlight the current state of technological solutions in each field and identify research, funding, and policy gaps."
 schedule-text: |-
   ![San Francisco](/uploads/lesc-gsca-sanfran-collage_144_bg.jpg)
@@ -99,14 +98,6 @@ schedule-text: |-
 
   ## Evening Cocktail Reception
   18:15
-=======
-blurb: The 2018 Global Climate Action Summit will bring together leaders from state
-  and local governments and business from around the world. In an official GCAS affiliate
-  side-event, LESC will host panels featuring distinguished speakers who will highlight
-  the current state of technological solutions in each field and identify research,
-  funding, and policy gaps.
-schedule-text: "![San Francisco](/uploads/lesc-gsca-sanfran-collage_144_bg.jpg)  "
->>>>>>> 16f2291a139b77ef495273a6c40d3e6040ddd859
 ---
 
 The **2018 Global Climate Action Summit** will bring together leaders from state and local governments and business from around the world. In an official GCAS affiliate side-event, LESC will host panels featuring distinguished speakers who will highlight the current state of technological solutions in each field and identify research, funding, and policy gaps. The agenda will include facilitated networking sessions to promote multi-stakeholder collaboration.
