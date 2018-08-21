@@ -14,8 +14,7 @@ blurb: The 2018 Global Climate Action Summit will bring together leaders from st
   funding, and policy gaps.
 schedule-text: "![San Francisco](/uploads/lesc-gsca-sanfran-collage_144_bg.jpg)\n\n#
   Tuesday September 11, 2018\n\n## Registration & Breakfast  \n8:30\n\n---\n\n## Welcome
-  & Conference Objectives\n9:00\n\n---\n\n## Opening Keynote: Jeffrey Sachs, SDSN
-  and Guest\n9:20\n\n---\n\n## Plenary Panel 1: The Land-Energy Nexus in Climate Change
+  & Conference Objectives\n9:00\n\n---\n\n## Opening Keynote\n9:20\n\n---\n\n## Plenary Panel 1: The Land-Energy Nexus in Climate Change
   Mitigation\n9:30\n\n---\n\n## Plenary Panel 2: Counting on the Land: The role of
   Land Sinks, Biomass, and BECCS\n10:30\n\n---\n\n## Networking Break\n11:45\n\n---\n\n##
   Plenary Panel 3: Building Integrated Land-Energy Pathways: Reducing Uncertainty
