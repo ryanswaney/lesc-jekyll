@@ -33,6 +33,11 @@ layout: default
         Register
       </a>
       {% endif %}
+      {% if page.sessions %}
+      <a href="#event-sessions" class="cta-register">
+        Event Agenda
+      </a>
+      {% endif %}
     </div>
 
   </header>
@@ -49,6 +54,47 @@ layout: default
     <div class="event-schedule-wrapper">
       {{ page.schedule-text | markdownify }}
     </div>
+  </section>
+  {% endif %}
+
+  {% if page.sessions[0].title != nill %}
+  <section id="event-sessions">
+    <h2>Event Agenda</h2>
+    <ul class="sessions">
+      {% for session in page.sessions %}
+      <li class="session">
+        <div class="session-header">
+          <div class="session-time">
+            {{ session.date | date: "%I:%M%P" }}
+          </div>
+          <div class="session-title">
+            {{ session.title }}
+          </div>
+        </div>
+
+        {% if session.moderators or session.speakers or session.description %}
+        <div class="session-meta">
+          {% if session.moderators %}
+          <div class="session-moderators">
+            <strong>Moderator(s):</strong> {{ session.moderators }}
+          </div>
+          {% endif %}
+          {% if session.speakers %}
+          <div class="session-speakers">
+            <strong>Speaker(s):</strong> {{ session.speakers }}
+          </div>
+          {% endif %}
+          {% if session.description %}
+          <div class="session-description">
+            {{ session.description | markdownify }}
+          </div>
+          {% endif %}
+        </div>
+        {% endif %}
+
+      </li>
+      {% endfor %}
+    </ul>
   </section>
   {% endif %}
 

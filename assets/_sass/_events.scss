@@ -268,3 +268,46 @@ article.event-archive {
 .partner-logo {
   max-width: 75%;
 }
+
+// Sesssions
+.sessions {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.session {
+  border: $spacing-unit / 4 solid $primary-darker;
+  margin-bottom: $spacing-unit;
+  padding: $spacing-unit / 2;
+}
+.session-header {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  margin-bottom: $spacing-unit;
+}
+.session-title {
+  color: $primary-darker;
+  font-family: $heading-font-family;
+  font-size: $base-heading;
+  line-height: 1.2;
+
+  flex: 75%;
+}
+.session-time {
+  flex: 25%;
+}
+.session-title,
+.session-time {
+  padding: $spacing-unit / 6;
+}
+
+.session-header + .session-meta {
+  border-top: $spacing-unit / 6 solid $primary-darker;
+  padding-top: $spacing-unit;
+}
+
+.session-moderators {
+  margin-bottom: $spacing-unit / 4;
+}
