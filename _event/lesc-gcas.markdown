@@ -129,6 +129,128 @@ sessions:
   moderators: 
   speakers: David Schlosberg, eMotoworks
   description: 
+speakers:
+- name: Tony Seba
+  title: Founder, Rethink X
+  bio_text: 
+  image: 
+- name: Paolo Frankl
+  title: Head of Renewable Energy Division, IEA
+  bio_text: 
+  image: 
+- name: Michael Kobori
+  title: Vice President of Sustainability,  Levi Strauss
+  bio_text: 
+  image: 
+- name: Geoffrey Holmes
+  title: Director of Business Development, Carbon Engineering
+  bio_text: 
+  image: 
+- name: Dr. John Holdren
+  title: Professor, Harvard
+  bio_text: 
+  image: 
+- name: Dr. Guido Schmidt-Traub
+  title: Executive Director, SDSN
+  bio_text: 
+  image: 
+- name: H.E. Ola Elvestuen
+  title: Minister of Climate and Environment, Norway
+  bio_text: 
+  image: 
+- name: Mr. Valery Miftakhov
+  title: Founder & CEO, Emotowerks
+  bio_text: 
+  image: 
+- name: David Schlosberg
+  title: Vice President, Energy Market Operations for eMotorWerks
+  bio_text: 
+  image: 
+- name: Mr. Daniele Maria Agostini
+  title: Head of Low Carbon and European Energy Policies, Enel
+  bio_text: 
+  image: 
+- name: Ms. Cheng Mengrong
+  title: Acting Chief, GEIDCO North America Office
+  bio_text: 
+  image: 
+- name: Ms. Erica Shipley Brand
+  title: California Energy Program Director, The Nature Conservancy
+  bio_text: 
+  image: 
+- name: Dr. Ken Alex
+  title: Director, California Governor’s Office of Planning and Research
+  bio_text: 
+  image: 
+- name: Dr. Chris Bataille
+  title: Researcher, IDDRI
+  bio_text: 
+  image: 
+- name: Mr. Patrick Browne
+  title: Director, Global Sustainability, UPS
+  bio_text: 
+  image: 
+- name: Mr. Paul Hawken
+  title: Executive Director, Project Drawdown
+  bio_text: 
+  image: 
+- name: Mr. Dick Cameron
+  title: Head, Land Programs, The Nature Conservancy
+  bio_text: 
+  image: 
+- name: Dr. Grace Wu
+  title: Smith Conservation Fellow, UC Davis
+  bio_text: 
+  image: 
+- name: Dr. Justin Baker
+  title: Senior Economist, Research Triangle Institute (RTI)
+  bio_text: 
+  image: 
+- name: Mr. Virgilio Viana
+  title: Director General, Amazonas Sustainable Foundation
+  bio_text: 
+  image: 
+- name: Dr. Petr Havlik
+  title: Deputy Program Director, International Institute for Applied Systems Analysis
+    (IIASA)
+  bio_text: 
+  image: 
+- name: Mr. Brian Shillinglaw
+  title: Executive Director, New Forests
+  bio_text: 
+  image: 
+- name: Mr. Rob Jackson
+  title: Senior Fellow, Stanford Woods Institute
+  bio_text: 
+  image: 
+- name: Dr. Alexandre Ywata de Carvalho
+  title: Director of Regional, Urban, and Environmental Studies and Policies, Brazilian
+    Institute of Applied Economics Research
+  bio_text: 
+  image: 
+- name: Christa Anderson
+  title: Fellow with World Wildlife Federation, Stanford University
+  bio_text: 
+  image: 
+- name: Dr. Jim Williams
+  title: Professor, University of San Francisco
+  bio_text: 
+  image: 
+- name: Ms. Claire Jahns
+  title: Assistant Secretary, California Natural Resources Agency
+  bio_text: 
+  image: 
+- name: Mr. Peter Walke
+  title: Deputy Secretary, Vermont Agency of Natural Resources
+  bio_text: 
+  image: 
+- name: Daniel L. Sanchez
+  title: 'Assistant Specialist, Department of Environmental Science, Policy, and Management
+    University of California-Berkeley
+
+'
+  bio_text: 
+  image: 
 ---
 
 The **Land-Energy Nexus in Climate Change Mitigation** event is a special edition of the Low-Emissions Solutions Conference taking place alongside the Global Climate Action Summit in partnership the the University of California Berkeley Lab and the University of San Francisco in addition to other local partners. The event is brought to you with support from Enel.
