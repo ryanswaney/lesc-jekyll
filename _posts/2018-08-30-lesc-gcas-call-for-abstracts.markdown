@@ -1,5 +1,5 @@
 ---
-title: "Call for Abstracts: Present at the Low-Emissions Solutions Conference in California"
+title: 'Call for Abstracts: Present at the Low-Emissions Solutions Conference in California'
 date: 2018-08-30 00:00:00 Z
 categories:
 - news

@@ -29,6 +29,7 @@ schedule-text: "![San Francisco](/uploads/lesc-gsca-sanfran-collage_144_bg.jpg)\
   Climate Smart Agriculture__\n\nEnergy:  \n__Innovation Towards a Low-Emissions Transport
   System__\n\n---\n\n## Evening Cocktail Reception\n18:15"
 ---
+
 The **Land-Energy Nexus in Climate Change Mitigation** event is a special edition of the Low-Emissions Solutions Conference taking place alongside the Global Climate Action Summit in partnership the the University of California Berkeley Lab and the University of San Francisco in addition to other local partners. The event is brought to you with support from Enel.
 
 The **2018 Global Climate Action Summit** will bring together leaders from state and local governments and business from around the world. In an official GCAS affiliate side-event, LESC will host panels featuring distinguished speakers who will highlight the current state of technological solutions in each field and identify research, funding, and policy gaps. The agenda will include facilitated networking sessions to promote multi-stakeholder collaboration.
