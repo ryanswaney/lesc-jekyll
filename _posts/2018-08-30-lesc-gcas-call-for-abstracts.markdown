@@ -9,7 +9,7 @@ The [2018 Global Climate Action Summit (GCAS)](http://globalclimateactionsummit.
 
 Along with the poster session, the event boasts panels featuring distinguished speakers to be held throughout the day and will include facilitated networking sessions to promote multi-stakeholder collaboration. Event panelists will come from government, academia, business, and civil society. It will begin with a plenary session about the role of energy in low-carbon land-use scenarios as well as land use in low-carbon energy scenarios. The plenary aims to challenge assumptions that could lead to unworkable approaches to decarbonization, and develop frameworks for land-energy integration that are conceptually sound and implementable on the ground.
 
-The poster session will be a great opportunity to share your work, learn about others’, and network.  Select presenters will be invited to deliver an “elevator pitch” about their work to this influential audience. If you have questions, please contact session chair Jack Chang at [jack_chang@berkeley.edu.](mailto:jack_chang@berkeley.edu)
+The poster session will be a great opportunity to share your work, learn about others’, and network. Select presenters will be invited to deliver an “elevator pitch” about their work to this influential audience. If you have questions, please contact session chair Jack Chang at [jack_chang@berkeley.edu.](mailto:jack_chang@berkeley.edu)
 
 ### We are especially interested in current research addressing these questions:
 
@@ -33,7 +33,7 @@ The poster session will be a great opportunity to share your work, learn about o
 * Carbon-Negative Biofuels
 * Low-Carbon Transport
 
-Other low-emissions research topics are welcome.
+Other **low-emissions research topics** are welcome.
 
 **Submit a Poster Abstract:** [http://bit.ly/2PzjmuW](http://bit.ly/2PzjmuW)  
 **Poster Specs:** Posters may be up to 48” x 48”  
