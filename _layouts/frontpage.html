@@ -6,31 +6,13 @@ layout: default
 {% include icons/icons.svg %}
 {% endif %}
 
-<section class="content-grid">
-  <header class="content-grid-header">
-    {% if page.callout %}
-    <h1 class="grid-title">
-      <span>{{ page.callout}}</span>
-    </h1>
-    {% else %}
-    <h1 class="grid-title">
-      <span>{{ page.title }}</span>
-    </h1>
-    {% endif %}
-  </header>
-
-  <div class="content-grid-content-large">
-    {{ content }}
-  </div>
-</section>
-
 {% if site.event %}
 <section id="page-content" class="post-grid">
 
   <article class="post post-full-grid-width">
     <header>
       <h2>Events</h2>
-      <p>Stay informed about what is upcoming at LESC or explore our past events.</p>
+      <p>Stay informed about upcoming LESC events or explore our past events.</p>
     </header>
   </article>
 
@@ -139,3 +121,21 @@ layout: default
 
 </section>
 {% endif %}
+
+<section class="content-grid">
+  <header class="content-grid-header">
+    {% if page.callout %}
+    <h1 class="grid-title">
+      <span>{{ page.callout}}</span>
+    </h1>
+    {% else %}
+    <h1 class="grid-title">
+      <span>{{ page.title }}</span>
+    </h1>
+    {% endif %}
+  </header>
+
+  <div class="content-grid-content-large">
+    {{ content }}
+  </div>
+</section>
