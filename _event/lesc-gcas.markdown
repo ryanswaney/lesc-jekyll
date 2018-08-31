@@ -4,7 +4,7 @@ date: 2018-06-26 14:20:00 Z
 position: 0
 is-featured: true
 theme: The Land-Energy Nexus In Climate Change Mitigation
-location-text: University of San Francisco
+location-text: McLaren Conference Center, University of San Francisco
 event-date-text: September 11, 2018
 registration-url: https://www.eventbrite.com/e/low-emissions-solutions-conference-lesc-at-the-global-climate-action-summit-registration-45493626662
 blurb: The 2018 Global Climate Action Summit will bring together leaders from state
