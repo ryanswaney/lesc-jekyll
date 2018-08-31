@@ -1,7 +1,7 @@
 ---
 title: LESC at ICSD 2018
 date: 2018-06-26 14:25:00 Z
-position: 0
+position: 1
 theme: The Future of the Energy Transition
 location-text: Alfred Lerner Hall, Columbia University
 event-date-text: September 27, 2018

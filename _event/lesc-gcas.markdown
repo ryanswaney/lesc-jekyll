@@ -1,7 +1,7 @@
 ---
 title: LESC at GCAS 2018
 date: 2018-06-26 14:20:00 Z
-position: 1
+position: 0
 theme: The Land-Energy Nexus In Climate Change Mitigation
 is-featured: true
 location-text: McLaren Conference Center, University of San Francisco
