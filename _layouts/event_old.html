@@ -48,9 +48,37 @@ layout: default
   </header>
 </section>
 
-<section class="section--description">
-  {{ content }}
+<section id="event-content">
+
+  {% if page.schedule-text %}
+  <section id="event-schedule">
+    <div class="event-schedule-wrapper">
+      {{ page.schedule-text | markdownify }}
+    </div>
+  </section>
+  {% endif %}
+
+
+
+  {% if page.related-media %}
+  <section id="event-media">
+    <ul class="media-gallery">
+    {% for media in page.related-media %}
+      <li class="media-item">
+        <div class="media-description">
+          {{ media.description | markdownify }}
+        </div>
+        <a href="{{ media.image }}">
+          <img src="{{ media.image }}" />
+        </a>
+      </li>
+    {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
 </section>
+<!-- / event-content section -->
 
 {% if page.sessions[0].title != nill %}
 <section class="section--sessions" id="sessions">

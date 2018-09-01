@@ -208,10 +208,32 @@ article.event-archive {
   gap: 10px;
   list-style: none;
 }
+.section--speakers {
+  max-width: 80%;
+  margin: $spacing-unit * 3 auto;
+}
+.speakers {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
 .speaker {
+  flex: 100%;
+  flex-grow: 0;
+  padding: $spacing-unit / 2;
 
+  @include media-query($on-laptop) {
+    flex: 33.333%;
+    flex-grow: 0;
+    padding: $spacing-unit;
+  }
 }
 .speaker-name {
+  color: $primary-darker;
+  font-family: $heading-font-family;
   font-size: $base-heading;
   margin-bottom: 0;
 }
@@ -269,7 +291,27 @@ article.event-archive {
   max-width: 75%;
 }
 
+// Description
+.section--description {
+  max-width: 90%;
+  margin: $spacing-unit * 6 auto;
+
+  @include media-query($on-laptop) {
+    max-width: 75%;
+    max-width: 800px;
+  }
+}
+
 // Sesssions
+.section--sessions {
+  margin: $spacing-unit * 6 auto;
+  max-width: 90%;
+
+  @include media-query($on-laptop) {
+    max-width: 75%;
+    max-width: 800px;
+  }
+}
 .sessions {
   list-style: none;
   margin: 0;
@@ -293,10 +335,24 @@ article.event-archive {
   font-size: $base-heading;
   line-height: 1.2;
 
-  flex: 75%;
+  flex: 80%;
+
+  @include media-query($on-laptop) {
+    flex: 60%;
+    flex-grow: 0;
+  }
 }
 .session-time {
-  flex: 25%;
+  flex: 100%;
+
+  line-height: 1.2;
+  text-align: left;
+
+  @include media-query($on-laptop) {
+    flex: 20%;
+    flex-grow: 0;
+    text-align: center;
+  }
 }
 .session-title,
 .session-time {
