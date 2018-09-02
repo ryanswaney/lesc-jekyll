@@ -106,3 +106,16 @@ layout: default
   </ul>
 </section>
 {% endif %}
+
+{% if page.partners[0].name != nil %}
+<section class="section--partners" id="partners">
+  <h2 class="section-header">Partners</h2>
+  <ul class="partners">
+    {% for partner in page.partners %}
+    <li class="partner">
+      <img src="{{ partner.image }}" alt="{{ partner.name }}">
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
