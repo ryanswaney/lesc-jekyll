@@ -251,6 +251,9 @@ speakers:
 '
   bio_text: 
   image: 
+partners:
+- name: LESC 2018 GCAS Partnerts
+  image: "/uploads/180823-lesc-gcas-podium-sign-partners-web.png"
 ---
 
 The **Land-Energy Nexus in Climate Change Mitigation** event is a special edition of the Low-Emissions Solutions Conference taking place alongside the Global Climate Action Summit in partnership the the University of California Berkeley Lab and the University of San Francisco in addition to other local partners. The event is brought to you with support from Enel.
