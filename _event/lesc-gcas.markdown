@@ -122,12 +122,12 @@ sessions:
   moderators: Matthew Reddy, WBCSD
   speakers: Minister Ola Elvestuen, Minister, Norwegian Minister of Climate and Environment;
   description: 
-- title: 'Parallel Session E3: The Next Set of Challenges: innovation and collaboration
-    towards decarbonizing transport'
+- title: 'Parallel Session E3: Transforming Transport for a Clean Future'
   date: 2018-09-11 16:50:00 Z
   starts_at: 
-  moderators: 
-  speakers: David Schlosberg, eMotoworks
+  moderators: Rasmus Valanko, WBCSD
+  speakers: Anirban Ghosh, Mahindra Group; Patrick Browne, UPS; Erik van der Shans,
+    Port of Rotterdam; Michael Burns, Novozymes; David Schlosberg, eMotoworks
   description: 
 speakers:
 - name: Tony Seba
