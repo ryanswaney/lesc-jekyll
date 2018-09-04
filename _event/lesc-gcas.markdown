@@ -24,9 +24,11 @@ sessions:
   starts_at: 
   moderators: 
   speakers: "**Jim Williams,** University of San Francisco  \n**Guido Schmidt-Traub,**
-    SDSN  \n**Margaret Torn,** University of California  "
+    Sustainable Development Solutions Network (SDSN)  \n**Maria Mendiluce,** World
+    Business Council on Sustainable Development (WBCSD)  \n**Margaret Torn,** University
+    of California  "
   description: 
-- title: 'Opening Keynote: TBC and Valery Miftakhov, Emotowerks, Enel'
+- title: 'Opening Keynote: Valery Miftakhov, Emotowerks, Enel'
   date: 2018-09-11 09:10:00 Z
   starts_at: 
   moderators: 
@@ -47,9 +49,10 @@ sessions:
   starts_at: 
   moderators: "**Dan Sanchez** and **Margaret Torn,** UC Berkeley and Berkeley Lab"
   speakers: "**Jim Williams,** Deep Decarbonization Pathways Project and University
-    of San Francisco  \n**Petr Havlik,** IIASA  \n**Leon Clarke,** JGCRI and University
-    of Maryland   \n **Rob Jackson,** Stanford and Global Carbon Project  \n**Emily
-    McGlynn,** UC Davis"
+    of San Francisco  \n**Petr Havlik,** International Institute for Applied Systems
+    Analysis (IIASA)  \n**Leon Clarke,** Pacific Northwest National Laboratory   \n
+    **Rob Jackson,** Stanford Woods Institute  \n**Emily McGlynn,** University of
+    California, Davis"
   description: 
 - title: Networking Break
   date: 2018-09-11 11:45:00 Z
@@ -61,9 +64,10 @@ sessions:
     the land-energy intersection'
   date: 2018-09-11 12:00:00 Z
   starts_at: 
-  moderators: "**Maria Mendiluce,** Managing Director, WBCSD"
-  speakers: "**Christa Anderson,** Stanford University  \n**Guido Schmidt-Traub,**
-    Director, SDSN  \n**Brian Shillinglaw,** New Forests"
+  moderators: "**Alema Bibi,** World Business Council on Sustainable Development (WBCSD)"
+  speakers: "**Christa Anderson,** Stanford University and World Wildlife Fund (WWF)
+    \ \n**Guido Schmidt-Traub,** Sustainable Development Solutions Network (SDSN)
+    \ \n**Brian Shillinglaw,** New Forests  \n**Duncan van Bergen,** Royal Dutch Shell"
   description: 
 - title: Lunch Provided - Keynote discussion with John Holdren
   date: 2018-09-11 13:00:00 Z
@@ -74,19 +78,20 @@ sessions:
 - title: 'Parallel Session L1: Implementing Natural Climate Solutions'
   date: 2018-09-11 14:00:00 Z
   starts_at: 
-  moderators: "**Paul Hawken,** CEO, Project Drawdown"
-  speakers: "**Hammer Simwinga,** Foundation for Wildlife and Habitat Conservation,
-    Zambia  \n**Peter Walke,** Deputy Secretary, Vermont Agency of Natural Resources
-    \ \n**Eric Soubeiran,** Global Nature and Climate Senior Director, Danone "
+  moderators: "**Paul Hawken,** Project Drawdown"
+  speakers: "**Carlos Manuel Rodriguez,** Minister of Energy and Environment, Costa
+    Rica  \n**Hammerskjoeld Simwinga,** Foundation for Wildlife and Habitat Conservation
+    \ \n**Peter Walke,** Deputy Secretary, Vermont Agency of Natural Resources  \n**Christopher
+    Adamo,** Danone "
   description: 
 - title: 'Parallel Session E1:  From Microgrids to Global Interconnection: The Electricity
     System of the Future'
   date: 2018-09-11 14:00:00 Z
   starts_at: 
-  moderators: 
+  moderators: "**Jim Williams,** University of San Francisco"
   speakers: "**Mengrong Cheng,** State Grid Corporation, GEIDCO  \n**Erica Brand,**
     The Nature Conservancy  \n**Daniele Agostini,** Head of Low Carbon and European
-    Energy Policies, Enel"
+    Energy Policies, Enel  \n**Ren Orans,** Energy and Environmental Economics Inc. "
   description: 
 - title: Networking Break
   date: 2018-09-11 15:10:00 Z
@@ -94,23 +99,22 @@ sessions:
   moderators: 
   speakers: 
   description: 
-- title: 'Parallel Session L2: Land for Mitigation, Biodiversity, Food, and Fiber:
-    how can we do it all?'
+- title: 'Parallel Session L2: Land for mitigation, biodiversity, food, and fiber:
+    how can we do it all? '
   date: 2018-09-11 15:25:00 Z
   starts_at: 
-  moderators: "**Grace Wu,** FABLE"
+  moderators: "**Grace Wu,** University of California, Davis"
   speakers: "**Virgilio Viana,** Amazonas Sustainable Foundation\n**Justin Baker,**
-    Research Triangle Institute  \n**Petr Havlik,** IIASA  \n**Dick Cameron,** TNC
-    California"
+    Research Triangle Institute  \n**Petr Havlik,** IIASA  \n**Dick Cameron,** The
+    Nature Conservancy, California  \n**Renat Heuberger,** South Pole Group"
   description: 
 - title: 'Parallel Session E2: The Step After Next: Decarbonization Challenges Beyond
     Low Carbon Electricity'
   date: 2018-09-11 15:25:00 Z
   starts_at: 
   moderators: 
-  speakers: "**Daniel Buira,** Tempus Analitica  \n**Ken Alex,** Director, California
-    Governor’s Office of Planning and Research  \n**Chris Bataille,** IDDRI  \n**Ben
-    Haley,** Evolved Energy Research"
+  speakers: "**Ken Alex,** Director, California Governor’s Office of Planning and
+    Research  \n**Chris Bataille,** IDDRI  \n**Ben Haley,** Evolved Energy Research"
   description: 
 - title: Networking Break
   date: 2018-09-11 16:35:00 Z
@@ -121,7 +125,8 @@ sessions:
 - title: 'Parallel Session L3: Solutions for Implementing Climate Smart Agriculture '
   date: 2018-09-11 16:50:00 Z
   starts_at: 
-  moderators: "**Matthew Reddy,** WBCSD"
+  moderators: "**Matthew Reddy,** World Business Council on Sustainable Development
+    (WBCSD)"
   speakers: "**Minister Ola Elvestuen,** Minister, Norwegian Minister of Climate and
     Environment"
   description: 
