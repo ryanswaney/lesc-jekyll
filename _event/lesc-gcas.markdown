@@ -81,8 +81,8 @@ sessions:
   moderators: "**Paul Hawken,** Project Drawdown"
   speakers: "**Carlos Manuel Rodriguez,** Minister of Energy and Environment, Costa
     Rica  \n**Hammerskjoeld Simwinga,** Foundation for Wildlife and Habitat Conservation
-    \ \n**Peter Walke,** Deputy Secretary, Vermont Agency of Natural Resources  \n**Christopher
-    Adamo,** Danone "
+    \ \n**Peter Walke,** Vermont Agency of Natural Resources  \n**Christopher Adamo,**
+    Danone "
   description: 
 - title: 'Parallel Session E1:  From Microgrids to Global Interconnection: The Electricity
     System of the Future'
@@ -114,8 +114,8 @@ sessions:
   date: 2018-09-11 15:25:00 Z
   starts_at: 
   moderators: 
-  speakers: "**Ken Alex,** Director, California Governor’s Office of Planning and
-    Research  \n**Chris Bataille,** IDDRI  \n**Ben Haley,** Evolved Energy Research"
+  speakers: "**Ken Alex,** California Governor’s Office of Planning and Research  \n**Chris
+    Bataille,** IDDRI  \n**Ben Haley,** Evolved Energy Research"
   description: 
 - title: Networking Break
   date: 2018-09-11 16:35:00 Z
@@ -128,8 +128,7 @@ sessions:
   starts_at: 
   moderators: "**Matthew Reddy,** World Business Council on Sustainable Development
     (WBCSD)"
-  speakers: "**Minister Ola Elvestuen,** Minister, Norwegian Minister of Climate and
-    Environment"
+  speakers: "**Minister Ola Elvestuen,** Norwegian Minister of Climate and Environment"
   description: 
 - title: 'Parallel Session E3: Transforming Transport for a Clean Future'
   date: 2018-09-11 16:50:00 Z
