@@ -109,7 +109,7 @@ sessions:
   starts_at: 
   moderators: 
   speakers: "**Daniel Buira,** Tempus Analitica  \n**Ken Alex,** Director, California
-    Governor’s Office of Planning and Research  \n**Chris Bataille,** IDDRI\n**Ben
+    Governor’s Office of Planning and Research  \n**Chris Bataille,** IDDRI  \n**Ben
     Haley,** Evolved Energy Research"
   description: 
 - title: Networking Break
