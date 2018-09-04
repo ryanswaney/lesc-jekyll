@@ -100,7 +100,7 @@ sessions:
   starts_at: 
   moderators: "**Grace Wu,** FABLE"
   speakers: "**Virgilio Viana,** Amazonas Sustainable Foundation\n**Justin Baker,**
-    Research Triangle Institute  \n**Petr Havlik, IIASA**  \n**Dick Cameron,** TNC
+    Research Triangle Institute  \n**Petr Havlik,** IIASA  \n**Dick Cameron,** TNC
     California"
   description: 
 - title: 'Parallel Session E2: The Step After Next: Decarbonization Challenges Beyond
