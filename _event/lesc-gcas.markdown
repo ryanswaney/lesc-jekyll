@@ -115,7 +115,8 @@ sessions:
   starts_at: 
   moderators: 
   speakers: "**Ken Alex,** California Governor’s Office of Planning and Research  \n**Chris
-    Bataille,** IDDRI  \n**Ben Haley,** Evolved Energy Research"
+    Bataille,** Institute for Sustainable Development and International Relations
+    (IDDRI)  \n**Ben Haley,** Evolved Energy Research"
   description: 
 - title: Networking Break
   date: 2018-09-11 16:35:00 Z
@@ -133,7 +134,8 @@ sessions:
 - title: 'Parallel Session E3: Transforming Transport for a Clean Future'
   date: 2018-09-11 16:50:00 Z
   starts_at: 
-  moderators: "**Rasmus Valanko,** WBCSD"
+  moderators: "**Rasmus Valanko,** World Business Council on Sustainable Development
+    (WBCSD)"
   speakers: "**Anirban Ghosh,** Mahindra Group  \n**Patrick Browne,** UPS  \n**Erik
     van der Shans,** Port of Rotterdam  \n**Michael Burns,** Novozymes  \n**David
     Schlosberg,** eMotoworks"
