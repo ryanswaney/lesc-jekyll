@@ -3,8 +3,12 @@ layout: default
 ---
 
 <section class="event-feature">
-  <header class="event-feature-header">
 
+  {% if page.feature_image %}
+  <!--<img src="{{ page.feature_image }}" alt="{{ page.title }}" style="position: absolute; top: 5%;"> -->
+  {% endif %}
+
+  <header class="event-feature-header">
     {% if page.logo-vector-file %}
     <img src="{{ page.logo-vector-file }}" class="event-logo" alt="{{ page.title }}">
     {% elsif page.logo-file %}
