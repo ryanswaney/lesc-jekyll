@@ -23,8 +23,10 @@ sessions:
   date: 2018-09-11 09:00:00 Z
   starts_at: 
   moderators: 
-  speakers: Jim Williams, University of San Francisco; Guido Schmidt-Traub SDSN; Margaret
-    Torn, University of California
+  speakers: |-
+    Jim Williams, University of San Francisco
+    Guido Schmidt-Traub SDSN
+    Margaret Torn, University of California
   description: 
 - title: 'Opening Keynote: TBC and Valery Miftakhov, Emotowerks, Enel'
   date: 2018-09-11 09:10:00 Z
