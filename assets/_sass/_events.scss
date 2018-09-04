@@ -43,22 +43,23 @@
 }
 
 .event-feature {
-  background: $secondary;
-  background-image: url("/uploads/green_arrow_secondary_light_144.png"),
-  url("/uploads/waves_primary_dark_144.png");
-  background-position: -40% 15%, 50% 40%;
-  background-repeat: no-repeat;
-  transition: background-color .25s, background-position .25s;
+  background: $primary;
+  //background: $secondary;
+  //background-image: url("/uploads/green_arrow_secondary_light_144.png"),
+  //url("/uploads/waves_primary_dark_144.png");
+  //background-position: -40% 15%, 50% 40%;
+  //background-repeat: no-repeat;
+  //transition: background-color .25s, background-position .25s;
   padding: $spacing-unit * 2 $spacing-unit;
   width: 100%;
 
-  &:hover {
-    background: $primary;
-    background-image: url("/uploads/green_arrow_secondary_light_144.png"),
-    url("/uploads/waves_primary_dark_144.png");
-    background-position: 140% 15%, 50% 10%;
-    background-repeat: no-repeat;
-  }
+  //&:hover {
+    //background: $primary;
+    //background-image: url("/uploads/green_arrow_secondary_light_144.png"),
+    //url("/uploads/waves_primary_dark_144.png");
+    //background-position: 140% 15%, 50% 10%;
+    //background-repeat: no-repeat;
+  //}
 
 }
 .event-feature-header {
@@ -104,14 +105,14 @@
   background: $primary-darker;
   color: $white;
   display: inline-block;
-  padding: $spacing-unit / 2;
+  padding: $spacing-unit / 2 $spacing-unit;
   text-decoration: none;
 
   &:hover, &:visited {
     color: $white;
   }
   &:focus, &:hover {
-    background: $primary-darker;
+    background: $secondary;
   }
 }
 
@@ -333,8 +334,8 @@ article.event-archive {
 }
 .session-title {
   color: $primary-darker;
-  font-family: $heading-font-family;
-  font-size: $base-heading;
+  font-family: $base-font-family;
+  font-size: $large-heading;
   line-height: 1.2;
 
   flex: 80%;
@@ -356,14 +357,38 @@ article.event-archive {
     text-align: center;
   }
 }
+.session-meta-header {
+  font-family: $base-font-family;
+  font-size: $base-heading;
+  display: block;
+}
 .session-title,
 .session-time {
   padding: $spacing-unit / 6;
 }
 
 .session-header + .session-meta {
-  border-top: $spacing-unit / 6 solid $primary-darker;
+  border-top: $spacing-unit / 4 solid $primary-darker;
   padding-top: $spacing-unit;
+}
+.session-meta {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.session-moderators,
+.session-speakers {
+  flex: 100%;
+  font-size: $small-font-size;
+  padding: $spacing-unit / 6;
+
+  @include media-query($on-laptop) {
+    flex: 50%;
+    flex-grow: 0;
+  }
+}
+.session-description {
+  flex: 100%;
 }
 
 .session-moderators {

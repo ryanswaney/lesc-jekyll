@@ -71,12 +71,12 @@ layout: default
       <div class="session-meta">
         {% if session.moderators %}
         <div class="session-moderators">
-          <strong>Moderator(s):</strong> {{ session.moderators }}
+          <strong class="session-meta-header">Moderator(s):</strong> {{ session.moderators | markdownify }}
         </div>
         {% endif %}
         {% if session.speakers %}
         <div class="session-speakers">
-          <strong>Speaker(s):</strong> {{ session.speakers }}
+          <strong class="session-meta-header">Speaker(s):</strong> {{ session.speakers | markdownify }}
         </div>
         {% endif %}
         {% if session.description %}

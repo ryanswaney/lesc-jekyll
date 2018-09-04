@@ -64,6 +64,6 @@ t.targetModal=e,!0===t.debugMode&&!1===s(e)||(a=new n(t),a.showModal())},close:f
 // micromodal initial
 MicroModal.init({
   openTrigger: 'data-custom-open',
-  disableScroll: false,
+  disableScroll: true,
   awaitCloseAnimation: true
 });
