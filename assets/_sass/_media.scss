@@ -117,3 +117,10 @@
 .video-excerpt {
   font-size: 70%;
 }
+
+.float-right {
+  float: right;
+  margin-left: $spacing-unit;
+  margin-bottom: $spacing-unit;
+  max-width: 400px;
+}
