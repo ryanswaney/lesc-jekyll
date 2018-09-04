@@ -12,6 +12,7 @@ blurb: The 2018 Global Climate Action Summit will bring together leaders from st
   side-event, LESC will host panels featuring distinguished speakers who will highlight
   the current state of technological solutions in each field and identify research,
   funding, and policy gaps.
+feature_image: "/uploads/lesc-gcas-ftr-photo.png"
 sessions:
 - title: Registration Opens
   date: 2018-09-11 08:30:00 Z
