@@ -36,19 +36,20 @@ sessions:
     land and energy nexus'
   date: 2018-09-11 09:30:00 Z
   starts_at: 
-  moderators: Daniel Lashof, World Resources Institute US
-  speakers: Alexandre Ywata de Carvalho, Instituto de Pesquisa Econômica Aplicada
-    (IPEA); Governor David Ige, Hawaii; Claire Jahns, Assistant Secretary, California
-    Natural Resources Agency
+  moderators: "**Daniel Lashof,** World Resources Institute US"
+  speakers: "**Alexandre Ywata de Carvalho,** Instituto de Pesquisa Econômica Aplicada
+    (IPEA)  \n**Governor David Ige,** Hawaii  \n**Claire Jahns, Assistant Secretary,**
+    California Natural Resources Agency"
   description: 
 - title: 'Plenary Panel 2: New Findings from Decarbonization Pathways: where energy
     and land use meet'
   date: 2018-09-11 10:30:00 Z
   starts_at: 
-  moderators: Dan Sanchez and Margaret Torn, UC Berkeley and Berkeley Lab
-  speakers: Jim Williams, Deep Decarbonization Pathways Project; and University of
-    San Francisco; Petr Havlik, IIASA; Leon Clarke, JGCRI and University of Maryland;
-    Rob Jackson, Stanford and Global Carbon Project; Emily McGlynn, UC Davis
+  moderators: "**Dan Sanchez** and **Margaret Torn,** UC Berkeley and Berkeley Lab"
+  speakers: "**Jim Williams,** Deep Decarbonization Pathways Project and University
+    of San Francisco  \n**Petr Havlik,** IIASA  \n**Leon Clarke,** JGCRI and University
+    of Maryland \n **Rob Jackson,** Stanford and Global Carbon Project  \n**Emily
+    McGlynn,** UC Davis"
   description: 
 - title: Networking Break
   date: 2018-09-11 11:45:00 Z
