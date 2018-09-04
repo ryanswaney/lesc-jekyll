@@ -100,9 +100,13 @@ layout: default
     {% for speaker in page.speakers %}
     <li class="speaker">
       <div class="speaker-name">
+        {% if speaker.bio_text != nil %}
         <a data-custom-open="modal-{{ speaker.name | slugify}}" class="modal-open-link">
         {{ speaker.name }}
         </a>
+        {% else %}
+        {{ speaker.name }}
+        {% endif %}
       </div>
       <div class="speaker-title">{{ speaker.title }}</div>
       {% if speaker.bio_text != nil %}

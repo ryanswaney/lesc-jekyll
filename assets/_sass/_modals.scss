@@ -7,7 +7,7 @@
 }
 
 .modal {
-  font-family: -apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica neue,helvetica,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
+  font-family: $base-font-family;
 }
 
 .modal__overlay {
@@ -48,8 +48,10 @@
 }
 
 .modal__close {
-  background: transparent;
+  background: $primary;
+  color: $white;
   border: 0;
+  padding: $spacing-unit / 3;
 }
 
 .modal__header .modal__close:before { content: "\2715"; }
@@ -63,13 +65,13 @@
 
 .modal__btn {
   font-size: .875rem;
+  font-family: $base-font-family;
   padding-left: 1rem;
   padding-right: 1rem;
   padding-top: .5rem;
   padding-bottom: .5rem;
-  background-color: #e6e6e6;
-  color: rgba(0,0,0,.8);
-  border-radius: .25rem;
+  background-color: $primary;
+  color: $white;
   border-style: none;
   border-width: 0;
   cursor: pointer;
@@ -78,15 +80,6 @@
   overflow: visible;
   line-height: 1.15;
   margin: 0;
-  will-change: transform;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-backface-visibility: hidden;
-  backface-visibility: hidden;
-  -webkit-transform: translateZ(0);
-  transform: translateZ(0);
-  transition: -webkit-transform .25s ease-out;
-  transition: transform .25s ease-out;
-  transition: transform .25s ease-out,-webkit-transform .25s ease-out;
 }
 
 .modal__btn:focus, .modal__btn:hover {
