@@ -226,7 +226,8 @@ article.event-archive {
   padding: $spacing-unit / 2;
 
   @include media-query($on-laptop) {
-    flex: 33.333%;
+    //flex: 33.333%;
+    flex: 25%;
     flex-grow: 0;
     padding: $spacing-unit;
   }

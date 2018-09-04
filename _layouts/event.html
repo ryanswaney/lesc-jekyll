@@ -99,8 +99,17 @@ layout: default
   <ul class="speakers">
     {% for speaker in page.speakers %}
     <li class="speaker">
-      <div class="speaker-name">{{ speaker.name }}</div>
+      <div class="speaker-name">
+        <a data-custom-open="modal-{{ speaker.name | slugify}}" class="modal-open-link">
+        {{ speaker.name }}
+        </a>
+      </div>
       <div class="speaker-title">{{ speaker.title }}</div>
+      {% if speaker.bio_text != nil %}
+
+      {% include modal.html name=speaker.name text=speaker.bio_text  %}
+
+      {% endif %}
     </li>
     {% endfor %}
   </ul>
