@@ -90,8 +90,8 @@ sessions:
   starts_at: 
   moderators: "**Jim Williams,** University of San Francisco"
   speakers: "**Mengrong Cheng,** State Grid Corporation, GEIDCO  \n**Erica Brand,**
-    The Nature Conservancy  \n**Daniele Agostini,** Head of Low Carbon and European
-    Energy Policies, Enel  \n**Ren Orans,** Energy and Environmental Economics Inc. "
+    The Nature Conservancy  \n**Daniele Agostini,** Enel  \n**Ren Orans,** Energy
+    and Environmental Economics Inc. "
   description: 
 - title: Networking Break
   date: 2018-09-11 15:10:00 Z
@@ -105,8 +105,9 @@ sessions:
   starts_at: 
   moderators: "**Grace Wu,** University of California, Davis"
   speakers: "**Virgilio Viana,** Amazonas Sustainable Foundation\n**Justin Baker,**
-    Research Triangle Institute  \n**Petr Havlik,** IIASA  \n**Dick Cameron,** The
-    Nature Conservancy, California  \n**Renat Heuberger,** South Pole Group"
+    Research Triangle Institute  \n**Petr Havlik,** International Institute for Applied
+    Systems Analysis (IIASA)  \n**Dick Cameron,** The Nature Conservancy, California
+    \ \n**Renat Heuberger,** South Pole Group"
   description: 
 - title: 'Parallel Session E2: The Step After Next: Decarbonization Challenges Beyond
     Low Carbon Electricity'
