@@ -675,6 +675,10 @@ speakers:
 
     A former staff writer for the New Yorker, he writes frequently for a wide variety of publications around the world, including the New York Review of Books, National Geographic, and Rolling Stone. He lives in the mountains above Lake Champlain with his wife, the writer Sue Halpern, where he spends as much time as possible outdoors . In 2014, biologists honored him by naming a new species of woodland gnat -- Megophthalmidia mckibbeni -- in his honor.
   image: "/uploads/Bill%20Mckibben.jpg"
+- name: Governor Claudia Pavlovich Arellano
+  title: Constitutional Governor of the State of Sonora, Mexico
+  bio_text: 
+  image: "/uploads/Claudia%20Pavlovich%20Arellano.jpg"
 partners:
 - name: LESC 2018 GCAS Partnerts
   image: "/uploads/180823-lesc-gcas-podium-sign-partners-web.png"
