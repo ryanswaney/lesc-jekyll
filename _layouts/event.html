@@ -107,6 +107,15 @@ layout: default
   <ul class="speakers">
     {% for speaker in page.speakers %}
     <li class="speaker">
+        {% if speaker.image != nil %}
+        {% if speaker.bio_text !=nil %}
+        <a data-custom-open="modal-{{ speaker.name | slugify}}" class="modal-open-link">
+          <img src="{{ speaker.image }}" class="speaker-photo">
+        </a>
+        {% else %}
+        <img src="{{ speaker.image }}" class="speaker-photo">
+        {% endif %}
+        {% endif %}
       <div class="speaker-name">
         {% if speaker.bio_text != nil %}
         <a data-custom-open="modal-{{ speaker.name | slugify}}" class="modal-open-link">
@@ -119,7 +128,7 @@ layout: default
       <div class="speaker-title">{{ speaker.title }}</div>
       {% if speaker.bio_text != nil %}
 
-      {% include modal.html name=speaker.name text=speaker.bio_text  %}
+      {% include modal.html name=speaker.name text=speaker.bio_text title=speaker.title photo=speaker.image  %}
 
       {% endif %}
     </li>

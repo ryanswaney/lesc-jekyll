@@ -244,7 +244,10 @@ article.event-archive {
   font-size: $small-heading;
 }
 .speaker-photo {
+  width: 100%;
   max-width: 100%;
+  margin-bottom: $spacing-unit;
+  -webkit-filter: grayscale(100%);
 }
 
 /***

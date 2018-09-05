@@ -20,6 +20,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  z-index: 999;
 }
 
 .modal__container {
@@ -41,7 +42,7 @@
   margin-top: 0;
   margin-bottom: 0;
   font-weight: 600;
-  font-size: 1.25rem;
+  font-size: $large-heading;
   line-height: 1.25;
   color: #00449e;
   box-sizing: border-box;
@@ -61,6 +62,10 @@
   margin-bottom: 2rem;
   line-height: 1.5;
   color: rgba(0,0,0,.8);
+}
+
+.speaker-modal-photo {
+  max-width: 200px;
 }
 
 .modal__btn {

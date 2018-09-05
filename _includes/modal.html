@@ -5,9 +5,14 @@
         <h2 class="modal__title" id="modal-{{ include.name | slugify}}-title">
           {{ include.name }}
         </h2>
+
         <button class="modal__close" aria-label="Close modal" data-micromodal-close></button>
       </header>
       <main class="modal__content" id="modal-{{ include.name | slugify}}-content">
+        {% if include.photo != nil %}
+        <img src="{{ include.photo }}" class="speaker-modal-photo float-right">
+        {% endif %}
+        <h3>{{ include.title }}</h3>
         {{ include.text | markdownify }}
       </main>
       <footer class="modal__footer">
