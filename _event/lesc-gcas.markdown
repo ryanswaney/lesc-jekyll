@@ -361,7 +361,7 @@ speakers:
     Jackson has received numerous awards. He is a Fellow in the American Geophysical Union and the Ecological Society of America and was honored at the White House with a Presidential Early Career Award in Science and Engineering. In recent years, he directed the DOE National Institute for Climate Change Research for the southeastern U.S., co-chaired the U.S. Carbon Cycle Science Plan, and is currently CHAIR of the Global Carbon Project (www.globalcarbonproject.org).
 
     An author and photographer, Rob has published a trade book about the environment (The Earth Remains Forever, University of Texas Press) and two books of children’s poems, Animal Mischief and Weekend Mischief (Highlights Magazine and Boyds Mills Press). His photographs have appeared in many media outlets, including the NY Times, Washington Post, USA Today, US News and World Report, Nature, and National Geographic.
-  image: "/uploads/Rob%20Jackson.jpg"
+  image: "/uploads/Rob%20Jackson-37dfb8.jpg"
 - name: Dr. Alexandre Ywata de Carvalho
   title: Director of Regional, Urban, and Environmental Studies and Policies, Brazilian
     Institute of Applied Economics Research
@@ -561,7 +561,7 @@ speakers:
     Even after 25-plus years of analyzing the industry, Ren still finds the electricity sector fascinating. He’s particularly excited by the accelerating pace of change, which technological innovation and public policy are driving. He enjoys applying E3’s deep analytic models and years of experience to new challenges and new markets.
 
     Education: PhD, civil engineering, Stanford University; BA, economics, University of California, Berkeley
-  image: "/uploads/Ren%20Orans.jpg"
+  image: "/uploads/Ren%20Orans-027fb5.jpg"
 - name: Mr. Renat Heuberger
   title: CEO, South Pole Group
   bio_text: |-
