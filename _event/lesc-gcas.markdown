@@ -187,7 +187,7 @@ speakers:
     and his M.S. in Physics from Moscow Institute of Physics and Technology. He was
     a two-time winner of the Nationwide Russian Physics Competitions."
   image: 
-- name: David Schlosberg
+- name: Mr. David Schlosberg
   title: Vice President, Energy Market Operations for eMotorWerks
   bio_text: David Schlosberg is Director of Energy Market Operations and leads the
     company's participation in energy markets and other programs operated by regulatory
@@ -418,7 +418,7 @@ speakers:
     Resources Group, and a BSE in chemical and biomolecular engineering from the University
     of Pennsylvania.
   image: 
-- name: Margaret Torn
+- name: Dr. Margaret Torn
   title: 'Senior Scientist and Head of Biosphere-Atmosphere Program, Berkeley Lab
     and UC Berkeley
 
@@ -428,7 +428,7 @@ speakers:
 
     Margaret is an ecologist and biogeochemist who studies the natural carbon cycle and human impacts on the carbon cycle through land use, energy use, and climate change. Her research uses field experiments, isotopic tracers (14C, 13C), laboratory analysis, and mathematical models. She has published more than 100 peer-reviewed articles on topics ranging from the basic mechanisms of soil carbon cycling and ecosystem-climate feedbacks, to ecological aspects of bioenergy production, to strategies for climate-change mitigation.
   image: 
-- name: Emily McGlynn
+- name: Ms. Emily McGlynn
   title: Ph.D. Student, UC Davis
   bio_text: Emily is an expert on climate, energy, and environmental policy, focusing
     on land use and land management issues. Currently a PhD NSF Graduate Fellow in
@@ -446,7 +446,7 @@ speakers:
     recommendations for the European Commission and other public and private sector
     stakeholders. She has a background in biology and economics from Bryn Mawr College.
   image: 
-- name: Dan Lashof
+- name: Dr. Dan Lashof
   title: US Director, World Resources Institute
   bio_text: |-
     Dan Lashof is the Director of World Resources Institute, United States. He coordinates WRI’s work in the United States across climate, energy, food, forests, water and the sustainable cities programs. This includes overseeing the work of the U.S. climate team, which aims to catalyze and support climate action by states, cities, and businesses while laying the groundwork for federal action in the coming years.
@@ -631,12 +631,13 @@ speakers:
 
     Novozymes in the world leader in biological solutions.  Together with customers, partners and the global community, Novozymes improves industrial performance while preserving the planet's resources and helping to build better lives.
   image: 
-- name: Matthew Reddy
+- name: Mr. Matthew Reddy
   title: World Business Council on Sustainable Development (WBCSD)
   bio_text: 
   image: 
-- name: Rasmus Valanko
-  title: World Business Council on Sustainable Development (WBCSD)
+- name: Mr. Rasmus Valanko
+  title: Director, Climate & Energy, World Business Council on Sustainable Development
+    (WBCSD)
   bio_text: 
   image: 
 - name: Erik van der Shans
@@ -647,8 +648,8 @@ speakers:
   title: Royal Dutch Shell
   bio_text: 
   image: 
-- name: Christopher Adamo
-  title: Danone
+- name: Mr. Christopher Adamo
+  title: Vice President Federal and Industry Affairs, Danone
   bio_text: 
   image: 
 partners:
