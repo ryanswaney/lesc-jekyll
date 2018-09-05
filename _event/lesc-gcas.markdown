@@ -470,7 +470,7 @@ speakers:
     Governor Ige began his political career in 1985 after being appointed by then Governor George Ariyoshi to fill a vacant seat in the Hawai‘i House of Representatives. In 1994, then Representative Ige was elected to the Hawai‘i Senate where he represented his home district of ‘Aiea / Pearl City until 2014.
   image: 
 - name: Dr. Maria Mendiluce
-  title: Managing Director, WBCSD
+  title: Managing Director, World Business Council on Sustainable Development (WBCSD)
   bio_text: Dr. María Mendiluce has over 20 years’ experience in the energy and climate
     area. Since 2008, María has led the implementation of WBCSD’s Climate and Energy
     strategy, guiding the work of over 200 member companies to influence the global
