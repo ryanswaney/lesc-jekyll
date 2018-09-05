@@ -12,6 +12,7 @@ blurb: The 2018 Global Climate Action Summit will bring together leaders from st
   side-event, LESC will host panels featuring distinguished speakers who will highlight
   the current state of technological solutions in each field and identify research,
   funding, and policy gaps.
+feature_image: "/uploads/lesc-gcas-photo.jpg"
 sessions:
 - title: Registration Opens
   date: 2018-09-11 08:30:00 Z
@@ -159,7 +160,7 @@ speakers:
     Dr. Holdren has been married since 1966 to Dr. Cheryl E. Holdren, a biologist. They have a son, a daughter, and five grandchildren. John and Cheryl currently live on Cape Cod.
   image: 
 - name: Dr. Guido Schmidt-Traub
-  title: Executive Director, SDSN
+  title: Executive Director, Sustainable Development Solutions Network (SDSN)
   bio_text: |-
     Dr. Guido Schmidt-Traub is Executive Director of the UN Sustainable Development Solutions Network, which operates under the auspices of the UN Secretary-General to support the implementation of the Sustainable Development Goals and the Paris Climate Agreement. Guido leads the SDSN’s policy work, including on long-term pathways for sustainable land-use and food systems, financing for development, and the SDG Index and Dashboards. He serves on the Governing Council of Future Earth and other advisory bodies.
 
@@ -252,7 +253,8 @@ speakers:
     Ken is a graduate of Harvard Law School and holds a B.A. in political theory from the University of California at Santa Cruz.
   image: 
 - name: Dr. Chris Bataille
-  title: Researcher, IDDRI
+  title: Researcher, Institute for Sustainable Development and International Relations
+    (IDDRI)
   bio_text: |-
     Chris Bataille has been involved in energy and climate policy analysis for more than 20 years as a researcher, energy systems and economic modeller, analyst, writer, project manager, and executive. Chris is currently an Associate Researcher at the Institute for Sustainable Development and International Relations in Paris, and conducts freelance energy and climate policy consulting. Chris recently completed a 1.5 year project as lead editor of a special issue of Climate Policy on the Deep Decarbonization Pathways Project (DDPP). He also helped manage the global DDPP and was co-author of the Canadian chapter. He is currently lead of the DDPP Heavy Industry Deep Decarbonization Project, which recently published a review paper in the Journal of Cleaner Production. He is an Adjunct Professor at Simon Fraser University in Vancouver.
 
