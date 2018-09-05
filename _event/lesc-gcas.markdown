@@ -46,8 +46,8 @@ sessions:
   date: 2018-09-11 09:30:00 Z
   starts_at: 
   moderators: "**Daniel Lashof,** World Resources Institute US"
-  speakers: "**Alexandre Ywata de Carvalho,** Instituto de Pesquisa Econômica Aplicada
-    (IPEA)  \n**Governor David Ige,** Hawaii  \n**Claire Jahns,** California Natural
+  speakers: "**Alexandre Ywata de Carvalho,** Brazilian Institute of Applied Economics
+    Research  \n**Governor David Ige,** Hawaii  \n**Claire Jahns,** California Natural
     Resources Agency  \n**Governor Claudia Pavlovich Arellano,** Constitutional Governor
     of the State of Sonora, Mexico"
   description: 
