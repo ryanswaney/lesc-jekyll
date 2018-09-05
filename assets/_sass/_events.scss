@@ -446,6 +446,13 @@ article.event-archive {
 
   @include media-query($on-laptop) {
     flex: 50%;
-    flex-grow: 0;
+    //flex-grow: 0;
+  }
+}
+.related-media--description {
+  width: 100%;
+
+  @include media-query($on-laptop) {
+    max-width: 600px;
   }
 }
