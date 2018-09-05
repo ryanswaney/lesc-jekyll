@@ -646,7 +646,7 @@ speakers:
     Michael Burns is the Head of Biorefinery Business Development for Novozymes, focused on developing business opportunities utilizing Novozymes biotechnology in the fuel and chemical industries. Prior to joining Novozymes in 2015, he was Director of Commercial and Business Development of BP’s Advanced Bio Products division. He joined BP in 2010 and had several roles focused on Project, Business, and Commercial Development. He has held several other roles in the energy industry in his 20-year career focused on Project Finance, Project Development, Business and Commercial Development, Mergers and Acquisitions, and Corporate Strategy and Analysis. He has also worked for R.W. Beck, Celunol, Verenium, and Vercipia. He holds an MBA from Western New England University and Bachelor of Science in Business Administration from Bryant University.
 
     Novozymes in the world leader in biological solutions.  Together with customers, partners and the global community, Novozymes improves industrial performance while preserving the planet's resources and helping to build better lives.
-  image: "/uploads/Michael%20Burns.jpg"
+  image: "/uploads/Michael%20Burns-4076cc.jpg"
 - name: Mr. Matthew Reddy
   title: Director of Climate Smart Agriculture, World Business Council on Sustainable
     Development (WBCSD)
