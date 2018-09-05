@@ -665,6 +665,15 @@ speakers:
   title: Vice President Federal and Industry Affairs, Danone
   bio_text: 
   image: "/uploads/Chris%20Adamo.jpeg"
+- name: Bill McKibben
+  title: American Environmentalist
+  bio_text: |-
+    Bill McKibben is an author and environmentalist who in 2014 was awarded the Right Livelihood Prize, sometimes called the ‘alternative Nobel.’ His 1989 book The End of Nature is regarded as the first book for a general audience about climate change, and has appeared in 24 languages; he’s gone on to write a dozen more books. He is a founder of 350.org, the first planet-wide, grassroots climate change movement, which has organized twenty thousand rallies around the world in every country save North Korea, spearheaded the resistance to the Keystone Pipeline, and launched the fast-growing fossil fuel divestment movement.
+
+    The Schumann Distinguished Scholar in Environmental Studies at Middlebury College and a fellow of the American Academy of Arts and Sciences, he was the 2013 winner of the Gandhi Prize and the Thomas Merton Prize, and holds honorary degrees from 18 colleges and universities. Foreign Policy named him to their inaugural list of the world’s 100 most important global thinkers, and the Boston Globe said he was “probably America’s most important environmentalist.”
+
+    A former staff writer for the New Yorker, he writes frequently for a wide variety of publications around the world, including the New York Review of Books, National Geographic, and Rolling Stone. He lives in the mountains above Lake Champlain with his wife, the writer Sue Halpern, where he spends as much time as possible outdoors . In 2014, biologists honored him by naming a new species of woodland gnat -- Megophthalmidia mckibbeni -- in his honor.
+  image: 
 partners:
 - name: LESC 2018 GCAS Partnerts
   image: "/uploads/180823-lesc-gcas-podium-sign-partners-web.png"
