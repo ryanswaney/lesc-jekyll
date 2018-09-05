@@ -76,11 +76,11 @@ sessions:
     \ \n**Guido Schmidt-Traub,** Sustainable Development Solutions Network (SDSN)
     \ \n**Brian Shillinglaw,** New Forests"
   description: 
-- title: Lunch Provided - Keynote discussion with John Holdren
+- title: Lunch Provided - Keynote discussion by John Holdren
   date: 2018-09-11 13:00:00 Z
   starts_at: 
   moderators: 
-  speakers: 
+  speakers: "**John Holdren,** Professor, Harvard"
   description: 
 - title: 'Parallel Session L1: Implementing Natural Climate Solutions'
   date: 2018-09-11 14:00:00 Z
@@ -95,9 +95,10 @@ sessions:
     System of the Future'
   date: 2018-09-11 14:00:00 Z
   starts_at: 
-  moderators: "**Jim Williams,** University of San Francisco"
-  speakers: "**Mengrong Cheng,** State Grid Corporation  \n**Erica Brand,** The Nature
-    Conservancy  \n**Daniele Agostini,** Enel  \n**Ren Orans,** Energy and Environmental
+  moderators: "**Erica Brand,** The Nature Conservancy  and **Jim Williams,** University
+    of San Francisco"
+  speakers: "**Erica Brand,** The Nature Conservancy  \n**Mengrong Cheng,** State
+    Grid Corporation   \n**Daniele Agostini,** Enel  \n**Ren Orans,** Energy and Environmental
     Economics Inc. "
   description: 
 - title: Networking Break
