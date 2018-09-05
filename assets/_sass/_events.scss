@@ -419,3 +419,33 @@ article.event-archive {
 .partner {
   flex: 25%;
 }
+
+// Sesssions
+.section--related-media {
+  margin: $spacing-unit * 6 auto;
+  max-width: 90%;
+
+  @include media-query($on-laptop) {
+    max-width: 80%;
+    max-width: 1000px;
+  }
+}
+.related-media {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.related-media--item {
+  border: $spacing-unit / 4 solid $primary-darker;
+  margin-bottom: $spacing-unit;
+  padding: $spacing-unit / 2;
+  flex: 100%;
+
+  @include media-query($on-laptop) {
+    flex: 50%;
+    flex-grow: 0;
+  }
+}
