@@ -2,7 +2,11 @@
 layout: default
 ---
 
+{% if page.feature_image %}
+<section class="event-feature" style="background-image: url({{page.feature_image}}); background-repeat: no-repeat; background-size: cover; background-position: center;">
+{% else %}
 <section class="event-feature">
+{% endif %}
 
   {% if page.feature_image %}
   <!--<img src="{{ page.feature_image }}" alt="{{ page.title }}" style="position: absolute; top: 5%;"> -->
