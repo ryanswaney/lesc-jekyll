@@ -241,7 +241,14 @@ speakers:
   image: "/uploads/Cheng%20Mengrong.jpg"
 - name: Ms. Erica Brand
   title: California Energy Program Director, The Nature Conservancy
-  bio_text: 
+  bio_text: Erica Brand serves as Director of the California Energy Program at The
+    Nature Conservancy.  In her role, she leads a team that works to integrate protection
+    of nature into planning for California’s clean energy future. Before joining The
+    Nature Conservancy, she served as a Senior Environmental Policy Specialist at
+    Pacific Gas & Electric Company and has 15 years of experience in the energy and
+    environmental sector. Erica holds a Master of Science degree in Environmental
+    Management from the University of San Francisco, and a Bachelor of Science degree
+    in Biological Sciences from Cal Poly, San Luis Obispo.
   image: "/uploads/Erica%20Brand.jpg"
 - name: Dr. Ken Alex
   title: Director, California Governor’s Office of Planning and Research
