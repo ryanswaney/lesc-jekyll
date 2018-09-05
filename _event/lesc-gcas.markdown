@@ -76,12 +76,12 @@ sessions:
     \ \n**Guido Schmidt-Traub,** Sustainable Development Solutions Network (SDSN)
     \ \n**Brian Shillinglaw,** New Forests"
   description: 
-- title: Lunch Provided - Keynote discussion by John Holdren
+- title: Lunch Break and Keynote discussion by John Holdren
   date: 2018-09-11 13:00:00 Z
   starts_at: 
   moderators: 
   speakers: "**John Holdren,** Professor, Harvard"
-  description: 
+  description: Lunch to be provided
 - title: 'Parallel Session L1: Implementing Natural Climate Solutions'
   date: 2018-09-11 14:00:00 Z
   starts_at: 
