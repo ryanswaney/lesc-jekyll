@@ -640,7 +640,7 @@ speakers:
     (WBCSD)
   bio_text: 
   image: 
-- name: Erik van der Shans
+- name: Mr. Erik van der Shans
   title: Director Environmental Management, Port of Rotterdam
   bio_text: 
   image: 
