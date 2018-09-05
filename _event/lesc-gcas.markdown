@@ -153,6 +153,17 @@ sessions:
     \ \n**Erik van der Shans,** Port of Rotterdam"
   description: 
 speakers:
+- name: Governor Claudia Pavlovich Arellano
+  title: Constitutional Governor of the State of Sonora, Mexico
+  bio_text: 
+  image: "/uploads/Claudia%20Pavlovich%20Arellano.jpg"
+- name: H.E. Ola Elvestuen
+  title: Minister of Climate and Environment, Norway
+  bio_text: |-
+    Elvestuen holds a Bachelor’s degree from the University of Oslo, having studied Social Anthropology, Political Science and History. He started a major in History. He has undertaken the leadership training at the Norwegian Defence College. The Minister worked as a city councillor for Environment and Transportation in Oslo during 2011-2013. He was first elected to the Oslo City Council in 2003. Elvestuen headed the City Development Committee from 2003 to 2011. He was leader of the Oslo branch of the Liberal Party from 2000-2007.
+
+    At Parliament, Elvestuen has chaired the Committee on Energy and Environment since 2013. Elvestuen has been a member of the Norwegian parliamentary delegation to the Parliamentary Assembly in the Organization for Security and Cooperation in Europe (OSCE) since 2013. He has been deputy member of the parliamentary delegation for Arctic parliamentary cooperation since autumn 2017.
+  image: "/uploads/Ola%20Elvestuen.jpg"
 - name: Dr. John Holdren
   title: Professor, Harvard
   bio_text: |-
@@ -177,13 +188,6 @@ speakers:
 
     Guido holds a Ph.D. in Economics from Wageningen University & Research, an M.Phil. in Economics from Oxford University (Rhodes Scholar), and a Masters in physical chemistry from the Free University Berlin.
   image: "/uploads/Guido-Schmidt-Traub.jpg"
-- name: H.E. Ola Elvestuen
-  title: Minister of Climate and Environment, Norway
-  bio_text: |-
-    Elvestuen holds a Bachelor’s degree from the University of Oslo, having studied Social Anthropology, Political Science and History. He started a major in History. He has undertaken the leadership training at the Norwegian Defence College. The Minister worked as a city councillor for Environment and Transportation in Oslo during 2011-2013. He was first elected to the Oslo City Council in 2003. Elvestuen headed the City Development Committee from 2003 to 2011. He was leader of the Oslo branch of the Liberal Party from 2000-2007.
-
-    At Parliament, Elvestuen has chaired the Committee on Energy and Environment since 2013. Elvestuen has been a member of the Norwegian parliamentary delegation to the Parliamentary Assembly in the Organization for Security and Cooperation in Europe (OSCE) since 2013. He has been deputy member of the parliamentary delegation for Arctic parliamentary cooperation since autumn 2017.
-  image: "/uploads/Ola%20Elvestuen.jpg"
 - name: Mr. Valery Miftakhov
   title: Founder & CEO, Emotowerks
   bio_text: "Valery Miftakhov is the Founder of Electric Motor Werks, a California
@@ -675,10 +679,6 @@ speakers:
 
     A former staff writer for the New Yorker, he writes frequently for a wide variety of publications around the world, including the New York Review of Books, National Geographic, and Rolling Stone. He lives in the mountains above Lake Champlain with his wife, the writer Sue Halpern, where he spends as much time as possible outdoors . In 2014, biologists honored him by naming a new species of woodland gnat -- Megophthalmidia mckibbeni -- in his honor.
   image: "/uploads/Bill%20Mckibben.jpg"
-- name: Governor Claudia Pavlovich Arellano
-  title: Constitutional Governor of the State of Sonora, Mexico
-  bio_text: 
-  image: "/uploads/Claudia%20Pavlovich%20Arellano.jpg"
 partners:
 - name: LESC 2018 GCAS Partnerts
   image: "/uploads/180823-lesc-gcas-podium-sign-partners-web.png"
