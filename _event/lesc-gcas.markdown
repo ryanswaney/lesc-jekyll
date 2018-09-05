@@ -48,8 +48,8 @@ sessions:
   moderators: "**Daniel Lashof,** World Resources Institute US"
   speakers: "**Alexandre Ywata de Carvalho,** Instituto de Pesquisa Econômica Aplicada
     (IPEA)  \n**Governor David Ige,** Hawaii  \n**Claire Jahns,** California Natural
-    Resources Agency  \n**Pavlovich Arellano,** Constitutional Governor of the State
-    of Sonora, Mexico"
+    Resources Agency  \n**Governor Claudia Pavlovich Arellano,** Constitutional Governor
+    of the State of Sonora, Mexico"
   description: 
 - title: 'Plenary Panel 2: New Findings from Decarbonization Pathways: where energy
     and land use meet'
