@@ -631,6 +631,26 @@ speakers:
 
     Novozymes in the world leader in biological solutions.  Together with customers, partners and the global community, Novozymes improves industrial performance while preserving the planet's resources and helping to build better lives.
   image: 
+- name: Matthew Reddy
+  title: World Business Council on Sustainable Development (WBCSD)
+  bio_text: 
+  image: 
+- name: Rasmus Valanko
+  title: World Business Council on Sustainable Development (WBCSD)
+  bio_text: 
+  image: 
+- name: Erik van der Shans
+  title: Port of Rotterdam
+  bio_text: 
+  image: 
+- name: Duncan van Bergen
+  title: Royal Dutch Shell
+  bio_text: 
+  image: 
+- name: Christopher Adamo
+  title: Danone
+  bio_text: 
+  image: 
 partners:
 - name: LESC 2018 GCAS Partnerts
   image: "/uploads/180823-lesc-gcas-podium-sign-partners-web.png"
