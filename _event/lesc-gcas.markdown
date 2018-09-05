@@ -648,10 +648,6 @@ speakers:
   title: Director Environmental Management, Port of Rotterdam
   bio_text: 
   image: 
-- name: Duncan van Bergen
-  title: Royal Dutch Shell
-  bio_text: 
-  image: 
 - name: Mr. Christopher Adamo
   title: Vice President Federal and Industry Affairs, Danone
   bio_text: 
