@@ -41,7 +41,8 @@ sessions:
   moderators: "**Daniel Lashof,** World Resources Institute US"
   speakers: "**Alexandre Ywata de Carvalho,** Instituto de Pesquisa Econômica Aplicada
     (IPEA)  \n**Governor David Ige,** Hawaii  \n**Claire Jahns,** California Natural
-    Resources Agency"
+    Resources Agency  \n**Pavlovich Arellano,** Constitutional Governor of the State
+    of Sonora, Mexico"
   description: 
 - title: 'Plenary Panel 2: New Findings from Decarbonization Pathways: where energy
     and land use meet'
@@ -63,10 +64,10 @@ sessions:
     the land-energy intersection'
   date: 2018-09-11 12:00:00 Z
   starts_at: 
-  moderators: "**Alema Bibi,** World Business Council on Sustainable Development (WBCSD)"
+  moderators: 
   speakers: "**Christa Anderson,** Stanford University and World Wildlife Fund (WWF)
     \ \n**Guido Schmidt-Traub,** Sustainable Development Solutions Network (SDSN)
-    \ \n**Brian Shillinglaw,** New Forests  \n**Duncan van Bergen,** Royal Dutch Shell"
+    \ \n**Brian Shillinglaw,** New Forests"
   description: 
 - title: Lunch Provided - Keynote discussion with John Holdren
   date: 2018-09-11 13:00:00 Z
@@ -78,7 +79,7 @@ sessions:
   date: 2018-09-11 14:00:00 Z
   starts_at: 
   moderators: "**Paul Hawken,** Project Drawdown"
-  speakers: "**Carlos Manuel Rodriguez,** Minister of Energy and Environment, Costa
+  speakers: "**Carlos Manuel Rodriguez,** Minister of Environment and Energy, Costa
     Rica  \n**Hammerskjoeld Simwinga,** Foundation for Wildlife and Habitat Conservation
     \ \n**Peter Walke,** Vermont Agency of Natural Resources  \n**Christopher Adamo,**
     Danone "
@@ -139,9 +140,9 @@ sessions:
   starts_at: 
   moderators: "**Rasmus Valanko,** World Business Council on Sustainable Development
     (WBCSD)"
-  speakers: "**Anirban Ghosh,** Mahindra Group  \n**Patrick Browne,** United Parcel
-    Service (UPS)  \n**Erik van der Shans,** Port of Rotterdam  \n**Michael Burns,**
-    Novozymes  \n**David Schlosberg,** eMotoworks"
+  speakers: "**Anirban Ghosh,** Mahindra Group  \n**David Schlosberg,** eMotoworks
+    \ \n**Patrick Browne,** United Parcel Service (UPS)  \n**Michael Burns,** Novozymes
+    \ \n**Erik van der Shans,** Port of Rotterdam"
   description: 
 speakers:
 - name: Dr. John Holdren
@@ -632,7 +633,8 @@ speakers:
     Novozymes in the world leader in biological solutions.  Together with customers, partners and the global community, Novozymes improves industrial performance while preserving the planet's resources and helping to build better lives.
   image: 
 - name: Mr. Matthew Reddy
-  title: World Business Council on Sustainable Development (WBCSD)
+  title: Director of Climate Smart Agriculture, World Business Council on Sustainable
+    Development (WBCSD)
   bio_text: 
   image: 
 - name: Mr. Rasmus Valanko
