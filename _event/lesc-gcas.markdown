@@ -348,12 +348,12 @@ speakers:
     Jackson has received numerous awards. He is a Fellow in the American Geophysical Union and the Ecological Society of America and was honored at the White House with a Presidential Early Career Award in Science and Engineering. In recent years, he directed the DOE National Institute for Climate Change Research for the southeastern U.S., co-chaired the U.S. Carbon Cycle Science Plan, and is currently CHAIR of the Global Carbon Project (www.globalcarbonproject.org).
 
     An author and photographer, Rob has published a trade book about the environment (The Earth Remains Forever, University of Texas Press) and two books of children’s poems, Animal Mischief and Weekend Mischief (Highlights Magazine and Boyds Mills Press). His photographs have appeared in many media outlets, including the NY Times, Washington Post, USA Today, US News and World Report, Nature, and National Geographic.
-  image: 
+  image: "/uploads/Rob%20Jackson.jpg"
 - name: Dr. Alexandre Ywata de Carvalho
   title: Director of Regional, Urban, and Environmental Studies and Policies, Brazilian
     Institute of Applied Economics Research
   bio_text: 
-  image: 
+  image: "/uploads/Alexandre%20Ywata%20de%20Carvalho.jpg"
 - name: Dr. Christa Anderson
   title: Fellow with World Wildlife Federation, Stanford University
   bio_text: "Christa's research focuses on deforestation and land use change in the
@@ -366,7 +366,7 @@ speakers:
     Science from the Yale School of Forestry and Environmental Studies; her research
     focused on ecosystems dynamics in an East Africa Savannah ecosystem. She holds
     a BA in history and environmental studies from Yale University."
-  image: 
+  image: "/uploads/Christa%20Anderson.jpg"
 - name: Dr. Jim Williams
   title: Professor, University of San Francisco
   bio_text: |-
@@ -377,7 +377,7 @@ speakers:
     Prof. Williams led E3’s analysis of greenhouse gas emission reduction strategies for California’s government agencies, which helped to shape the state’s climate and energy policies. He directs the Deep Decarbonization Pathways Project (DDPP), a consortium of research teams from the 16 highest-emitting countries, whose long-term blueprints for a low-carbon transition influenced the Paris Agreement.
 
     Prof. Williams formerly taught at the Monterey Institute of International Studies, where his research interests included the technical and institutional challenges of decarbonizing China’s power sector.
-  image: 
+  image: "/uploads/Jim%20Williams.jpg"
 - name: Ms. Claire Jahns
   title: Assistant Secretary, California Natural Resources Agency
   bio_text: Claire Jahns is Assistant Secretary for Natural Resources Climate Issues
@@ -392,7 +392,7 @@ speakers:
     at the Chicago Climate Exchange from the Exchange’s opening in 2003 to 2007. She
     holds a Masters of Environmental Management and an MBA from Yale University, and
     a BA from Oberlin College.
-  image: 
+  image: "/uploads/Claire%20Jahns.jpg"
 - name: Mr. Peter Walke
   title: Deputy Secretary, Vermont Agency of Natural Resources
   bio_text: |-
@@ -401,7 +401,7 @@ speakers:
     Raised in Vermont, Walke pursued higher education first in Massachusetts, receiving a Bachelor of Arts (cum laude) from Williams College, and later a Master of Arts in Applied Geography from the University of Colorado at Colorado Springs. Following receipt of his undergraduate degree, Walke joined the Navy, serving for nine years as an intelligence officer. During his time in the armed services he was stationed in Florida, Virginia, England, and Colorado and was deployed twice in support of counterterrorism operations in Iraq and Afghanistan.
 
     After resigning his commission, Walke was selected to join a leadership development fellowship serving the Governor of the State of New York. He quickly became one of the Governor’s primary environmental advisors and was named to the post of Chief of Staff of the New York Department of Environmental Conservation. After more than two decades living in other states and abroad, Walke was excited to return to his hometown of Montpelier, Vermont to continue his pursuit of excellence in environmental leadership at the Agency of Natural Resources.
-  image: 
+  image: "/uploads/Peter%20Walke.jpg"
 - name: Dr. Daniel L. Sanchez
   title: 'Assistant Specialist, Department of Environmental Science, Policy, and Management
     University of California-Berkeley
@@ -420,7 +420,7 @@ speakers:
     Public Utilities Commission. He holds a PhD and MS from UC Berkeley’s Energy and
     Resources Group, and a BSE in chemical and biomolecular engineering from the University
     of Pennsylvania.
-  image: 
+  image: "/uploads/Daniel%20L.%20Sanchez.jpg"
 - name: Dr. Margaret Torn
   title: 'Senior Scientist and Head of Biosphere-Atmosphere Program, Berkeley Lab
     and UC Berkeley
@@ -430,7 +430,7 @@ speakers:
     Margaret S. Torn is Senior Advisor in the Climate and Ecosystem Sciences Division (CESD) and lead of the Biosphere-Atmosphere Interactions Program Domain, which includes the Atmospheric Systems Research and Terrestrial Ecosystems Science programs. Margaret co-led the former Climate and Carbon Sciences Program Area in the old Earth Sciences Division. She is lead PI for three large DOE-supported projects: AmeriFlux Management Project, Belowground Carbon Cycling Scientific Focus Area, and Land-Atmosphere Interactions, and is co-PI for the Next Generation Ecosystem Experiment in the Arctic. At U.C. Berkeley, Margaret is an Adjunct Professor in the Energy and Resources Group, where she has taught classes on climate change impacts and adaptation, and a seminar on food systems. In 2003 she received the Presidential Early Career Award as one of the country’s top young scientists and was recently awarded an honorary doctorate by the faculty of Mathematics and Natural Sciences at the University of Zurich.
 
     Margaret is an ecologist and biogeochemist who studies the natural carbon cycle and human impacts on the carbon cycle through land use, energy use, and climate change. Her research uses field experiments, isotopic tracers (14C, 13C), laboratory analysis, and mathematical models. She has published more than 100 peer-reviewed articles on topics ranging from the basic mechanisms of soil carbon cycling and ecosystem-climate feedbacks, to ecological aspects of bioenergy production, to strategies for climate-change mitigation.
-  image: 
+  image: "/uploads/Margaret%20Torn.jpg"
 - name: Ms. Emily McGlynn
   title: Ph.D. Student, UC Davis
   bio_text: Emily is an expert on climate, energy, and environmental policy, focusing
@@ -448,7 +448,7 @@ speakers:
     Berlin and Ecologic Institute, Emily developed climate and environmental policy
     recommendations for the European Commission and other public and private sector
     stakeholders. She has a background in biology and economics from Bryn Mawr College.
-  image: 
+  image: "/uploads/Emily%20McGlynn.jpg"
 - name: Dr. Dan Lashof
   title: US Director, World Resources Institute
   bio_text: |-
@@ -459,7 +459,7 @@ speakers:
     His focus is developing federal and state regulations to place enforceable limits on carbon dioxide and other heat-trapping pollutants. He has participated in scientific assessments of global warming through the Intergovernmental Panel on Climate Change and has monitored international climate negotiations since their inception. He was a member of Governor McAuliffe’s Climate Change and Resiliency Update Commission, and has testified at numerous Congressional and California legislative hearings.
 
     Dan earned his Bachelor's degree in Physics and Mathematics at Harvard and his Doctorate from the Energy and Resources Group at the University of California, Berkeley.
-  image: 
+  image: "/uploads/Dan%20Lashof.jpg"
 - name: Governor David Ige
   title: Governor, Hawaii
   bio_text: |-
@@ -470,7 +470,7 @@ speakers:
     After college, while working for GTE Hawaiian Tel, a career that spanned 18 years, Governor Ige earned a master’s of Business Administration degree in Decisions Sciences at UH Mānoa. In 1986, Hawaii Business magazine named him one of the university’s Top 10 MBA students. He went on to become a successful electrical engineer and project manager with a 34-year career devoted to information technology, telecommunications, networks, and responsible public policy.
 
     Governor Ige began his political career in 1985 after being appointed by then Governor George Ariyoshi to fill a vacant seat in the Hawai‘i House of Representatives. In 1994, then Representative Ige was elected to the Hawai‘i Senate where he represented his home district of ‘Aiea / Pearl City until 2014.
-  image: 
+  image: "/uploads/Governor%20Ige.jpg"
 - name: Dr. Maria Mendiluce
   title: Managing Director, World Business Council on Sustainable Development (WBCSD)
   bio_text: Dr. María Mendiluce has over 20 years’ experience in the energy and climate
@@ -484,7 +484,7 @@ speakers:
     Economic Bureau of the Spanish Prime Minister (Spain). María teaches at the University
     of Geneva, coaches students and is recognized for her contributions to scientific
     journals and international conferences. She is married and has three kids.
-  image: 
+  image: "/uploads/Maria%20Mendiluce.jpg"
 - name: Dr. Leon Clarke
   title: Senior Scientist, Pacific Northwest National Laboratory
   bio_text: Dr. Clarke is an expert in the cross-disciplinary analysis of issues relating
@@ -505,7 +505,7 @@ speakers:
     and M.S. degrees in Engineering Economic Systems and Operations Research from
     Stanford University and B.S. and M.S. degrees in Mechanical Engineering from U.C.
     Berkeley.
-  image: 
+  image: "/uploads/Leon%20Clarke.jpg"
 - name: "Minister Carlos Manuel Rodriguez\t"
   title: Former Minister of Environment and Energy, Costa Rica
   bio_text: |-
@@ -520,7 +520,7 @@ speakers:
     consultant for institutions such as the Interamerican Development Agency, Interamerican Development Bank, World Resources Institute, Greenpeace, Oregon University, Environmental Law Institute, Wild Life Foundation (Argentina), Cordavi (Ecuador), National Parks Foundation (Costa Rica) and the Central American Commission for Environment and Development.
 
     In addition to these public positions, Minister Rodríguez has held several positions in private legal practice. He is Licenciate in Law from the University of Costa Rica, 1986, and obtained a Masters in Environmental Law from South Methodist University, in 1988.
-  image: 
+  image: "/uploads/Carlos%20Manuel.jpg"
 - name: Mr. Hammerskjoeld Simwinga
   title: 'Executive Chairman, Foundation for Wildlife & Habitat Conservation
 
@@ -535,7 +535,7 @@ speakers:
     He and the community through the support of the traditional leadership and the local council have managed to protect part of this important north luangwa ecosystem that which is part of the great two national wildlife parks,the north and South Luangwa national parks.
 
     Visit Foundation for Wildlife and Habitat Conservation – Zambia for more information on Hammer’s work.
-  image: 
+  image: "/uploads/Hammerskjoeld%20Simwinga.jpg"
 - name: Dr. Ren Orans
   title: Managing Partner, Energy and Environmental Economics
   bio_text: |-
@@ -548,14 +548,14 @@ speakers:
     Even after 25-plus years of analyzing the industry, Ren still finds the electricity sector fascinating. He’s particularly excited by the accelerating pace of change, which technological innovation and public policy are driving. He enjoys applying E3’s deep analytic models and years of experience to new challenges and new markets.
 
     Education: PhD, civil engineering, Stanford University; BA, economics, University of California, Berkeley
-  image: 
+  image: "/uploads/Ren%20Orans.jpg"
 - name: Mr. Renat Heuberger
   title: CEO, South Pole Group
   bio_text: |-
     Renat is a pioneer and social entrepreneur in the field of sustainability, climate change and renewable energies, where he is engaged since 1999. As a founding partner and CEO of the South Pole Group, he coordinated the set-up of the company's global sustainability solutions business. Before founding South Pole, Renat was co-founder and CEO of the myclimate foundation, one of the world's first players on the voluntary carbon markets.
 
     Renat has been elected "Social Entrepreneur of Switzerland" by the World Economic Forum's Schwab foundation, and he serves as a member of the Global Agenda Council on Climate Change of the WEF. He is a board member of Climate-KIC, Europe's largest public-private innovation partnership focused on climate change, a board member of Climate Friendly Pty Ltd, Australia's leading voluntary carbon company, and of Perenia Pty Ltd. He is a member of the advisory board of HUB Zurich, a platform for social entrepreneurship and MyNewEnergy, a company launching the first-ever platform to compare power products in Switzerland.
-  image: 
+  image: "/uploads/Renat%20Heuberger.jpg"
 - name: Mr. Ben Haley
   title: Co-Founder, Evolved Energy Research
   bio_text: Ben has unique experience developing energy system models to support energy
@@ -568,7 +568,7 @@ speakers:
     economy. His education includes a masters in international environmental policy
     from the Middlebury Institute of International Studies and a bachelors degree
     in business administration from Bucknell University.
-  image: 
+  image: "/uploads/Ben%20Haley.jpeg"
 - name: Ms. Noora Singh
   title: Director, Global Sustainability, PepsiCo
   bio_text: Skilled environmental professional with over eleven years of experience
@@ -582,7 +582,7 @@ speakers:
     long term sustainability goal setting to goal implementation, progress tracking
     and evaluation of environmental impacts from various interventions. Well-versed
     in the areas of climate change mitigation and the carbon markets.
-  image: 
+  image: "/uploads/Noorah%20Signh.jpeg"
 - name: Ms. Candace Laing
   title: 'Vice President, Sustainability and Stakeholder Relations, Nutrien
 
@@ -599,7 +599,7 @@ speakers:
     and always energized by challenge. She is passionate about agriculture and is
     proud to have grown up in Saskatchewan which is where she currently lives and
     where her family still farms.
-  image: 
+  image: "/uploads/Candace%20Laing.jpeg"
 - name: Jad Daley
   title: CEO, American Forests
   bio_text: Jad joined American Forests in 2017 as VP of Conservation Programs and
@@ -610,7 +610,7 @@ speakers:
     on conservation topics, including an active presence on HuffPost, and has played
     a leading role in authoring and enacting federal legislation to establish forest
     programs such as the U.S. Forest Service Community Forest Program.
-  image: 
+  image: "/uploads/Jad%20Daley.jpg"
 - name: Bas Ruter
   title: Global Sustainability Director, Rabobank
   bio_text: |-
@@ -619,39 +619,39 @@ speakers:
     Before joining Rabobank he worked 17 years for Triodos Bank, during the last seven years as managing director of Triodos Investment Management.
 
     Bas holds a Master of Science degree in biology of Wageningen University.
-  image: 
+  image: "/uploads/Bas%20Ruter.jpg"
 - name: Mr. Anirban Ghosh
   title: Chief Sustainability Officer, Mahindra Group
   bio_text: |-
     Anirban Ghosh is a gold medallist engineering graduate who has paved way for a sustainable future.
 
     He is with the USD 17.8bn Mahindra Group, where he is currently Chief Sustainability Officer. This role involves leading the strategy and implementation of the Group’s sustainability drive. Anirban has held other key positions in the Group prior to his current role. He led the business strategy function in M&M’s Farm Equipment business and has also worked in the USA as President of Mahindra USA Inc. Before joining Mahindra Group, Anirban has worked in the Information Technology and Office Automation industries in Sales and Marketing roles. He has also served on the committees of several Industry Associations in India and in the USA, including being a member of the Board of the Association of Equipment Manufacturers, USA. He was recently appointed as Multi-Stakeholder Steering Committee (MSC) for GRI South Asia, SDG Agenda 2030.
-  image: 
+  image: "/uploads/Anirban%20Ghosh.jpg"
 - name: Mr. Michael Burns
   title: Head of Biorefining Business Development, Novozymes
   bio_text: |-
     Michael Burns is the Head of Biorefinery Business Development for Novozymes, focused on developing business opportunities utilizing Novozymes biotechnology in the fuel and chemical industries. Prior to joining Novozymes in 2015, he was Director of Commercial and Business Development of BP’s Advanced Bio Products division. He joined BP in 2010 and had several roles focused on Project, Business, and Commercial Development. He has held several other roles in the energy industry in his 20-year career focused on Project Finance, Project Development, Business and Commercial Development, Mergers and Acquisitions, and Corporate Strategy and Analysis. He has also worked for R.W. Beck, Celunol, Verenium, and Vercipia. He holds an MBA from Western New England University and Bachelor of Science in Business Administration from Bryant University.
 
     Novozymes in the world leader in biological solutions.  Together with customers, partners and the global community, Novozymes improves industrial performance while preserving the planet's resources and helping to build better lives.
-  image: 
+  image: "/uploads/Michael%20Burns.jpg"
 - name: Mr. Matthew Reddy
   title: Director of Climate Smart Agriculture, World Business Council on Sustainable
     Development (WBCSD)
   bio_text: 
-  image: 
+  image: "/uploads/Matthew%20Reddy.jpg"
 - name: Mr. Rasmus Valanko
   title: Director, Climate & Energy, World Business Council on Sustainable Development
     (WBCSD)
   bio_text: 
-  image: 
+  image: "/uploads/Rasmus%20Valanko.jpg"
 - name: Mr. Erik van der Shans
   title: Director Environmental Management, Port of Rotterdam
   bio_text: 
-  image: 
+  image: "/uploads/Erik%20van%20der%20Shans.jpg"
 - name: Mr. Christopher Adamo
   title: Vice President Federal and Industry Affairs, Danone
   bio_text: 
-  image: 
+  image: "/uploads/Chris%20Adamo.jpeg"
 partners:
 - name: LESC 2018 GCAS Partnerts
   image: "/uploads/180823-lesc-gcas-podium-sign-partners-web.png"
