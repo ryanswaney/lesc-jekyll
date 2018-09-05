@@ -430,7 +430,21 @@ speakers:
   image: 
 - name: Emily McGlynn
   title: Ph.D. Student, UC Davis
-  bio_text: 
+  bio_text: Emily is an expert on climate, energy, and environmental policy, focusing
+    on land use and land management issues. Currently a PhD NSF Graduate Fellow in
+    the University of California Davis' Agriculture and Resource Economics department,
+    Emily previously served as Deputy Associate Director for Energy and Climate Change
+    in the Obama White House. In this capacity she was a lead author of the U.S. Mid-Century
+    Strategy for Deep Decarbonization. Emily also served as Senior Adviser to the
+    Special Envoy for Climate Change Todd Stern at the U.S. Department of State, leading
+    on high priority international initiatives to reduce greenhouse gas emissions,
+    including bilateral cooperation with China. Emily has supported investment in
+    environmental markets as Director for Strategy and Policy at The Earth Partners,
+    a company identifying private sector solutions to land restoration. As a German
+    Foreign Ministry-supported Transatlantic Fellow at the Technische Universitaet
+    Berlin and Ecologic Institute, Emily developed climate and environmental policy
+    recommendations for the European Commission and other public and private sector
+    stakeholders. She has a background in biology and economics from Bryn Mawr College.
   image: 
 - name: Dan Lashof
   title: US Director, World Resources Institute
@@ -442,6 +456,180 @@ speakers:
     His focus is developing federal and state regulations to place enforceable limits on carbon dioxide and other heat-trapping pollutants. He has participated in scientific assessments of global warming through the Intergovernmental Panel on Climate Change and has monitored international climate negotiations since their inception. He was a member of Governor McAuliffe’s Climate Change and Resiliency Update Commission, and has testified at numerous Congressional and California legislative hearings.
 
     Dan earned his Bachelor's degree in Physics and Mathematics at Harvard and his Doctorate from the Energy and Resources Group at the University of California, Berkeley.
+  image: 
+- name: Governor David Ige
+  title: Governor, Hawaii
+  bio_text: |-
+    Governor Ige is focused on improving the lives of Hawaiʻi’s people and making the islands a place future generations choose to call home. He is increasing affordable housing, reducing homelessness, moving toward the state’s 100% renewable energy goal, and remodeling public education to prepare students for the innovation economy of the 21st century. Under his leadership, the state has aggressively moved to ensure financial sustainability and enable future growth. He believes that we can achieve our shared goals because we have always been better together than alone.
+
+    Governor Ige was born and raised in Pearl City and is the fifth of six sons of Tokio and Tsurue Ige. He is the first governor in the United States of America of Okinawan descent. He attended public schools in Pearl City and earned a Bachelor of Science degree in Electrical Engineering at the University of Hawaiʻi at Mānoa, where he met his wife, Dawn Amano-Ige.
+
+    After college, while working for GTE Hawaiian Tel, a career that spanned 18 years, Governor Ige earned a master’s of Business Administration degree in Decisions Sciences at UH Mānoa. In 1986, Hawaii Business magazine named him one of the university’s Top 10 MBA students. He went on to become a successful electrical engineer and project manager with a 34-year career devoted to information technology, telecommunications, networks, and responsible public policy.
+
+    Governor Ige began his political career in 1985 after being appointed by then Governor George Ariyoshi to fill a vacant seat in the Hawai‘i House of Representatives. In 1994, then Representative Ige was elected to the Hawai‘i Senate where he represented his home district of ‘Aiea / Pearl City until 2014.
+  image: 
+- name: Dr. Maria Mendiluce
+  title: Managing Director, WBCSD
+  bio_text: Dr. María Mendiluce has over 20 years’ experience in the energy and climate
+    area. Since 2008, María has led the implementation of WBCSD’s Climate and Energy
+    strategy, guiding the work of over 200 member companies to influence the global
+    climate landscape. María managed the development of the Low Carbon Technology
+    Partnerships initiative, one of the flagship projects leading up to the success
+    of COP21. She created WBCSD’s new program on circular economy, and is now developing
+    the new strategy for transport and cities. Prior to joining WBCSD, Maria held
+    different roles at the International Energy Agency (Paris), Iberdrola and the
+    Economic Bureau of the Spanish Prime Minister (Spain). María teaches at the University
+    of Geneva, coaches students and is recognized for her contributions to scientific
+    journals and international conferences. She is married and has three kids.
+  image: 
+- name: Dr. Leon Clarke
+  title: Senior Scientist, Pacific Northwest National Laboratory
+  bio_text: Dr. Clarke is an expert in the cross-disciplinary analysis of issues relating
+    to energy, technology, policy, and climate change. Dr. Clarke is currently a Senior
+    Scientist and leads the Integrated Modeling and Energy Group at the Joint Global
+    Change Research Institute (JGCRI), a collaboration between the University of Maryland
+    and the Pacific Northwest National Laboratory (PNNL). Dr. Clarke’s current activities
+    focus on the evolution of national and international energy and agricultural systems,
+    energy technology deployment and technological advance, scenario analysis, international
+    climate policy, and integrated assessment of climate impacts. Dr. Clarke has served
+    in a range of national and international leadership roles, including coordinating
+    lead author for the Intergovernmental Panel on Climate Change (IPCC), member of
+    the National Academy Study on America’s Climate Choices, and coordinator of several
+    multi-institution studies exploring energy, technology, policy, and climate change.
+    Prior to joining PNNL, Dr. Clarke worked as a decision scientist at Lawrence Livermore
+    National Laboratory, evaluated utility demand-side management programs at Pacific
+    Gas & Electric Company, and worked in energy consulting. Dr. Clarke holds Ph.D.
+    and M.S. degrees in Engineering Economic Systems and Operations Research from
+    Stanford University and B.S. and M.S. degrees in Mechanical Engineering from U.C.
+    Berkeley.
+  image: 
+- name: "Minister Carlos Manuel Rodriguez\t"
+  title: Former Minister of Environment and Energy, Costa Rica
+  bio_text: |-
+    Carlos Manuel Rodríguez Conservation International’s Regional Vice-President and Conservation Biodiversity Center Regional Director for Mexico and Central America. He recently served as Minister of the Environment of Costa Rica, where he built on Costa Rica’s strong conservation history by bolstering the country’s mechanisms for terrestrial conservation and expanding into the realm of marine conservation. In June, 2006, he received the Blue Moon Fund's first annual Conservation Leadership Award for his work in advancing terrestrial and
+    marine conservation.
+
+    Minister Rodríguez created the first ever Marine and Coastal Program within the Ministry of Environment and Energy and facilitated the signing of the “San Jose Declaration” by his government, Colombia, Panama and Ecuador that set up multinational management and conservation in the Eastern Tropical Pacific Seascape (ETPS). In recognition of his contributions to marine conservation, the Minister was honored as the first ever recipient of the Global Ocean Conservation Award in 2005.
+
+    Minister Rodríguez also worked towards managed the challenges of terrestrial conservation by securing future funding and through the introduction of a system of Payments for Ecosystem Services (PES). Minister Rodríguez collaborated with the Minister of Agriculture so that the PES system could be used for successful management of forested areas and watershed conservation.
+
+    Minister Rodríguez has represented Costa Rica in a number of international forums on environmental issues, including the Conference of the Parts of Biodiversity Convention, Jakarta, Indonesia, 1996, the Conference of the Parts of Biodiversity Convention, Buenos Aires, Argentina, 1997, the Conference of Climate Change, Buenos Aires, Argentina, 1998 and the Central American Environmental Commission in 1998 and 1999. In addition, has worked as a
+    consultant for institutions such as the Interamerican Development Agency, Interamerican Development Bank, World Resources Institute, Greenpeace, Oregon University, Environmental Law Institute, Wild Life Foundation (Argentina), Cordavi (Ecuador), National Parks Foundation (Costa Rica) and the Central American Commission for Environment and Development.
+
+    In addition to these public positions, Minister Rodríguez has held several positions in private legal practice. He is Licenciate in Law from the University of Costa Rica, 1986, and obtained a Masters in Environmental Law from South Methodist University, in 1988.
+  image: 
+- name: Mr. Hammerskjoeld Simwinga
+  title: 'Executive Chairman, Foundation for Wildlife & Habitat Conservation
+
+'
+  bio_text: |-
+    Hammarskjold Simwinga is a 2007 Goldman Environmental Prize Recipient, for having worked with communities in rural Zambia of north luangwa national park by providing and supporting alternative livelihood to over 3000 households. He is also a Times Magazine 2007 Environmental nominee. In 2008 he became a National Geographic Emerging Explore.
+
+    His work goes as far back as 1994, supporting communities in sustainable agriculture production, conducting conservation education to young rural pupils.
+
+    In the recent years he has dedicated his time trying to save over 5,080 hac. of pristine forest that is under threat due to increased timber poaching and increased land encroachment by commercial farm land developers.
+
+    He and the community through the support of the traditional leadership and the local council have managed to protect part of this important north luangwa ecosystem that which is part of the great two national wildlife parks,the north and South Luangwa national parks.
+
+    Visit Foundation for Wildlife and Habitat Conservation – Zambia for more information on Hammer’s work.
+  image: 
+- name: Dr. Ren Orans
+  title: Managing Partner, Energy and Environmental Economics
+  bio_text: |-
+    Dr. Ren Orans founded E3 in 1989. An economist and engineer, he has focused throughout his career on the most pressing challenges facing the electricity industry. Most recently his major focus has been on advising California’s regulators and stakeholders on the most effective ways to implement the state’s clean energy and greenhouse gas mitigation policies.
+
+    Ren began his career by demonstrating the potential of deploying distributed energy resources to defer infrastructure investments, saving costs and enabling the integration of renewables into the grid. During the restructuring era of the 1990s, he devised a rate-making mechanism that enabled Texas utilities to recover stranded costs while giving retail customers access to wholesale market prices. He also supported the opening of transmission markets by developing FERC-compliant tariffs for Canadian utilities and assisting the California ISO in developing tariffs and evaluation processes for transmission projects.
+
+    Ren is a longtime advisor to policy makers and executives in every corner of the electricity arena: government agencies, utilities, system operators, regulators, independent power producers, energy technology companies, public interest organizations, and investors. He has also published his work widely in top scholarly journals and served as an expert witness on numerous occasions.
+
+    Even after 25-plus years of analyzing the industry, Ren still finds the electricity sector fascinating. He’s particularly excited by the accelerating pace of change, which technological innovation and public policy are driving. He enjoys applying E3’s deep analytic models and years of experience to new challenges and new markets.
+
+    Education: PhD, civil engineering, Stanford University; BA, economics, University of California, Berkeley
+  image: 
+- name: Mr. Renat Heuberger
+  title: CEO, South Pole Group
+  bio_text: |-
+    Renat is a pioneer and social entrepreneur in the field of sustainability, climate change and renewable energies, where he is engaged since 1999. As a founding partner and CEO of the South Pole Group, he coordinated the set-up of the company's global sustainability solutions business. Before founding South Pole, Renat was co-founder and CEO of the myclimate foundation, one of the world's first players on the voluntary carbon markets.
+
+    Renat has been elected "Social Entrepreneur of Switzerland" by the World Economic Forum's Schwab foundation, and he serves as a member of the Global Agenda Council on Climate Change of the WEF. He is a board member of Climate-KIC, Europe's largest public-private innovation partnership focused on climate change, a board member of Climate Friendly Pty Ltd, Australia's leading voluntary carbon company, and of Perenia Pty Ltd. He is a member of the advisory board of HUB Zurich, a platform for social entrepreneurship and MyNewEnergy, a company launching the first-ever platform to compare power products in Switzerland.
+  image: 
+- name: Mr. Ben Haley
+  title: Co-Founder, Evolved Energy Research
+  bio_text: Ben has unique experience developing energy system models to support energy
+    transformation decision making. His models have been utilized by parties from
+    the California state government to support 2030 greenhouse gas (GHG) target-setting
+    and by the research team representing the United States in the Deep Decarbonization
+    Pathways Project (DDPP) convened at the behest of the United Nations. He has a
+    passion for problem-solving and a deep technical knowledge of energy, specifically
+    in the growing interaction between electricity and other sectors of the energy
+    economy. His education includes a masters in international environmental policy
+    from the Middlebury Institute of International Studies and a bachelors degree
+    in business administration from Bucknell University.
+  image: 
+- name: Ms. Noora Singh
+  title: Director, Global Sustainability, PepsiCo
+  bio_text: Skilled environmental professional with over eleven years of experience
+    in the areas of sustainability strategy, resource management, climate change mitigation,
+    supply chain sustainability, sustainable agriculture and waste management. Extensive
+    experience in evaluating sustainability issue areas and uncovering opportunities
+    for improvements that bring value to the business in the form of cost reduction,
+    risk mitigation and enhancement of brand value. Seasoned in formulating the right
+    strategy for tackling environmental issues with a focus on conducting stakeholder
+    and supplier engagements and working within and beyond a company’s own operations;
+    long term sustainability goal setting to goal implementation, progress tracking
+    and evaluation of environmental impacts from various interventions. Well-versed
+    in the areas of climate change mitigation and the carbon markets.
+  image: 
+- name: Ms. Candace Laing
+  title: 'Vice President, Sustainability and Stakeholder Relations, Nutrien
+
+'
+  bio_text: Candace Laing is a skilled resource in the development of strategic business
+    initiatives that create high performance cultures and help organizations achieve
+    business results. Candace is currently the Vice President of Sustainability and
+    Stakeholder Relations at Nutrien – the world’s largest provider of crop inputs
+    and services. Her career has spanned both private and public-sector organizations
+    and she has served as an instructor at the University of Saskatchewan in the Edwards
+    School of Business. Through the University of Saskatchewan, Candace obtained a
+    Bachelor of Commerce and she has completed a Master of Arts in Leadership from
+    Royal Roads University. People describe Candace as highly personable, competitive
+    and always energized by challenge. She is passionate about agriculture and is
+    proud to have grown up in Saskatchewan which is where she currently lives and
+    where her family still farms.
+  image: 
+- name: Jad Daley
+  title: CEO, American Forests
+  bio_text: Jad joined American Forests in 2017 as VP of Conservation Programs and
+    was named President and CEO in 2018 after a year of leading the organization forward
+    on issues like climate change and social equity. From 2008 to early 2017, Jad
+    launched the Climate Conservation Program at The Trust for Public Land and eventually
+    served as Vice President for Program Development. Jad is a widely published writer
+    on conservation topics, including an active presence on HuffPost, and has played
+    a leading role in authoring and enacting federal legislation to establish forest
+    programs such as the U.S. Forest Service Community Forest Program.
+  image: 
+- name: Bas Ruter
+  title: Global Sustainability Director, Rabobank
+  bio_text: |-
+    Bas Rüter is Director of Sustainability at Rabobank as of March 2012. He is responsible for the sustainability strategy, the sustainability policy framework, reporting and sustainable business development within Rabobank Group. As part of his function he is responsible for the partnerships with WWF, UN Environment including the 1 bln USD pledge for forest protection and sustainable agriculture, chair of the finance working group of the Climate Smart Agriculture program of the WBCSD, member of Rabobanks’ Ethics Committee, chairman of the supervisory Board of Dutch Greentech Fund and SHIFT Invest, chairman of the jury of the Herman Wijffels Innovation awards and supervisory board member of Rabo Groenbank. He is also member of the board of TKI Agri & Food an chairman of the Sustainability Platform of the Dutch Banking Association.
+
+    Before joining Rabobank he worked 17 years for Triodos Bank, during the last seven years as managing director of Triodos Investment Management.
+
+    Bas holds a Master of Science degree in biology of Wageningen University.
+  image: 
+- name: Mr. Anirban Ghosh
+  title: Chief Sustainability Officer, Mahindra Group
+  bio_text: |-
+    Anirban Ghosh is a gold medallist engineering graduate who has paved way for a sustainable future.
+
+    He is with the USD 17.8bn Mahindra Group, where he is currently Chief Sustainability Officer. This role involves leading the strategy and implementation of the Group’s sustainability drive. Anirban has held other key positions in the Group prior to his current role. He led the business strategy function in M&M’s Farm Equipment business and has also worked in the USA as President of Mahindra USA Inc. Before joining Mahindra Group, Anirban has worked in the Information Technology and Office Automation industries in Sales and Marketing roles. He has also served on the committees of several Industry Associations in India and in the USA, including being a member of the Board of the Association of Equipment Manufacturers, USA. He was recently appointed as Multi-Stakeholder Steering Committee (MSC) for GRI South Asia, SDG Agenda 2030.
+  image: 
+- name: Mr. Michael Burns
+  title: Head of Biorefining Business Development, Novozymes
+  bio_text: |-
+    Michael Burns is the Head of Biorefinery Business Development for Novozymes, focused on developing business opportunities utilizing Novozymes biotechnology in the fuel and chemical industries. Prior to joining Novozymes in 2015, he was Director of Commercial and Business Development of BP’s Advanced Bio Products division. He joined BP in 2010 and had several roles focused on Project, Business, and Commercial Development. He has held several other roles in the energy industry in his 20-year career focused on Project Finance, Project Development, Business and Commercial Development, Mergers and Acquisitions, and Corporate Strategy and Analysis. He has also worked for R.W. Beck, Celunol, Verenium, and Vercipia. He holds an MBA from Western New England University and Bachelor of Science in Business Administration from Bryant University.
+
+    Novozymes in the world leader in biological solutions.  Together with customers, partners and the global community, Novozymes improves industrial performance while preserving the planet's resources and helping to build better lives.
   image: 
 partners:
 - name: LESC 2018 GCAS Partnerts
