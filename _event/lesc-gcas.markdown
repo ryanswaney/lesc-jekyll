@@ -86,7 +86,7 @@ sessions:
   date: 2018-09-11 14:00:00 Z
   starts_at:
   moderators: "**Paul Hawken,** Project Drawdown"
-  speakers: "**Carlos Manuel Rodriguez,** Minister of Environment and Energy, Costa
+  speakers: "**Minister Carlos Manuel Rodriguez,** Minister of Environment and Energy, Costa
     Rica  \n**Hammerskjoeld Simwinga,** Foundation for Wildlife and Habitat Conservation
     \ \n**Peter Walke,** Vermont Agency of Natural Resources  \n**Christopher Adamo,**
     Danone "
@@ -213,7 +213,7 @@ speakers:
     A former staff writer for the New Yorker, he writes frequently for a wide variety of publications around the world, including the New York Review of Books, National Geographic, and Rolling Stone. He lives in the mountains above Lake Champlain with his wife, the writer Sue Halpern, where he spends as much time as possible outdoors . In 2014, biologists honored him by naming a new species of woodland gnat -- Megophthalmidia mckibbeni -- in his honor.
   image: "/uploads/Bill%20Mckibben.jpg"
 - name: "Minister Carlos Manuel Rodriguez\t"
-  title: Former Minister of Environment and Energy, Costa Rica
+  title: Minister of Environment and Energy, Costa Rica
   bio_text: |-
     Carlos Manuel Rodríguez Conservation International’s Regional Vice-President and Conservation Biodiversity Center Regional Director for Mexico and Central America. He recently served as Minister of the Environment of Costa Rica, where he built on Costa Rica’s strong conservation history by bolstering the country’s mechanisms for terrestrial conservation and expanding into the realm of marine conservation. In June, 2006, he received the Blue Moon Fund's first annual Conservation Leadership Award for his work in advancing terrestrial and
     marine conservation.
