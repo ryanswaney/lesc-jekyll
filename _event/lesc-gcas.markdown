@@ -19,7 +19,7 @@ sessions:
   starts_at: 
   moderators: 
   speakers: 
-  description: Breakfast to be provided
+  description: Breakfast to be provided.
 - title: Welcome & Conference Objectives
   date: 2018-09-11 09:00:00 Z
   starts_at: 
@@ -76,12 +76,12 @@ sessions:
     \ \n**Guido Schmidt-Traub,** Sustainable Development Solutions Network (SDSN)
     \ \n**Brian Shillinglaw,** New Forests"
   description: 
-- title: Lunch Break and Keynote discussion by John Holdren
+- title: Lunch Break and Keynote Discussion
   date: 2018-09-11 13:00:00 Z
   starts_at: 
   moderators: 
   speakers: "**John Holdren,** Professor, Harvard"
-  description: Lunch to be provided
+  description: Lunch to be provided.
 - title: 'Parallel Session L1: Implementing Natural Climate Solutions'
   date: 2018-09-11 14:00:00 Z
   starts_at: 
@@ -680,7 +680,7 @@ partners:
   image: "/uploads/180823-lesc-gcas-podium-sign-partners-web.png"
 ---
 
-The **Land-Energy Nexus in Climate Change Mitigation** event is a special edition of the Low-Emissions Solutions Conference (LESC) taking place alongside the Global Climate Action Summit (GCAS) in partnership with the University of California, Berkeley Lab and University of San Francisco in addition to other local partners. The event is brought to you with support from Enel.
+The **Land-Energy Nexus in Climate Change Mitigation** event is a special edition of the Low-Emissions Solutions Conference (LESC) taking place alongside the Global Climate Action Summit (GCAS) in partnership with the University of California, Berkeley Lab and the University of San Francisco in addition to other local partners. The event is brought to you with support from Enel.
 
 The **2018 Global Climate Action Summit** will bring together leaders from state and local governments and business from around the world. In an official GCAS affiliate side-event, LESC will host panels featuring distinguished speakers who will highlight the current state of technological solutions in each field and identify research, funding, and policy gaps. The agenda will include facilitated networking sessions to promote multi-stakeholder collaboration.
 
