@@ -679,6 +679,12 @@ speakers:
 
     I am an environmental scientist studying land use for energy and conservation needs. My research seeks to understand the impact of energy infrastructure on land use and conservation, and to develop practical strategies for avoiding negative impacts. I am broadly interested in the dynamics and drivers of land use change, land use policy, and advancing our ability to plan for sustainable, multi-use landscapes that protect biological diversity. As the study of land use is deeply interdisciplinary, I combine methods from landscape ecology, energy economics and engineering, remote sensing, and spatial science in my research. Through collaboration with The Nature Conservancy, I have developed a spatial model to understand land-use constraints in meeting ambitious renewable energy targets in California, which led to regulatory improvements that simultaneously advance conservation and climate goals. I co-founded the Multi-criteria Analysis for Planning Renewable Energy (MapRE) initiative, which seeks to enable and improve the planning of low-carbon, cost-effective, socially and environmentally responsible energy systems through the development of decision support tools. Previously, I worked at the U.S. Geological Survey (USGS) and University of Notre Dame leading a project to understand climate change impacts on an endangered butterfly in the Great Lakes region. I graduated with a BA in Biology from Pomona College, a MPhil in Evolutionary Biology from University of Cambridge, and an MS and PhD in Energy and Resources from UC Berkeley.
   image: "/uploads/Grace%20Wu.jpg"
+related-media:
+- description: |-
+    ## Transit Options
+
+    USF is centrally located in San Francisco with various public [transportation options.](https://www.usfca.edu/directions/transit-options) The subway system, Bay Area Rapid Transit (or BART for short) covers most of the Bay Area, providing quick access to the East Bay, the Peninsula, the airport, and other important destinations.
+  image: "/uploads/lesc-gcas-map.jpg"
 partners:
 - name: LESC 2018 GCAS Partnerts
   image: "/uploads/180823-lesc-gcas-podium-sign-partners-web.png"
