@@ -158,7 +158,7 @@ speakers:
     He served from 1991 to 2005 as a member of the Board of Trustees of the MacArthur Foundation and from 1994 to 2005 as Chairman of the Committee on International Security and Arms Control at the National Academy of Sciences. During the Clinton Administration, he served for both terms on the President’s Council of Advisors on Science and Technology, leading studies on nuclear materials protection, fusion-energy research, strengthening Federal investments in energy R&D, and international cooperation on energy-technology innovation.
 
     Dr. Holdren has been married since 1966 to Dr. Cheryl E. Holdren, a biologist. They have a son, a daughter, and five grandchildren. John and Cheryl currently live on Cape Cod.
-  image: 
+  image: "/uploads/John%20Holdren.jpg"
 - name: Dr. Guido Schmidt-Traub
   title: Executive Director, Sustainable Development Solutions Network (SDSN)
   bio_text: |-
@@ -169,14 +169,14 @@ speakers:
     Earlier Guido was Partner at IndexIT Scandinavia, a private equity fund for early-stage technology companies, and consultant at McKinsey & Company in Germany.
 
     Guido holds a Ph.D. in Economics from Wageningen University & Research, an M.Phil. in Economics from Oxford University (Rhodes Scholar), and a Masters in physical chemistry from the Free University Berlin.
-  image: 
+  image: "/uploads/Guido-Schmidt-Traub.jpg"
 - name: H.E. Ola Elvestuen
   title: Minister of Climate and Environment, Norway
   bio_text: |-
     Elvestuen holds a Bachelor’s degree from the University of Oslo, having studied Social Anthropology, Political Science and History. He started a major in History. He has undertaken the leadership training at the Norwegian Defence College. The Minister worked as a city councillor for Environment and Transportation in Oslo during 2011-2013. He was first elected to the Oslo City Council in 2003. Elvestuen headed the City Development Committee from 2003 to 2011. He was leader of the Oslo branch of the Liberal Party from 2000-2007.
 
     At Parliament, Elvestuen has chaired the Committee on Energy and Environment since 2013. Elvestuen has been a member of the Norwegian parliamentary delegation to the Parliamentary Assembly in the Organization for Security and Cooperation in Europe (OSCE) since 2013. He has been deputy member of the parliamentary delegation for Arctic parliamentary cooperation since autumn 2017.
-  image: 
+  image: "/uploads/Ola%20Elvestuen.jpg"
 - name: Mr. Valery Miftakhov
   title: Founder & CEO, Emotowerks
   bio_text: "Valery Miftakhov is the Founder of Electric Motor Werks, a California
@@ -188,7 +188,7 @@ speakers:
     and McKinsey & Company.\n\nValery received his PhD in Physics from Princeton University
     and his M.S. in Physics from Moscow Institute of Physics and Technology. He was
     a two-time winner of the Nationwide Russian Physics Competitions."
-  image: 
+  image: "/uploads/Valery%20Miftakhov.jpg"
 - name: Mr. David Schlosberg
   title: Vice President, Energy Market Operations for eMotorWerks
   bio_text: David Schlosberg is Director of Energy Market Operations and leads the
@@ -202,7 +202,7 @@ speakers:
     Energy, a provider of large scale solar thermal power plants. David received his
     BS in Economics from the University of Pennsylvania's Wharton School of Business
     and an MBA from UC Berkeley's Haas School of Business.
-  image: 
+  image: "/uploads/David%20Schlosberg.jpeg"
 - name: Mr. Daniele Maria Agostini
   title: Head of Low Carbon and European Energy Policies, Enel
   bio_text: |-
@@ -227,7 +227,7 @@ speakers:
     University of California at Berkeley (USA) and a Master of Science in
     Environmental and Resources Economics from University College London (UCL,
     UK).
-  image: 
+  image: "/uploads/Daniele%20Maria%20Agostini.jpeg"
 - name: 'Ms. Mengrong Cheng '
   title: Acting Chief, GEIDCO North America Office
   bio_text: Ms. Mengrong Cheng is graduated in English Literature by the Beijing Second
@@ -238,11 +238,11 @@ speakers:
     of China. Currently, Mrs. Mengrong Cheng is member of IEC MSB Chinese Committee;
     Co-head of the Department of International Cooperation, and member of the Overseas
     Investment Management Committee, State Grid Corporation of China.
-  image: 
+  image: "/uploads/Cheng%20Mengrong.jpg"
 - name: Ms. Erica Brand
   title: California Energy Program Director, The Nature Conservancy
   bio_text: 
-  image: 
+  image: "/uploads/Erica%20Brand.jpg"
 - name: Dr. Ken Alex
   title: Director, California Governor’s Office of Planning and Research
   bio_text: |-
@@ -251,7 +251,7 @@ speakers:
     Before joining the Governor’s Office, Ken was the Senior Assistant Attorney General heading the environment section of the California Attorney General’s Office, and the co-head of the Office’s global warming unit. From 2000 to 2006, Ken led the California Attorney General’s energy task force, investigating price and supply issues related to California’s energy crisis. California Lawyer named Ken an “Attorney of the Year” in 2004 for his work in energy law, and he received the ABA award for Distinguished Achievement in Environmental Law and Policy in 2007 for global warming work.
 
     Ken is a graduate of Harvard Law School and holds a B.A. in political theory from the University of California at Santa Cruz.
-  image: 
+  image: "/uploads/Ken%20Alex.jpg"
 - name: Dr. Chris Bataille
   title: Researcher, Institute for Sustainable Development and International Relations
     (IDDRI)
@@ -259,7 +259,7 @@ speakers:
     Chris Bataille has been involved in energy and climate policy analysis for more than 20 years as a researcher, energy systems and economic modeller, analyst, writer, project manager, and executive. Chris is currently an Associate Researcher at the Institute for Sustainable Development and International Relations in Paris, and conducts freelance energy and climate policy consulting. Chris recently completed a 1.5 year project as lead editor of a special issue of Climate Policy on the Deep Decarbonization Pathways Project (DDPP). He also helped manage the global DDPP and was co-author of the Canadian chapter. He is currently lead of the DDPP Heavy Industry Deep Decarbonization Project, which recently published a review paper in the Journal of Cleaner Production. He is an Adjunct Professor at Simon Fraser University in Vancouver.
 
     From 2011-‘14 Chris was a founding managing partner of Navius Research Inc., a Vancouver based energy policy consulting firm. Prior to helping found Navius in 2011, he was executive director of MK Jaccard & Associates Inc. (another energy policy consulting firm) for 5 years. He has managed many projects, including several large national climate change and energy policy studies for Natural Resources Canada, the Canadian National Roundtable of the Environment and the Economy, Environment Canada, the Pembina Institute and the David Suzuki Foundation, the Ontario Ministry of the Environment, and the Ontario Power Authority. In addition to his consulting practise, Chris has published peer reviewed articles in the Journal of Cleaner Production, Energy Economics, The Energy Journal and Climate Policy, edited a special edition of the Energy Journal on hybrid energy economy modelling, and has written a number of public policy publications, including “Pricing Greenhouse Gas Emissions: The impact on Canada’s competitiveness” for the C.D. Howe Institute.
-  image: 
+  image: "/uploads/Chris%20Bataille.jpg"
 - name: Mr. Patrick Browne
   title: Director, Global Sustainability, UPS
   bio_text: "Patrick Browne serves as Director of Global Sustainability for UPS, a
@@ -272,7 +272,7 @@ speakers:
     in organizations focused on advancing sustainable business practices around the
     world, including BSR’s Future of Fuels working group and Global Reporting Initiative’s
     GOLD Community."
-  image: 
+  image: "/uploads/Patrick%20Browne.jpg"
 - name: Mr. Paul Hawken
   title: Executive Director, Project Drawdown
   bio_text: 'Paul is an author and activist. He has founded successful, ecologically-conscious
@@ -287,14 +287,14 @@ speakers:
     served on the board of many environmental organizations including Center for Plant
     Conservation, Shelburne Farms, Trust for Public Land, Conservation International,
     and National Audubon Society.'
-  image: 
+  image: "/uploads/Paul%20Hawken.jpg"
 - name: Mr. Dick Cameron
   title: Head, Land Programs, The Nature Conservancy
   bio_text: |-
     Dick leads the Land Programs science team in The Nature Conservancy’s California Chapter. His work is focused on creating the tools and evidence to integrate conservation into land use and climate policies. Across a variety of California landscapes, his research assesses opportunities to align land conservation and other societal goals, such as alternative energy development, transportation infrastructure, food production and climate stabilization. Currently his priorities are focused on two climate-related conservation questions: how can ecological land management contribute to climate mitigation goals, and how to design connected networks of land that will help species adapt to climate change?
 
     Before the Conservancy, Dick worked for GreenInfo Network, where he specialized in helping organizations and public agencies design and communicate strategic priorities. His academic background is in geography with a B.A. from Middlebury College and an M.A. from University of Colorado.
-  image: 
+  image: "/uploads/Dick%20Cameron.jpeg"
 - name: Dr. Grace Wu
   title: Smith Conservation Fellow, UC Davis
   bio_text: |-
@@ -302,20 +302,20 @@ speakers:
 
 
     I am an environmental scientist studying land use for energy and conservation needs. My research seeks to understand the impact of energy infrastructure on land use and conservation, and to develop practical strategies for avoiding negative impacts. I am broadly interested in the dynamics and drivers of land use change, land use policy, and advancing our ability to plan for sustainable, multi-use landscapes that protect biological diversity. As the study of land use is deeply interdisciplinary, I combine methods from landscape ecology, energy economics and engineering, remote sensing, and spatial science in my research. Through collaboration with The Nature Conservancy, I have developed a spatial model to understand land-use constraints in meeting ambitious renewable energy targets in California, which led to regulatory improvements that simultaneously advance conservation and climate goals. I co-founded the Multi-criteria Analysis for Planning Renewable Energy (MapRE) initiative, which seeks to enable and improve the planning of low-carbon, cost-effective, socially and environmentally responsible energy systems through the development of decision support tools. Previously, I worked at the U.S. Geological Survey (USGS) and University of Notre Dame leading a project to understand climate change impacts on an endangered butterfly in the Great Lakes region. I graduated with a BA in Biology from Pomona College, a MPhil in Evolutionary Biology from University of Cambridge, and an MS and PhD in Energy and Resources from UC Berkeley.
-  image: 
+  image: "/uploads/Grace%20Wu.jpg"
 - name: Dr. Justin Baker
   title: Senior Economist, Research Triangle Institute (RTI)
   bio_text: Dr. Justin Baker is a natural resource and environmental economist who
     leads RTI efforts in bioenergy expansion, land use, climate change mitigation,
     and water resource management.
-  image: 
+  image: "/uploads/Justin%20Baker.jpeg"
 - name: Dr. Virgilio Viana
   title: Director General, Amazonas Sustainable Foundation
   bio_text: |-
     Virgilio Viana is an expert in forestry and sustainable development. He received a PhD in evolutionary biology from Harvard University and did post-doctoral work on sustainable development at the University of Florida. He was formerly professor of forest sciences at the Higher School of Agriculture Luiz de Queiroz, at São Paulo University. Dr. Viana coordinated the Brazilian consultative process that led to the establishment of the Forest Stewardship Council (FSC) in 1993.
 
     He was the founder and President of IMAFLORA, the first Latin-American-based forest certifier, and in 2003 he became the first Secretary of Environment and Sustainable Development for the state of Amazonas, Brazil, which had the mission of coordinating the state’s sustainable development program, known as the Green Free Trade Zone. In 2008, Dr. Viana transitioned to a new role as Director General of the Amazonas Sustainable Foundation (FAS), an organization charged with implementing the Bolsa Floresta Program, as well as providing the institutional framework to market environmental services of Amazonas’ forests.
-  image: 
+  image: "/uploads/Virgilio%20Viana.jpg"
 - name: Dr. Petr Havlik
   title: Deputy Program Director, International Institute for Applied Systems Analysis
     (IIASA)
@@ -327,7 +327,7 @@ speakers:
     Dr. Havlik pursued the analysis of environmental goods production by farmers also in his PhD thesis, under a double supervision at the University of Montpellier 1 and the Mendel University. Within his PhD thesis, he explicitly considered the jointness in production of environmental and agricultural goods, and the jointness between environmental goods themselves. By means of mathematical programming models, he analyzed implications of jointness for agri-environmental policy design, with special attention to uncertainty. He defended his thesis and received a PhD degree in 2006.
 
     Before joining IIASA, Dr. Havlik shortly worked as a post-doc at INRA Grignon (France), where he set up a spatially explicit optimization model for the design of biodiversity compatible landscape pattern policies. Dr. Havlik's current research interests include the use and development of forest and agricultural sector optimization models at the European and global level.
-  image: 
+  image: "/uploads/Petr%20Havlik.jpg"
 - name: Mr. Brian Shillinglaw
   title: Executive Director, New Forests
   bio_text: Brian Shillinglaw leads New Forests’ US timberland and environmental market
@@ -337,7 +337,7 @@ speakers:
     in Social Studies from Harvard University, a JD from Stanford Law School, a Master
     of Science from the Interdisciplinary Program on Environment and Resources at
     Stanford University, and doctoral research in historical ecology at Yale University.
-  image: 
+  image: "/uploads/Brian%20Shillinglaw.jpeg"
 - name: Dr. Robert Jackson
   title: Senior Fellow, Stanford Woods Institute; Professor, Stanford University
   bio_text: |-
