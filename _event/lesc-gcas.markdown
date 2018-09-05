@@ -1,6 +1,6 @@
 ---
 title: LESC at 2018 GCAS
-date: 2018-06-26 14:20:00 Z
+date: 2018-06-27 14:20:00 Z
 position: 0
 theme: The Land-Energy Nexus In Climate Change Mitigation
 is-featured: true
@@ -12,191 +12,138 @@ blurb: The 2018 Global Climate Action Summit will bring together leaders from st
   side-event, LESC will host panels featuring distinguished speakers who will highlight
   the current state of technological solutions in each field and identify research,
   funding, and policy gaps.
-feature_image: "/uploads/lesc-gcas-ftr-photo.png"
 sessions:
 - title: Registration Opens
   date: 2018-09-11 08:30:00 Z
-  starts_at:
-  moderators:
-  speakers:
+  starts_at: 
+  moderators: 
+  speakers: 
   description: Breakfast to be provided
 - title: Welcome & Conference Objectives
   date: 2018-09-11 09:00:00 Z
-  starts_at:
-  moderators:
+  starts_at: 
+  moderators: 
   speakers: "**Jim Williams,** University of San Francisco  \n**Guido Schmidt-Traub,**
     Sustainable Development Solutions Network (SDSN)  \n**Maria Mendiluce,** World
     Business Council on Sustainable Development (WBCSD)  \n**Margaret Torn,** University
     of California  "
-  description:
+  description: 
 - title: 'Opening Keynote: Valery Miftakhov, Emotowerks, Enel'
   date: 2018-09-11 09:10:00 Z
-  starts_at:
-  moderators:
-  speakers:
-  description:
+  starts_at: 
+  moderators: 
+  speakers: 
+  description: 
 - title: 'Plenary Panel 1: Climate Solutions in Action: policy perspectives on the
     land and energy nexus'
   date: 2018-09-11 09:30:00 Z
-  starts_at:
+  starts_at: 
   moderators: "**Daniel Lashof,** World Resources Institute US"
   speakers: "**Alexandre Ywata de Carvalho,** Instituto de Pesquisa Econômica Aplicada
-    (IPEA)  \n**Governor David Ige,** Hawaii  \n**Claire Jahns, Assistant Secretary,**
-    California Natural Resources Agency"
-  description:
+    (IPEA)  \n**Governor David Ige,** Hawaii  \n**Claire Jahns,** California Natural
+    Resources Agency"
+  description: 
 - title: 'Plenary Panel 2: New Findings from Decarbonization Pathways: where energy
     and land use meet'
   date: 2018-09-11 10:30:00 Z
-  starts_at:
+  starts_at: 
   moderators: "**Dan Sanchez** and **Margaret Torn,** UC Berkeley and Berkeley Lab"
-  speakers: "**Jim Williams,** Deep Decarbonization Pathways Project and University
-    of San Francisco  \n**Petr Havlik,** International Institute for Applied Systems
-    Analysis (IIASA)  \n**Leon Clarke,** Pacific Northwest National Laboratory   \n
-    **Rob Jackson,** Stanford Woods Institute  \n**Emily McGlynn,** University of
-    California, Davis"
-  description:
+  speakers: "**Jim Williams,** University of San Francisco  \n**Petr Havlik,** International
+    Institute for Applied Systems Analysis (IIASA)  \n**Leon Clarke,** Pacific Northwest
+    National Laboratory   \n **Rob Jackson,** Stanford Woods Institute  \n**Emily
+    McGlynn,** University of California, Davis"
+  description: 
 - title: Networking Break
   date: 2018-09-11 11:45:00 Z
-  starts_at:
-  moderators:
-  speakers:
-  description:
+  starts_at: 
+  moderators: 
+  speakers: 
+  description: 
 - title: 'Plenary Panel 3: How to Avoid the Collision: new thinking on navigating
     the land-energy intersection'
   date: 2018-09-11 12:00:00 Z
-  starts_at:
+  starts_at: 
   moderators: "**Alema Bibi,** World Business Council on Sustainable Development (WBCSD)"
   speakers: "**Christa Anderson,** Stanford University and World Wildlife Fund (WWF)
     \ \n**Guido Schmidt-Traub,** Sustainable Development Solutions Network (SDSN)
     \ \n**Brian Shillinglaw,** New Forests  \n**Duncan van Bergen,** Royal Dutch Shell"
-  description:
+  description: 
 - title: Lunch Provided - Keynote discussion with John Holdren
   date: 2018-09-11 13:00:00 Z
-  starts_at:
-  moderators:
-  speakers:
-  description:
+  starts_at: 
+  moderators: 
+  speakers: 
+  description: 
 - title: 'Parallel Session L1: Implementing Natural Climate Solutions'
   date: 2018-09-11 14:00:00 Z
-  starts_at:
+  starts_at: 
   moderators: "**Paul Hawken,** Project Drawdown"
   speakers: "**Carlos Manuel Rodriguez,** Minister of Energy and Environment, Costa
     Rica  \n**Hammerskjoeld Simwinga,** Foundation for Wildlife and Habitat Conservation
     \ \n**Peter Walke,** Vermont Agency of Natural Resources  \n**Christopher Adamo,**
     Danone "
-  description:
+  description: 
 - title: 'Parallel Session E1:  From Microgrids to Global Interconnection: The Electricity
     System of the Future'
   date: 2018-09-11 14:00:00 Z
-  starts_at:
+  starts_at: 
   moderators: "**Jim Williams,** University of San Francisco"
-  speakers: "**Mengrong Cheng,** State Grid Corporation, GEIDCO  \n**Erica Brand,**
-    The Nature Conservancy  \n**Daniele Agostini,** Enel  \n**Ren Orans,** Energy
-    and Environmental Economics Inc. "
-  description:
+  speakers: "**Mengrong Cheng,** State Grid Corporation  \n**Erica Brand,** The Nature
+    Conservancy  \n**Daniele Agostini,** Enel  \n**Ren Orans,** Energy and Environmental
+    Economics Inc. "
+  description: 
 - title: Networking Break
   date: 2018-09-11 15:10:00 Z
-  starts_at:
-  moderators:
-  speakers:
-  description:
+  starts_at: 
+  moderators: 
+  speakers: 
+  description: 
 - title: 'Parallel Session L2: Land for mitigation, biodiversity, food, and fiber:
     how can we do it all? '
   date: 2018-09-11 15:25:00 Z
-  starts_at:
+  starts_at: 
   moderators: "**Grace Wu,** University of California, Davis"
   speakers: "**Virgilio Viana,** Amazonas Sustainable Foundation\n**Justin Baker,**
     Research Triangle Institute  \n**Petr Havlik,** International Institute for Applied
     Systems Analysis (IIASA)  \n**Dick Cameron,** The Nature Conservancy, California
     \ \n**Renat Heuberger,** South Pole Group"
-  description:
+  description: 
 - title: 'Parallel Session E2: The Step After Next: Decarbonization Challenges Beyond
     Low Carbon Electricity'
   date: 2018-09-11 15:25:00 Z
-  starts_at:
-  moderators:
+  starts_at: 
+  moderators: "**Chris Bataille,** Institute for Sustainable Development and International
+    Relations (IDDRI)"
   speakers: "**Ken Alex,** California Governor’s Office of Planning and Research  \n**Chris
     Bataille,** Institute for Sustainable Development and International Relations
-    (IDDRI)  \n**Ben Haley,** Evolved Energy Research"
-  description:
+    (IDDRI)  \n**Ben Haley,** Evolved Energy Research  \n**Leon Clarke,** Pacific
+    Northwest National Laboratory"
+  description: 
 - title: Networking Break
   date: 2018-09-11 16:35:00 Z
-  starts_at:
-  moderators:
-  speakers:
-  description:
+  starts_at: 
+  moderators: 
+  speakers: 
+  description: 
 - title: 'Parallel Session L3: Solutions for Implementing Climate Smart Agriculture '
   date: 2018-09-11 16:50:00 Z
-  starts_at:
+  starts_at: 
   moderators: "**Matthew Reddy,** World Business Council on Sustainable Development
     (WBCSD)"
-  speakers: "**Minister Ola Elvestuen,** Norwegian Minister of Climate and Environment"
-  description:
+  speakers: "**Minister Ola Elvestuen,** Norwegian Minister of Climate and Environment
+    \ \n**Noora Singh,** Global Sustainability, PepsiCo  \n**Candace Laing,** Nutrien
+    \ \n**Jad Daley,** American Forests  \n**Bas Ruter,** Rabobank"
+  description: 
 - title: 'Parallel Session E3: Transforming Transport for a Clean Future'
   date: 2018-09-11 16:50:00 Z
-  starts_at:
+  starts_at: 
   moderators: "**Rasmus Valanko,** World Business Council on Sustainable Development
     (WBCSD)"
-  speakers: "**Anirban Ghosh,** Mahindra Group  \n**Patrick Browne,** UPS  \n**Erik
-    van der Shans,** Port of Rotterdam  \n**Michael Burns,** Novozymes  \n**David
-    Schlosberg,** eMotoworks"
-  description:
+  speakers: "**Anirban Ghosh,** Mahindra Group  \n**Patrick Browne,** United Parcel
+    Service (UPS)  \n**Erik van der Shans,** Port of Rotterdam  \n**Michael Burns,**
+    Novozymes  \n**David Schlosberg,** eMotoworks"
+  description: 
 speakers:
-- name: Tony Seba
-  title: Founder, Rethink X
-  bio_text: 'Tony Seba is a world-renowned thought leader, Silicon Valley entrepreneur,
-    educator and the author of the Amazon #1 best-selling book *[Clean Disruption
-    of Energy and Transportation: How Silicon Valley Will Make Oil, Nuclear, Natural
-    Gas, Coal, Electric Utilities and Conventional Cars Obsolete by 2030.](https://www.amazon.com/Clean-Disruption-Energy-Transportation-Conventional/dp/0692210539)*
-    Tony’s work focuses on the convergence of technologies, business models, and product
-    innovations that disrupt the world’s major industries. He was an early employee
-    of disruptive companies including Cisco Systems and RSA Data Security. As a speaker
-    he has delivered keynotes for major companies and at global events including Google,
-    J.P. Morgan, CLSA Investors Forum, Intersolar, Davos, COP21 World Climate Summit
-    and the Global Leaders Forum. Tony has taught thousands of entrepreneurs and corporate
-    leaders at Stanford University Continuing Studies. Tony earned a Stanford MBA
-    and a Computer Science and Engineering degree from the Massachusetts Institute
-    of Technology.'
-  image:
-- name: Paolo Frankl
-  title: Head of Renewable Energy Division, IEA
-  bio_text: "Paolo Frankl is head of the renewable energy division at the International
-    Energy Agency (IEA), which he joined in 2007. Dr. Frankl leads the IEA’s work
-    on renewable energy, providing policy advice in the areas of technology, markets
-    and systems integration.\nHe is a member of several international advisory committees,
-    including the EU PVSEC International Scientific Advisory Board and the Helmholtz
-    Association of German Research Centres.\n\nA physicist by training, Dr Frankl
-    holds a Ph.D in energy and environmental technologies from the University of Rome.
-    He was also Marie Curie post-doc research fellow at INSEAD in Fontainebleau, France.
-    \n\nDr Frankl has over 20 years of experience working on renewable energy systems
-    and markets, life cycle assessment and eco-labelling. Prior to joining the IEA,
-    he worked as senior researcher for the Italian Research Institute, Ambiente Italia,
-    and was scientific head of the Italian environmental research and consulting firm,
-    Ecobilancio.\n\nFrom 2000 to 2002 he served as advisor to the director-general
-    of the Italian ministry for the environment. Dr Frankl also spent many years in
-    assistant professor positions in environmental technologies at the University
-    of Rome, University of Florence, and l’Ecole des Mines de Paris.\n"
-  image:
-- name: Michael Kobori
-  title: Vice President of Sustainability,  Levi Strauss
-  bio_text: |-
-    Michael Kobori is the Vice President of Social and Environmental Sustainability at Levi Strauss & Co. He leads the development of LS&Co.’s environmental vision and strategy, our efforts to collaborate with other brands on sustainability, and extend our standards throughout the supply chain, including mills and sundry suppliers.
-
-    Michael has been with LS&Co. for 12 years. From 1995-1999, he was Manager in the Government Affairs Department. From 2001–2005, he was Director, Global Code of Conduct, leading the company’s Terms of Engagement program. Michael was appointed to his current position in 2006, where he is responsible for labor standards, health and safety, and environmental sustainability for our suppliers worldwide.
-
-    Prior to joining LS&CO., Michael was a Vice-President at Business for Social Responsibility, and also spent ten years at The Asia Foundation, working on human rights and development in Asia.
-
-    He has a Masters Degree in Public Policy and a B.A. in Psychology and Asian Studies from the University of California at Berkeley.
-  image:
-- name: Geoffrey Holmes
-  title: Director of Business Development, Carbon Engineering
-  bio_text: Geoff has worked on direct air capture of CO2 since 2008, both in an academic
-    capacity and at Carbon Engineering. Geoff has led much of CE’s air contactor design
-    work since 2010, has been involved with several generations of prototyping and
-    testing, and has published on air contactor design and optimization in the UK
-    Royal Society journal among others. Geoff now serves as CE’s Director of Business
-    Development.
-  image:
 - name: Dr. John Holdren
   title: Professor, Harvard
   bio_text: |-
@@ -209,7 +156,7 @@ speakers:
     He served from 1991 to 2005 as a member of the Board of Trustees of the MacArthur Foundation and from 1994 to 2005 as Chairman of the Committee on International Security and Arms Control at the National Academy of Sciences. During the Clinton Administration, he served for both terms on the President’s Council of Advisors on Science and Technology, leading studies on nuclear materials protection, fusion-energy research, strengthening Federal investments in energy R&D, and international cooperation on energy-technology innovation.
 
     Dr. Holdren has been married since 1966 to Dr. Cheryl E. Holdren, a biologist. They have a son, a daughter, and five grandchildren. John and Cheryl currently live on Cape Cod.
-  image:
+  image: 
 - name: Dr. Guido Schmidt-Traub
   title: Executive Director, SDSN
   bio_text: |-
@@ -220,14 +167,14 @@ speakers:
     Earlier Guido was Partner at IndexIT Scandinavia, a private equity fund for early-stage technology companies, and consultant at McKinsey & Company in Germany.
 
     Guido holds a Ph.D. in Economics from Wageningen University & Research, an M.Phil. in Economics from Oxford University (Rhodes Scholar), and a Masters in physical chemistry from the Free University Berlin.
-  image:
+  image: 
 - name: H.E. Ola Elvestuen
   title: Minister of Climate and Environment, Norway
   bio_text: |-
     Elvestuen holds a Bachelor’s degree from the University of Oslo, having studied Social Anthropology, Political Science and History. He started a major in History. He has undertaken the leadership training at the Norwegian Defence College. The Minister worked as a city councillor for Environment and Transportation in Oslo during 2011-2013. He was first elected to the Oslo City Council in 2003. Elvestuen headed the City Development Committee from 2003 to 2011. He was leader of the Oslo branch of the Liberal Party from 2000-2007.
 
     At Parliament, Elvestuen has chaired the Committee on Energy and Environment since 2013. Elvestuen has been a member of the Norwegian parliamentary delegation to the Parliamentary Assembly in the Organization for Security and Cooperation in Europe (OSCE) since 2013. He has been deputy member of the parliamentary delegation for Arctic parliamentary cooperation since autumn 2017.
-  image:
+  image: 
 - name: Mr. Valery Miftakhov
   title: Founder & CEO, Emotowerks
   bio_text: "Valery Miftakhov is the Founder of Electric Motor Werks, a California
@@ -239,7 +186,7 @@ speakers:
     and McKinsey & Company.\n\nValery received his PhD in Physics from Princeton University
     and his M.S. in Physics from Moscow Institute of Physics and Technology. He was
     a two-time winner of the Nationwide Russian Physics Competitions."
-  image:
+  image: 
 - name: David Schlosberg
   title: Vice President, Energy Market Operations for eMotorWerks
   bio_text: David Schlosberg is Director of Energy Market Operations and leads the
@@ -253,7 +200,7 @@ speakers:
     Energy, a provider of large scale solar thermal power plants. David received his
     BS in Economics from the University of Pennsylvania's Wharton School of Business
     and an MBA from UC Berkeley's Haas School of Business.
-  image:
+  image: 
 - name: Mr. Daniele Maria Agostini
   title: Head of Low Carbon and European Energy Policies, Enel
   bio_text: |-
@@ -278,8 +225,8 @@ speakers:
     University of California at Berkeley (USA) and a Master of Science in
     Environmental and Resources Economics from University College London (UCL,
     UK).
-  image:
-- name: Ms. Cheng Mengrong
+  image: 
+- name: 'Ms. Mengrong Cheng '
   title: Acting Chief, GEIDCO North America Office
   bio_text: Ms. Mengrong Cheng is graduated in English Literature by the Beijing Second
     Foreign Language institute and has a Master in Business Management in the Tsinghua
@@ -289,11 +236,11 @@ speakers:
     of China. Currently, Mrs. Mengrong Cheng is member of IEC MSB Chinese Committee;
     Co-head of the Department of International Cooperation, and member of the Overseas
     Investment Management Committee, State Grid Corporation of China.
-  image:
-- name: Ms. Erica Shipley Brand
+  image: 
+- name: Ms. Erica Brand
   title: California Energy Program Director, The Nature Conservancy
-  bio_text:
-  image:
+  bio_text: 
+  image: 
 - name: Dr. Ken Alex
   title: Director, California Governor’s Office of Planning and Research
   bio_text: |-
@@ -302,14 +249,14 @@ speakers:
     Before joining the Governor’s Office, Ken was the Senior Assistant Attorney General heading the environment section of the California Attorney General’s Office, and the co-head of the Office’s global warming unit. From 2000 to 2006, Ken led the California Attorney General’s energy task force, investigating price and supply issues related to California’s energy crisis. California Lawyer named Ken an “Attorney of the Year” in 2004 for his work in energy law, and he received the ABA award for Distinguished Achievement in Environmental Law and Policy in 2007 for global warming work.
 
     Ken is a graduate of Harvard Law School and holds a B.A. in political theory from the University of California at Santa Cruz.
-  image:
+  image: 
 - name: Dr. Chris Bataille
   title: Researcher, IDDRI
   bio_text: |-
     Chris Bataille has been involved in energy and climate policy analysis for more than 20 years as a researcher, energy systems and economic modeller, analyst, writer, project manager, and executive. Chris is currently an Associate Researcher at the Institute for Sustainable Development and International Relations in Paris, and conducts freelance energy and climate policy consulting. Chris recently completed a 1.5 year project as lead editor of a special issue of Climate Policy on the Deep Decarbonization Pathways Project (DDPP). He also helped manage the global DDPP and was co-author of the Canadian chapter. He is currently lead of the DDPP Heavy Industry Deep Decarbonization Project, which recently published a review paper in the Journal of Cleaner Production. He is an Adjunct Professor at Simon Fraser University in Vancouver.
 
     From 2011-‘14 Chris was a founding managing partner of Navius Research Inc., a Vancouver based energy policy consulting firm. Prior to helping found Navius in 2011, he was executive director of MK Jaccard & Associates Inc. (another energy policy consulting firm) for 5 years. He has managed many projects, including several large national climate change and energy policy studies for Natural Resources Canada, the Canadian National Roundtable of the Environment and the Economy, Environment Canada, the Pembina Institute and the David Suzuki Foundation, the Ontario Ministry of the Environment, and the Ontario Power Authority. In addition to his consulting practise, Chris has published peer reviewed articles in the Journal of Cleaner Production, Energy Economics, The Energy Journal and Climate Policy, edited a special edition of the Energy Journal on hybrid energy economy modelling, and has written a number of public policy publications, including “Pricing Greenhouse Gas Emissions: The impact on Canada’s competitiveness” for the C.D. Howe Institute.
-  image:
+  image: 
 - name: Mr. Patrick Browne
   title: Director, Global Sustainability, UPS
   bio_text: "Patrick Browne serves as Director of Global Sustainability for UPS, a
@@ -322,7 +269,7 @@ speakers:
     in organizations focused on advancing sustainable business practices around the
     world, including BSR’s Future of Fuels working group and Global Reporting Initiative’s
     GOLD Community."
-  image:
+  image: 
 - name: Mr. Paul Hawken
   title: Executive Director, Project Drawdown
   bio_text: 'Paul is an author and activist. He has founded successful, ecologically-conscious
@@ -337,14 +284,14 @@ speakers:
     served on the board of many environmental organizations including Center for Plant
     Conservation, Shelburne Farms, Trust for Public Land, Conservation International,
     and National Audubon Society.'
-  image:
+  image: 
 - name: Mr. Dick Cameron
   title: Head, Land Programs, The Nature Conservancy
   bio_text: |-
     Dick leads the Land Programs science team in The Nature Conservancy’s California Chapter. His work is focused on creating the tools and evidence to integrate conservation into land use and climate policies. Across a variety of California landscapes, his research assesses opportunities to align land conservation and other societal goals, such as alternative energy development, transportation infrastructure, food production and climate stabilization. Currently his priorities are focused on two climate-related conservation questions: how can ecological land management contribute to climate mitigation goals, and how to design connected networks of land that will help species adapt to climate change?
 
     Before the Conservancy, Dick worked for GreenInfo Network, where he specialized in helping organizations and public agencies design and communicate strategic priorities. His academic background is in geography with a B.A. from Middlebury College and an M.A. from University of Colorado.
-  image:
+  image: 
 - name: Dr. Grace Wu
   title: Smith Conservation Fellow, UC Davis
   bio_text: |-
@@ -352,20 +299,20 @@ speakers:
 
 
     I am an environmental scientist studying land use for energy and conservation needs. My research seeks to understand the impact of energy infrastructure on land use and conservation, and to develop practical strategies for avoiding negative impacts. I am broadly interested in the dynamics and drivers of land use change, land use policy, and advancing our ability to plan for sustainable, multi-use landscapes that protect biological diversity. As the study of land use is deeply interdisciplinary, I combine methods from landscape ecology, energy economics and engineering, remote sensing, and spatial science in my research. Through collaboration with The Nature Conservancy, I have developed a spatial model to understand land-use constraints in meeting ambitious renewable energy targets in California, which led to regulatory improvements that simultaneously advance conservation and climate goals. I co-founded the Multi-criteria Analysis for Planning Renewable Energy (MapRE) initiative, which seeks to enable and improve the planning of low-carbon, cost-effective, socially and environmentally responsible energy systems through the development of decision support tools. Previously, I worked at the U.S. Geological Survey (USGS) and University of Notre Dame leading a project to understand climate change impacts on an endangered butterfly in the Great Lakes region. I graduated with a BA in Biology from Pomona College, a MPhil in Evolutionary Biology from University of Cambridge, and an MS and PhD in Energy and Resources from UC Berkeley.
-  image:
+  image: 
 - name: Dr. Justin Baker
   title: Senior Economist, Research Triangle Institute (RTI)
   bio_text: Dr. Justin Baker is a natural resource and environmental economist who
     leads RTI efforts in bioenergy expansion, land use, climate change mitigation,
     and water resource management.
-  image:
+  image: 
 - name: Dr. Virgilio Viana
   title: Director General, Amazonas Sustainable Foundation
   bio_text: |-
     Virgilio Viana is an expert in forestry and sustainable development. He received a PhD in evolutionary biology from Harvard University and did post-doctoral work on sustainable development at the University of Florida. He was formerly professor of forest sciences at the Higher School of Agriculture Luiz de Queiroz, at São Paulo University. Dr. Viana coordinated the Brazilian consultative process that led to the establishment of the Forest Stewardship Council (FSC) in 1993.
 
     He was the founder and President of IMAFLORA, the first Latin-American-based forest certifier, and in 2003 he became the first Secretary of Environment and Sustainable Development for the state of Amazonas, Brazil, which had the mission of coordinating the state’s sustainable development program, known as the Green Free Trade Zone. In 2008, Dr. Viana transitioned to a new role as Director General of the Amazonas Sustainable Foundation (FAS), an organization charged with implementing the Bolsa Floresta Program, as well as providing the institutional framework to market environmental services of Amazonas’ forests.
-  image:
+  image: 
 - name: Dr. Petr Havlik
   title: Deputy Program Director, International Institute for Applied Systems Analysis
     (IIASA)
@@ -377,7 +324,7 @@ speakers:
     Dr. Havlik pursued the analysis of environmental goods production by farmers also in his PhD thesis, under a double supervision at the University of Montpellier 1 and the Mendel University. Within his PhD thesis, he explicitly considered the jointness in production of environmental and agricultural goods, and the jointness between environmental goods themselves. By means of mathematical programming models, he analyzed implications of jointness for agri-environmental policy design, with special attention to uncertainty. He defended his thesis and received a PhD degree in 2006.
 
     Before joining IIASA, Dr. Havlik shortly worked as a post-doc at INRA Grignon (France), where he set up a spatially explicit optimization model for the design of biodiversity compatible landscape pattern policies. Dr. Havlik's current research interests include the use and development of forest and agricultural sector optimization models at the European and global level.
-  image:
+  image: 
 - name: Mr. Brian Shillinglaw
   title: Executive Director, New Forests
   bio_text: Brian Shillinglaw leads New Forests’ US timberland and environmental market
@@ -387,7 +334,7 @@ speakers:
     in Social Studies from Harvard University, a JD from Stanford Law School, a Master
     of Science from the Interdisciplinary Program on Environment and Resources at
     Stanford University, and doctoral research in historical ecology at Yale University.
-  image:
+  image: 
 - name: Dr. Robert Jackson
   title: Senior Fellow, Stanford Woods Institute; Professor, Stanford University
   bio_text: |-
@@ -398,12 +345,12 @@ speakers:
     Jackson has received numerous awards. He is a Fellow in the American Geophysical Union and the Ecological Society of America and was honored at the White House with a Presidential Early Career Award in Science and Engineering. In recent years, he directed the DOE National Institute for Climate Change Research for the southeastern U.S., co-chaired the U.S. Carbon Cycle Science Plan, and is currently CHAIR of the Global Carbon Project (www.globalcarbonproject.org).
 
     An author and photographer, Rob has published a trade book about the environment (The Earth Remains Forever, University of Texas Press) and two books of children’s poems, Animal Mischief and Weekend Mischief (Highlights Magazine and Boyds Mills Press). His photographs have appeared in many media outlets, including the NY Times, Washington Post, USA Today, US News and World Report, Nature, and National Geographic.
-  image:
+  image: 
 - name: Dr. Alexandre Ywata de Carvalho
   title: Director of Regional, Urban, and Environmental Studies and Policies, Brazilian
     Institute of Applied Economics Research
-  bio_text:
-  image:
+  bio_text: 
+  image: 
 - name: Dr. Christa Anderson
   title: Fellow with World Wildlife Federation, Stanford University
   bio_text: "Christa's research focuses on deforestation and land use change in the
@@ -416,7 +363,7 @@ speakers:
     Science from the Yale School of Forestry and Environmental Studies; her research
     focused on ecosystems dynamics in an East Africa Savannah ecosystem. She holds
     a BA in history and environmental studies from Yale University."
-  image:
+  image: 
 - name: Dr. Jim Williams
   title: Professor, University of San Francisco
   bio_text: |-
@@ -427,7 +374,7 @@ speakers:
     Prof. Williams led E3’s analysis of greenhouse gas emission reduction strategies for California’s government agencies, which helped to shape the state’s climate and energy policies. He directs the Deep Decarbonization Pathways Project (DDPP), a consortium of research teams from the 16 highest-emitting countries, whose long-term blueprints for a low-carbon transition influenced the Paris Agreement.
 
     Prof. Williams formerly taught at the Monterey Institute of International Studies, where his research interests included the technical and institutional challenges of decarbonizing China’s power sector.
-  image:
+  image: 
 - name: Ms. Claire Jahns
   title: Assistant Secretary, California Natural Resources Agency
   bio_text: Claire Jahns is Assistant Secretary for Natural Resources Climate Issues
@@ -442,7 +389,7 @@ speakers:
     at the Chicago Climate Exchange from the Exchange’s opening in 2003 to 2007. She
     holds a Masters of Environmental Management and an MBA from Yale University, and
     a BA from Oberlin College.
-  image:
+  image: 
 - name: Mr. Peter Walke
   title: Deputy Secretary, Vermont Agency of Natural Resources
   bio_text: |-
@@ -451,7 +398,7 @@ speakers:
     Raised in Vermont, Walke pursued higher education first in Massachusetts, receiving a Bachelor of Arts (cum laude) from Williams College, and later a Master of Arts in Applied Geography from the University of Colorado at Colorado Springs. Following receipt of his undergraduate degree, Walke joined the Navy, serving for nine years as an intelligence officer. During his time in the armed services he was stationed in Florida, Virginia, England, and Colorado and was deployed twice in support of counterterrorism operations in Iraq and Afghanistan.
 
     After resigning his commission, Walke was selected to join a leadership development fellowship serving the Governor of the State of New York. He quickly became one of the Governor’s primary environmental advisors and was named to the post of Chief of Staff of the New York Department of Environmental Conservation. After more than two decades living in other states and abroad, Walke was excited to return to his hometown of Montpelier, Vermont to continue his pursuit of excellence in environmental leadership at the Agency of Natural Resources.
-  image:
+  image: 
 - name: Dr. Daniel L. Sanchez
   title: 'Assistant Specialist, Department of Environmental Science, Policy, and Management
     University of California-Berkeley
@@ -470,7 +417,7 @@ speakers:
     Public Utilities Commission. He holds a PhD and MS from UC Berkeley’s Energy and
     Resources Group, and a BSE in chemical and biomolecular engineering from the University
     of Pennsylvania.
-  image:
+  image: 
 - name: Margaret Torn
   title: 'Senior Scientist and Head of Biosphere-Atmosphere Program, Berkeley Lab
     and UC Berkeley
@@ -480,26 +427,11 @@ speakers:
     Margaret S. Torn is Senior Advisor in the Climate and Ecosystem Sciences Division (CESD) and lead of the Biosphere-Atmosphere Interactions Program Domain, which includes the Atmospheric Systems Research and Terrestrial Ecosystems Science programs. Margaret co-led the former Climate and Carbon Sciences Program Area in the old Earth Sciences Division. She is lead PI for three large DOE-supported projects: AmeriFlux Management Project, Belowground Carbon Cycling Scientific Focus Area, and Land-Atmosphere Interactions, and is co-PI for the Next Generation Ecosystem Experiment in the Arctic. At U.C. Berkeley, Margaret is an Adjunct Professor in the Energy and Resources Group, where she has taught classes on climate change impacts and adaptation, and a seminar on food systems. In 2003 she received the Presidential Early Career Award as one of the country’s top young scientists and was recently awarded an honorary doctorate by the faculty of Mathematics and Natural Sciences at the University of Zurich.
 
     Margaret is an ecologist and biogeochemist who studies the natural carbon cycle and human impacts on the carbon cycle through land use, energy use, and climate change. Her research uses field experiments, isotopic tracers (14C, 13C), laboratory analysis, and mathematical models. She has published more than 100 peer-reviewed articles on topics ranging from the basic mechanisms of soil carbon cycling and ecosystem-climate feedbacks, to ecological aspects of bioenergy production, to strategies for climate-change mitigation.
-  image:
-- name: Eric Souberian
-  title: Global Nature and Climate Director, Danone
-  bio_text: I started my career in strategy consulting and merger and acquisitions
-    and joined Rexam Plc in charge of the strategic planning of its beauty and medical
-    devices division. In 2006 I moved to India as Managing Director of the newly acquired
-    business of Rexam and joined Danone in 2010 to launch the group’s operations in
-    the sub-continent. During this period I launched an innovative range of enriched
-    nutritional products designed for the base of pyramid customers with an innovative
-    route to market approach. In 2013 I joined Danone’s marketing team in charge of
-    Activia and Vitalinea brands for the French market. Since 2014 I am now in charge
-    of the milk sourcing for Danone in Europe managing 4000 dedicated farmers across
-    6 European countries. He is since the 1st of January in charge to lead the Nature
-    strategy for Group Danone on its 4 pillars, Climate, Sustainable agriculture,
-    Water and Packaging.
-  image:
+  image: 
 - name: Emily McGlynn
   title: Ph.D. Student, UC Davis
-  bio_text:
-  image:
+  bio_text: 
+  image: 
 - name: Dan Lashof
   title: US Director, World Resources Institute
   bio_text: |-
@@ -510,7 +442,7 @@ speakers:
     His focus is developing federal and state regulations to place enforceable limits on carbon dioxide and other heat-trapping pollutants. He has participated in scientific assessments of global warming through the Intergovernmental Panel on Climate Change and has monitored international climate negotiations since their inception. He was a member of Governor McAuliffe’s Climate Change and Resiliency Update Commission, and has testified at numerous Congressional and California legislative hearings.
 
     Dan earned his Bachelor's degree in Physics and Mathematics at Harvard and his Doctorate from the Energy and Resources Group at the University of California, Berkeley.
-  image:
+  image: 
 partners:
 - name: LESC 2018 GCAS Partnerts
   image: "/uploads/180823-lesc-gcas-podium-sign-partners-web.png"
