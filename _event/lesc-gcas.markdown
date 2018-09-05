@@ -86,10 +86,10 @@ sessions:
   date: 2018-09-11 14:00:00 Z
   starts_at: 
   moderators: "**Paul Hawken,** Project Drawdown"
-  speakers: "**Minister Carlos Manuel Rodriguez,** Minister of Environment and Energy, Costa
-    Rica  \n**Hammerskjoeld Simwinga,** Foundation for Wildlife and Habitat Conservation
-    \ \n**Peter Walke,** Vermont Agency of Natural Resources  \n**Christopher Adamo,**
-    Danone "
+  speakers: "**Minister Carlos Manuel Rodriguez,** Minister of Environment and Energy,
+    Costa Rica  \n**Hammerskjoeld Simwinga,** Foundation for Wildlife and Habitat
+    Conservation  \n**Peter Walke,** Vermont Agency of Natural Resources  \n**Christopher
+    Adamo,** Danone "
   description: 
 - title: 'Parallel Session E1:  From Microgrids to Global Interconnection: The Electricity
     System of the Future'
