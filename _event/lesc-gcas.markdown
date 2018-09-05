@@ -29,8 +29,14 @@ sessions:
     Business Council on Sustainable Development (WBCSD)  \n**Margaret Torn,** University
     of California  "
   description: 
-- title: 'Opening Keynote: Valery Miftakhov, Emotowerks, Enel'
-  date: 2018-09-11 09:10:00 Z
+- title: 'Word from our Sponsor: Valery Miftakhov, Emotowerks, Enel'
+  date: 2018-09-11 00:00:00 Z
+  starts_at: 
+  moderators: 
+  speakers: 
+  description: 
+- title: 'Opening Keynote: Bill McKibben, American Environmentalist'
+  date: 2018-09-11 09:20:00 Z
   starts_at: 
   moderators: 
   speakers: 
