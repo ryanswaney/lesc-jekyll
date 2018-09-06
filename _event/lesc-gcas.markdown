@@ -579,39 +579,11 @@ speakers:
 
     Bas holds a Master of Science degree in biology of Wageningen University.
   image: "/uploads/Bas%20Ruter.jpg"
-<<<<<<< HEAD
 - name: Dr. David Saah
-<<<<<<< HEAD
   title: 'Associate Professor and Director of Geospatial Analysis Lab'
   bio_text: |-
     Dr. Saah has been broadly trained as an environmental scientist with expertise in a number of areas including: landscape ecology, ecosystem ecology, hydrology, geomorphology, ecosystem modeling, natural hazard modeling, remote sensing, geographic information systems (GIS) and geospatial analysis. He has used these skills to conduct research primarily at the landscape level in a variety of systems. Dr. Saah has participated in research projects throughout the United States and Internationally. His academic research uses integrated geospatial science for multi–scale mapping, monitoring and modeling of environmental spatial heterogeneity, particularly in riparian, savanna, and forest ecosystems. These efforts include quantification of change in landscape pattern, investigating the linkages between pattern and processes, and understanding the pattern–process dynamic within different environmental management regimes. To complement this, Dr. Saah's consulting research interest and experience include: developing holistic decision support systems for resource management, assessing natural hazards, and quantifying ecosystem service valuation. In addition, all of his research addresses access, availability, and accuracy of geospatial and environmental datasets, and scale in natural resource and environmental research. Dr. Saah is committed to producing high quality research projects that integrate the most current science and technology. He is dedicated to the accurate dissemination of results from these endeavors through innovative presentations, publications, and workshops.
   image: "/uploads/David%20Saah.jpg"
-=======
-  title: Associate Professor and Director of Geospatial Analysis Lab
-  bio_text: 'Dr. Saah has been broadly trained as an environmental scientist with
-    expertise in a number of areas including: landscape ecology, ecosystem ecology,
-    hydrology, geomorphology, ecosystem modeling, natural hazard modeling, remote
-    sensing, geographic information systems (GIS) and geospatial analysis. He has
-    used these skills to conduct research primarily at the landscape level in a variety
-    of systems. Dr. Saah has participated in research projects throughout the United
-    States and Internationally. His academic research uses integrated geospatial science
-    for multi–scale mapping, monitoring and modeling of environmental spatial heterogeneity,
-    particularly in riparian, savanna, and forest ecosystems. These efforts include
-    quantification of change in landscape pattern, investigating the linkages between
-    pattern and processes, and understanding the pattern–process dynamic within different
-    environmental management regimes. To complement this, Dr. Saah''s consulting research
-    interest and experience include: developing holistic decision support systems
-    for resource management, assessing natural hazards, and quantifying ecosystem
-    service valuation. In addition, all of his research addresses access, availability,
-    and accuracy of geospatial and environmental datasets, and scale in natural resource
-    and environmental research. Dr. Saah is committed to producing high quality research
-    projects that integrate the most current science and technology. He is dedicated
-    to the accurate dissemination of results from these endeavors through innovative
-    presentations, publications, and workshops.'
-  image: 
->>>>>>> 95a78b8f516f7bb881ffd7934743ff10224bee82
-=======
->>>>>>> parent of 5a15713... added d. saah
 - name: Dr. Daniel L. Sanchez
   title: 'Assistant Specialist, Department of Environmental Science, Policy, and Management University of California-Berkeley'
   bio_text: Daniel L. Sanchez is an engineer and energy systems analyst studying the
@@ -693,7 +665,7 @@ speakers:
 
     Born in Enschede, the Netherlands in 1971, Eric holds a master degree in chemical engineering from the University of Twente.
 
-    He started his career at Stork in in 1996 as environmental & safety consultant for the Oil & Gas industry and worked on various projects in Europe and the Middle East. In 2000 he joined Royal Haskoning DHV and continued to work as consultant, project manager and team leader. In 2005 he joined Antea Group to lead their safety consultancy practice. In later years he has been responsible for international acquisition strategy of Antea Group as well as international business development. 
+    He started his career at Stork in in 1996 as environmental & safety consultant for the Oil & Gas industry and worked on various projects in Europe and the Middle East. In 2000 he joined Royal Haskoning DHV and continued to work as consultant, project manager and team leader. In 2005 he joined Antea Group to lead their safety consultancy practice. In later years he has been responsible for international acquisition strategy of Antea Group as well as international business development.
 
     As director Environmental Management he is responsible for spatial planning, environment and CSR within the Port of Rotterdam Authority.
 
@@ -731,9 +703,6 @@ related-media:
 partners:
 - name: LESC 2018 GCAS Partnerts
   image: "/uploads/180823-lesc-gcas-podium-sign-partners-web.png"
-=======
-title: Lesc Gcas
->>>>>>> 8c085fea93cae6f81839757dca9cb3a48c196675
 ---
 
 The **Land-Energy Nexus in Climate Change Mitigation** event is a special edition of the Low-Emissions Solutions Conference (LESC) taking place alongside the Global Climate Action Summit (GCAS) in partnership with the University of California, Berkeley Lab and the University of San Francisco in addition to other local partners. The event is brought to you with support from Enel.
