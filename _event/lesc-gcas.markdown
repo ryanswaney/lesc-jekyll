@@ -602,17 +602,7 @@ speakers:
   image: "/uploads/Daniel%20L.%20Sanchez.jpg"
 - name: Mr. David Schlosberg
   title: Vice President, Energy Market Operations for eMotorWerks
-  bio_text: David Schlosberg is Director of Energy Market Operations and leads the
-    company's participation in energy markets and other programs operated by regulatory
-    agencies. He also provides industry leadership on EVs and distributed energy resources
-    in regulatory and legislative forums. Previously, he was Principal, Energy Market
-    Analysis, within the Alphabet / Google Access & Energy division, where he was
-    responsible for regulatory activities as well as related business development
-    initiatives with utilities, energy management providers and renewable energy companies.
-    Previously, David held regulatory and government affairs roles with BrightSource
-    Energy, a provider of large scale solar thermal power plants. David received his
-    BS in Economics from the University of Pennsylvania's Wharton School of Business
-    and an MBA from UC Berkeley's Haas School of Business.
+  bio_text: David Schlosberg is VP of Energy Market Operations at eMotorWerks, an Enel Group Company, and leads its participation in energy markets and other programs operated by regulatory agencies. He also provides industry leadership on EVs and distributed energy resources in regulatory and legislative forums. Previously, he was Principal, Energy Market Analysis, within the Alphabet / Google Access & Energy division, where he was responsible for regulatory activities as well as related business development initiatives with utilities, energy management providers and renewable energy companies. Previously, David held regulatory and government affairs roles with BrightSource Energy, a provider of large scale solar thermal power plants. David received his BS in Economics from the University of Pennsylvania's Wharton School of Business and an MBA from UC Berkeley's Haas School of Business.
   image: "/uploads/David%20Schlosberg.jpeg"
 - name: Mr. Brian Shillinglaw
   title: Executive Director, New Forests
