@@ -33,7 +33,7 @@ sessions:
   date: 2018-09-11 09:13:00 Z
   starts_at: 
   moderators: 
-  speakers: "**Valery Miftakhov,** Emotowerks, Enel . \n**Bill McKibben,** American
+  speakers: "**Valery Miftakhov,** Emotowerks, Enel  \n**Bill McKibben,** American
     Environmentalist"
   description: 
 - title: 'Plenary Panel 1: Climate Solutions in Action: policy perspectives on the
