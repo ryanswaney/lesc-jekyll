@@ -65,8 +65,7 @@ sessions:
   moderators: 
   speakers: 
   description: 
-- title: 'Plenary Panel 3: How to Avoid the Collision: new thinking on navigating
-    the land-energy intersection'
+- title: 'Plenary Panel 3: New Thinking on Navigating the Land-Energy Intersection'
   date: 2018-09-11 12:00:00 Z
   starts_at: 
   moderators: "**Chris Webber,** World Wildlife Fund"
