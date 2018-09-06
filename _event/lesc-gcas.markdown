@@ -16,141 +16,141 @@ feature_image: "/uploads/lesc-gcas-photo.jpg"
 sessions:
 - title: Registration Opens
   date: 2018-09-11 08:30:00 Z
-  starts_at: 
-  moderators: 
-  speakers: 
+  starts_at:
+  moderators:
+  speakers:
   description: Breakfast to be provided.
 - title: Welcome & Conference Objectives
   date: 2018-09-11 09:00:00 Z
-  starts_at: 
-  moderators: 
+  starts_at:
+  moderators:
   speakers: "**Jim Williams,** University of San Francisco  \n**Guido Schmidt-Traub,**
     Sustainable Development Solutions Network (SDSN)  \n**Maria Mendiluce,** World
     Business Council on Sustainable Development (WBCSD)  \n**Margaret Torn,** University
     of California  "
-  description: 
+  description:
 - title: Word from our Sponsor
   date: 2018-09-11 09:10:00 Z
-  starts_at: 
-  moderators: 
+  starts_at:
+  moderators:
   speakers: "**Valery Miftakhov,** Emotowerks, Enel"
-  description: 
+  description:
 - title: Opening Keynote
   date: 2018-09-11 09:20:00 Z
-  starts_at: 
-  moderators: 
+  starts_at:
+  moderators:
   speakers: "**Bill McKibben,** American Environmentalist"
-  description: 
+  description:
 - title: 'Plenary Panel 1: Climate Solutions in Action: policy perspectives on the
     land and energy nexus'
   date: 2018-09-11 09:30:00 Z
-  starts_at: 
+  starts_at:
   moderators: "**Daniel Lashof,** World Resources Institute US"
   speakers: "**Alexandre Ywata de Carvalho,** Brazilian Institute of Applied Economics
     Research  \n**Governor David Ige,** Hawaii  \n**Claire Jahns,** California Natural
     Resources Agency  \n**Governor Claudia Pavlovich Arellano,** Constitutional Governor
     of the State of Sonora, Mexico"
-  description: 
+  description:
 - title: 'Plenary Panel 2: New Findings from Decarbonization Pathways: where energy
     and land use meet'
   date: 2018-09-11 10:30:00 Z
-  starts_at: 
+  starts_at:
   moderators: "**Dan Sanchez** and **Margaret Torn,** UC Berkeley and Berkeley Lab"
   speakers: "**Jim Williams,** University of San Francisco  \n**Petr Havlik,** International
     Institute for Applied Systems Analysis (IIASA)  \n**Leon Clarke,** Pacific Northwest
     National Laboratory   \n **Rob Jackson,** Stanford Woods Institute  \n**Emily
     McGlynn,** University of California, Davis"
-  description: 
+  description:
 - title: Networking Break
   date: 2018-09-11 11:45:00 Z
-  starts_at: 
-  moderators: 
-  speakers: 
-  description: 
+  starts_at:
+  moderators:
+  speakers:
+  description:
 - title: 'Plenary Panel 3: How to Avoid the Collision: new thinking on navigating
     the land-energy intersection'
   date: 2018-09-11 12:00:00 Z
-  starts_at: 
-  moderators: 
+  starts_at:
+  moderators:
   speakers: "**Christa Anderson,** Stanford University and World Wildlife Fund (WWF)
     \ \n**Guido Schmidt-Traub,** Sustainable Development Solutions Network (SDSN)
     \ \n**Brian Shillinglaw,** New Forests"
-  description: 
+  description:
 - title: Lunch Break and Keynote Discussion
   date: 2018-09-11 13:00:00 Z
-  starts_at: 
-  moderators: 
+  starts_at:
+  moderators:
   speakers: "**John Holdren,** Professor, Harvard"
   description: Lunch to be provided.
 - title: 'Parallel Session L1: Implementing Natural Climate Solutions'
   date: 2018-09-11 14:00:00 Z
-  starts_at: 
+  starts_at:
   moderators: "**Paul Hawken,** Project Drawdown"
   speakers: "**Hammerskjoeld Simwinga,** Foundation for Wildlife and Habitat Conservation
     \ \n**Peter Walke,** Vermont Agency of Natural Resources  \n**Christopher Adamo,**
     Danone "
-  description: 
+  description:
 - title: 'Parallel Session E1:  From Microgrids to Global Interconnection: The Electricity
     System of the Future'
   date: 2018-09-11 14:00:00 Z
-  starts_at: 
+  starts_at:
   moderators: "**Erica Brand,** The Nature Conservancy  and **Jim Williams,** University
     of San Francisco"
   speakers: "**Erica Brand,** The Nature Conservancy  \n**Mengrong Cheng,** State
     Grid Corporation   \n**Daniele Agostini,** Enel  \n**Ren Orans,** Energy and Environmental
     Economics Inc. "
-  description: 
+  description:
 - title: Networking Break
   date: 2018-09-11 15:10:00 Z
-  starts_at: 
-  moderators: 
-  speakers: 
-  description: 
+  starts_at:
+  moderators:
+  speakers:
+  description:
 - title: 'Parallel Session L2: Land for mitigation, biodiversity, food, and fiber:
     how can we do it all? '
   date: 2018-09-11 15:25:00 Z
-  starts_at: 
+  starts_at:
   moderators: "**Grace Wu,** University of California, Davis"
   speakers: "**Virgilio Viana,** Amazonas Sustainable Foundation\n**Justin Baker,**
     Research Triangle Institute  \n**Petr Havlik,** International Institute for Applied
     Systems Analysis (IIASA)  \n**Dick Cameron,** The Nature Conservancy, California
     \ \n**Renat Heuberger,** South Pole Group"
-  description: 
+  description:
 - title: 'Parallel Session E2: The Step After Next: Decarbonization Challenges Beyond
     Low Carbon Electricity'
   date: 2018-09-11 15:25:00 Z
-  starts_at: 
+  starts_at:
   moderators: "**Chris Bataille,** Institute for Sustainable Development and International
     Relations (IDDRI)"
   speakers: "**Ken Alex,** California Governor’s Office of Planning and Research  \n**Chris
     Bataille,** Institute for Sustainable Development and International Relations
     (IDDRI)  \n**Ben Haley,** Evolved Energy Research  \n**Leon Clarke,** Pacific
     Northwest National Laboratory"
-  description: 
+  description:
 - title: Networking Break
   date: 2018-09-11 16:35:00 Z
-  starts_at: 
-  moderators: 
-  speakers: 
-  description: 
+  starts_at:
+  moderators:
+  speakers:
+  description:
 - title: 'Parallel Session L3: Solutions for Implementing Climate Smart Agriculture '
   date: 2018-09-11 16:50:00 Z
-  starts_at: 
+  starts_at:
   moderators: "**Matthew Reddy,** World Business Council on Sustainable Development
     (WBCSD)"
   speakers: "**Minister Ola Elvestuen,** Norwegian Minister of Climate and Environment
     \ \n**Noora Singh,** Global Sustainability, PepsiCo  \n**Candace Laing,** Nutrien
     \ \n**Jad Daley,** American Forests  \n**Bas Ruter,** Rabobank"
-  description: 
+  description:
 - title: 'Parallel Session E3: Transforming Transport for a Clean Future'
   date: 2018-09-11 16:50:00 Z
-  starts_at: 
+  starts_at:
   moderators: "**Rasmus Valanko,** World Business Council on Sustainable Development
     (WBCSD)"
   speakers: "**Anirban Ghosh,** Mahindra Group  \n**David Schlosberg,** eMotoworks
     \ \n**Patrick Browne,** United Parcel Service (UPS)  \n**Michael Burns,** Novozymes
     \ \n**Erik van der Shans,** Port of Rotterdam"
-  description: 
+  description:
 speakers:
 - name: Governor Claudia Pavlovich Arellano
   title: Constitutional Governor of the State of Sonora, Mexico
@@ -235,7 +235,7 @@ speakers:
 - name: Dr. Alexandre Ywata de Carvalho
   title: Director of Regional, Urban, and Environmental Studies and Policies, Brazilian
     Institute of Applied Economics Research
-  bio_text: 
+  bio_text:
   image: "/uploads/Alexandre%20Ywata%20de%20Carvalho.jpg"
 - name: Ms. Claire Jahns
   title: Assistant Secretary, California Natural Resources Agency
@@ -286,7 +286,7 @@ speakers:
   image: "/uploads/Jim%20Williams.jpg"
 - name: Mr. Christopher Adamo
   title: Vice President Federal and Industry Affairs, Danone
-  bio_text: 
+  bio_text:
   image: "/uploads/Chris%20Adamo.jpeg"
 - name: Mr. Daniele Maria Agostini
   title: Head of Low Carbon and European Energy Policies, Enel
@@ -568,7 +568,7 @@ speakers:
 - name: Mr. Matthew Reddy
   title: Director of Climate Smart Agriculture, World Business Council on Sustainable
     Development (WBCSD)
-  bio_text: 
+  bio_text:
   image: "/uploads/Matthew%20Reddy.jpg"
 - name: Bas Ruter
   title: Global Sustainability Director, Rabobank
@@ -583,12 +583,9 @@ speakers:
   title: 'Associate Professor and Director of Geospatial Analysis Lab'
   bio_text: |-
     Dr. Saah has been broadly trained as an environmental scientist with expertise in a number of areas including: landscape ecology, ecosystem ecology, hydrology, geomorphology, ecosystem modeling, natural hazard modeling, remote sensing, geographic information systems (GIS) and geospatial analysis. He has used these skills to conduct research primarily at the landscape level in a variety of systems. Dr. Saah has participated in research projects throughout the United States and Internationally. His academic research uses integrated geospatial science for multi–scale mapping, monitoring and modeling of environmental spatial heterogeneity, particularly in riparian, savanna, and forest ecosystems. These efforts include quantification of change in landscape pattern, investigating the linkages between pattern and processes, and understanding the pattern–process dynamic within different environmental management regimes. To complement this, Dr. Saah's consulting research interest and experience include: developing holistic decision support systems for resource management, assessing natural hazards, and quantifying ecosystem service valuation. In addition, all of his research addresses access, availability, and accuracy of geospatial and environmental datasets, and scale in natural resource and environmental research. Dr. Saah is committed to producing high quality research projects that integrate the most current science and technology. He is dedicated to the accurate dissemination of results from these endeavors through innovative presentations, publications, and workshops.
-  image:
+  image: "/uploads/David%20Saah.jpg"
 - name: Dr. Daniel L. Sanchez
-  title: 'Assistant Specialist, Department of Environmental Science, Policy, and Management
-    University of California-Berkeley
-
-'
+  title: 'Assistant Specialist, Department of Environmental Science, Policy, and Management University of California-Berkeley'
   bio_text: Daniel L. Sanchez is an engineer and energy systems analyst studying the
     commercialization and deployment of energy technologies that remove CO2 from the
     atmosphere. Sanchez’s work and engagement spans the academic, nongovernmental,
@@ -659,11 +656,20 @@ speakers:
 - name: Mr. Rasmus Valanko
   title: Director, Climate & Energy, World Business Council on Sustainable Development
     (WBCSD)
-  bio_text: 
+  bio_text:
   image: "/uploads/Rasmus%20Valanko.jpg"
 - name: Mr. Erik van der Shans
   title: Director Environmental Management, Port of Rotterdam
-  bio_text: 
+  bio_text: |-
+    Eric van der Schans is Director Environmental Management at the Port of Rotterdam Authority since 1 September 2015.
+
+    Born in Enschede, the Netherlands in 1971, Eric holds a master degree in chemical engineering from the University of Twente.
+
+    He started his career at Stork in in 1996 as environmental & safety consultant for the Oil & Gas industry and worked on various projects in Europe and the Middle East. In 2000 he joined Royal Haskoning DHV and continued to work as consultant, project manager and team leader. In 2005 he joined Antea Group to lead their safety consultancy practice. In later years he has been responsible for international acquisition strategy of Antea Group as well as international business development. 
+
+    As director Environmental Management he is responsible for spatial planning, environment and CSR within the Port of Rotterdam Authority.
+
+    In addition to his role with the Port of Rotterdam Authority, Eric van der Schans is Chairman of Environmental Shipping Index (ESI) Working Group.
   image: "/uploads/Erik%20van%20der%20Shans.jpg"
 - name: Dr. Virgilio Viana
   title: Director General, Amazonas Sustainable Foundation
@@ -685,7 +691,6 @@ speakers:
   title: Smith Conservation Fellow, UC Davis
   bio_text: |-
     I am currently a UC President’s Postdoctoral Fellow at UC Davis in the CSTARS lab working with Dr. Susan Ustin.
-
 
     I am an environmental scientist studying land use for energy and conservation needs. My research seeks to understand the impact of energy infrastructure on land use and conservation, and to develop practical strategies for avoiding negative impacts. I am broadly interested in the dynamics and drivers of land use change, land use policy, and advancing our ability to plan for sustainable, multi-use landscapes that protect biological diversity. As the study of land use is deeply interdisciplinary, I combine methods from landscape ecology, energy economics and engineering, remote sensing, and spatial science in my research. Through collaboration with The Nature Conservancy, I have developed a spatial model to understand land-use constraints in meeting ambitious renewable energy targets in California, which led to regulatory improvements that simultaneously advance conservation and climate goals. I co-founded the Multi-criteria Analysis for Planning Renewable Energy (MapRE) initiative, which seeks to enable and improve the planning of low-carbon, cost-effective, socially and environmentally responsible energy systems through the development of decision support tools. Previously, I worked at the U.S. Geological Survey (USGS) and University of Notre Dame leading a project to understand climate change impacts on an endangered butterfly in the Great Lakes region. I graduated with a BA in Biology from Pomona College, a MPhil in Evolutionary Biology from University of Cambridge, and an MS and PhD in Energy and Resources from UC Berkeley.
   image: "/uploads/Grace%20Wu.jpg"
