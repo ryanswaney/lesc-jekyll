@@ -113,7 +113,7 @@ sessions:
   speakers: "**Virgilio Viana,** Amazonas Sustainable Foundation\n**Justin Baker,**
     Research Triangle Institute  \n**Petr Havlik,** International Institute for Applied
     Systems Analysis  \n**Dick Cameron,** The Nature Conservancy, California  \n**Renat
-    Heuberger,** South Pole Group"
+    Heuberger,** South Pole"
   description: 
 - title: 'Parallel Session E2: The Step After Next: Decarbonization Challenges Beyond
     Low Carbon Electricity'
@@ -464,7 +464,7 @@ speakers:
     Before joining IIASA, Dr. Havlik shortly worked as a post-doc at INRA Grignon (France), where he set up a spatially explicit optimization model for the design of biodiversity compatible landscape pattern policies. Dr. Havlik's current research interests include the use and development of forest and agricultural sector optimization models at the European and global level.
   image: "/uploads/Petr%20Havlik.jpg"
 - name: Mr. Renat Heuberger
-  title: CEO, South Pole Group
+  title: 'CEO, South Pole '
   bio_text: |-
     Renat is a pioneer and social entrepreneur in the field of sustainability, climate change and renewable energies, where he is engaged since 1999. As a founding partner and CEO of the South Pole Group, he coordinated the set-up of the company's global sustainability solutions business. Before founding South Pole, Renat was co-founder and CEO of the myclimate foundation, one of the world's first players on the voluntary carbon markets.
 
