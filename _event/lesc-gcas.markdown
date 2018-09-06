@@ -579,6 +579,7 @@ speakers:
 
     Bas holds a Master of Science degree in biology of Wageningen University.
   image: "/uploads/Bas%20Ruter.jpg"
+<<<<<<< HEAD
 - name: Dr. David Saah
 <<<<<<< HEAD
   title: 'Associate Professor and Director of Geospatial Analysis Lab'
@@ -609,6 +610,8 @@ speakers:
     presentations, publications, and workshops.'
   image: 
 >>>>>>> 95a78b8f516f7bb881ffd7934743ff10224bee82
+=======
+>>>>>>> parent of 5a15713... added d. saah
 - name: Dr. Daniel L. Sanchez
   title: 'Assistant Specialist, Department of Environmental Science, Policy, and Management University of California-Berkeley'
   bio_text: Daniel L. Sanchez is an engineer and energy systems analyst studying the
