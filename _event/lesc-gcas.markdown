@@ -558,6 +558,11 @@ speakers:
 
     Bas holds a Master of Science degree in biology of Wageningen University.
   image: "/uploads/Bas%20Ruter.jpg"
+- name: Dr. David Saah
+  title: 'Associate Professor and Director of Geospatial Analysis Lab'
+  bio_text: |-
+    Dr. Saah has been broadly trained as an environmental scientist with expertise in a number of areas including: landscape ecology, ecosystem ecology, hydrology, geomorphology, ecosystem modeling, natural hazard modeling, remote sensing, geographic information systems (GIS) and geospatial analysis. He has used these skills to conduct research primarily at the landscape level in a variety of systems. Dr. Saah has participated in research projects throughout the United States and Internationally. His academic research uses integrated geospatial science for multi–scale mapping, monitoring and modeling of environmental spatial heterogeneity, particularly in riparian, savanna, and forest ecosystems. These efforts include quantification of change in landscape pattern, investigating the linkages between pattern and processes, and understanding the pattern–process dynamic within different environmental management regimes. To complement this, Dr. Saah's consulting research interest and experience include: developing holistic decision support systems for resource management, assessing natural hazards, and quantifying ecosystem service valuation. In addition, all of his research addresses access, availability, and accuracy of geospatial and environmental datasets, and scale in natural resource and environmental research. Dr. Saah is committed to producing high quality research projects that integrate the most current science and technology. He is dedicated to the accurate dissemination of results from these endeavors through innovative presentations, publications, and workshops.
+  image:
 - name: Dr. Daniel L. Sanchez
   title: 'Assistant Specialist, Department of Environmental Science, Policy, and Management
     University of California-Berkeley
