@@ -30,7 +30,7 @@ sessions:
     of California  "
   description: 
 - title: Word from our Sponsor
-  date: 2018-09-11 00:00:00 Z
+  date: 2018-09-11 09:10:00 Z
   starts_at: 
   moderators: 
   speakers: "**Valery Miftakhov,** Emotowerks, Enel"
@@ -154,7 +154,28 @@ sessions:
 speakers:
 - name: Governor Claudia Pavlovich Arellano
   title: Constitutional Governor of the State of Sonora, Mexico
-  bio_text: 
+  bio_text: "Born in Magdalena, Sonora, on June 17, 1969, Claudia is the daughter
+    of Dr. Alicia Arellano Tapia (former Mayor of Hermosillo and Magdalena, as well
+    as Senator) and Dr. Miguel Pavlovich Sugich. Prior to graduating with a Law Degree
+    including Honorable Mention from the University of Sonora, she also studied English
+    at the University of Arizona and French at Montreux, Switzerland. \n \nHer achievements
+    include:\n\n* The Reform to the Organic Law and Internal Regulation of the Congress
+    of the State of Sonora, that achieved a rapprochement between legislative work
+    and citizens, with the purpose of making deputies’ functions more efficient and
+    transparent.\n* The promotion of the \"healthy woman, healthy family\" program
+    that prevents diabetes, hypertension and obesity by bringing medical care to Hermosillo’s
+    neighborhoods free of charge.\n*As Senator, Claudia Pavlovich Arellano made a
+    strong defense for public and consumer interests in telecommunications \"that
+    opens the sector to competitiveness to benefit telephone and internet users, as
+    well as TV and radio audiences\" throughout the country.\n* When urgent support
+    was requested to support shrimp producers in Sonora because of the collapse of
+    this activity due to the “white spot” syndrome, Claudia, as a member of the Fisheries
+    and Aquaculture Committee of the Upper Chamber, facilitated the approval of financial
+    resources for the implementation of a crop improvement program, with improved
+    technology, for the states of Sonora, Sinaloa and Nayarit.\n* Claudia Pavlovich
+    Arellano became the first female Governor of Sonora, succeeding Guillermo Padrés
+    Elías, from the PAN party.\nClaudia is married to Sergio Torres Ibarra, with whom
+    she has 3 daughters: Claudia, Ana and Gabriela."
   image: "/uploads/Claudia%20Pavlovich%20Arellano.jpg"
 - name: H.E. Ola Elvestuen
   title: Minister of Climate and Environment, Norway
