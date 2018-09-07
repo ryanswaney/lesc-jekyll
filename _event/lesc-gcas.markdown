@@ -41,9 +41,10 @@ sessions:
   date: 2018-09-11 09:30:00 Z
   starts_at: 
   moderators: "**Daniel Lashof,** World Resources Institute US"
-  speakers: "**Governor David Ige,** Hawaii  \n**Governor Claudia Pavlovich Arellano,**
-    Sonora, Mexico  \n**Alexandre Ywata de Carvalho,** Brazilian Institute of Applied
-    Economics Research  \n**Claire Jahns,** California Natural Resources Agency  "
+  speakers: "**Governor David Ige,** Hawaii  \n**Executive Commissioner Luis Carlos
+    Romo Salazar,** Sonora, Mexico  \n**Alexandre Ywata de Carvalho,** Brazilian Institute
+    of Applied Economics Research  \n**Claire Jahns,** California Natural Resources
+    Agency  "
   description: To achieve the goals of the Paris agreement and keep global warming
     to well below 2 ℃ emissions from energy and land-use change must be reduced rapidly
     and carbon dioxide will need to be removed from the atmosphere to achieve zero
