@@ -33,7 +33,7 @@ sessions:
   date: 2018-09-11 09:13:00 Z
   starts_at: 
   moderators: 
-  speakers: "**Valery Miftakhov,** Emotowerks, Enel  \n**Bill McKibben,** American
+  speakers: "**Valery Miftakhov,** Emotorwerks, Enel  \n**Bill McKibben,** American
     Environmentalist"
   description: 
 - title: 'Plenary Panel 1: Climate Solutions in Action: policy perspectives on the
@@ -537,7 +537,7 @@ speakers:
     journals and international conferences. She is married and has three kids.
   image: "/uploads/Maria%20Mendiluce.jpg"
 - name: Mr. Valery Miftakhov
-  title: Founder & CEO, Emotowerks
+  title: Founder & CEO, Emotorwerks
   bio_text: "Valery Miftakhov is the Founder of Electric Motor Werks, a California
     Group focused on promoting high performance electric conversions. He has started
     Electric Motor Werks to help dramatically accelerate adoption of electric car
