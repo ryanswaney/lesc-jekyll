@@ -76,7 +76,7 @@ sessions:
 - title: 'Plenary Panel 3: New Thinking on Navigating the Land-Energy Intersection'
   date: 2018-09-11 12:00:00 Z
   starts_at: 
-  moderators: "**Chris Webber,** World Wildlife Fund"
+  moderators: "**Chris Weber,** World Wildlife Fund"
   speakers: "**Guido Schmidt-Traub,** Sustainable Development Solutions Network  \n**Christa
     Anderson,** Stanford University and World Wildlife Fund  \n**Brian Shillinglaw,**
     New Forests"
