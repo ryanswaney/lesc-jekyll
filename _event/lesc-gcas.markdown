@@ -44,15 +44,15 @@ sessions:
   speakers: "**Governor David Ige,** Hawaii  \n**Governor Claudia Pavlovich Arellano,**
     Sonora, Mexico  \n**Alexandre Ywata de Carvalho,** Brazilian Institute of Applied
     Economics Research  \n**Claire Jahns,** California Natural Resources Agency  "
-  description: "This session will explore this question from the perspective of three
-    jurisdictions on the forefront of climate policymaking:  \n* Hawaii has enacted
-    legislation requiring the state to achieve zero net emissions by 2045, one of
-    the most ambitious climate policies in the world.  \n* California is the fifth
-    largest economy in the world;  passed legislation to reach 100% clean electricity
-    by 2045; is a major agricultural producer; and has large forest areas impacted
-    by climate change.  \n* Brazil is the sixth largest economy in the world, a leading
-    producer of biofuels, and a critical country for protecting forest carbon and
-    biodiversity. \n"
+  description: To achieve the goals of the Paris agreement and keep global warming
+    to well below 2 ℃ emissions from energy and land-use change must be reduced rapidly
+    and carbon dioxide will need to be removed from the atmosphere to achieve zero
+    net emissions by mid-century globally. Many models for decarbonizing the energy
+    system rely heavily on bioenergy for transportation fuel, dispatchable power and
+    carbon removal. At the same time it will be essential to preserve and restore
+    forests as a natural climate solution and to protect biodiversity. Meanwhile food
+    production must increase to feed the world’s growing and increasingly affluent
+    population. How do we achieve these daunting and essential goals simultaneously?
 - title: 'Plenary Panel 2: Where Energy and Land Use Meet: New Findings for Decarbonization
     Pathways'
   date: 2018-09-11 10:30:00 Z
