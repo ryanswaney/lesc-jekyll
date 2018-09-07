@@ -25,7 +25,7 @@ sessions:
   starts_at: 
   moderators: "**Jim Williams,** University of San Francisco "
   speakers: "**Rev. Paul Fitzgerald,** President, University of San Francisco    \n**Guido
-    Schmidt-Traub,** Sustainable Development Solutions Network  \n**Maria Mendiluce,**
+    Schmidt-Traub,** UN Sustainable Development Solutions Network  \n**Maria Mendiluce,**
     World Business Council for Sustainable Development  \n**Margaret Torn,** University
     of California  "
   description: 
@@ -78,9 +78,9 @@ sessions:
   date: 2018-09-11 12:00:00 Z
   starts_at: 
   moderators: "**Chris Weber,** World Wildlife Fund"
-  speakers: "**Guido Schmidt-Traub,** Sustainable Development Solutions Network  \n**Christa
-    Anderson,** Stanford University and World Wildlife Fund  \n**Brian Shillinglaw,**
-    New Forests"
+  speakers: "**Guido Schmidt-Traub,** UN Sustainable Development Solutions Network
+    \ \n**Christa Anderson,** Stanford University and World Wildlife Fund  \n**Brian
+    Shillinglaw,** New Forests"
   description: "Climate protection requires a sweeping low-carbon transformation of
     both energy systems and land use.  Yet this transformation could also bring potential
     conflicts.  How can bioenergy production, siting of energy facilities like wind
@@ -285,7 +285,7 @@ speakers:
     a BA from Oberlin College.
   image: "/uploads/Claire%20Jahns.jpg"
 - name: Dr. Guido Schmidt-Traub
-  title: Executive Director, Sustainable Development Solutions Network (SDSN)
+  title: Executive Director, UN Sustainable Development Solutions Network (SDSN)
   bio_text: |-
     Dr. Guido Schmidt-Traub is Executive Director of the UN Sustainable Development Solutions Network, which operates under the auspices of the UN Secretary-General to support the implementation of the Sustainable Development Goals and the Paris Climate Agreement. Guido leads the SDSN’s policy work, including on long-term pathways for sustainable land-use and food systems, financing for development, and the SDG Index and Dashboards. He serves on the Governing Council of Future Earth and other advisory bodies.
 
