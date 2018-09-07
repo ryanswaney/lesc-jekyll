@@ -44,7 +44,15 @@ sessions:
   speakers: "**Governor David Ige,** Hawaii  \n**Governor Claudia Pavlovich Arellano,**
     Sonora, Mexico  \n**Alexandre Ywata de Carvalho,** Brazilian Institute of Applied
     Economics Research  \n**Claire Jahns,** California Natural Resources Agency  "
-  description: 
+  description: "This session will explore this question from the perspective of three
+    jurisdictions on the forefront of climate policymaking:  \n* Hawaii has enacted
+    legislation requiring the state to achieve zero net emissions by 2045, one of
+    the most ambitious climate policies in the world.  \n* California is the fifth
+    largest economy in the world;  passed legislation to reach 100% clean electricity
+    by 2045; is a major agricultural producer; and has large forest areas impacted
+    by climate change.  \n* Brazil is the sixth largest economy in the world, a leading
+    producer of biofuels, and a critical country for protecting forest carbon and
+    biodiversity. \n"
 - title: 'Plenary Panel 2: Where Energy and Land Use Meet: New Findings for Decarbonization
     Pathways'
   date: 2018-09-11 10:30:00 Z
@@ -53,7 +61,12 @@ sessions:
   speakers: "**Petr Havlik,** International Institute for Applied Systems Analysis
     \ \n**Jim Williams,** University of San Francisco  \n**Emily McGlynn,** University
     of California, Davis  \n **Rob Jackson,** Stanford Woods Institute    "
-  description: 
+  description: How much of Earth’s fertile land will be dedicated to bioenergy production
+    in the standard IPCC scenarios for keeping global warming below 2º?  This session
+    presents expert analysis of land use in deep decarbonization pathways, challenging
+    prevailing wisdom about what is possible and demonstrating the need for new approaches.
+    Panelists will focus on what is required from the land and energy systems to keep
+    warming below 1.5-2ºC.
 - title: Networking Break
   date: 2018-09-11 11:45:00 Z
   starts_at: 
@@ -67,7 +80,13 @@ sessions:
   speakers: "**Guido Schmidt-Traub,** Sustainable Development Solutions Network  \n**Christa
     Anderson,** Stanford University and World Wildlife Fund  \n**Brian Shillinglaw,**
     New Forests"
-  description: 
+  description: 'With growing populations and increased demand on our natural resources,
+    decisions on land use and resource extraction are becoming more important – and
+    more limiting. This panel will look at the different frameworks and implementation
+    mechanisms available to align stakeholder interests with the most sustainable
+    pathways. Resource managers, decision makers, and policy advisors have a responsibility
+    to justly, fairly, and sustainably manage our natural resources. This discussion
+    will showcase a few ways this can be done in an evermore connected world. '
 - title: Lunch Break and Keynote Discussion with John Holdren, Professor, Harvard
     University, Pres. Obama's Science Advisor
   date: 2018-09-11 12:45:00 Z
@@ -82,7 +101,14 @@ sessions:
   speakers: "**Peter Walke,** Vermont Agency of Natural Resources  \n**Hammerskjoeld
     Simwinga,** Foundation for Wildlife and Habitat Conservation  \n**Christopher
     Adamo,** Danone "
-  description: 
+  description: "The session will highlight the critical role of natural climate solutions
+    (NCS) in achieving the ambitious objectives of the Paris Agreement. The session
+    will delve into the following aspects of the implementation of NCS:  \n* showcasing
+    and comparing approaches to incorporating land-based GHG reductions and carbon
+    sequestration into GHG mitigation strategies across jurisdictions and organizations;
+    \ \n* exploring innovative financing mechanisms to drive scale; and  \n* identifying
+    gaps and needs, including discussion of inventories, targets and policies in California
+    and other jurisdictions."
 - title: 'Parallel Session E1:  From Microgrids to Global Interconnection: The Electricity
     System of the Future'
   date: 2018-09-11 14:00:00 Z
@@ -92,7 +118,12 @@ sessions:
   speakers: "**Daniele Agostini,** Enel  \n**Erica Brand,** The Nature Conservancy
     \ \n**Mengrong Cheng,** State Grid Corporation   \n**Ren Orans,** Energy and Environmental
     Economics Inc. "
-  description: 
+  description: 'Decarbonizing an economy requires large amounts of low carbon electricity
+    to replace fossil fuels. The varying scales at which that electricity is supplied
+    – ranging from rooftop systems to large offshore wind farms and desert solar installations
+    - has very different implications for how the electrical grid is interconnected
+    and operated. They also change the math on such critical concerns as the cost
+    of electricity, reliability of the power supply, energy security, and land use.  '
 - title: Networking Break
   date: 2018-09-11 15:10:00 Z
   starts_at: 
@@ -109,7 +140,14 @@ sessions:
     Research Triangle Institute  \n**Petr Havlik,** International Institute for Applied
     Systems Analysis  \n**Dick Cameron,** The Nature Conservancy, California  \n**Renat
     Heuberger,** South Pole"
-  description: 
+  description: "This session brings together scientific and practitioner leaders from
+    the nonprofit, research, and business sectors. They will highlight:  \n(1) land-use
+    solutions in action: case studies that demonstrate how integrative land use solutions
+    can simultaneously achieve biodiversity conservation, climate change mitigation,
+    energy security, and sustainable livelihoods (e.g. in food and fiber); and  \n(2)
+    new analytical approaches that can support integrative land use practices and
+    planning through ambitious yet reasonable goal-setting and scaling of solutions.
+    \ "
 - title: 'Parallel Session E2: The Step After Next: Decarbonization Challenges Beyond
     Low Carbon Electricity'
   date: 2018-09-11 15:25:00 Z
@@ -118,7 +156,11 @@ sessions:
   speakers: "**Ken Alex,** California Governor’s Office of Planning and Research  \n**Chris
     Bataille,** IDDRI  \n**Leon Clarke,** Pacific Northwest National Laboratory  \n**Ben
     Haley,** Evolved Energy Research  "
-  description: 
+  description: It is well known that the key near-term steps for protecting the climate
+    include low-carbon electricity, zero-emission vehicles, and energy efficient buildings.
+    Many states, cities, and countries are committed to making major strides in these
+    areas by 2030. This panel of experts explores the question of what steps are needed
+    after 2030, through to 2050 and beyond.
 - title: Networking Break
   date: 2018-09-11 16:35:00 Z
   starts_at: 
@@ -132,7 +174,12 @@ sessions:
   speakers: "**Hon. Ola Elvestuen,** Norwegian Minister of Climate and Environment
     \ \n**Noora Singh,** Global Sustainability, PepsiCo  \n**Candace Laing,** Nutrien
     \ \n**Jad Daley,** American Forests  \n**Bas Ruter,** Rabobank"
-  description: 
+  description: This session will showcase how business, farmers, and investors have
+    successfully worked on programmatic and project-based carbon projects, and will
+    draw on their recommendations for NDCs across mitigation and adaptation in land
+    use, forestry, and agriculture. Particular reference will be made to how new developments
+    in technology across mapping, precision agriculture, modeling, monitoring, verification,
+    and reporting can assist in scaling up land-based solutions.
 - title: 'Parallel Session E3: Transforming Transport for a Clean Future'
   date: 2018-09-11 16:50:00 Z
   starts_at: 
@@ -140,7 +187,17 @@ sessions:
   speakers: "**Anirban Ghosh,** Mahindra Group  \n**David Schlosberg,** eMotoworks
     \ \n**Patrick Browne,** United Parcel Service  \n**Michael Burns,** Novozymes
     \ \n**Erik van der Shans,** Port of Rotterdam"
-  description: 
+  description: 'Transport contributes to 18% of global greenhouse gas emissions and
+    growing. Transport-related energy use is set to increase 75% by 2050 unless we
+    take serious steps to transform the current system. As climate change continues
+    to gain importance, we urgently need a global and unified strategy to reduce emissions
+    from transport and freight. This panel will go beyond incremental improvements
+    to the transport system and explore what is needed for a step change in emissions
+    from transport. The speakers will approach the system from the perspective of
+    their own companies’ expertise and investments, covering: people and freight;
+    long- and short-distance; and heavy- and light-duty transport. Speakers will draw
+    on their experience of developing and deploying new solutions to identify what
+    it will take to realize a decarbonized transport system.'
 - title: Cocktail Reception
   date: 2018-09-11 18:00:00 Z
   starts_at: 
