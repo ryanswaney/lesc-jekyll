@@ -739,6 +739,21 @@ speakers:
 
     After resigning his commission, Walke was selected to join a leadership development fellowship serving the Governor of the State of New York. He quickly became one of the Governor’s primary environmental advisors and was named to the post of Chief of Staff of the New York Department of Environmental Conservation. After more than two decades living in other states and abroad, Walke was excited to return to his hometown of Montpelier, Vermont to continue his pursuit of excellence in environmental leadership at the Agency of Natural Resources.
   image: "/uploads/Peter%20Walke.jpg"
+- name: Dr. Chris Weber
+  title: Global Climate & Energy Lead Scientist, WWF Global Science
+  bio_text: Chris came to WWF from 2° Investing Initiative, where he led analysis
+    and methodology development on climate-related risk and opportunities in investment
+    portfolios. Prior to 2° Investing Initiative, he served as Senior Research Associate
+    at the World Resources Institute, as a consultant to the UNEP Finance Initiative,
+    and consulted on corporate sustainability for several Fortune 500 companies for
+    Enviance, Inc. Earlier in his career Dr. Weber served as research professor at
+    Carnegie Mellon University and as research staff member at the Science and Technology
+    Policy Institute in Washington, DC, where he advised the White House Office of
+    Science and Technology Policy on climate, energy, environmental and innovation
+    policy issues. Chris holds an M.S. in civil & environmental engineering and a
+    Ph.D. in civil & environmental engineering and engineering and public policy from
+    Carnegie Mellon University. Chris is based in Washington, DC.
+  image: "/uploads/Chirs_Weber.jpg"
 - name: Dr. Grace Wu
   title: Smith Conservation Fellow, UC Davis
   bio_text: |-
