@@ -80,13 +80,17 @@ sessions:
   speakers: "**Guido Schmidt-Traub,** Sustainable Development Solutions Network  \n**Christa
     Anderson,** Stanford University and World Wildlife Fund  \n**Brian Shillinglaw,**
     New Forests"
-  description: 'With growing populations and increased demand on our natural resources,
-    decisions on land use and resource extraction are becoming more important – and
-    more limiting. This panel will look at the different frameworks and implementation
-    mechanisms available to align stakeholder interests with the most sustainable
-    pathways. Resource managers, decision makers, and policy advisors have a responsibility
-    to justly, fairly, and sustainably manage our natural resources. This discussion
-    will showcase a few ways this can be done in an evermore connected world. '
+  description: "Climate protection requires a sweeping low-carbon transformation of
+    both energy systems and land use.  Yet this transformation could also bring potential
+    conflicts.  How can bioenergy production, siting of energy facilities like wind
+    farms, and carbon sequestration in forests and soils be conducted so as to avoid
+    impacts on food, water, and biodiversity?  \nThis panel will look at different
+    frameworks and implementation mechanisms to avoid these conflicts, enhance the
+    co-benefits of carbon-smart land use, and align stakeholder interests with the
+    most sustainable pathways. Resource managers, decision makers, and policy advisors
+    have a responsibility to fairly and sustainably manage our natural resources.
+    This discussion will showcase a few ways this may be done in an evermore connected
+    world. "
 - title: Lunch Break and Keynote Discussion with John Holdren, Professor, Harvard
     University, Pres. Obama's Science Advisor
   date: 2018-09-11 12:45:00 Z
