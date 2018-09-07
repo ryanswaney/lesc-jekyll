@@ -40,7 +40,7 @@ sessions:
     land and energy nexus'
   date: 2018-09-11 09:30:00 Z
   starts_at: 
-  moderators: "**Daniel Lashof,** World Resources Institute US"
+  moderators: "**Daniel Lashof,** World Resources Institute"
   speakers: "**Governor David Ige,** Hawaii  \n**Executive Commissioner Luis Carlos
     Romo Salazar,** Sonora, Mexico  \n**Alexandre Ywata de Carvalho,** Brazilian Institute
     of Applied Economics Research  \n**Claire Jahns,** California Natural Resources
