@@ -141,9 +141,8 @@ sessions:
   moderators: "**Grace Wu,** University of California, Davis and **David Saah,** University
     of San Francisco"
   speakers: "**Virgilio Viana,** Amazonas Sustainable Foundation\n**Justin Baker,**
-    Research Triangle Institute  \n**Petr Havlik,** International Institute for Applied
-    Systems Analysis  \n**Dick Cameron,** The Nature Conservancy, California  \n**Renat
-    Heuberger,** South Pole"
+    Research Triangle Institute  \n**Dick Cameron,** The Nature Conservancy, California
+    \ \n**Renat Heuberger,** South Pole"
   description: "This session brings together scientific and practitioner leaders from
     the nonprofit, research, and business sectors. They will highlight:  \n(1) land-use
     solutions in action: case studies that demonstrate how integrative land use solutions
