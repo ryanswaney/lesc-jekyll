@@ -602,7 +602,7 @@ speakers:
     Development (WBCSD)
   bio_text: 
   image: "/uploads/Matthew%20Reddy.jpg"
-- name: Bas Ruter
+- name: Mr. Bas Ruter
   title: Global Sustainability Director, Rabobank
   bio_text: |-
     Bas Rüter is Director of Sustainability at Rabobank as of March 2012. He is responsible for the sustainability strategy, the sustainability policy framework, reporting and sustainable business development within Rabobank Group. As part of his function he is responsible for the partnerships with WWF, UN Environment including the 1 bln USD pledge for forest protection and sustainable agriculture, chair of the finance working group of the Climate Smart Agriculture program of the WBCSD, member of Rabobanks’ Ethics Committee, chairman of the supervisory Board of Dutch Greentech Fund and SHIFT Invest, chairman of the jury of the Herman Wijffels Innovation awards and supervisory board member of Rabo Groenbank. He is also member of the board of TKI Agri & Food an chairman of the Sustainability Platform of the Dutch Banking Association.
@@ -710,7 +710,7 @@ speakers:
     (WBCSD)
   bio_text: 
   image: "/uploads/Rasmus%20Valanko.jpg"
-- name: Mr. Erik van der Shans
+- name: Mr. Eric van der Schans
   title: Director Environmental Management, Port of Rotterdam
   bio_text: |-
     Eric van der Schans is Director Environmental Management at the Port of Rotterdam Authority since 1 September 2015.
