@@ -26,7 +26,7 @@ sessions:
   moderators: "**Jim Williams,** University of San Francisco "
   speakers: "**Rev. Paul Fitzgerald,** President, University of San Francisco    \n**Guido
     Schmidt-Traub,** Sustainable Development Solutions Network  \n**Maria Mendiluce,**
-    World Business Council on Sustainable Development  \n**Margaret Torn,** University
+    World Business Council for Sustainable Development  \n**Margaret Torn,** University
     of California  "
   description: 
 - title: Opening Keynote
@@ -170,7 +170,7 @@ sessions:
 - title: 'Parallel Session L3: Solutions for Implementing Climate Smart Agriculture '
   date: 2018-09-11 16:50:00 Z
   starts_at: 
-  moderators: "**Matthew Reddy,** World Business Council on Sustainable Development"
+  moderators: "**Matthew Reddy,** World Business Council for Sustainable Development"
   speakers: "**Hon. Ola Elvestuen,** Norwegian Minister of Climate and Environment
     \ \n**Noora Singh,** Global Sustainability, PepsiCo  \n**Candace Laing,** Nutrien
     \ \n**Jad Daley,** American Forests  \n**Bas Ruter,** Rabobank"
@@ -183,7 +183,7 @@ sessions:
 - title: 'Parallel Session E3: Transforming Transport for a Clean Future'
   date: 2018-09-11 16:50:00 Z
   starts_at: 
-  moderators: "**Rasmus Valanko,** World Business Council on Sustainable Development"
+  moderators: "**Rasmus Valanko,** World Business Council for Sustainable Development"
   speakers: "**Anirban Ghosh,** Mahindra Group  \n**David Schlosberg,** eMotoworks
     \ \n**Patrick Browne,** United Parcel Service  \n**Michael Burns,** Novozymes
     \ \n**Erik van der Shans,** Port of Rotterdam"
@@ -580,7 +580,7 @@ speakers:
     stakeholders. She has a background in biology and economics from Bryn Mawr College.
   image: "/uploads/Emily%20McGlynn.jpg"
 - name: Dr. Maria Mendiluce
-  title: Managing Director, World Business Council on Sustainable Development (WBCSD)
+  title: Managing Director, World Business Council for Sustainable Development (WBCSD)
   bio_text: Dr. María Mendiluce has over 20 years’ experience in the energy and climate
     area. Since 2008, María has led the implementation of WBCSD’s Climate and Energy
     strategy, guiding the work of over 200 member companies to influence the global
@@ -619,7 +619,7 @@ speakers:
     Education: PhD, civil engineering, Stanford University; BA, economics, University of California, Berkeley
   image: "/uploads/Ren%20Orans-027fb5.jpg"
 - name: Mr. Matthew Reddy
-  title: Director of Climate Smart Agriculture, World Business Council on Sustainable
+  title: Director of Climate Smart Agriculture, World Business Council for Sustainable
     Development (WBCSD)
   bio_text: 
   image: "/uploads/Matthew%20Reddy.jpg"
@@ -727,7 +727,7 @@ speakers:
     in the areas of climate change mitigation and the carbon markets.
   image: "/uploads/Noorah%20Signh.jpeg"
 - name: Mr. Rasmus Valanko
-  title: Director, Climate & Energy, World Business Council on Sustainable Development
+  title: Director, Climate & Energy, World Business Council for Sustainable Development
     (WBCSD)
   bio_text: 
   image: "/uploads/Rasmus%20Valanko.jpg"
