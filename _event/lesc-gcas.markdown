@@ -318,7 +318,19 @@ speakers:
   image: "/uploads/Jim%20Williams.jpg"
 - name: Mr. Christopher Adamo
   title: Vice President Federal and Industry Affairs, Danone
-  bio_text: 
+  bio_text: "Chris Adamo is Vice President at Danone North America for federal and
+    industry affairs assisting the world’s largest B Corp strengthening the role of
+    business in driving social and environmental good for all. Prior to this work,
+    Chris spent over a decade at the highest levels of the federal government helping
+    find solutions for various agricultural and environmental problems.  \nMost recently,
+    Chris served as the chief of staff for President Obama’s White House Council on
+    Environmental Quality from 2015 until the end of the Administration in 2017 where
+    he helped lead the President’s climate change and conservation agenda.   \nBefore
+    his tenure with the Council on Environmental Quality, Chris spent 10 years in
+    the U.S. Senate as an advisor to various U.S. Senators, both Democrats and Republicans.
+    He led the U.S. Senate Committee on Agriculture, Nutrition, and Forestry as its
+    staff director and oversaw various issues related to agriculture, environment,
+    and nutrition."
   image: "/uploads/Chris%20Adamo.jpeg"
 - name: Mr. Daniele Maria Agostini
   title: Head of Low Carbon and European Energy Policies, Enel
@@ -602,7 +614,7 @@ speakers:
     Development (WBCSD)
   bio_text: 
   image: "/uploads/Matthew%20Reddy.jpg"
-- name: Mr. Bas Ruter
+- name: Bas Ruter
   title: Global Sustainability Director, Rabobank
   bio_text: |-
     Bas Rüter is Director of Sustainability at Rabobank as of March 2012. He is responsible for the sustainability strategy, the sustainability policy framework, reporting and sustainable business development within Rabobank Group. As part of his function he is responsible for the partnerships with WWF, UN Environment including the 1 bln USD pledge for forest protection and sustainable agriculture, chair of the finance working group of the Climate Smart Agriculture program of the WBCSD, member of Rabobanks’ Ethics Committee, chairman of the supervisory Board of Dutch Greentech Fund and SHIFT Invest, chairman of the jury of the Herman Wijffels Innovation awards and supervisory board member of Rabo Groenbank. He is also member of the board of TKI Agri & Food an chairman of the Sustainability Platform of the Dutch Banking Association.
@@ -710,7 +722,7 @@ speakers:
     (WBCSD)
   bio_text: 
   image: "/uploads/Rasmus%20Valanko.jpg"
-- name: Mr. Eric van der Schans
+- name: Mr. Erik van der Shans
   title: Director Environmental Management, Port of Rotterdam
   bio_text: |-
     Eric van der Schans is Director Environmental Management at the Port of Rotterdam Authority since 1 September 2015.
