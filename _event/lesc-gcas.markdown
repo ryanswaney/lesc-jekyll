@@ -735,7 +735,18 @@ speakers:
 - name: Mr. Rasmus Valanko
   title: Director, Climate & Energy, World Business Council for Sustainable Development
     (WBCSD)
-  bio_text: 
+  bio_text: "Rasmus Valanko is the Director for Climate & Energy with the Geneva-based
+    World Business Council for Sustainable Development (WBCSD). In this role, he leads
+    private sector cooperation aiming to create and scale-up business solutions to
+    tackle climate change and leverage key global partnerships. \nRasmus has a Masters
+    in Environment, Politics and Globalization from King’s College London. He began
+    his career working for the Ministries of Foreign Affairs and Environment of Finland
+    both in overseas development cooperation and multilateral environmental treaties.
+    Prior to joining the WBCSD, Rasmus worked 7 years for Royal Dutch Shell on global
+    climate change and CO2 policy as well as their alternative energies strategy.\nGiven
+    his background, Rasmus has deep knowledge in the critical technologies required
+    for the transformation of energy supply and demand, with the ability to facilitate
+    and translate between technical and policy worlds."
   image: "/uploads/Rasmus%20Valanko.jpg"
 - name: Mr. Erik van der Shans
   title: Director Environmental Management, Port of Rotterdam
