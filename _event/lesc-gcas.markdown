@@ -425,7 +425,7 @@ speakers:
     Novozymes in the world leader in biological solutions.  Together with customers, partners and the global community, Novozymes improves industrial performance while preserving the planet's resources and helping to build better lives.
   image: "/uploads/Michael%20Burns-4076cc.jpg"
 - name: Mr. Dick Cameron
-  title: Head, Land Programs, The Nature Conservancy
+  title: Director of Science for Land Programs, The Nature Conservancy
   bio_text: |-
     Dick leads the Land Programs science team in The Nature Conservancy’s California Chapter. His work is focused on creating the tools and evidence to integrate conservation into land use and climate policies. Across a variety of California landscapes, his research assesses opportunities to align land conservation and other societal goals, such as alternative energy development, transportation infrastructure, food production and climate stabilization. Currently his priorities are focused on two climate-related conservation questions: how can ecological land management contribute to climate mitigation goals, and how to design connected networks of land that will help species adapt to climate change?
 
