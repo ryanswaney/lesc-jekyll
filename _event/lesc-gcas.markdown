@@ -614,6 +614,21 @@ speakers:
     Development (WBCSD)
   bio_text: 
   image: "/uploads/Matthew%20Reddy.jpg"
+- name: Luis Carlos Romo Salazar
+  title: "Executive Commissioner   \nSonora, Mexico"
+  bio_text: "* Biochemical Engineer with a Masters in Business Administration by\nTechnological
+    Institute of Monterrey (ITESM) with more than 30 years of experience in the food
+    industry, banking and investment projects.  \n* Undersecretary of Fisheries and
+    Aquaculture of the State of Sonora. \n \n* Vice-President of the National Chamber
+    of Electronics Industry,\nTelecommunications and Information Technologies in Sonora.
+    \ \n* Special Advisor of Senator Claudia Pavlovich Arellano during her period\nas
+    Secretary of the Fisheries and Aquaculture Commission.  \n* During his professional
+    career he has specialized in innovation and\ntechnology transfer, linking the
+    scientific knowledge that exists in\nresearch centers and universities with the
+    private sector.  \n* He was appointed in September of 2015 by the State Constitutional\nGovernor
+    as Executive Commissioner of the Commission of Ecology and\nSustainable Development
+    of the State of Sonora."
+  image: "/uploads/Luis%20Carlos%20Romo%20Salazar.png"
 - name: Bas Ruter
   title: Global Sustainability Director, Rabobank
   bio_text: |-
