@@ -63,6 +63,9 @@ layout: default
 {% if page.sessions[0].title != nill %}
 <section class="section--sessions" id="sessions">
   <h2 class="section-header">Agenda</h2>
+  {% if page.agenda-file %}
+  <p>Download the <a href="{{ page.agenda-file }}">conference agenda.</a></p>
+  {% endif %}
   <ul class="sessions">
     {% for session in page.sessions %}
     <li class="session">
