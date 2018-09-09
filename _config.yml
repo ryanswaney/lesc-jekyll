@@ -24,46 +24,46 @@ defaults:
     layout: post
     permalink: "/:year/:month/:day/:title"
     related-videos:
-    - title:
-      url:
-      description:
+    - title: 
+      url: 
+      description: 
 - scope:
     path: ''
     type: event
   values:
     layout: event
-    theme:
-    hashtag:
-    is-featured:
-    is-upcoming:
-    logo-file:
-    logo-vector-file:
-    location-text:
-    event-date-text:
-    registration-url:
-    blurb:
-    feature_image:
-    schedule-text:
-    agenda-file:
+    theme: 
+    hashtag: 
+    is-featured: 
+    is-upcoming: 
+    logo-file: 
+    logo-vector-file: 
+    location-text: 
+    event-date-text: 
+    registration-url: 
+    blurb: 
+    feature_image: 
+    schedule-text: 
+    agenda-file: 
     sessions:
-    - title:
-      date:
-      starts_at:
-      moderators:
-      speakers:
-      description:
+    - title: 
+      date: 
+      starts_at: 
+      moderators: 
+      speakers: 
+      description: 
     speakers:
-    - name:
-      title:
-      bio_text:
-      image:
+    - name: 
+      title: 
+      bio_text: 
+      image: 
     related-media:
-    - description:
-      image:
+    - description: 
+      image: 
     partners:
-    - name:
-      url:
-      image:
+    - name: 
+      url: 
+      image: 
     permalink: "/:collection/:name"
 twitter_username: Low2No
 twitter_hashtag: LESC
