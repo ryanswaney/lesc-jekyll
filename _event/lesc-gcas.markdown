@@ -253,7 +253,15 @@ speakers:
 - name: Dr. Alexandre Ywata de Carvalho
   title: Director of Regional, Urban, and Environmental Studies and Policies, Brazilian
     Institute of Applied Economics Research
-  bio_text: 
+  bio_text: 'Alexandre Ywata de Carvalho is the Director for Regional, Urban and Environmental
+    Policies and Studies, and Executive Vice-President, at the Institute for Applied
+    Economics Research (Ipea). He holds a Bachelor''s Degree in Mechanical-Aeronautic
+    Engineering from the Air Force Institute of Technology and a PhD in Statistics
+    from Northwestern University. He worked as an Assistant Professor of Statistics
+    at the University of British Columbia, and as Professor of Econometrics at the
+    University of Brasilia. Nowadays he teaches Econometrics for the master''s program
+    in Economics at Ipea. His areas of interest are public policy evaluation, infrastructure
+    regulation and environmental policies. '
   image: "/uploads/Alexandre%20Ywata%20de%20Carvalho.jpg"
 - name: Ms. Claire Jahns
   title: Assistant Secretary, California Natural Resources Agency
