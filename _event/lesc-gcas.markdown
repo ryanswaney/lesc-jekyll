@@ -615,7 +615,7 @@ speakers:
     at the University of California, Berkeley, and resides in Berkeley, CA. An avid
     outdoor explorer, Diane enjoys hiking, cycling, diving, camping, and spending
     time in nature with her husband, children, and granddaughter."
-  image: 
+  image: "/uploads/diane-regas-headshot.jpg"
 - name: Luis Carlos Romo Salazar
   title: "Executive Commissioner   \nSonora, Mexico"
   bio_text: "* Biochemical Engineer with a Masters in Business Administration by\nTechnological
