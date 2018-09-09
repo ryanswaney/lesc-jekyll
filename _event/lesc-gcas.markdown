@@ -103,7 +103,7 @@ sessions:
 - title: 'Parallel Session L1: Implementing Natural Climate Solutions'
   date: 2018-09-11 14:00:00 Z
   starts_at: 
-  moderators: "**Paul Hawken,** Project Drawdown"
+  moderators: "**Diane Regas,** The Trust for Public Lands"
   speakers: "**Peter Walke,** Vermont Agency of Natural Resources  \n**Hammerskjoeld
     Simwinga,** Foundation for Wildlife and Habitat Conservation  \n**Christopher
     Adamo,** Danone "
@@ -217,21 +217,6 @@ speakers:
 
     At Parliament, Elvestuen has chaired the Committee on Energy and Environment since 2013. Elvestuen has been a member of the Norwegian parliamentary delegation to the Parliamentary Assembly in the Organization for Security and Cooperation in Europe (OSCE) since 2013. He has been deputy member of the parliamentary delegation for Arctic parliamentary cooperation since autumn 2017.
   image: "/uploads/Ola%20Elvestuen.jpg"
-- name: Mr. Paul Hawken
-  title: Executive Director, Project Drawdown
-  bio_text: 'Paul is an author and activist. He has founded successful, ecologically-conscious
-    businesses, and consulted with heads of state and CEOs on economic development,
-    industrial ecology, and environmental policy. He has written seven books including
-    four national bestsellers: The Next Economy, Growing a Business, and The Ecology
-    of Commerce, and Blessed Unrest. The Ecology of Commerce was voted as the #1 college
-    text on business and the environment by professors in 67 business schools. Natural
-    Capitalism: Creating the Next Industrial Revolution, co-authored with Amory Lovins,
-    has been referred to by several heads of state including President Bill Clinton
-    who called it one of the most important books in the world at that time. He has
-    served on the board of many environmental organizations including Center for Plant
-    Conservation, Shelburne Farms, Trust for Public Land, Conservation International,
-    and National Audubon Society.'
-  image: "/uploads/Paul%20Hawken.jpg"
 - name: Dr. John Holdren
   title: Professor, Harvard
   bio_text: |-
@@ -615,6 +600,22 @@ speakers:
     Development (WBCSD)
   bio_text: 
   image: "/uploads/Matthew%20Reddy.jpg"
+- name: Diane Regas
+  title: President and Chief Executive Officer, The  Trust for Public Lands
+  bio_text: "An internationally recognized conservation leader, Diane Regas joined
+    The Trust for Public Land in the spring of 2018 as president and CEO. Prior to
+    The Trust for Public Land, Diane worked for more than a decade at Environmental
+    Defense Fund (EDF), most recently as executive director, where she helped EDF
+    advance solutions that promote prosperity for all people and for the planet. She
+    guided work to improve ocean health, stabilize the climate, reduce toxins in everyday
+    products, and promote collaboration and partnerships. Prior to EDF, Diane served
+    at the U.S. Environmental Protection Agency, working under both Democratic and
+    Republican administrations as the top civil servant protecting our nation’s rivers,
+    lakes, and bays.  \nDiane earned her A.B., M.S. in energy and resources, and J.D.
+    at the University of California, Berkeley, and resides in Berkeley, CA. An avid
+    outdoor explorer, Diane enjoys hiking, cycling, diving, camping, and spending
+    time in nature with her husband, children, and granddaughter."
+  image: 
 - name: Luis Carlos Romo Salazar
   title: "Executive Commissioner   \nSonora, Mexico"
   bio_text: "* Biochemical Engineer with a Masters in Business Administration by\nTechnological
