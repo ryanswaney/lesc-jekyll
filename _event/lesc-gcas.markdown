@@ -191,7 +191,7 @@ sessions:
   moderators: "**Rasmus Valanko,** World Business Council for Sustainable Development"
   speakers: "**Anirban Ghosh,** Mahindra Group  \n**David Schlosberg,** eMotoworks
     \ \n**Patrick Browne,** United Parcel Service  \n**Michael Burns,** Novozymes
-    \ \n**Erik van der Shans,** Port of Rotterdam"
+    \ \n**Eric van der Schans,** Port of Rotterdam"
   description: 'Transport contributes to 18% of global greenhouse gas emissions and
     growing. Transport-related energy use is set to increase 75% by 2050 unless we
     take serious steps to transform the current system. As climate change continues
@@ -758,7 +758,7 @@ speakers:
     for the transformation of energy supply and demand, with the ability to facilitate
     and translate between technical and policy worlds."
   image: "/uploads/Rasmus%20Valanko.jpg"
-- name: Mr. Erik van der Shans
+- name: Mr. Eric van der Schans
   title: Director Environmental Management, Port of Rotterdam
   bio_text: |-
     Eric van der Schans is Director Environmental Management at the Port of Rotterdam Authority since 1 September 2015.
