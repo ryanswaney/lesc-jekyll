@@ -313,18 +313,18 @@ speakers:
 - name: Mr. Christopher Adamo
   title: Vice President Federal and Industry Affairs, Danone
   bio_text: "Chris Adamo is Vice President at Danone North America for federal and
-    industry affairs assisting the world’s largest B Corp strengthening the role of
-    business in driving social and environmental good for all. Prior to this work,
-    Chris spent over a decade at the highest levels of the federal government helping
-    find solutions for various agricultural and environmental problems.  \nMost recently,
-    Chris served as the chief of staff for President Obama’s White House Council on
-    Environmental Quality from 2015 until the end of the Administration in 2017 where
-    he helped lead the President’s climate change and conservation agenda.   \nBefore
-    his tenure with the Council on Environmental Quality, Chris spent 10 years in
-    the U.S. Senate as an advisor to various U.S. Senators, both Democrats and Republicans.
-    He led the U.S. Senate Committee on Agriculture, Nutrition, and Forestry as its
-    staff director and oversaw various issues related to agriculture, environment,
-    and nutrition."
+    industry affairs, assisting the world’s largest B Corp with strengthening the
+    role of business in driving social and environmental good for all. Prior to this
+    work, Chris spent over a decade at the highest levels of the federal government
+    helping find solutions for various agricultural and environmental problems.  \nMost
+    recently, Chris served as the chief of staff for President Obama’s White House
+    Council on Environmental Quality from 2015 until the end of the Administration
+    in 2017 where he helped lead the President’s climate change and conservation agenda.
+    \ \nBefore his tenure with the Council on Environmental Quality, Chris spent 10
+    years in the U.S. Senate as an advisor to various U.S. Senators, both Democrats
+    and Republicans. He led the U.S. Senate Committee on Agriculture, Nutrition, and
+    Forestry as its staff director and oversaw various issues related to agriculture,
+    environment, and nutrition."
   image: "/uploads/Chris%20Adamo.jpeg"
 - name: Mr. Daniele Maria Agostini
   title: Head of Low Carbon and European Energy Policies, Enel
