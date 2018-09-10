@@ -828,6 +828,6 @@ This year’s LESC features distinguished panelists from government, academia, b
 
 The plenary will be followed by three concurrent sessions in two breakout rooms on **Decarbonizing Energy and Land Use** that will dig deeper into these topics and the latest breakthroughs and challenges in technology and policy. The agenda will also include opportunities for poster sessions, information stations, and facilitated networking to promote collaboration.
 
-## Call for Abstracts
+## Poster Session
 
-The event will feature a poster session and pop-up discussion showing off exciting new research to help build a carbon-neutral future. We invite all researchers helping to build the future in land- and energy-based climate change mitigation to [submit an abstract.](/2018/08/30/lesc-gcas-call-for-abstracts)
+The event will feature a poster session and pop-up discussion showing off exciting new research to help build a carbon-neutral future. Read more about the poster presentations here.
