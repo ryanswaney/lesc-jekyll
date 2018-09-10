@@ -830,4 +830,4 @@ The plenary will be followed by three concurrent sessions in two breakout rooms 
 
 ## Poster Session
 
-The event will feature a poster session and pop-up discussion showing off exciting new research to help build a carbon-neutral future. Read more about the poster presentations here.
+The event will feature a poster session and pop-up discussion showing off exciting new research to help build a carbon-neutral future. Read more about the poster presentations [here](/uploads/Poster%20Session%20Program%20090918%20v2.pdf).
