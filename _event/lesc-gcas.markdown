@@ -638,7 +638,7 @@ speakers:
     private sector.  \n* He was appointed in September of 2015 by the State Constitutional\nGovernor
     as Executive Commissioner of the Commission of Ecology and\nSustainable Development
     of the State of Sonora."
-  image: "/uploads/Luis%20Carlos%20Romo%20Salazar.png"
+  image: "/uploads/luiscarlos-romo-600x556.jpg"
 - name: Bas Ruter
   title: Global Sustainability Director, Rabobank
   bio_text: |-
