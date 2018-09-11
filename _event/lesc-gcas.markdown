@@ -25,7 +25,7 @@ sessions:
   date: 2018-09-11 09:00:00 Z
   starts_at: 
   moderators: "**Jim Williams,** University of San Francisco "
-  speakers: "**Rev. Paul Fitzgerald,** President, University of San Francisco    \n**Guido
+  speakers: "**Rev. Paul Fitzgerald SJ,** President, University of San Francisco    \n**Guido
     Schmidt-Traub,** UN Sustainable Development Solutions Network  \n**Maria Mendiluce,**
     World Business Council for Sustainable Development  \n**Margaret Torn,** University
     of California  "
