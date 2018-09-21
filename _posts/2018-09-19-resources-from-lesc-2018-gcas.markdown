@@ -1,5 +1,5 @@
 ---
-title: 'Presentations from LESC at the 2018 Global Climate Action Summit'
+title: Presentations from LESC at the 2018 Global Climate Action Summit
 date: 2018-09-19 00:00:00 Z
 categories:
 - presentations
