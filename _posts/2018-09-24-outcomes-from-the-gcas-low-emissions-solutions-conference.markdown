@@ -3,12 +3,11 @@ title: Outcomes from the 2018 GCAS Low-Emissions Solutions Conference
 date: 2018-09-24 19:37:00 Z
 ---
 
-
 **Outcomes from the Low-Emissions Solutions Conference alongside the Global Climate Action Summit: The Land-Energy Nexus in Climate Change Mitigation  **
 
 
 September 11, 2018
-How do interactions between land use and the deep decarbonization of energy affect our strategies for addressing climate change? Over 45 experts including scientists, politicians, environmental NGOs, farmers, foresters, modelers, and private sector leaders came together to consider this question, present practical solutions, and discuss implementation challenges at the fourth edition of the Low-Emissions Solutions Conference (LESC). The event took place alongside the Global Climate Action Summit (GCAS) in San Francisco, California on September 11, and was hosted by the University of San Francisco and Lawrence Berkeley National Laboratory with both local and global partners, including core LESC sponsor Enel.
+**How do interactions between land use and the deep decarbonization of energy affect our strategies for addressing climate change?** Over 45 experts including scientists, politicians, environmental NGOs, farmers, foresters, modelers, and private sector leaders came together to consider this question, present practical solutions, and discuss implementation challenges at the fourth edition of the Low-Emissions Solutions Conference (LESC). The event took place alongside the Global Climate Action Summit (GCAS) in San Francisco, California on September 11, and was hosted by the University of San Francisco and Lawrence Berkeley National Laboratory with both local and global partners, including core LESC sponsor Enel.
 
 Participants discussed how the land and energy sectors impact each other’s emissions, both positively and negatively, yet there is little coordinated planning to address this. To achieve the goals of the Paris Agreement, keep global warming well below 2℃, and achieve global net-zero emissions by mid-century globally, these interactions must be better understood rapidly.
 
