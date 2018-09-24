@@ -45,7 +45,7 @@ The production of low-carbon bioenergy and the sequestration of carbon in forest
 \
 The panelists called for land-based integrated assessment models to more accurately illustrate the impact of land use practices on emissions. They also concluded that land use for biomass with carbon capture and sequestration (BECCS) is necessary to meet the 1.5℃ target, a goal that most climate scientists now agree is not reachable without some kind of sequestration or direct air capture effort to produce negative emissions. However, Rob Jackson (Stanford Woods Institute) cautioned that bioenergy is one of the most water intensive forms of energy, and therefore we cannot manage our lands for purely carbon emissions without impacting water. Jim Williams (University of San Francisco) concluded that California’s new SB 100 law and the executive order for carbon neutrality are a “polestar” to guide other sub-nationals in this arena.
 
-\*\*Plenary Panel 3: New Thinking on Navigating the Land-Energy Intersection  \*\*
+**Plenary Panel 3: New Thinking on Navigating the Land-Energy Intersection**  
 
 Current land use and food systems are unsustainable and businesses lack clarity on where and how to invest to operate more sustainably–especially critical in areas of high biodiversity. The final plenary panel looked at the current frameworks and tools (or rather lack thereof) available to measure and assess the tradeoffs from different land use and energy decisions. Climate protection requires a sweeping low-carbon transformation of both energy systems and land use. Yet this transformation could also bring potential conflicts.
 
@@ -61,7 +61,7 @@ The **Energy track** was framed around three sessions: transmission, going beyon
 
 Decarbonizing an economy requires large amounts of low-carbon electricity to displace fossil fuels. The scale at which that electricity is supplied–ranging from rooftop systems to large, offshore wind farms and desert solar installations–has vastly different implications for how the electrical grid is interconnected and operated. It also raises critical concerns about the cost of electricity, reliability of the power supply, energy security, and land use. Speakers concluded that decarbonization requires both modernization and new investments in large bulk power grids in some regions. Also, that regionalization is the lowest cost way to expand the effectiveness of a bulk power system.
 
-\*\*The Step Beyond Next in Deep Decarbonization  \*\*
+**The Step Beyond Next in Deep Decarbonization**  
 
 It is well known that the key, near-term steps toward protecting the climate include low-carbon electricity, zero-emission vehicles, and energy efficient buildings. Many states, cities, and countries are committed to making major strides in these areas by 2030.  But what are the steps beyond these, through mid-century and beyond?
 
