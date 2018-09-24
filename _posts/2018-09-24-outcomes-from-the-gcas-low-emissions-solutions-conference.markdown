@@ -3,7 +3,7 @@ title: Outcomes from the 2018 GCAS Low-Emissions Solutions Conference
 date: 2018-09-24 19:37:00 Z
 ---
 
-**Outcomes from the Low-Emissions Solutions Conference alongside the Global Climate Action Summit: The Land-Energy Nexus in Climate Change Mitigation  **
+**The Land-Energy Nexus in Climate Change Mitigation  **
 
 
 September 11, 2018
