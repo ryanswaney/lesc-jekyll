@@ -13,7 +13,7 @@ Participants discussed how the land and energy sectors impact each other’s emi
 
 For example, many models for decarbonizing the energy system rely heavily on bioenergy for transportation fuel and dispatchable power. At the same time, food production must increase to feed the world’s growing and increasingly affluent population, and could compete with bioenergy for land, water, and nutrients. Natural climate solutions like restoring forests can help sequester carbon while preserving biodiversity, but may also compete with other important land uses.  Solar and wind energy are an essential part of the low-carbon energy mix, but a large-scale buildout requires well thought-out siting to protect ecosystems. How do we achieve these daunting and essential goals simultaneously?
 
-**Key Takeaways**
+## Key Takeaways
 
 * Integrated assessment models (IAMs) that include land-use are needed to more clearly understand the impacts of land use techniques on the global carbon budget.
 * Investors and businesses need visibility of long-term policy signals to make sound investments in the technologies that will lead us to a low-carbon future.
@@ -22,13 +22,13 @@ For example, many models for decarbonizing the energy system rely heavily on bio
 * The technical feasibility to decarbonize energy systems has been proven, as demonstrated by the Deep Decarbonization Pathways Project and other modeling exercises around the world. The current challenge ahead of us is more so to amplify education, political will, and commitment to scale the technical solutions currently at hand.
 * More research is needed to better understand which solutions apply where, and at what scale, to support the Paris Agreement.
 
-Read on for summaries and takeaways on the morning panels and afternoon breakout sessions, and stay informed about further LESC opportunities at www.lowemissions.solutions.  
+Read on for summaries and takeaways on the morning panels and afternoon breakout sessions, and stay informed about further LESC opportunities at [www.lowemissions.solutions.](http://lowemissions.solutions)  
 
 ## Panel and Session Takeaways
 
 The morning plenary was organized to showcase three different perspectives on the land-energy nexus: political, analytical, and practical implementation. The high-level discussions around these themes served to set the scene for the afternoon breakout sessions, which went into detail on practical solutions for the array of challenges presented. Intentionally, the morning plenary raised more questions than it answered, emphasizing the major gap in understanding between these two disciplines.
 
-**Plenary Panel 1: Climate Solutions in Action: Policy Perspectives on the Land and Energy Nexus**
+### Plenary Panel 1: Climate Solutions in Action: Policy Perspectives on the Land and Energy Nexus
 
 During the first session, we heard from an array of political actors from four jurisdictions on the forefront of climate change policymaking:
 
@@ -39,7 +39,7 @@ During the first session, we heard from an array of political actors from four j
 
 The panelists agreed on the importance of subnational governments in making bold commitments toward the Paris Agreement and helping national governments to meet their pledges.
 
-**Plenary Panel 2: Where Energy and Land Use Meet: New Findings for Decarbonization Pathways**
+### Plenary Panel 2: Where Energy and Land Use Meet: New Findings for Decarbonization Pathways
 
 The second session of the morning detailed the current state of analysis on emissions reduction efforts and the impacts of emissions from land and natural climate solutions on the global carbon footprint. This panel featured experts in energy systems, climate change mitigation, and global ecology to discuss current thinking in analyzing carbon sinks.
 
@@ -47,7 +47,7 @@ The production of low-carbon bioenergy and the sequestration of carbon in forest
 
 The panelists called for land-based integrated assessment models to more accurately illustrate the impact of land use practices on emissions. They also concluded that land use for biomass with carbon capture and sequestration (BECCS) is necessary to meet the 1.5ºC target, a goal that most climate scientists now agree is not reachable without some kind of sequestration or direct air capture effort to produce negative emissions. However, Rob Jackson (Stanford Woods Institute) cautioned that bioenergy is one of the most water intensive forms of energy, and therefore we cannot manage our lands for purely carbon emissions without impacting water. Jim Williams (University of San Francisco) concluded that California’s new SB 100 law and the executive order for carbon neutrality are a “polestar” to guide other sub-nationals in this arena.
 
-**Plenary Panel 3: New Thinking on Navigating the Land-Energy Intersection**
+### Plenary Panel 3: New Thinking on Navigating the Land-Energy Intersection
 
 Current land use and food systems are unsustainable and businesses lack clarity on where and how to invest to operate more sustainably–especially critical in areas of high biodiversity. The final plenary panel looked at the current frameworks and tools (or rather lack thereof) available to measure and assess the tradeoffs from different land use and energy decisions. Climate protection requires a sweeping low-carbon transformation of both energy systems and land use. Yet this transformation could also bring potential conflicts.
 
@@ -57,17 +57,17 @@ In the afternoon, conference participants were invited to delve into the case st
 
 The **Energy track** was framed around three sessions: transmission, going beyond decarbonization, and transforming transport.
 
-**From Microgrids to Global Interconnection: The Electricity System of the Future**
+#### From Microgrids to Global Interconnection: The Electricity System of the Future
 
 Decarbonizing an economy requires large amounts of low-carbon electricity to displace fossil fuels. The scale at which that electricity is supplied–ranging from rooftop systems to large, offshore wind farms and desert solar installations–has vastly different implications for how the electrical grid is interconnected and operated. It also raises critical concerns about the cost of electricity, reliability of the power supply, energy security, and land use. Speakers concluded that decarbonization requires both modernization and new investments in large bulk power grids in some regions. Also, that regionalization is the lowest cost way to expand the effectiveness of a bulk power system.
 
-**The Step Beyond Next in Deep Decarbonization**
+#### The Step Beyond Next in Deep Decarbonization
 
 It is well known that the key, near-term steps toward protecting the climate include low-carbon electricity, zero-emission vehicles, and energy efficient buildings. Many states, cities, and countries are committed to making major strides in these areas by 2030.  But what are the steps beyond these, through mid-century and beyond?
 
-Ken Alex of the California Governor’s office talked about the carbon neutrality order signed during GCAS, and its key role in signaling the need for R&D, investment, and clear land use rules in terms of maximizing the land use carbon sink and how it interacts with energy sector, especially in the case of bio-CCS for net negative emissions.  Ken also highlighted the the high uncertainty around California’s long-term industrial structure.  Leon Clarke (JGCRI), who played a leading role in the last IPCC’s (AR5, 2014) chapter on transformative pathways, described in detail the scope of net-negative emissions required, up to 15 GT per year for 1.5 C (\~2.3 times current US emissions). Ben Haley of Evolved Energy provided preliminary results of a US pathway that would, as part of similar global effort, eventually return the atmospheric concentrations of CO2 to 350 ppm, allowing a stabilization of the climate at \+1C following a bump to 1.5-2C, thereby minimizing long term damages and the possibility of lower probability but very high damage events.  Chris Bataille (IDDRI) described possible technological and policy pathways for decarbonizing the hard-to-abate sectors like heavy industry, legacy buildings and industry, and aviation.
+Ken Alex of the California Governor’s office talked about the carbon neutrality order signed during GCAS, and its key role in signaling the need for R&D, investment, and clear land use rules in terms of maximizing the land use carbon sink and how it interacts with energy sector, especially in the case of bio-CCS for net negative emissions.  Ken also highlighted the the high uncertainty around California’s long-term industrial structure.  Leon Clarke (JGCRI), who played a leading role in the last IPCC’s (AR5, 2014) chapter on transformative pathways, described in detail the scope of net-negative emissions required, up to 15 GT per year for 1.5 C (~2.3 times current US emissions). Ben Haley of Evolved Energy provided preliminary results of a US pathway that would, as part of similar global effort, eventually return the atmospheric concentrations of CO2 to 350 ppm, allowing a stabilization of the climate at +1C following a bump to 1.5-2C, thereby minimizing long term damages and the possibility of lower probability but very high damage events.  Chris Bataille (IDDRI) described possible technological and policy pathways for decarbonizing the hard-to-abate sectors like heavy industry, legacy buildings and industry, and aviation.
 
-**Transforming Transport for a Clean Future**
+#### Transforming Transport for a Clean Future
 
 To meet the goals of the Paris Agreement, we need to accelerate and scale adoption of clean transport systems. Businesses are in a strong position to lead this transformation and collaborate with government at the national, state, and city levels. Transport contributes to 18 percent of global greenhouse gas emissions and growing. Transport related energy use is set to increase 75 percent by 2050 unless we take serious steps to transform the current system. As climate change continues to gain importance, we urgently need a global and unified strategy to reduce emissions from transport and freight.
 
@@ -76,13 +76,13 @@ Erik van der Schans (Port of Rotterdam, the Netherlands) discussed how better pl
 
 The **Land track** was focused on natural climate solutions and climate smart agriculture.
 
-**Implementing Natural Climate Solutions**
+#### Implementing Natural Climate Solutions
 
 This session was an effort to look at how governments and private sector are currently implementing natural climate solutions and how these solutions are being funded.
 
 One of the biggest challenges is financing national climate solutions. How do we pay for it, and how do we bring these solutions to scale to make an impact on our global emissions?
 
-**Land for Mitigation, Biodiversity, Food, and Fiber: How Can We Do It All?**
+#### Land for Mitigation, Biodiversity, Food, and Fiber: How Can We Do It All?
 
 Competition for land in an increasingly crowded world is causing over-extraction of resources, biodiversity loss, climate change, and reduced climate resiliency. Meeting multiple sustainable development goals requires anticipating and reconciling land use conflicts through cross-disciplinary research and innovative solutions. This session highlighted:
 
@@ -91,10 +91,10 @@ Competition for land in an increasingly crowded world is causing over-extraction
 
 With a finite amount of land available–and only 14.7% of that land currently protected–where can we find “additional” land to meet the needs of a growing global population? Professor Virgilio Vianna (Amazonas Sustainable Foundation) detailed his organization’s core strategy, of helping farmers and local actors to more efficiently and sustainably manage their land. Some of the key challenges that his team has come across are informality and property rights. Additionally, the panel discussed the importance of data in the context of access, accuracy, and granularity.
 
-**Solutions for Implementing Climate Smart Agriculture**
+#### Solutions for Implementing Climate Smart Agriculture
 
 Approximately 90 countries have included greenhouse gas mitigation and climate change adaptation in agriculture as part of their Paris Agreement commitments or Nationally Determined Contributions (NDCs), but there are no targets or pathways that can guide policymakers, investors, or business on how this could be achieved. As a stopgap, many countries and states have adopted emissions trading schemes or offset development opportunities in the land use, forestry, and agricultural sectors with some degree of success and at large scale.
 
 This session showcased how business, farmers, and investors have been working successfully in programmatic and project-based carbon projects and drew on their recommendations for NDCs across mitigation and adaptation in land use, forestry, and agriculture. Particular reference was made to how new developments in technology across mapping, precision agriculture, modeling, monitoring, verification, and reporting can assist in scaling up land-based solutions.
 
-The outcomes from this event will feed into two additional 2018 LESC events that will further this work. Visit the website to learn more or follow LESC on social media to stay informed on upcoming events @low2no.
+The outcomes from this event will feed into two additional 2018 LESC events that will further this work. Visit the website to learn more or follow LESC on social media to stay informed on upcoming events [@low2no.](https://twitter.com/Low2No)
