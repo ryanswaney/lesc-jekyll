@@ -27,7 +27,7 @@ Read on for summaries and takeaways on the morning panels and afternoon breakout
 ## Panel and Session Takeaways
 
 The morning plenary was organized to showcase three different perspectives on the land-energy nexus: political, analytical, and practical implementation. The high-level discussions around these themes served to set the scene for the afternoon breakout sessions, which went into detail on practical solutions for the array of challenges presented. Intentionally, the morning plenary raised more questions than it answered, emphasizing the major gap in understanding between these two disciplines.
- 
+
 **Plenary Panel 1: Climate Solutions in Action: Policy Perspectives on the Land and Energy Nexus**
 
 During the first session, we heard from an array of political actors from four jurisdictions on the forefront of climate change policymaking:
