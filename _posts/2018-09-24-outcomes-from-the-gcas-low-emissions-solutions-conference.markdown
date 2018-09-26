@@ -27,4 +27,4 @@ For example, many models for decarbonizing the energy system rely heavily on bio
 
 * More research is needed to better understand which solutions apply where, and at what scale, to support the Paris Agreement.
 
-Download the Outcome Summary here for all the details, and stay informed about further LESC opportunities by following us @low2no. 
+Download the \[Outcome Summary here\](/uploads/180925_LESC-GCAS%20Event%20Summary_FINAL.pdf) for all the details, and stay informed about further LESC opportunities by following us @low2no.
