@@ -6,7 +6,6 @@ theme: The Land-Energy Nexus In Climate Change Mitigation
 is-featured: false
 location-text: McLaren Conference Center, University of San Francisco
 event-date-text: September 11, 2018
-registration-url: https://www.eventbrite.com/e/low-emissions-solutions-conference-lesc-at-the-global-climate-action-summit-registration-45493626662
 blurb: The 2018 Global Climate Action Summit will bring together leaders from state
   and local governments and business from around the world. In an official GCAS affiliate
   side-event, LESC will host panels featuring distinguished speakers who will highlight
