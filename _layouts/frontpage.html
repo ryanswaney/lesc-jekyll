@@ -6,6 +6,24 @@ layout: default
 {% include icons/icons.svg %}
 {% endif %}
 
+<section class="content-grid">
+  <header class="content-grid-header">
+    {% if page.callout %}
+    <h1 class="grid-title">
+      <span>{{ page.callout}}</span>
+    </h1>
+    {% else %}
+    <h1 class="grid-title">
+      <span>{{ page.title }}</span>
+    </h1>
+    {% endif %}
+  </header>
+
+  <div class="content-grid-content-large">
+    {{ content }}
+  </div>
+</section>
+
 {% if site.event %}
 <section id="page-content" class="post-grid">
 
