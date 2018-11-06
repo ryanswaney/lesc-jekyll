@@ -140,7 +140,7 @@ layout: default
 </section>
 {% endif %}
 
-{% if page.related-media %}
+{% if page.related-media[0].image != nil %}
 <section class="section--related-media" id="media">
   <ul class="related-media">
   {% for media in page.related-media %}
