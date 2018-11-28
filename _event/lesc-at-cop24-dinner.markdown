@@ -1,7 +1,7 @@
 ---
 title: LESC at COP24
 date: 2018-11-27 15:51:00 Z
-theme: High-Level Dinner Dialog
+theme: High-Level Dinner Dialogue
 is-featured: true
 location-text: Monopol Hotel (Katowice) - ul. Dworcowa 5, 40-012 Katowice, Poland
 event-date-text: Tuesday, December 11th 2018
