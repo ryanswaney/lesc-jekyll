@@ -30,4 +30,4 @@ Session Objectives:
 * To send a strong collective signal of the urgency for post-2020 action to deliver the objectives of the Paris Agreement.
 * To highlight the role of land-use and natural climate solutions (NCS) as an essential component of climate action and the role of public and private sector collaboration in unlocking this opportunity.
 * To provide an interactive dialogue and exchange for business, government and academia, to share action, innovations, challenges and lessons to increased action in land-based interventions to address the climate challenge.
-* To discuss the enabling policies and conditions that support companies to deliver natural climate solutions faster and at scale/ or as part of a corporate strategy;
+* To discuss the enabling policies and conditions that support companies to deliver natural climate solutions faster and at scale/ or as part of a corporate strategy.
