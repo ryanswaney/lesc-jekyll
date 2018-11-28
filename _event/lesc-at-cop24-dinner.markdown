@@ -1,8 +1,8 @@
 ---
 title: LESC at COP24
 date: 2018-11-27 15:51:00 Z
-is-featured: true
 theme: High-Level Dinner Dialog
+is-featured: true
 location-text: Monopol Hotel (Katowice) - ul. Dworcowa 5, 40-012 Katowice, Poland
 event-date-text: Tuesday, December 11th 2018
 registration-url: https://wbcsd.secure.force.com/GuestEventPageV2?aId=a5s0N0000011jHZ
@@ -16,7 +16,11 @@ blurb: The aim is of this event is to promote dialogue between business, governm
 sessions:
 - title: Guest arrival and cocktail hour
   date: 2018-12-11 17:30:00 Z
-- title: Facilitated dinner dialog with keynote remarks
+  starts_at: 
+  moderators: 
+  speakers: 
+  description: 
+- title: Facilitated Dinner Dialog with keynote remarks
   date: 2018-12-11 18:30:00 Z
 ---
 
