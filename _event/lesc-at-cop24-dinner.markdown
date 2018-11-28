@@ -25,7 +25,7 @@ sessions:
 - title: 'Ice-breaker Dialogue 1:  Key Pathways to 1.5°C: The role of the land sector
     in ambitious climate action'
   date: 
-  Description: |-
+  description: |-
     After these 3 so-called “fire-starters”, all participants are equal and called upon by the moderator to add to the dialogue. Each speaker will be asked to stand up where they are seated, introduce themselves and contribute with an insight, remark, question or suggestion.
 
     This first dialogue will focus on need for stronger collaboration and increased climate action by public and private sector.
@@ -37,7 +37,7 @@ sessions:
   date: 
 - title: 'Ice-Breaker Dialogue-2: Scaling up natural climate solutions'
   date: 
-  Description: "The significant potential of natural climate solutions (NCS) can only
+  description: "The significant potential of natural climate solutions (NCS) can only
     be fully realized with ambitious policy and business as a core implementation
     partner.\nNationally Determined Contributions (NDCs) mention only a handful of
     natural climate solutions, such as reforestation or forest protection. A majority
@@ -52,7 +52,7 @@ sessions:
     research and raising awareness."
 - title: Closing Remarks Keynote
   date: 2018-12-11 21:50:00 Z
-  Description: Reflections on the opportunity of natural climate solutions, the role
+  description: Reflections on the opportunity of natural climate solutions, the role
     of partnerships between governments and non-State actors, and the need for a structured,
     impactful and inclusive dialogue on the global stock-take and setting the next
     round of NDCs.
