@@ -20,8 +20,15 @@ sessions:
   moderators: 
   speakers: 
   description: 
-- title: Facilitated Dinner Dialog with keynote remarks
+- title: 'Opening Remarks by Minister Inia Seruiratu - Fijian High-level Climate Champion  '
   date: 2018-12-11 18:30:00 Z
+- title: 'Ice-breaker Dialogue 1:  Key Pathways to 1.5°C: The role of the land sector
+    in ambitious climate action'
+  date: 
+- title: City stories on “Nature in the Urban Century ”
+  date: 
+- title: 'Ice-Breaker Dialogue-2: Scaling up natural climate solutions'
+  date: 
 - title: Closing Remarks Keynote
   date: 2018-12-11 21:50:00 Z
 ---
