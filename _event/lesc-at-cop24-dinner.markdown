@@ -26,7 +26,7 @@ sessions:
     in ambitious climate action'
   date: 
   description: |-
-    After these 3 so-called “fire-starters”, all participants are equal and called upon by the moderator to add to the dialogue. Each speaker will be asked to stand up where they are seated, introduce themselves and contribute with an insight, remark, question or suggestion.
+    Three so-called “fire-starters” will be asked to stand and give very brief remarks for group input and discussion. Then all participants are welcome to input their thoughts and ideas as they are called upon by the moderator to add to the dialogue. Each speaker will be asked to stand up where they are seated, introduce themselves and contribute with an insight, remark, question or suggestion.
 
     This first dialogue will focus on need for stronger collaboration and increased climate action by public and private sector.
 
