@@ -18,7 +18,7 @@ sessions:
   speakers: 
   description: 
 - title: Welcome Keynotes and setting the scene
-  date: 2018-12-10 15:45:00 Z
+  date: 2018-12-10 15:30:00 Z
   starts_at: 
   moderators: 
   speakers: 
@@ -54,6 +54,19 @@ sessions:
   speakers: 
   description: 
 speakers:
+- name: Meg Argyriou
+  bio_text: |-
+    Meg leads ClimateWorks’ international work programs, with a focus on Southeast Asia and the Pacific Islands. She designed and leads the organisation’s new agenda-setting program, ‘Pathways to Prosperity: Achieving lowest emissions development and the SDGs’ and has published a number of articles and an issues paper focused on the nexus between climate mitigation and sustainable development.
+
+    Previously, Meg led ClimateWorks’ Engagement Team, where she provided strategic oversight for ClimateWorks' stakeholder management, and led the organisation’s communication strategies to advance progress on climate change and catalyse tangible action by business and government. She also oversaw the philanthropic fundraising program, and led the development and launch of ‘Generation Yes’, an engagement and education program focused on galvanising public support for strong climate action.
+
+    Meg also led the development of a number of sub-national low carbon growth plans (Greater Geelong, Gippsland, Macquarie Park and City of Melbourne), and co-authored the reports, ‘Improving Australia’s Light Vehicle Fuel Efficiency’, ‘How to Make the Most of Demand Management’ and the ‘Impact of the Carbon Price Package’.
+
+    Prior to joining ClimateWorks, Meg worked in government, managing funding programs focused on capacity building. She has also worked for the International Energy Agency, supporting working parties focused on energy efficiency, renewables and clean technology transfer.
+
+    Meg holds an MBA with a specialisation in Environmental Sustainability from Deakin University and a Bachelor of Film and Television from the University of Melbourne. She is also an alumni of the Centre for Sustainability Leadership.
+  image: "/uploads/Meg%20Argyriou.jpg"
+  title: Head of International Programs, ClimateWorks Australia
 - name: Pascal Chalvon
   bio_text: Mr. Pascal Chalvon-Demersay has been Chief Sustainability Officer of Solvay
     SA since May 2016. Mr. Chalvon-Demersay served as General Manager of Sustainable
@@ -84,6 +97,37 @@ speakers:
     earned an Earth Science Bachelors Degree from the University of New Hampshire.
   image: "/uploads/Elena_Crete.jpg"
   title: Program Manager, SDSN
+- name: Anirban Ghosh
+  bio_text: |-
+    Anirban Ghosh is a gold medallist engineering graduate who has paved way for a sustainable future.
+
+    He is with the USD 17.8bn Mahindra Group, where he is currently Chief Sustainability Officer. This role involves leading the strategy and implementation of the Group’s sustainability drive. Anirban has held other key positions in the Group prior to his current role. He led the business strategy function in M&M’s Farm Equipment business and has also worked in the USA as President of Mahindra USA Inc. Before joining Mahindra Group, Anirban has worked in the Information Technology and Office Automation industries in Sales and Marketing roles. He has also served on the committees of several Industry Associations in India and in the USA, including being a member of the Board of the Association of Equipment Manufacturers, USA. He was recently appointed as Multi-Stakeholder Steering Committee (MSC) for GRI South Asia, SDG Agenda 2030.
+  image: "/uploads/Anirban%20Ghosh.jpg"
+  title: CSO, Mahindra
+- name: Emani Kumar
+  bio_text: |-
+    Emani Kumar has been the Executive Director of ICLEI South Asia since its founding in 2005. He was also appointed as Deputy Secretary General of ICLEI in the year 2013. With degrees in Environmental Management, Environmental Planning and Civil Engineering, Emani has more than eighteen years of professional experience on issues related to climate change policy and planning, local governance, renewable energy and energy efficiency, social accountability, systems management and auditing.
+
+    Previously Mr. Kumar has worked with the Confederation of Indian Industry (CII) and also with the National Institute of Urban Affairs (NIUA). Apart from overseeing the organisation's strategic development, he also coordinates various multi-year & small scale projects and research work supported by various donor and UN agencies; State and National governments of India and Research Organizations. He also liaises for various projects like Promoting Low emission Urban Development Strategies in Emerging Economy Countries (Urban LEDS), SUNYA- Towards zero waste in South Asia and more.
+
+    In his role as ICLEI Deputy Secretary General, Emani Kumar works with all the offices in Asia, to ensure cohesion in implementation of ICLEI’s agendas and spearhead advocacy activities in the region; he also supports the Secretary General in representing ICLEI at all international fora.
+  image: "/uploads/Emani%20Kumar.jpg"
+  title: " ICLEI Deputy Secretary General and Regional Director for ICLEI South Asia "
+- name: Bertrand Piccard
+  bio_text: |-
+    Born in Lausanne (Switzerland) and descendant of a dynasty of explorers and scientists, who have conquered the heights and the depths of our planet, Bertrand Piccard seems predestined to perpetuate one of the greatest family adventures of the 20th century. Psychiatrist, aeronaut and internationally renowned lecturer, president of the humanitarian foundation "Winds of Hope" and goodwill ambassador for the United Nations, he aspires to combine his family scientific heritage with his commitment to exploring the great adventure of life.
+
+    "Adventure is a state of mind in the face of the unknown, a way of conceiving our existence as an experimental field, in which we have to develop our inner resources, climb up the path of our personal evolution and assimilate the ethical and moral values, which we need as our travel companions."
+
+    Pioneer of hanggliding and microlight flying in Europe, European hang-glider acrobatics champion in 1985 and winner of the first transatlantic balloon race (Chrysler Challenge 1992), Bertrand Piccard is also the initiator of the Breitling Orbiter project. His success as pilot in command of the first non-stop round the world balloon flight in 1999 has pushed him to the front of the stage as a “savanturier” (scholar-adventurer, scientist-adventurer).
+
+    Following this success, he was decorated with the Legion of Honour, the Olympic Order and the highest distinctions of the International Aeronautical Federation, the National Geographic Society and the Explorer's Club. Honorary professor and honorary doctor in science and letters, he also received the Grand Prix of l’Académie des Sciences Morales et Politiques.
+
+    Thanks to his experiences, he officially launches in 2003 the Solar Impulse project, to take on a new challenge: flying round the world in an airplane propelled uniquely by solar energy, without fuel or pollution, in order to promote the immense potential of renewable energies and their new technologies.
+
+    Bertrand Piccard is married to Michèle and has three children.
+  image: "/uploads/Bertrand_Piccard.jpg"
+  title: Co Founder and Chairman, Solar Impulse
 - name: Jeffrey Sachs
   title: Director, SDSN
   bio_text: |-
@@ -94,7 +138,7 @@ speakers:
     Sachs is currently Director of the UN Sustainable Development Solutions Network under the auspices of UN Secretary-General António Guterres, and a Commissioner of the ITU/UNESCO Broadband Commission for Development. He is Chair and Founder of SDG USA, a non-governmental initiative to promote the Sustainable Development Goal concepts in the United States. Sachs is also co-founder and Chief Strategist of Millennium Promise Alliance, and was director of the Millennium Villages Project (2005-2015).
 
     Sachs has authored and edited numerous books, including three New York Times bestsellers: The End of Poverty (2005), Common Wealth: Economics for a Crowded Planet (2008), and The Price of Civilization (2011). His recent books include: To Move the World: JFK’s Quest for Peace (2013), The Age of Sustainable Development (2015) and Building the New American Economy: Smart, Fair & Sustainable (2017).
-  image: "/uploads/Sachs_Jeffrey.jpg"
+  image: "/uploads/Sachs%20(5).jpg"
 - name: Carlos Sallé
   bio_text: Mr. Carlos Sallé Alonso serves as Senior Vice President of Policies and
     Climate Change - Iberdrola at Iberdrola, S.A. and served as its Director of Regulation
@@ -111,6 +155,40 @@ speakers:
     for all electrical activities.
   image: "/uploads/Carlos%20Salle.jpg"
   title: 'Vice-President of Energy Policies and Climate Change, Iberdrola '
+- name: Yeom Tae-young
+  bio_text: |-
+    Taeyoung Yeom received a bachelor’s degree in Agrichemical from Seoul National University.
+    Mayor Yeom is currently serving as ICLEI Global Executive Committee Member, Co-Chair of Local Decentralization Movement and President of World Toilet Association. Previously he was Secretary to President Roh Moo-hyun for National Agenda, Standing Audit of Korea National Park Service, Secretary General and Chair of Steering Committee of Local Sustainability Alliance of Korea among others.
+    The 5th and 6th elected Mayor of Suwon, Mr. Yeom is working on various and innovative policies to create a human-oriented, economically vibrant city.
+  image: "/uploads/Yeom%20Tae-young.jpg"
+  title: Mayor of Suwon, Republic of Korea, on behalf of ICLEI´s Ecomobility Alliance
+- name: Nicola Tagliafierro
+  bio_text: 
+  image: "/uploads/Nicola%20Tagliafierro.jpeg"
+  title: Head of Sustainability,  Enel X
+- name: Rasmus Valanko
+  bio_text: |-
+    Rasmus Valanko is the Director for Climate & Energy with the Geneva-based World Business Council for Sustainable Development (WBCSD). In this role, he leads private sector cooperation aiming to create and scale-up business solutions to tackle climate change and leverage key global partnerships. Rasmus has a Masters in Environment, Politics and Globalization from King’s College London. He began his career working for the Ministries of Foreign Affairs and Environment of Finland both in overseas development cooperation and multilateral environmental treaties. Prior to joining the WBCSD, Rasmus worked 7 years for Royal Dutch Shell on global climate change and CO2 policy as well as their alternative energies strategy. Given his background, Rasmus has deep knowledge in the critical technologies required for the transformation of energy supply and demand, with the ability to facilitate and translate between technical and policy worlds.
+
+    Close
+  image: "/uploads/Rasmus%20Valanko.jpg"
+  title: Director, Climate & Energy, WBCSD
+- name: Gilles Vermot Desroches
+  bio_text: After first experiences as president of an NGO and within a Minister cabinet
+    in France, Gilles Vermot Desroches joined Schneider Electric in 1998. His primary
+    mission was to create and develop the Schneider Electric Foundation. Three years
+    later, Gilles took over the role of the new global Sustainable Development department.
+    This new entity defines and deploys the environmental, ethical and social policies
+    of the company, as well as developing the awareness of Schneider Electric employees
+    and other stakeholders to sustainable development issues. Gilles has participated
+    into projects such as the ethical guidelines of the company (2001), the creation
+    of the sustainability performance score card (Planet & Society – 2005) or the
+    access to energy programme (BipBop – 2008). Gilles Vermot Desroches is a member
+    of the ORSE, OSI, also member of the management board of the French Energy Agency
+    ADEME. He is also Vice-President of the Global Compact France and President of
+    the COP Climate Working Group at the MEDEF.
+  image: "/uploads/Gilles_Vermot_Desroches.jpg"
+  title: 'CSO, Schneider Electric  '
 - name: Xiaodong Wang
   bio_text: 'Dr. Xiaodong Wang is a Senior Energy Specialist in the East Asia & Pacific
     (EAP) region of the World Bank. She is the lead author for the Energy Chapter
