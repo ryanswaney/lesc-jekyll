@@ -152,6 +152,20 @@ speakers:
     In his role as ICLEI Deputy Secretary General, Emani Kumar works with all the offices in Asia, to ensure cohesion in implementation of ICLEI’s agendas and spearhead advocacy activities in the region; he also supports the Secretary General in representing ICLEI at all international fora.
   image: "/uploads/Emani%20Kumar.jpg"
   title: " ICLEI Deputy Secretary General and Regional Director for ICLEI South Asia "
+- name: Maria Mendiluce
+  bio_text: 'Dr. María Mendiluce has over 20 years’ experience in the energy and climate
+    area. Since 2008, María has led the implementation of WBCSD’s Climate and Energy
+    strategy, guiding the work of over 200 member companies to influence the global
+    climate landscape. María managed the development of the Low Carbon Technology
+    Partnerships initiative, one of the flagship projects leading up to the success
+    of COP21. She created WBCSD’s new program on circular economy, and is now developing
+    the new strategy for transport and cities. Prior to joining WBCSD, Maria held
+    different roles at the International Energy Agency (Paris), Iberdrola and the
+    Economic Bureau of the Spanish Prime Minister (Spain). María teaches at the University
+    of Geneva, coaches students and is recognized for her contributions to scientific
+    journals and international conferences. She is married and has three kids. '
+  image: "/uploads/Maria%20Mendiluce.jpg"
+  title: Managing Director, WBCSD
 - name: Bertrand Piccard
   bio_text: |-
     Born in Lausanne (Switzerland) and descendant of a dynasty of explorers and scientists, who have conquered the heights and the depths of our planet, Bertrand Piccard seems predestined to perpetuate one of the greatest family adventures of the 20th century. Psychiatrist, aeronaut and internationally renowned lecturer, president of the humanitarian foundation "Winds of Hope" and goodwill ambassador for the United Nations, he aspires to combine his family scientific heritage with his commitment to exploring the great adventure of life.
@@ -244,20 +258,6 @@ speakers:
     Science and Engineering from Tsinghua University.'
   image: "/uploads/Xiaodong%20Wang.jpg"
   title: Senior Energy Specialist, The World Bank
-- name: Maria Mendiluce
-  bio_text: 'Dr. María Mendiluce has over 20 years’ experience in the energy and climate
-    area. Since 2008, María has led the implementation of WBCSD’s Climate and Energy
-    strategy, guiding the work of over 200 member companies to influence the global
-    climate landscape. María managed the development of the Low Carbon Technology
-    Partnerships initiative, one of the flagship projects leading up to the success
-    of COP21. She created WBCSD’s new program on circular economy, and is now developing
-    the new strategy for transport and cities. Prior to joining WBCSD, Maria held
-    different roles at the International Energy Agency (Paris), Iberdrola and the
-    Economic Bureau of the Spanish Prime Minister (Spain). María teaches at the University
-    of Geneva, coaches students and is recognized for her contributions to scientific
-    journals and international conferences. She is married and has three kids. '
-  image: "/uploads/Maria%20Mendiluce.jpg"
-  title: Managing Director, WBCSD
 ---
 
 This year’s LESC features distinguished panelists from government, academia, business, and civil society who will address the themes of energy and land use. Spotlight presentations will facilitate rich dialogue on what is still needed and how public-private partnerships can support the common objectives between nations, cities, business, and academia. The outcomes of this event will be submitted to the Marrakech Partnership for Global Climate Action.
