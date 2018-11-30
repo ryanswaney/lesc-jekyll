@@ -1,8 +1,8 @@
 ---
 title: LESC at COP24
 date: 2018-11-27 15:50:00 Z
-is-featured: true
 theme: Accelerating Action to a Low-Carbon Future
+is-featured: true
 location-text: GEIDCO-UNDESA Pavilion, Katowice, Poland
 event-date-text: Monday, December 10th, 2018
 blurb: LESC now returns to COP, creating a space for in-depth dialogue with policy-makers.
@@ -53,6 +53,80 @@ sessions:
   moderators: 
   speakers: 
   description: 
+speakers:
+- name: Pascal Chalvon
+  bio_text: Mr. Pascal Chalvon-Demersay has been Chief Sustainability Officer of Solvay
+    SA since May 2016. Mr. Chalvon-Demersay served as General Manager of Sustainable
+    Development and President of Energy Services at Solvay SA until May 2016.
+  image: "/uploads/pascal-chalvon.jpg"
+  title: Chief Sustainability Officer, Solvay
+- name: Elena Crete
+  bio_text: Elena Crete is a Manager for the SDSN, where she focuses on special initiatives
+    for the Deep Decarbonization Pathways Project (DDPP) and other climate and energy
+    projects for SDSN. Elena serves as the central SDSN lead for the annual Low-Emissions
+    Solutions Conference (LESC), launched at COP22 in Morocco. Part of Elena’s core
+    portfolio is to help bring low-emission solutions to decision makers across networks
+    and sectors to help implement the Paris Agreement. Elena also serves as the Secretariat
+    point person for the Andean Network, Hong Kong Network, Japan Network, Indonesian
+    Network, South Korea Network, and the Southeast Asia Network. Previously, Elena
+    worked as the Operations Manager for SDSN leading the finance and administrative
+    work for the SDSN New York Office. Prior to that she worked in a similar operations
+    capacity for the Center on Globalization and Sustainable Development (CGSD) at
+    Columbia University. Other experience included two years as the Special Assistant
+    to the Executive Director at Connect To Learn, a secondary education initiative
+    created in partnership with the Earth Institute, Ericsson and Millennium Promise.
+    During that time, Elena ran a scholarship program for 732 high schools girls across
+    10 countries in sub-Saharan Africa within the Millennium Villages Project, working
+    closely with colleagues from Ericsson to install computers and broadband connectivity
+    in the rural schools where the scholarships students were enrolled. Prior to these
+    professional experiences, Elena completed a Masters of Arts in Climatology and
+    a Masters of Science in Sustainability Management from Columbia University, and
+    earned an Earth Science Bachelors Degree from the University of New Hampshire.
+  image: "/uploads/Elena_Crete.jpg"
+  title: Program Manager, SDSN
+- name: Jeffrey Sachs
+  title: Director, SDSN
+  bio_text: |-
+    Jeffrey D. Sachs is a world-renowned professor of economics, leader in sustainable development, senior UN advisor, bestselling author, and syndicated columnist whose monthly newspaper columns appear in more than 100 countries. He is the co-recipient of the 2015 Blue Planet Prize, the leading global prize for environmental leadership, and many other international awards and honors. He has twice been named among Time magazine’s 100 most influential world leaders. He was called by the New York Times, “probably the most important economist in the world,” and by Time magazine, “the world’s best known economist.” A survey by The Economist in 2011 ranked Professor Sachs as amongst the world’s three most influential living economists of the first decade of the 21st century.
+
+    Professor Sachs serves as the Director of the Center for Sustainable Development at Columbia University. He is University Professor at Columbia University, the university’s highest academic rank. During 2002 to 2016 he served as the Director of the Earth Institute. Sachs is Special Advisor to United Nations Secretary-General António Guterres on the Sustainable Development Goals, and previously advised UN Secretary-General Ban Ki-moon on both the Sustainable Development Goals and Millennium Development Goals and UN Secretary-General Kofi Annan on the Millennium Development Goals. He is a Distinguished Fellow of the International Institute of Applied Systems Analysis in Laxenburg, Austria.
+
+    Sachs is currently Director of the UN Sustainable Development Solutions Network under the auspices of UN Secretary-General António Guterres, and a Commissioner of the ITU/UNESCO Broadband Commission for Development. He is Chair and Founder of SDG USA, a non-governmental initiative to promote the Sustainable Development Goal concepts in the United States. Sachs is also co-founder and Chief Strategist of Millennium Promise Alliance, and was director of the Millennium Villages Project (2005-2015).
+
+    Sachs has authored and edited numerous books, including three New York Times bestsellers: The End of Poverty (2005), Common Wealth: Economics for a Crowded Planet (2008), and The Price of Civilization (2011). His recent books include: To Move the World: JFK’s Quest for Peace (2013), The Age of Sustainable Development (2015) and Building the New American Economy: Smart, Fair & Sustainable (2017).
+  image: "/uploads/Sachs_Jeffrey.jpg"
+- name: Carlos Sallé
+  bio_text: Mr. Carlos Sallé Alonso serves as Senior Vice President of Policies and
+    Climate Change - Iberdrola at Iberdrola, S.A. and served as its Director of Regulation
+    since joined in September 2001. Mr. Sallé has previously held a number of positions
+    in Comisión del Sistema Eléctrico Nacional (CNSE), the former Spanish independent
+    electricity regulator. He was actively involved in development of the electricity
+    competition model and various associated regulations. He was member of the management
+    team in charge of launching a new electricity market in January 1998, participating
+    in the creation of the Market Operator and being the first Operation Director
+    in the newly created company (OMEL). He went back to CNSE in April 2008, as Director
+    for Unregulated Activities. With the integration of the functions of the former
+    CNSE into the new Comisión Nacional de Energía (CNE), the current Spanish energy
+    regulator, in January 2000, he was appointed Electricity Director, assuming responsibility
+    for all electrical activities.
+  image: "/uploads/Carlos%20Salle.jpg"
+  title: 'Vice-President of Energy Policies and Climate Change, Iberdrola '
+- name: Xiaodong Wang
+  bio_text: 'Dr. Xiaodong Wang is a Senior Energy Specialist in the East Asia & Pacific
+    (EAP) region of the World Bank. She is the lead author for the Energy Chapter
+    of the World Development Report 2010 "Development and Climate Change", and the
+    EAP Energy Flagship Study "Winds of Change: East Asia''s Sustainable Energy Future".
+    Prior to joining the EAP region, Dr. Wang worked in the energy sector at Africa
+    region and ESMAP of the World Bank. She has extensive experience, expertise, and
+    knowledge in climate change, renewable energy, energy efficiency, and energy access,
+    and worked in more than 20 developing countries mostly in Asia and Africa. Prior
+    to joining the World Bank, Dr. Wang  managed the Climate Change and Sustainable
+    Energy Program at the UN Foundation, and worked at the UNDP-GEF as a Technical
+    Specialist on Climate Change developing clean energy projects in East Asia. She
+    holds a PhD in Energy and Resources from UC Berkeley, and a MS in Environmental
+    Science and Engineering from Tsinghua University.'
+  image: "/uploads/Xiaodong%20Wang.jpg"
+  title: Senior Energy Specialist, The World Bank
 ---
 
 This year’s LESC features distinguished panelists from government, academia, business, and civil society who will address the themes of energy and land use. Spotlight presentations will facilitate rich dialogue on what is still needed and how public-private partnerships can support the common objectives between nations, cities, business, and academia. The outcomes of this event will be submitted to the Marrakech Partnership for Global Climate Action.
