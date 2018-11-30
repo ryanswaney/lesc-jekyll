@@ -217,9 +217,12 @@ speakers:
   image: "/uploads/Yeom%20Tae-young.jpg"
   title: Mayor of Suwon, Republic of Korea, on behalf of ICLEI´s Ecomobility Alliance
 - name: Nicola Tagliafierro
-  bio_text: 
+  bio_text: |-
+    Nicola Tagliafierro is since 2017 Head of Sustainable Product Development in Enel X. In this role, he is responsible for the Global Enel X Sustainability strategies and Acceleration of Solutions Sustainability and Circular Economy Level.
+    Mr. Tagliafierro graduated in Economics and Business Management in Italy in 2000 with a Master Degree in Energy in 2003. He started his working experience in London for UtiliCorp United Inc in M&A. He joined Eni Group at the end of 2003 working in EniPower upon moving over Eni Gas and Power Division, he was in charge of different roles devoted to Business Development, Origination and Head of Strategic and Panning.
+    Mr. Tagliafierro joined Enel Group at the end of 2010 working in the Global Trading unit and upon moving over to Enel X, he was in charge of different roles devoted to Business Development, Origination for the European and Worldwide Trading portfolio with focus on Renewable Energy Management opportunities.
   image: "/uploads/Nicola%20Tagliafierro.jpeg"
-  title: Head of Sustainability,  Enel X
+  title: Head of Sustainable Product Development,  Enel X
 - name: Rasmus Valanko
   bio_text: |-
     Rasmus Valanko is the Director for Climate & Energy with the Geneva-based World Business Council for Sustainable Development (WBCSD). In this role, he leads private sector cooperation aiming to create and scale-up business solutions to tackle climate change and leverage key global partnerships. Rasmus has a Masters in Environment, Politics and Globalization from King’s College London. He began his career working for the Ministries of Foreign Affairs and Environment of Finland both in overseas development cooperation and multilateral environmental treaties. Prior to joining the WBCSD, Rasmus worked 7 years for Royal Dutch Shell on global climate change and CO2 policy as well as their alternative energies strategy. Given his background, Rasmus has deep knowledge in the critical technologies required for the transformation of energy supply and demand, with the ability to facilitate and translate between technical and policy worlds.
@@ -263,6 +266,6 @@ speakers:
 
 This year’s LESC features distinguished panelists from government, academia, business, and civil society who will address the themes of energy and land use. Spotlight presentations will facilitate rich dialogue on what is still needed and how public-private partnerships can support the common objectives between nations, cities, business, and academia. The outcomes of this event will be submitted to the Marrakech Partnership for Global Climate Action.
 
-The IPCC's Special Report on Global Warming of 1.5°C highlights that limiting warming to 1.5°C remains possible, but only if we urgently and rapidly transform all systems at an unprecedented scale. Net CO2 emissions need to be zero in 2050. In pursuit of this target, the energy system must transition away from fossil fuels – currently responsible for over 80% of primary energy demand – toward increasing shares of zero-carbon energy sources in all sectors. Given the scale of the challenge, all low-carbon solutions will be needed in this transformation. This session will present the decarbonisation efforts already taking place in the power sector, and showcase how this can decarbonise the transport and buildings sector through electrification.
+The IPCC's Special Report on Global Warming of 1.5°C highlights that limiting warming to 1.5°C remains possible, but only if we urgently and rapidly transform all systems at an unprecedented scale. Net CO2 emissions need to be zero in 2050. In pursuit of this target, the energy system must transition away from fossil fuels – currently responsible for over 80% of primary energy demand – toward increasing shares of zero-carbon energy sources in all sectors. Given the scale of the challenge, all low-carbon solutions will be needed in this transformation. This session will present the decarbonization efforts already taking place in the power sector, and showcase how this can decarbonize the transport and buildings sector through electrification.
 
 **Registration:** No registration is required. This event is open to all accredited attendees of COP24.
