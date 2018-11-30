@@ -27,7 +27,7 @@ sessions:
   speakers: "**Maria Mendiluce,** Managing Director, WBCSD"
   description: 
 - title: The role of decarbonized electricity in decarbonizing end use sectors
-  date: 2018-12-10 14:00:00 Z
+  date: 2018-12-10 16:00:00 Z
   starts_at: 
   moderators: "**Elena Crete,** Program Manager, UN Sustainable Development Solutions
     Network"
