@@ -44,8 +44,8 @@ sessions:
   starts_at: 
   moderators: "**Rasmus Valanko,** Director, Climate & Energy, WBCSD"
   speakers: "**Anirban Ghosh,** CSO, Mahindra         \n**Nicola Tagliafierro,** Head
-    of Sustainability,  Enel X          \n**Yeom Tae-young,** Mayor of Suwon, Republic
-    of Korea, on behalf of ICLEI´s Ecomobility Alliance\n"
+    of Sustainabile Product Development,  Enel X          \n**Yeom Tae-young,** Mayor
+    of Suwon, Republic of Korea, on behalf of ICLEI´s Ecomobility Alliance\n"
   description: "Electrification of passenger mobility via the increasing deployment
     of battery electric vehicles (BEVs) will play an important role in reducing CO2
     emissions from the transport sector. In addition to decarbonization targets, the
