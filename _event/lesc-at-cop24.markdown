@@ -17,7 +17,6 @@ sessions:
   moderators: 
   speakers: |
     **Hongyu Lin,** Director-General of Cooperation Bureau, GEIDCO
-
     **Jeffrey Sachs,** Director, UN Sustainable Development Solutions Network (Video conference)
   description: 
 - title: 'Launch of WBCSD report: “New Energy Solutions for 1.5°C ” '
