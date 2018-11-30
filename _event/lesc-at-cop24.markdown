@@ -11,47 +11,86 @@ blurb: LESC now returns to COP, creating a space for in-depth dialogue with poli
   of this LESC is “Accelerating Action”. We will bring together global leaders who
   are taking bold action.
 sessions:
-- title: Opening Remarks by COP24 Presidency / High-level Climate Champion
-  date: 2018-12-10 15:30:00 Z
-  starts_at: 
-  moderators: 
-  speakers: 
-  description: 
 - title: Welcome Keynotes and setting the scene
   date: 2018-12-10 15:30:00 Z
   starts_at: 
   moderators: 
-  speakers: 
+  speakers: "**Hongyu Lin,** Director-General of Cooperation Bureau, GEIDCO \n**Jeffrey
+    Sachs,** Director, UN Sustainable Development Solutions Network (Video conference)\n"
   description: 
-- title: The role of decarbonised electricity in decarbonising end use sectors
-  date: 2018-12-10 16:00:00 Z
+- title: 'Launch of WBCSD report: “New Energy Solutions for 1.5°C ” '
+  date: 2018-12-10 15:50:00 Z
   starts_at: 
   moderators: 
-  speakers: 
-  description: |-
-    The decarbonization of the power sector will be a crucial enabler to the transition to low-carbon transport, buildings, and industry sectors via the increasing electrification of energy-end uses. The primary levers to decarbonizing the power sector are phasing out unabated fossil fuel-based generation and expanding zero-carbon generation. Scaling up of renewable-based electricity (RE) is critical, and the share of generation from variable renewable technologies in particular - solar and wind -  must grow rapidly.
-    In parallel with the changing power generation mix, we need to accelerate the evolution of electricity grids. In particular, the digitalization of the power system, including the deployment of smart grid technologies, will improve both supply and demand side efficiency and will be crucial to network management and monitoring.  Smart grid technologies also enable the provision of flexibility services to the grid from distributed energy resources such as behind-the-meter battery storage and electric technologies – in particular in the passenger transport and buildings sectors – which can provide demand response, and thermal or electric storage.
+  speakers: "**Maria Mendiluce,** Managing Director, WBCSD"
+  description: 
+- title: The role of decarbonized electricity in decarbonizing end use sectors
+  date: 2018-12-10 14:00:00 Z
+  starts_at: 
+  moderators: "**Elena Crete,** Program Manager, UN Sustainable Development Solutions
+    Network"
+  speakers: "**Carlos Sallé,** Vice-President of Energy Policies and Climate Change,
+    Iberdrola \n**Pascal Chalvon,** Chief Sustainability Officer, Solvay  \n**Xiaodong
+    Wang,** Senior Energy Specialist, The World Bank\n"
+  description: The decarbonization of the power sector will be a crucial enabler to
+    the transition to low-carbon transport, buildings, and industry sectors via the
+    increasing electrification of energy-end uses. The primary levers to decarbonizing
+    the power sector are phasing out unabated fossil fuel-based generation and expanding
+    zero-carbon generation. Scaling up of renewable-based electricity (RE) is critical,
+    and the share of generation from variable renewable technologies in particular
+    - solar and wind -  must grow rapidly.
 - title: 'Transport: electrification of passenger transport and key enablers'
   date: 2018-12-10 16:45:00 Z
   starts_at: 
-  moderators: 
-  speakers: 
-  description: |-
-    Electrification of passenger mobility via the increasing deployment of battery electric vehicles (BEVs) will play an important role in reducing CO2 emissions from the transport sector. In addition to decarbonization targets, the electrification of passenger mobility in urban settings is driven by air quality concerns. The number of battery electric vehicles on the road have grown rapidly in 2018. The rapid growth in BEVs can be attributed to a large fall in battery prices combined with purchase incentives from governments. In addition, battery capacity improvements and infrastructure developments have also reduced range anxiety in drivers.
-    With growth in BEVs, smart charging will be necessary to manage the impact of BEVs on the power system, while also enabling them to play a complementary role in the energy transition by providing flexibility services to the grid. Through smart charging,  the timing of BEV charging can be optimized to ensure a reasonable balance between power supply and demand, which reduces the need for additional generation capacity, increases the grid asset use factor and reduces the curtailment of renewable generation. Demand-side management via smart charging can be facilitated by dynamic tariffs such as time-of-use or real-time pricing, which will incentivize consumers to charge BEVs when prices are low. Furthermore, BEVs represent storage capacity that could be used to provide ancillary services to the power grid via vehicle-to-grid (V2G) solutions.
-- title: 'Buildings: electrification of buildings, digitalization and smart cities'
+  moderators: "**Rasmus Valanko,** Director, Climate & Energy, WBCSD"
+  speakers: "**Anirban Ghosh,** CSO, Mahindra \n**Nicola Tagliafierro,** Head of Sustainability,
+    \ Enel X\n**Yeom Tae-young,** Mayor of Suwon, Republic of Korea, on behalf of
+    ICLEI´s Ecomobility Alliance\n"
+  description: "Electrification of passenger mobility via the increasing deployment
+    of battery electric vehicles (BEVs) will play an important role in reducing CO2
+    emissions from the transport sector. In addition to decarbonization targets, the
+    electrification of passenger mobility in urban settings is driven by air quality
+    concerns. The number of battery electric vehicles on the road have grown rapidly
+    in 2018. The rapid growth in BEVs can be attributed to a large fall in battery
+    prices combined with purchase incentives from governments. In addition, battery
+    capacity improvements and infrastructure developments have also reduced range
+    anxiety in drivers.\n \nWith growth in BEVs, smart charging will be necessary
+    to manage the impact of BEVs on the power system, while also enabling them to
+    play a complementary role in the energy transition by providing flexibility services
+    to the grid. Through smart charging,  the timing of BEV charging can be optimized
+    to ensure a reasonable balance between power supply and demand, which reduces
+    the need for additional generation capacity, increases the grid asset use factor
+    and reduces the curtailment of renewable generation. Demand-side management via
+    smart charging can be facilitated by dynamic tariffs such as time-of-use or real-time
+    pricing, which will incentivize consumers to charge BEVs when prices are low.
+    Furthermore, BEVs represent storage capacity that could be used to provide ancillary
+    services to the power grid via vehicle-to-grid (V2G) solutions."
+- title: 'Buildings: electrification of buildings, digitalization, and smart cities'
   date: 2018-12-10 17:30:00 Z
   starts_at: 
-  moderators: 
-  speakers: 
-  description: |-
-    In the long-term, all buildings must be net zero-emissions buildings; the technologies needed to achieve this goal are available today. One of the key levers to decarbonizing the buildings sector is the electrification of space and water heating, which currently account for the majority of direct CO2 emissions from the sector. Electricity demand from the buildings sector will grow as a result of increasing electrification rates, and economic and population growth. To minimize load on the grid, electric devices across all end uses must be highly energy efficient.
-    The digitalization of household devices is one way to drive efficiency improvements. For example, digitalization increases the opportunities for device optimization by increasing awareness of energy consumption in real-time; and smart thermostats can use machine learning to automatically adjust room temperature in response to occupant behavior and input such as weather forecasts. In addition to efficiency improvements, demand response in the buildings sector enabled by digitalization will be important to managing load on the electricity system.
+  moderators: "**Emani Kumar,** ICLEI Deputy Secretary General and Regional Director
+    for ICLEI South Asia "
+  speakers: "**Gilles Vermot Desroches,** CSO, Schneider Electric  \n**Meg Argyriou,**
+    Head of International Programs, ClimateWorks Australia"
+  description: "In the long-term, all buildings must be net zero-emissions buildings;
+    the technologies needed to achieve this goal are available today. One of the key
+    levers to decarbonizing the buildings sector is the electrification of space and
+    water heating, which currently account for the majority of direct CO2 emissions
+    from the sector. Electricity demand from the buildings sector will grow as a result
+    of increasing electrification rates, and economic and population growth. To minimize
+    load on the grid, electric devices across all end uses must be highly energy efficient.\n
+    \nThe digitalization of household devices is one way to drive efficiency improvements.
+    For example, digitalization increases the opportunities for device optimization
+    by increasing awareness of energy consumption in real-time; and smart thermostats
+    can use machine learning to automatically adjust room temperature in response
+    to occupant behavior and input such as weather forecasts. In addition to efficiency
+    improvements, demand response in the buildings sector enabled by digitalization
+    will be important to managing load on the electricity system."
 - title: Concluding Remarks
-  date: 2018-12-10 18:25:00 Z
+  date: 2018-12-10 18:15:00 Z
   starts_at: 
   moderators: 
-  speakers: 
+  speakers: "**Bertrand Piccard,** Co Founder and Chairman, Solar Impulse "
   description: 
 speakers:
 - name: Meg Argyriou
@@ -205,6 +244,20 @@ speakers:
     Science and Engineering from Tsinghua University.'
   image: "/uploads/Xiaodong%20Wang.jpg"
   title: Senior Energy Specialist, The World Bank
+- name: Maria Mendiluce
+  bio_text: 'Dr. María Mendiluce has over 20 years’ experience in the energy and climate
+    area. Since 2008, María has led the implementation of WBCSD’s Climate and Energy
+    strategy, guiding the work of over 200 member companies to influence the global
+    climate landscape. María managed the development of the Low Carbon Technology
+    Partnerships initiative, one of the flagship projects leading up to the success
+    of COP21. She created WBCSD’s new program on circular economy, and is now developing
+    the new strategy for transport and cities. Prior to joining WBCSD, Maria held
+    different roles at the International Energy Agency (Paris), Iberdrola and the
+    Economic Bureau of the Spanish Prime Minister (Spain). María teaches at the University
+    of Geneva, coaches students and is recognized for her contributions to scientific
+    journals and international conferences. She is married and has three kids. '
+  image: "/uploads/Maria%20Mendiluce.jpg"
+  title: Managing Director, WBCSD
 ---
 
 This year’s LESC features distinguished panelists from government, academia, business, and civil society who will address the themes of energy and land use. Spotlight presentations will facilitate rich dialogue on what is still needed and how public-private partnerships can support the common objectives between nations, cities, business, and academia. The outcomes of this event will be submitted to the Marrakech Partnership for Global Climate Action.
