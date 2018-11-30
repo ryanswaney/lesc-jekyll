@@ -267,4 +267,4 @@ This year’s LESC features distinguished panelists from government, academia, b
 
 The IPCC's Special Report on Global Warming of 1.5°C highlights that limiting warming to 1.5°C remains possible, but only if we urgently and rapidly transform all systems at an unprecedented scale. Net CO2 emissions need to be zero in 2050. In pursuit of this target, the energy system must transition away from fossil fuels – currently responsible for over 80% of primary energy demand – toward increasing shares of zero-carbon energy sources in all sectors. Given the scale of the challenge, all low-carbon solutions will be needed in this transformation. This session will present the decarbonisation efforts already taking place in the power sector, and showcase how this can decarbonise the transport and buildings sector through electrification.
 
-**Registration:** No registration is required. This event is open to all accredited attendees of COP24
+**Registration:** No registration is required. This event is open to all accredited attendees of COP24.
