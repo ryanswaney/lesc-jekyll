@@ -55,6 +55,7 @@ sessions:
   description: 
 speakers:
 - name: Meg Argyriou
+  title: Head of International Programs, ClimateWorks Australia
   bio_text: |-
     Meg leads ClimateWorks’ international work programs, with a focus on Southeast Asia and the Pacific Islands. She designed and leads the organisation’s new agenda-setting program, ‘Pathways to Prosperity: Achieving lowest emissions development and the SDGs’ and has published a number of articles and an issues paper focused on the nexus between climate mitigation and sustainable development.
 
@@ -66,7 +67,6 @@ speakers:
 
     Meg holds an MBA with a specialisation in Environmental Sustainability from Deakin University and a Bachelor of Film and Television from the University of Melbourne. She is also an alumni of the Centre for Sustainability Leadership.
   image: "/uploads/Meg%20Argyriou.jpg"
-  title: Head of International Programs, ClimateWorks Australia
 - name: Pascal Chalvon
   bio_text: Mr. Pascal Chalvon-Demersay has been Chief Sustainability Officer of Solvay
     SA since May 2016. Mr. Chalvon-Demersay served as General Manager of Sustainable
