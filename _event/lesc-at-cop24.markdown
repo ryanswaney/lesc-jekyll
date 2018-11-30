@@ -15,9 +15,8 @@ sessions:
   date: 2018-12-10 15:30:00 Z
   starts_at: 
   moderators: 
-  speakers: |
-    **Hongyu Lin,** Director-General of Cooperation Bureau, GEIDCO
-    **Jeffrey Sachs,** Director, UN Sustainable Development Solutions Network (Video conference)
+  speakers: "**Hongyu Lin,** Director-General of Cooperation Bureau, GEIDCO   \n**Jeffrey
+    Sachs,** Director, UN Sustainable Development Solutions Network (Video conference)\n"
   description: 
 - title: 'Launch of WBCSD report: “New Energy Solutions for 1.5°C ” '
   date: 2018-12-10 15:50:00 Z
@@ -30,10 +29,9 @@ sessions:
   starts_at: 
   moderators: "**Elena Crete,** Program Manager, UN Sustainable Development Solutions
     Network"
-  speakers: |
-    **Carlos Sallé,** Vice-President of Energy Policies and Climate Change, Iberdrola
-    **Pascal Chalvon,** Chief Sustainability Officer, Solvay
-    **Xiaodong Wang,** Senior Energy Specialist, The World Bank
+  speakers: "**Carlos Sallé,** Vice-President of Energy Policies and Climate Change,
+    Iberdrola         \n**Pascal Chalvon,** Chief Sustainability Officer, Solvay        \n**Xiaodong
+    Wang,** Senior Energy Specialist, The World Bank\n"
   description: The decarbonization of the power sector will be a crucial enabler to
     the transition to low-carbon transport, buildings, and industry sectors via the
     increasing electrification of energy-end uses. The primary levers to decarbonizing
@@ -45,10 +43,9 @@ sessions:
   date: 2018-12-10 16:45:00 Z
   starts_at: 
   moderators: "**Rasmus Valanko,** Director, Climate & Energy, WBCSD"
-  speakers: |
-    **Anirban Ghosh,** CSO, Mahindra
-    **Nicola Tagliafierro,** Head of Sustainability,  Enel X
-    **Yeom Tae-young,** Mayor of Suwon, Republic of Korea, on behalf of ICLEI´s Ecomobility Alliance
+  speakers: "**Anirban Ghosh,** CSO, Mahindra         \n**Nicola Tagliafierro,** Head
+    of Sustainability,  Enel X          \n**Yeom Tae-young,** Mayor of Suwon, Republic
+    of Korea, on behalf of ICLEI´s Ecomobility Alliance\n"
   description: "Electrification of passenger mobility via the increasing deployment
     of battery electric vehicles (BEVs) will play an important role in reducing CO2
     emissions from the transport sector. In addition to decarbonization targets, the
