@@ -15,8 +15,9 @@ sessions:
   date: 2018-12-10 15:30:00 Z
   starts_at: 
   moderators: 
-  speakers: "**Hongyu Lin,** Director-General of Cooperation Bureau, GEIDCO    \n**Jeffrey
-    Sachs,** Director, UN Sustainable Development Solutions Network (Video conference)\n"
+  speakers: "**Dr. Han Huang,** Deputy Director-General of Economic & Technology Research
+    Institute, GEIDCO  \n**Jeffrey Sachs,** Director, UN Sustainable Development Solutions
+    Network (Video conference)\n\n"
   description: 
 - title: 'Launch of WBCSD report: “New Energy Solutions for 1.5°C ” '
   date: 2018-12-10 15:50:00 Z
