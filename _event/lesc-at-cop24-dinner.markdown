@@ -40,7 +40,8 @@ sessions:
 
     The climate change challenge requires a significant scale up in efforts across deploying existing and developing new solutions. We encourage a dialogue on practical next steps to ensure innovative solutions are implemented on the ground, in a spirit of collaboration.
 - title: City stories on “Nature in the Urban Century ”
-  date: 
+  date: 2018-12-11 20:10:00 Z
+  speaker: "**Frederic Ximeno,** Commissioner, City of Barcelona, Spain "
 - title: 'Ice-Breaker Dialogue-2: Scaling up natural climate solutions'
   date: 
   description: "The significant potential of natural climate solutions (NCS) can only
