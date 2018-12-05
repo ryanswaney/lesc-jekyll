@@ -70,8 +70,7 @@ sessions:
 - title: 'Buildings: electrification of buildings, digitalization, and smart cities'
   date: 2018-12-10 17:30:00 Z
   starts_at: 
-  moderators: "**Emani Kumar,** ICLEI Deputy Secretary General and Regional Director
-    for ICLEI South Asia "
+  moderators: "**Wolfgang Teubner,** Regional Director, ICLEI Europe"
   speakers: |-
     **Gilles Vermot Desroches,** CSO, Schneider Electric
     **Leszek Drogos,** Director of Infrastructure Department, City of Warsaw, Poland
@@ -154,15 +153,6 @@ speakers:
     He is with the USD 17.8bn Mahindra Group, where he is currently Chief Sustainability Officer. This role involves leading the strategy and implementation of the Group’s sustainability drive. Anirban has held other key positions in the Group prior to his current role. He led the business strategy function in M&M’s Farm Equipment business and has also worked in the USA as President of Mahindra USA Inc. Before joining Mahindra Group, Anirban has worked in the Information Technology and Office Automation industries in Sales and Marketing roles. He has also served on the committees of several Industry Associations in India and in the USA, including being a member of the Board of the Association of Equipment Manufacturers, USA. He was recently appointed as Multi-Stakeholder Steering Committee (MSC) for GRI South Asia, SDG Agenda 2030.
   image: "/uploads/Anirban%20Ghosh.jpg"
   title: CSO, Mahindra
-- name: Emani Kumar
-  bio_text: |-
-    Emani Kumar has been the Executive Director of ICLEI South Asia since its founding in 2005. He was also appointed as Deputy Secretary General of ICLEI in the year 2013. With degrees in Environmental Management, Environmental Planning and Civil Engineering, Emani has more than eighteen years of professional experience on issues related to climate change policy and planning, local governance, renewable energy and energy efficiency, social accountability, systems management and auditing.
-
-    Previously Mr. Kumar has worked with the Confederation of Indian Industry (CII) and also with the National Institute of Urban Affairs (NIUA). Apart from overseeing the organisation's strategic development, he also coordinates various multi-year & small scale projects and research work supported by various donor and UN agencies; State and National governments of India and Research Organizations. He also liaises for various projects like Promoting Low emission Urban Development Strategies in Emerging Economy Countries (Urban LEDS), SUNYA- Towards zero waste in South Asia and more.
-
-    In his role as ICLEI Deputy Secretary General, Emani Kumar works with all the offices in Asia, to ensure cohesion in implementation of ICLEI’s agendas and spearhead advocacy activities in the region; he also supports the Secretary General in representing ICLEI at all international fora.
-  image: "/uploads/Emani%20Kumar.jpg"
-  title: " ICLEI Deputy Secretary General and Regional Director for ICLEI South Asia "
 - name: Maria Mendiluce
   bio_text: 'Dr. María Mendiluce has over 20 years’ experience in the energy and climate
     area. Since 2008, María has led the implementation of WBCSD’s Climate and Energy
@@ -279,6 +269,13 @@ speakers:
   bio_text: 
   image: 
   title: " Director of Infrastructure Department, City of Warsaw, Poland"
+- name: Wolfgang Teubner
+  bio_text: Wolfgang Teubner is the ICLEI Regional Director for Europe and also the
+    Managing Director (CEO) of the ICLEI European Secretariat, which he was already
+    leading since 2002 in the function of Executive Director based on power of attorney.
+    He is responsible for the strategic and economic development of ICLEI in Europe.
+  image: 
+  title: " Regional Director for ICLEI Europe"
 related-media:
 - description: 
   image: 
