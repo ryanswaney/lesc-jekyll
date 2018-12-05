@@ -110,7 +110,7 @@ speakers:
     Meg holds an MBA with a specialisation in Environmental Sustainability from Deakin University and a Bachelor of Film and Television from the University of Melbourne. She is also an alumni of the Centre for Sustainability Leadership.
   image: "/uploads/Meg%20Argyriou.jpg"
 - name: Pascal Chalvon-Demersay
-  bio_text: Mr. Pascal Chalvon Demersay is Chief Sustainability and Energy Officer
+  bio_text: Mr. Pascal Chalvon-Demersay is Chief Sustainability and Energy Officer
     of Solvay since 2016. After several business management positions with Rhodia
     in Europe and Brazil, he became CEO of Bluestar Silicones, a global Chinese-owned
     company. He has returned to Solvay in 2015 as President of Solvay Energy Services
