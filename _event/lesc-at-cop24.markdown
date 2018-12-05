@@ -248,19 +248,22 @@ speakers:
   image: "/uploads/Gilles_Vermot_Desroches.jpg"
   title: 'CSO, Schneider Electric  '
 - name: Xiaodong Wang
-  bio_text: 'Dr. Xiaodong Wang is a Senior Energy Specialist in the East Asia & Pacific
-    (EAP) region of the World Bank. She is the lead author for the Energy Chapter
-    of the World Development Report 2010 "Development and Climate Change", and the
-    EAP Energy Flagship Study "Winds of Change: East Asia''s Sustainable Energy Future".
-    Prior to joining the EAP region, Dr. Wang worked in the energy sector at Africa
-    region and ESMAP of the World Bank. She has extensive experience, expertise, and
-    knowledge in climate change, renewable energy, energy efficiency, and energy access,
-    and worked in more than 20 developing countries mostly in Asia and Africa. Prior
-    to joining the World Bank, Dr. Wang  managed the Climate Change and Sustainable
-    Energy Program at the UN Foundation, and worked at the UNDP-GEF as a Technical
-    Specialist on Climate Change developing clean energy projects in East Asia. She
-    holds a PhD in Energy and Resources from UC Berkeley, and a MS in Environmental
-    Science and Engineering from Tsinghua University.'
+  bio_text: "Xiaodong Wang is a Senior Energy Specialist in the Energy Global Practice
+    of the World Bank. Dr. Wang has more than 20 years of operational experience in
+    designing, preparing, and implementing complex and innovative clean energy and
+    climate change\nprojects in more than 20 middle-income and low-income countries
+    in East Asia and Pacific, Africa, Eastern Europe, South Asia, and Latin American
+    regions through\nworking at the World Bank, UNDP/GEF, and the UN Foundation. She
+    is now leading clean energy, climate change, and air pollution programs, focusing
+    on\nrenewable energy and energy efficiency policy advisory services, large-scale
+    complex lending programs, and flagship strategic studies in China, Indonesia,
+    Poland, and Vietnam at the World Bank. She has also led renewable energy and rural
+    electrification\nprograms in Africa. \nPrior to joining the World Bank, Dr. Wang
+    managed the Climate Change and Sustainable Energy Program at the UN Foundation,
+    and worked at the United Nations Development Program Global Environmental Facility
+    responsible for developing renewable energy and energy efficiency projects in
+    Asia. Xiaodong holds a PhD in Energy and Resources from UC Berkeley, and a MS
+    in Environmental Science and Engineering from Tsinghua University."
   image: "/uploads/Xiaodong%20Wang.jpg"
   title: Senior Energy Specialist, The World Bank
 ---
