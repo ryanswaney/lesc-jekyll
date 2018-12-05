@@ -42,6 +42,8 @@ sessions:
 - title: City stories on “Nature in the Urban Century ”
   date: 2018-12-11 20:10:00 Z
   speaker: "**Frederic Ximeno,** Commissioner, City of Barcelona, Spain "
+- title: Screening of WBCSD’s award-winning video “The Natural Solution”
+  description: 'https://www.youtube.com/watch?v=2UllAGSYl7o '
 - title: 'Ice-Breaker Dialogue-2: Scaling up natural climate solutions'
   date: 
   description: "The significant potential of natural climate solutions (NCS) can only
@@ -57,6 +59,8 @@ sessions:
     companies to deliver impactful climate action, faster. We will also identify the
     ways in which academia can support climate action with policy and business relevant
     research and raising awareness."
+- title: 'Next level climate leadership: The NCS opportunity'
+  speaker: "**Jennifer Morris,** Chief Operating Officer, Conservation International "
 - title: Closing Remarks Keynote
   date: 2018-12-11 21:50:00 Z
   description: Reflections on the opportunity of natural climate solutions, the role
