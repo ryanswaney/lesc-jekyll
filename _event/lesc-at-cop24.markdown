@@ -74,6 +74,7 @@ sessions:
     for ICLEI South Asia "
   speakers: |-
     **Gilles Vermot Desroches,** CSO, Schneider Electric
+    **Leszek Drogos,** Director of Infrastructure Department, City of Warsaw, Poland
     **Meg Argyriou,** Head of International Programs, ClimateWorks Australia
   description: "In the long-term, all buildings must be net zero-emissions buildings;
     the technologies needed to achieve this goal are available today. One of the key
@@ -274,6 +275,15 @@ speakers:
     in Environmental Science and Engineering from Tsinghua University."
   image: "/uploads/Xiaodong%20Wang.jpg"
   title: Senior Energy Specialist, The World Bank
+- name: Leszek Drogos
+  bio_text: 
+  image: 
+  title: " Director of Infrastructure Department, City of Warsaw, Poland"
+related-media:
+- description: 
+  image: 
+- description: 
+  image: 
 ---
 
 This year’s LESC features distinguished panelists from government, academia, business, and civil society who will address the themes of energy and land use. Spotlight presentations will facilitate rich dialogue on what is still needed and how public-private partnerships can support the common objectives between nations, cities, business, and academia. The outcomes of this event will be submitted to the Marrakech Partnership for Global Climate Action.
