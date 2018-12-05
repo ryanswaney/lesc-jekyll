@@ -20,8 +20,14 @@ sessions:
   moderators: 
   speakers: 
   description: 
-- title: 'Opening Remarks by Minister Inia Seruiratu - Fijian High-level Climate Champion  '
+- title: Opening Remarks
   date: 2018-12-11 18:30:00 Z
+  speakers: "**Minister Inia Seruiratu,** Fijian High-level Climate Champion  "
+- title: Welcome Keynotes and setting the scene
+  date: 2018-12-11 18:40:00 Z
+  speaker: |-
+    **Gino Van Begin,** CEO ICLEI
+    **Maria Mendiluce,** Managing Director, WBCSD
 - title: 'Ice-breaker Dialogue 1:  Key Pathways to 1.5°C: The role of the land sector
     in ambitious climate action'
   date: 
