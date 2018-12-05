@@ -31,8 +31,9 @@ sessions:
   moderators: "**Elena Crete,** Program Manager, UN Sustainable Development Solutions
     Network"
   speakers: "**Carlos Sallé,** Vice-President of Energy Policies and Climate Change,
-    Iberdrola         \n**Pascal Chalvon,** Chief Sustainability Officer, Solvay        \n**Xiaodong
-    Wang,** Senior Energy Specialist, The World Bank\n"
+    Iberdrola         \n**Pascal Chalvon-Demersay,** Chief Sustainability and Energy
+    Officer, Solvay        \n**Xiaodong Wang,** Senior Energy Specialist, The World
+    Bank\n"
   description: The decarbonization of the power sector will be a crucial enabler to
     the transition to low-carbon transport, buildings, and industry sectors via the
     increasing electrification of energy-end uses. The primary levers to decarbonizing
@@ -108,12 +109,19 @@ speakers:
 
     Meg holds an MBA with a specialisation in Environmental Sustainability from Deakin University and a Bachelor of Film and Television from the University of Melbourne. She is also an alumni of the Centre for Sustainability Leadership.
   image: "/uploads/Meg%20Argyriou.jpg"
-- name: Pascal Chalvon
-  bio_text: Mr. Pascal Chalvon-Demersay has been Chief Sustainability Officer of Solvay
-    SA since May 2016. Mr. Chalvon-Demersay served as General Manager of Sustainable
-    Development and President of Energy Services at Solvay SA until May 2016.
+- name: Pascal Chalvon-Demersay
+  bio_text: Mr. Pascal Chalvon Demersay is Chief Sustainability and Energy Officer
+    of Solvay since 2016. After several business management positions with Rhodia
+    in Europe and Brazil, he became CEO of Bluestar Silicones, a global Chinese-owned
+    company. He has returned to Solvay in 2015 as President of Solvay Energy Services
+    before adding CSO responsibilities and merging the organizations. The new entity
+    deploys sustainability into business and operations with a specific focus on accelerating
+    the climate and energy transition of the Group and on fostering circular economy.
+    Pascal is Co-Chair of the Commission Energy-Competitiveness-Climate at MEDEF (French
+    business association) and a Member of the Board of UNIDEN (association of French
+    energy-intensive companies).
   image: "/uploads/pascal-chalvon.jpg"
-  title: Chief Sustainability Officer, Solvay
+  title: 'Chief Sustainability and Energy Officer, Solvay '
 - name: Elena Crete
   bio_text: Elena Crete is a Manager for the SDSN, where she focuses on special initiatives
     for the Deep Decarbonization Pathways Project (DDPP) and other climate and energy
