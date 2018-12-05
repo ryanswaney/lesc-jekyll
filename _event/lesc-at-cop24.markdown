@@ -71,10 +71,9 @@ sessions:
   date: 2018-12-10 17:30:00 Z
   starts_at: 
   moderators: "**Wolfgang Teubner,** Regional Director, ICLEI Europe"
-  speakers: |-
-    **Gilles Vermot Desroches,** CSO, Schneider Electric
-    **Leszek Drogos,** Director of Infrastructure Department, City of Warsaw, Poland
-    **Meg Argyriou,** Head of International Programs, ClimateWorks Australia
+  speakers: "**Gilles Vermot Desroches,** CSO, Schneider Electric\n**Leszek Drogos,**
+    Director of Infrastructure Department, City of Warsaw, Poland  \n**Meg Argyriou,**
+    Head of International Programs, ClimateWorks Australia"
   description: "In the long-term, all buildings must be net zero-emissions buildings;
     the technologies needed to achieve this goal are available today. One of the key
     levers to decarbonizing the buildings sector is the electrification of space and
