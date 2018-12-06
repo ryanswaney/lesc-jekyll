@@ -222,6 +222,13 @@ speakers:
     Mr. Tagliafierro joined Enel Group at the end of 2010 working in the Global Trading unit and upon moving over to Enel X, he was in charge of different roles devoted to Business Development, Origination for the European and Worldwide Trading portfolio with focus on Renewable Energy Management opportunities.
   image: "/uploads/Nicola%20Tagliafierro.jpeg"
   title: Head of Sustainable Product Development,  Enel X
+- name: Wolfgang Teubner
+  bio_text: Wolfgang Teubner is the ICLEI Regional Director for Europe and also the
+    Managing Director (CEO) of the ICLEI European Secretariat, which he was already
+    leading since 2002 in the function of Executive Director based on power of attorney.
+    He is responsible for the strategic and economic development of ICLEI in Europe.
+  image: "/uploads/Teubner.jpg"
+  title: " Regional Director for ICLEI Europe"
 - name: Rasmus Valanko
   bio_text: |-
     Rasmus Valanko is the Director for Climate & Energy with the Geneva-based World Business Council for Sustainable Development (WBCSD). In this role, he leads private sector cooperation aiming to create and scale-up business solutions to tackle climate change and leverage key global partnerships. Rasmus has a Masters in Environment, Politics and Globalization from King’s College London. He began his career working for the Ministries of Foreign Affairs and Environment of Finland both in overseas development cooperation and multilateral environmental treaties. Prior to joining the WBCSD, Rasmus worked 7 years for Royal Dutch Shell on global climate change and CO2 policy as well as their alternative energies strategy. Given his background, Rasmus has deep knowledge in the critical technologies required for the transformation of energy supply and demand, with the ability to facilitate and translate between technical and policy worlds.
@@ -268,13 +275,6 @@ speakers:
   bio_text: 
   image: 
   title: " Director of Infrastructure Department, City of Warsaw, Poland"
-- name: Wolfgang Teubner
-  bio_text: Wolfgang Teubner is the ICLEI Regional Director for Europe and also the
-    Managing Director (CEO) of the ICLEI European Secretariat, which he was already
-    leading since 2002 in the function of Executive Director based on power of attorney.
-    He is responsible for the strategic and economic development of ICLEI in Europe.
-  image: 
-  title: " Regional Director for ICLEI Europe"
 related-media:
 - description: 
   image: 
