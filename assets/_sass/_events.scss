@@ -146,6 +146,14 @@ article.event-archive {
   border: 1px solid darken($white, 5%);
   padding: $spacing-unit / 2;
 
+  transition: transform ease-in-out 0.05s;
+
+
+  &:hover {
+    filter: drop-shadow(0 2px 1px darken($white, 20%));
+    transform: translatey(-4px);
+  }
+
   @include media-query($on-laptop) {
     flex: 45%;
     margin-right: 5%;
@@ -155,7 +163,7 @@ article.event-archive {
 
   header {
     background: $white;
-    margin-top: -$spacing-unit * 1.25;
+    //margin-top: -$spacing-unit * 1.25;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
     padding-bottom: $spacing-unit;
@@ -163,7 +171,7 @@ article.event-archive {
 }
 .event-archive-title {
   color: $primary-light;
-  font-size: $base-heading;
+  font-size: $base-font-size;
   margin-bottom: $spacing-unit / 2;
 }
 .event-archive-theme {
@@ -177,7 +185,9 @@ article.event-archive {
   flex: 100% !important;
   border: 1px solid darken($white, 5%) !important;
 
-  h2,
+  h2 {
+    font-size: 100%;
+  }
   h3,
   p {
     font-size: 120%;
