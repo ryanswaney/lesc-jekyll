@@ -43,24 +43,9 @@
 }
 
 .event-feature {
-  background: $primary;
-  //background: $secondary;
-  //background-image: url("/uploads/green_arrow_secondary_light_144.png"),
-  //url("/uploads/waves_primary_dark_144.png");
-  //background-position: -40% 15%, 50% 40%;
-  //background-repeat: no-repeat;
-  //transition: background-color .25s, background-position .25s;
+  background: $secondary;
   padding: $spacing-unit * 2 $spacing-unit;
   width: 100%;
-
-  //&:hover {
-    //background: $primary;
-    //background-image: url("/uploads/green_arrow_secondary_light_144.png"),
-    //url("/uploads/waves_primary_dark_144.png");
-    //background-position: 140% 15%, 50% 10%;
-    //background-repeat: no-repeat;
-  //}
-
 }
 .event-feature-header {
   text-align: center;
@@ -81,13 +66,13 @@
 .event-date,
 .event-location {
   background: $white;
-  color: $primary-alt-dark;
+  color: $primary;
   display: inline-block;
   padding: $spacing-unit / 2;
 }
 .event-theme {
   background: $white;
-  color: $primary-alt-dark;
+  color: $primary;
   display: inline-block;
   font-size: $large-heading;
   font-weight: 400;
@@ -102,17 +87,21 @@
 }
 .cta-default,
 .cta-register {
-  background: $primary-darker;
+  background-color: $primary;
   color: $white;
   display: inline-block;
   padding: $spacing-unit / 2 $spacing-unit;
   text-decoration: none;
+  transition: transform ease-in-out 0.05s;
 
   &:hover, &:visited {
     color: $white;
   }
   &:focus, &:hover {
-    background: $secondary;
+    //background-color: $primary-light;
+    color: $secondary;
+    filter: drop-shadow(0 2px 1px $primary);
+    transform: translatey(-2px);
   }
 }
 
@@ -127,7 +116,7 @@
   }
 
   h2, h3, h4, h5, h6 {
-    color: $primary-darker;
+    color: $primary;
   }
 }
 
@@ -136,7 +125,7 @@
   font-size: $large-heading;
 }
 #event-schedule h2 {
-  color: $primary-darker;
+  color: $primary;
   font-size: $base-heading;
   margin-bottom: 0;
 }
@@ -151,10 +140,10 @@ article.event-archive {
   flex: 100%;
   margin-bottom: $spacing-unit * 2;
   background-color: $white;
-  background-image: url("/uploads/green_arrow_secondary_light_144.png");
+  //background-image: url("/uploads/green_arrow_secondary_light_144.png");
   background-position: -10% center;
   background-size: 70%;
-  border: 6px solid $primary-darker;
+  border: 1px solid darken($white, 5%);
   padding: $spacing-unit / 2;
 
   @include media-query($on-laptop) {
@@ -173,6 +162,7 @@ article.event-archive {
   }
 }
 .event-archive-title {
+  color: $primary-light;
   font-size: $base-heading;
   margin-bottom: $spacing-unit / 2;
 }
@@ -185,7 +175,7 @@ article.event-archive {
 }
 .featured-event {
   flex: 100% !important;
-  border: 10px solid $primary-darker !important;
+  border: 1px solid darken($white, 5%) !important;
 
   h2,
   h3,
@@ -202,13 +192,6 @@ article.event-archive {
 }
 
 /* == Event Speakers == */
-.speakers-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-gap: 10px;
-  gap: 10px;
-  list-style: none;
-}
 .section--speakers {
   max-width: 80%;
   margin: $spacing-unit * 3 auto;
@@ -234,7 +217,7 @@ article.event-archive {
   }
 }
 .speaker-name {
-  color: $primary-darker;
+  color: $primary;
   font-family: $heading-font-family;
   font-size: $base-heading;
   line-height: 1.2;
@@ -254,7 +237,7 @@ article.event-archive {
   Event Partners
 ***/
 #partners-and-sponsors {
-  background: $primary-darker;
+  background: $primary;
   padding-top: $spacing-unit;
 
   p { font-size: 70%;}
@@ -324,9 +307,16 @@ article.event-archive {
   padding: 0;
 }
 .session {
-  border: $spacing-unit / 4 solid $primary-darker;
+  background-color: $white;
+  border: 1px solid darken($white, 10%);
   margin-bottom: $spacing-unit;
   padding: $spacing-unit / 2;
+  transition: transform ease-in-out 0.05s;
+
+  &:hover {
+    filter: drop-shadow(0 2px 1px darken($white, 20%));
+    transform: translatey(-4px);
+  }
 }
 .session-header {
   display: flex;
@@ -336,9 +326,10 @@ article.event-archive {
   margin-bottom: $spacing-unit;
 }
 .session-title {
-  color: $primary-darker;
+  color: $primary;
   font-family: $base-font-family;
   font-size: $large-heading;
+  font-weight: 700;
   line-height: 1.2;
 
   flex: 80%;
@@ -371,7 +362,7 @@ article.event-archive {
 }
 
 .session-header + .session-meta {
-  border-top: $spacing-unit / 4 solid $primary-darker;
+  border-top: 1px solid darken($white, 5%);
   padding-top: $spacing-unit;
 }
 .session-meta {
@@ -439,7 +430,7 @@ article.event-archive {
   flex-wrap: wrap;
 }
 .related-media--item {
-  border: $spacing-unit / 4 solid $primary-darker;
+  border: $spacing-unit / 4 solid $primary;
   margin-bottom: $spacing-unit;
   padding: $spacing-unit / 2;
   flex: 100%;

@@ -9,13 +9,13 @@ $on-laptop: 800px;
 $on-large: 1200px;
 
 // Typography
-$base-font-family: "KlintStd-Regular",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+$base-font-family: "neue-haas-grotesk-display",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 $base-font-size:   18px;
 $small-font-size: $base-font-size * 0.667;
 $base-font-weight: 400;
 $base-line-height: 1.5;
 
-$heading-font-family: "KlintStd-Bold",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+$heading-font-family: "neue-haas-grotesk-display",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 
 $display-heading: $base-font-size * 3.375;
 $xlarge-heading: $base-font-size * 2.25;
@@ -32,8 +32,8 @@ $spacing-unit: 1.3rem;
 $base-border-size: 18px;
 
 // Primary Colors
-$primary: #0c26f7;
-//$primary: #00b1ee;
+$primary: #000A68;
+$primary-light: lighten($primary, 20%);
 $primary-darker: #0a20c4;
 $primary-darkest: #114e66;
 
@@ -46,9 +46,9 @@ $primary-alt-lightest: #787a9e;
 
 
 // Secondary Color
-$secondary: #6fe224;
-$secondary-darkest: #49bd2f;
-$secondary-light: #b3e295;
+$secondary: #00ffa8;
+$secondary-darkest: darken($secondary, 20%);
+$secondary-light: lighten( $secondary, 20%);
 //$secondary-dark: #55833b;
 //$secondary-darkest: #2e431d;
 //$secondary-light: #b4d560;

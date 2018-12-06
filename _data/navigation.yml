@@ -1,13 +1,11 @@
 # Site Navigation
 site-nav:
-  - title: "About"
+  - title: "Why Attend?"
     url: /about
-  - title: "Events"
+  - title: "Find an Event"
     url: /events/
   - title: "Resources"
     url: /news/
-  - title: "Contact"
-    url: "/contact/"
 
 # Social Navigation
 social-nav:

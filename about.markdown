@@ -1,5 +1,5 @@
 ---
-title: About
+title: Why Attend?
 permalink: "/about"
 layout: page
 ---
