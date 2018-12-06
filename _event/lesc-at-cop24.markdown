@@ -223,10 +223,10 @@ speakers:
   image: "/uploads/Nicola%20Tagliafierro.jpeg"
   title: Head of Sustainable Product Development,  Enel X
 - name: Wolfgang Teubner
-  bio_text: Wolfgang Teubner is the ICLEI Regional Director for Europe and also the
-    Managing Director (CEO) of the ICLEI European Secretariat, which he was already
-    leading since 2002 in the function of Executive Director based on power of attorney.
-    He is responsible for the strategic and economic development of ICLEI in Europe.
+  bio_text: |-
+    Wolfgang Teubner is the ICLEI Regional Director for Europe and also the Managing Director (CEO) of the ICLEI European Secretariat. He is responsible for the strategic and economic development of ICLEI in Europe.
+
+    He has more than 25 years professional experience working with local governments on sustainable urban development, climate adaptation and mitigation, Local Agenda 21, waste management, as well as sustainable urban transport policies. During his career he has been involved in more than 150 European an international projects, including several research activities. In the period between 1994 and 1999 he has coordinated ICLEI‘s European Cities for Climate Protection Campaign and ICLEI‘s European Local Agenda 21 Guidance and Training Programme. From the start in 1994 he has been involved in the European Sustainable Cities and Towns Campaign and has participated in the drafting of the Aalborg Charta as well as the Aalborg Commitments and the 2016 Basque Declaration.  Between 1999 and 2004 he has represented the Local Government sector on the European Environment and Health Committee and has been a speaker at many high level international events including the European Council of Ministers.
   image: "/uploads/Teubner.jpg"
   title: " Regional Director for ICLEI Europe"
 - name: Rasmus Valanko
