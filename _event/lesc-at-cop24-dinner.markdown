@@ -25,9 +25,8 @@ sessions:
   speakers: "**Minister Inia Seruiratu,** Fijian High-level Climate Champion  "
 - title: Welcome Keynotes and Setting the Scene
   date: 2018-12-11 18:40:00 Z
-  speakers: |-
-    **Gino Van Begin,** CEO ICLEI
-    **Maria Mendiluce,** Managing Director, WBCSD
+  speakers: "**Gino Van Begin,** CEO ICLEI  \n**Maria Mendiluce,** Managing Director,
+    WBCSD"
 - title: 'Ice-breaker Dialogue 1:  Key Pathways to 1.5°C: The role of the land sector
     in ambitious climate action'
   date: 2018-12-11 19:00:00 Z
