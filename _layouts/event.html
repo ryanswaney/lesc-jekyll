@@ -62,7 +62,9 @@ layout: default
 
 {% if page.sessions[0].title != nill %}
 <section class="section--sessions" id="sessions">
-  <h2 class="section-header">Agenda</h2>
+  <div class="section-header">
+    <h2 class="section-title">Agenda</h2>
+  </div>
   {% if page.agenda-file %}
   <p>Download the <a href="{{ page.agenda-file }}">conference agenda.</a></p>
   {% endif %}
@@ -106,7 +108,9 @@ layout: default
 
 {% if page.speakers[0].name != nil %}
 <section class="section--speakers" id="speakers">
-  <h2 class="section-header">Speakers</h2>
+  <div class="section-header">
+    <h2 class="section-title">Speakers</h2>
+  </div>
   <ul class="speakers">
     {% for speaker in page.speakers %}
     <li class="speaker">

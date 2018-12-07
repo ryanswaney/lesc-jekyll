@@ -170,7 +170,7 @@ article.event-archive {
   }
 }
 .event-archive-title {
-  color: $primary-light;
+  color: $primary;
   font-size: $base-font-size;
   margin-bottom: $spacing-unit / 2;
 }
@@ -332,8 +332,10 @@ article.event-archive {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-
   margin-bottom: $spacing-unit;
+}
+.section-title {
+  color: $primary;
 }
 .session-title {
   color: $primary;

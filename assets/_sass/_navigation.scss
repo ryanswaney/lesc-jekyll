@@ -32,12 +32,10 @@
 }
 
 .menu-link {
-  //border: none;
   color: $white;
   display: block;
   font-size: $base-font-size;
   text-decoration: none;
-  //margin-bottom: $spacing-unit * 1.5;
   padding: $spacing-unit / 2;
 
   &:visited {

@@ -17,7 +17,7 @@
   font-size: $xlarge-heading;
   padding: .5rem;
   color: $primary;
-  border-bottom: $base-border-size / 2 solid $primary;
+  border-bottom: 1px solid darken($white, 10%);
 
   @include media-query($on-laptop) {
     font-size: $display-heading;
@@ -372,3 +372,5 @@
   line-height: 1;
   text-align: center;
 }
+
+// Sections
