@@ -1,0 +1,58 @@
+---
+layout: default
+---
+{% if page.callout %}
+{% include partials/page-callout.html %}
+{% endif %}
+
+<div class="frontpage-events-block">
+  <div class="frontpage-body">
+    {{ page.content | markdownify }}
+  </div>
+  <div class="frontpage-events">
+    <h2>Attend an event</h2>
+  {% assign events = site.event | sort: 'position' %}
+  {% for event in events limit: 2 %}
+    <article class="event-archive">
+      <header class="event-archive-header">
+        <h2 class="event-archive-title">{{ event.title }}</h2>
+        <a href="{{ event.url }}">
+        <h3 class="event-archive-theme">{{ event.theme }}</h3>
+        </a>
+        <div class="event-archive-date">{{ event.event-date-text }}</div>
+        {% if event.blurb %}
+        <p class="event-blurb">{{ event.blurb  }}</p>
+        {% endif %}
+        {% if event.registration-url %}
+        <a href="{{ event.registration-url }}" class="cta-register">
+          Register
+        </a>
+        {% endif %}
+      </header>
+    </article>
+  {% endfor %}
+  </div>
+
+  <div class="frontpage-news">
+    {% for post in site.posts limit: 3 %}
+    <article class="frontpage-post">
+      <header>
+        {% if post.categories %}
+        <div class="post-category">
+          {% for category in post.categories %}
+            {{ category }}
+          {% endfor %}
+        </div>
+        {% endif %}
+        <a href="{{ post.url }}">
+          <h2 class="post-title">{{ post.title }}</h2>
+        </a>
+        <time class="post-date">{{ post.date | date: "%B %-d, %Y" }}</time>
+      </header>
+    </article>
+    {% endfor %}
+    <article class="frontpage-news-endcap">
+      <p>Stayed informed about the latest from low-emissions solutions with outcome docs, presentations, and videos from recent events.</p>
+    </article>
+  </div>
+</div>

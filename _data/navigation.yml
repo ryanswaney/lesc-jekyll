@@ -4,7 +4,7 @@ site-nav:
     url: /about
   - title: "Find an Event"
     url: /events/
-  - title: "Resources"
+  - title: "News & Resources"
     url: /news/
 
 # Social Navigation

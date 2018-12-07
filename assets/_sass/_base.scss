@@ -117,17 +117,9 @@ strong {
  */
 a {
     color: $primary-darker;
-    //border-bottom: 2px solid $primary;
-    //text-decoration: none;
-
-    &:visited {
-        color: $primary-darker;
-    }
-
     &:focus,
     &:hover {
         color: $secondary;
-        //border-bottom: 1.776px solid $secondary;
     }
 }
 

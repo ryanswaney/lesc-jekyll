@@ -2,16 +2,7 @@
 title: Home
 permalink: "/"
 callout: We have the tools to safeguard our planet.
-metrics:
-- icon: speakers
-  data: Amplifying Impact
-- icon: energy
-  data: Discovering Solutions
-- icon: people
-  data: Building Partnerships
-- icon: cogs
-  data: Forging Pathways
-layout: frontpage
+layout: frontpage-new
 ---
 
 The successful implementation of the Paris Agreement will depend on the deployment of Low Emission Development Strategies (LEDSs) and Nationally Determined Contributions (NDCs). **Technological developments and innovative practices will be key** in this process.
