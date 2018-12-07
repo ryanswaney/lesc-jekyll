@@ -48,7 +48,8 @@ sessions:
   date: 2018-12-11 20:10:00 Z
   speaker: "**Frederic Ximeno,** Commissioner, City of Barcelona, Spain "
 - title: Screening of WBCSD’s award-winning video “The Natural Solution”
-  description: "[[WBCSD Trailer.png](/uploads/WBCSD%20Trailer.png)](https://www.youtube.com/watch?v=2UllAGSYl7o) "
+  description: "[https://www.youtube.com/watch?v=2UllAGSYl7o](https://www.youtube.com/watch?v=2UllAGSYl7o)"
+  date: 2018-12-11 20:20:00 Z
 - title: 'Ice-Breaker Dialogue-2: Scaling Up Natural Climate Solutions'
   date: 2018-12-11 20:25:00 Z
   description: "The significant potential of natural climate solutions (NCS) can only
