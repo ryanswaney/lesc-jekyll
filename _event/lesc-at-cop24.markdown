@@ -15,9 +15,10 @@ sessions:
   date: 2018-12-10 15:30:00 Z
   starts_at: 
   moderators: 
-  speakers: "**Dr. Han Huang,** Deputy Director-General of Economic & Technology Research
-    Institute, GEIDCO  \n**Jeffrey Sachs,** Director, UN Sustainable Development Solutions
-    Network (Video conference)\n\n"
+  speakers: |+
+    **Dr. Han Huang,** Vice President, Economic & Technology Research Institute, GEIDCO
+    **Jeffrey Sachs,** Director, UN Sustainable Development Solutions Network (Video conference)
+
   description: 
 - title: 'Launch of WBCSD report: “New Energy Solutions for 1.5°C ” '
   date: 2018-12-10 15:50:00 Z
@@ -152,6 +153,46 @@ speakers:
     He is with the USD 17.8bn Mahindra Group, where he is currently Chief Sustainability Officer. This role involves leading the strategy and implementation of the Group’s sustainability drive. Anirban has held other key positions in the Group prior to his current role. He led the business strategy function in M&M’s Farm Equipment business and has also worked in the USA as President of Mahindra USA Inc. Before joining Mahindra Group, Anirban has worked in the Information Technology and Office Automation industries in Sales and Marketing roles. He has also served on the committees of several Industry Associations in India and in the USA, including being a member of the Board of the Association of Equipment Manufacturers, USA. He was recently appointed as Multi-Stakeholder Steering Committee (MSC) for GRI South Asia, SDG Agenda 2030.
   image: "/uploads/Anirban%20Ghosh.jpg"
   title: CSO, Mahindra
+- name: Han Huang
+  bio_text: "Han Huang was born in 1974. He graduated from Polytechnic University
+    (now the Engineering School of New York University) and obtained PH.D degree with
+    EE major. Han Huang is a senior engineer. He is currently the vice-president of
+    the Economy and Technology Research Institute at the Global Energy Interconnection
+    Development and Cooperation Organization (GEIDCO). He is a senior member of Institute
+    of Electrical and Electronics Engineers (IEEE), a senior member of Chinese Society
+    for Electrical Engineering (CSEE), a member of Tau Beta Pi, and a special expert
+    of the Corporation of State Grid of China. He is an executive council member at
+    Beijing Western Returned Scholars Association, the deputy- secretary-general of
+    the Thousand Talent Plan Expert Association, and vice-chairman of Association
+    of Returned Overseas Expert at State-owned Companies. He was elected into the
+    \"Thousand Talent Plan \" in 2011. Han Huang is a registered P.E of NY State,
+    USA.\n\nHan Huang has more than 25 years experience in engaging the research and
+    consultancy in energy strategy planning, and power grid planning. His research
+    focuses include energy sector policies, economics for energy and electric power
+    technologies, energy projects development, climate change issues and environmental
+    issues, as well as market structure and benefits. He has more than 20 years working
+    on financing and design for renewable generation projects and smart grid projects
+    in both U.S.A and China, as well as playing role as NGO for sustainable demonstration
+    projects' organization at developing countries, within Global Sustainable Electricity
+    Partnership (GSEP).\n\nHan Huang has participated in the drafting of the 12th
+    and 13th Five-Year Development Plan for China’s Energy and Electric Power Industry,
+    several major policies for high proportion clean energy development in China,
+    some transient stability guidelines and system planning rules for systems with
+    high penetration of renewable energy for USA. He has offered consultative expertise
+    to all levels of government such as China’s National Development and Reform Commission,
+    China's National Energy Administration, U.S.A's New York Independent System Operator
+    (NYISO), USA's Northeast Power Coordination Council (NPCC) on energy development
+    policies as well as medium and long term plans.\n\nHan Huang is the leader of
+    China Energy Transition Outlook (2015) and chaired international cooperation projects
+    in smart grid and energy fields, together with the World Bank (WB), the World
+    Resource Institute (WRI), the World Energy Council (WEC), IEA, IRENA, NREL, etc.
+    He has served as expert in joint study conducted between China and other countries
+    such as U.S.A, Canada, Brazil, Germany, etc. In last two years, Han Huang has
+    engaged in global energy interconnection studies covering more than 100 countries
+    and 5 continents, including Asia, South East Asia, North East Asia, Europe, Africa,
+    etc., together with national government and regional unions. "
+  image: 
+  title: 'Vice President, Economic & Technology Research Institute, GEIDCO '
 - name: Maria Mendiluce
   bio_text: 'Dr. María Mendiluce has over 20 years’ experience in the energy and climate
     area. Since 2008, María has led the implementation of WBCSD’s Climate and Energy
