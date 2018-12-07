@@ -67,7 +67,9 @@ sessions:
     research and raising awareness."
 - title: Table Talks
   date: 2018-12-11 21:00:00 Z
-  description: 
+  description: Participants continue the dialogue in smaller groups gathered around
+    their dinner tables. Each table will be mixed, promoting a multi-stakeholder dialogue.
+    Participants will be encouraged to identify concrete opportunities for collaboration.
 - title: 'Finance and Innovation: The NCS opportunity'
   speakers: "**Jennifer Morris,** Chief Operating Officer, Conservation International "
   date: 2018-12-11 21:20:00 Z
