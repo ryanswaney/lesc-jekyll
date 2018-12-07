@@ -107,7 +107,11 @@
 }
 .site-logo {
   background-color: $white;
-  max-width: $spacing-unit * 10;
+  width: 100%;
+
+  @include media-query($on-laptop) {
+    max-width: $spacing-unit * 10;
+  }
 
   .menu-link {
     border: none;
