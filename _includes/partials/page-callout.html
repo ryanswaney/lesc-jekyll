@@ -1,3 +1,11 @@
+{% if page.callout-image %}
+<div class="page-callout" style="background-image: url({{page.callout-image}})">
+  <h1 class="page-callout-text callout-text-reversed">
+    <span>{{ page.callout }}</span>
+  </h1>
+</div>
+{% else %}
 <div class="page-callout">
   <h1 class="page-callout-text">{{ page.callout }}</h1>
 </div>
+{% endif %}

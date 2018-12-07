@@ -20,11 +20,30 @@
 }
 .page-callout {
   background-color: $secondary;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  min-height: 50vh;
   padding: $spacing-unit * 3;
+  text-align: center;
+  max-width: $content-width * 2;
+  margin: 0 auto;
 }
 .page-callout-text {
   color: $primary;
-  margin: 0;
+  font-size: calc(1em + 7vw);
+  margin: 0 auto;
+  max-width: $content-width * 2;
+  text-align: left;
+}
+.callout-text-reversed {
+  color: $white;
+  display: inline-block;
+  //text-transform: uppercase;
+
+  span {
+    border-bottom: 8px solid $primary;
+  }
 }
 
 // frontpage styles

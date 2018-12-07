@@ -2,6 +2,7 @@
 title: Home
 permalink: "/"
 callout: We have the tools to safeguard our planet.
+callout-image: uploads/turbines-callout-image.jpg
 layout: frontpage-new
 ---
 
