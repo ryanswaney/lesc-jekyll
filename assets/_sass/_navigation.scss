@@ -9,6 +9,7 @@
   background-color: $primary;
   position: relative;
   margin: 0 auto;
+  max-width: $content-width * 2;
 }
 .site-nav {
   //padding: $spacing-unit / 2;
@@ -19,6 +20,7 @@
   text-align: center;
 
   @include media-query($on-laptop) {
+    text-align: left;
   }
 }
 
