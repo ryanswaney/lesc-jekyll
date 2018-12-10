@@ -3,7 +3,7 @@ title: LESC at COP24
 date: 2018-11-27 15:50:00 Z
 theme: Accelerating Action to a Low-Carbon Future
 is-featured: true
-location-text: SDG Pavilion (E24), Katowice, Poland
+location-text: SDG Pavilion (E34), Katowice, Poland
 event-date-text: Monday, December 10th, 2018
 blurb: LESC now returns to COP, creating a space for in-depth dialogue with policy-makers.
   We recognize the scale of the challenge in implementing ambitious NDCs, but also
