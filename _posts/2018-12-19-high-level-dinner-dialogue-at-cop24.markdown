@@ -1,6 +1,8 @@
 ---
 title: High-level Dinner Dialogue at COP24
 date: 2018-12-19 21:16:00 Z
+tags:
+- cop24
 ---
 
 The LESC dinner convened to facilitate open dialogue between business, government and academia on the role of land-use and natural climate solutions as an essential component of climate action. The event also focused on the land-energy nexus and its role in the transition to a low-carbon future. In his remarks, Gino van Begin, Secretary-General, ICLEI, emphasized the importance of this dinner in bringing together businesses, civil society, cities and research institutions, saying it sends an important signal to negotiators at COP 24 that these sectors can cooperate in developing climate solutions. He noted LESC’s relationship with the Marrakech Partnership for Global Climate Action and previous gatherings at the 2017 New York Climate Week and COP 23. He closed by challenging attendees to collectively find solutions that can help us raise our ambition and achieve the 1.5˚C temperature target.
