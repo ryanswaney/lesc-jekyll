@@ -1,5 +1,5 @@
 ---
-title: High-level Dinner Dialogue at UNFCCC COP24 in Katowice, Poland
+title: High-level Dinner Dialogue at United Nations COP24 in Katowice, Poland
 date: 2018-12-19 21:16:00 Z
 tags:
 - cop24
