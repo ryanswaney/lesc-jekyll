@@ -12,4 +12,4 @@ Maria Mendiluce, WBCSD, noted that from the outside, it always appears as though
 
 Rasmus Valanko, WBCSD, Elena Crete, SDSN, and Yunus Arikan, ICLEI, co-moderated a dialogue on “Key Pathways to 1.5°C: The Role of the Land Sector in Ambitious Climate Action.”
 
-Read the full event coverage provided by IISD here: http://enb.iisd.org/climate/cop24/side-events/11dec.html#event-2
+[Read the full coverage from IISD here.](http://enb.iisd.org/climate/cop24/side-events/11dec.html#event-2)
