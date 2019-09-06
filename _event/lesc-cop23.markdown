@@ -43,10 +43,6 @@ LESC now returns to COP, creating a space for in-depth dialogue with policy-make
 
 ---
 
-<div class="video" data-embed="46W7iCg5bQE">
-  <div class="play-button"></div>
-</div>
-<div class="video-meta">
-  <h2 class="video-title">Climate Action: Solutions for a Changing Planet</h2>
-  <p class="video-excerpt">Want to learn more? Enroll in the <a href="http://sdgacademy.org">SDG's Academy</a> free online course <a href="https://courses.sdgacademy.org/learn/climate-action-solutions-for-a-changing-planet-november-2017">Climate Action: Solutions for a Changing Planet</a> which will launch on November 20th.</p>
-</div>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/281827530" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+Want to learn more? Enroll in the <a href="https://sdgacademy.org">SDG's Academy</a> free online course <a href="https://sdgacademy.org/course/climate-action-solutions-for-a-changing-planet/">Climate Action: Solutions for a Changing Planet</a>.
