@@ -73,6 +73,7 @@ layout: default
     <li class="session">
       <div class="session-header">
         <div class="session-time">
+          <span>{{ session.date | date: "%-d %b" }}</span>
           {{ session.date | date: "%I:%M%P" }}
         </div>
         <div class="session-title">
