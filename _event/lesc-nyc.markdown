@@ -11,44 +11,41 @@ location-text: Faculty House, Columbia University 64 Morningside Drive, New York
   NY 10027
 event-date-text: September 20-21, 2017
 sessions:
-  - title: "Registration opens"
-    date: 2017-09-20 08:15:00 Z
-  - title: "LESC Partners Welcome"
-    date: 2017-09-20 09:00:00 Z
-    speakers: "**Angie Fyfe,** CEO ICLEI USA  \n
-    **Guido Schmidt-Traub,** Director SDSN  \n
-    **Rasmus Valanko,** Director Climate & Energy WBCSD"
-  - title: "Progress since last year and expectations for COP23"
-    date: 2017-09-20 09:15:00 Z
-    speakers: "**Laurence Tubiana,** CEO, European Climate Foundation"
-  - title: "Conference Expectations and Enel Introduction"
-    date: 2017-09-20 09:30:00 Z
-    speakers: "**Jeffrey Sachs,** Director SDSN"
-  - title: "Road towards zero emissions: Vision for the future of the energy industry"
-    date: 2017-09-20 09:45:00 Z
-    speakers: "**Francesco Starace,** CEO, Enel"
-  - title: "Networking Break"
-    date: 2017-09-20 10:00:00 Z
-  - title: "Session A - Deep Decarbonization Pathways: Where Do They Lead?"
-    date: 2017-09-20 10:15:00 Z
-    moderators: "**Jim Williams,** Associate Professor in Energy Systems, University of San Francisco   \n
-    **Margaret Torn,** Professor, U.C. Berkeley"
-    speakers: "
-    **Chris Battaille,** Researcher, Simon Fraser University  \n
-    **Daniel Buira,** Founder, Tempus Analytica  \n
-    **Noah Kaufman,** Economist, WRI  \n
-    **Meg Argyriou,** Head of Engagement, ClimateWorks Australia  \n
-    **Grace Wu,** PhD Candidate, Energy and Resources Group, U.C. Berkeley and Researcher, Berkeley Lab"
-  - title: "Lunch"
-    date: 2017-09-20 12:15:00 Z
-  - title: "Session B - Demand Side Solutions to Renewable Integration: Do They Scale?"
-    date: 2017-09-20 13:15:00 Z
-    moderators: "**Vijay Modi,** Professor, Columbia University"
-    speakers: "**Ben Haley,** Co-Founder, Energy Evolved Research EER  \n
-    **Greg Geller,** Director, Regulatory & Government Affairs, EnerNOC  \n
-    **Dan Steingart,** Professor, Princeton"
-  - title: "Networking Break"
-    date: 2017-09-20 15:15:00 Z
+- title: Registration opens
+  date: 2017-09-20 08:15:00 Z
+- title: LESC Partners Welcome
+  date: 2017-09-20 09:00:00 Z
+  speakers: "**Angie Fyfe,** CEO ICLEI USA  \n **Guido Schmidt-Traub,** Director SDSN
+    \ \n **Rasmus Valanko,** Director Climate & Energy WBCSD"
+- title: Progress since last year and expectations for COP23
+  date: 2017-09-20 09:15:00 Z
+  speakers: "**Laurence Tubiana,** CEO, European Climate Foundation"
+- title: Conference Expectations and Enel Introduction
+  date: 2017-09-20 09:30:00 Z
+  speakers: "**Jeffrey Sachs,** Director SDSN"
+- title: 'Road towards zero emissions: Vision for the future of the energy industry'
+  date: 2017-09-20 09:45:00 Z
+  speakers: "**Francesco Starace,** CEO, Enel"
+- title: Networking Break
+  date: 2017-09-20 10:00:00 Z
+- title: 'Session A - Deep Decarbonization Pathways: Where Do They Lead?'
+  date: 2017-09-20 10:15:00 Z
+  moderators: "**Jim Williams,** Associate Professor in Energy Systems, University
+    of San Francisco   \n **Margaret Torn,** Professor, U.C. Berkeley"
+  speakers: " **Chris Battaille,** Researcher, Simon Fraser University  \n **Daniel
+    Buira,** Founder, Tempus Analytica  \n **Noah Kaufman,** Economist, WRI  \n **Meg
+    Argyriou,** Head of Engagement, ClimateWorks Australia  \n **Grace Wu,** PhD Candidate,
+    Energy and Resources Group, U.C. Berkeley and Researcher, Berkeley Lab"
+- title: Lunch
+  date: 2017-09-20 12:15:00 Z
+- title: 'Session B - Demand Side Solutions to Renewable Integration: Do They Scale?'
+  date: 2017-09-20 13:15:00 Z
+  moderators: "**Vijay Modi,** Professor, Columbia University"
+  speakers: "**Ben Haley,** Co-Founder, Energy Evolved Research EER  \n **Greg Geller,**
+    Director, Regulatory & Government Affairs, EnerNOC  \n **Dan Steingart,** Professor,
+    Princeton"
+- title: Networking Break
+  date: 2017-09-20 15:15:00 Z
 schedule-text: |-
   # Agenda
 
