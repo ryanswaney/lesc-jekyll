@@ -10,12 +10,22 @@ blurb: The LESC panel will take place on day two of the 2018 International Confe
   present key outcomes from the LESC-GCAS event which is taking place at the Global
   Climate Action Summit in California just two weeks before ICSD.
 sessions:
-- title: "Low-Emissions Solutions: The Land-Energy Nexus"
+- title: 'Low-Emissions Solutions: The Land-Energy Nexus'
   date: 2018-09-27 14:00:00 Z
-  starts_at:
+  starts_at: 
   moderators: "**Guido Schmidt-Traub,** Executive Director, UN SDSN"
-  speakers: "**Chris Bataille,** Researcher, Institute for Sustainable Development and International Relations (IDDRI)  \n **Chad Frischmann,** Vice President & Research Director, Project Drawdown  \n **Katie Guerry,** Head of Regulatory Affairs, Enel X North America  \n **Claude Nahon,** Executive Vice President for Sustainable Development, EDF"
-  description: "The Land-Energy Nexus in Climate Change Mitigation, is a conversation about the role of energy in low-carbon land use scenarios and land use in low-carbon energy scenarios. This session aims to challenge assumptions that could lead to unworkable approaches to decarbonization, and discuss frameworks for land-energy integration that are conceptually sound and implementable on the ground. The panel will present solutions that their organizations have identified to help the world transition to a carbon neutral future."
+  speakers: "**Chris Bataille,** Researcher, Institute for Sustainable Development
+    and International Relations (IDDRI)  \n **Chad Frischmann,** Vice President &
+    Research Director, Project Drawdown  \n **Katie Guerry,** Head of Regulatory Affairs,
+    Enel X North America  \n **Claude Nahon,** Executive Vice President for Sustainable
+    Development, EDF"
+  description: The Land-Energy Nexus in Climate Change Mitigation, is a conversation
+    about the role of energy in low-carbon land use scenarios and land use in low-carbon
+    energy scenarios. This session aims to challenge assumptions that could lead to
+    unworkable approaches to decarbonization, and discuss frameworks for land-energy
+    integration that are conceptually sound and implementable on the ground. The panel
+    will present solutions that their organizations have identified to help the world
+    transition to a carbon neutral future.
 ---
 
 This year’s __International Conference on Sustainable Development__ will be the most important and historic yet! Not only will the science and policy be at the cutting edge; the conference will take place on multiple campuses around the world, making it a truly global event. ICSD will host students from around the world, top scientists, and world leaders from politics to government to the UN.

@@ -10,56 +10,57 @@ theme: Implementation at Scale
 event-date-text: November 13, 2017
 location-text: GOP Theatre, Karl-Carstens-Straße 1, 53113 Bonn, Germany, COP23
 sessions:
-- title: "Arrival of guests and reception"
+- title: Arrival of guests and reception
   date: 2017-11-13 17:30:00 Z
-- title: "Welcome keynote and setting the scene"
+- title: Welcome keynote and setting the scene
   date: 2017-11-13 18:30:00 Z
   moderators: "**Leena Wokeck,** CSR Asia"
-  speakers: "**Peter Bakker,** President & CEO, WBCSD  \n **Guido Schmidt-Traub,** Executive Director, SDSN  \n **Ashok Sridharan,** Mayor, Bonn, Germany; ICLEI First Vice President"
-- title: "Ice-breaker Dialogue-1: City and business leaders on innovation"
+  speakers: "**Peter Bakker,** President & CEO, WBCSD  \n **Guido Schmidt-Traub,**
+    Executive Director, SDSN  \n **Ashok Sridharan,** Mayor, Bonn, Germany; ICLEI
+    First Vice President"
+- title: 'Ice-breaker Dialogue-1: City and business leaders on innovation'
   date: 2017-11-13 18:50:00 Z
-  speakers: "**Ms Nicola Brüning,** Head of BMW Representative Office Germany, BMW  \n
-  **Mr Claude Nahon,** Senior Vice President, EDF  \n
-  **Ms Diane Holdorf,** Chief Sustainability Officer, Kellogg Company  \n
-  **Mr Jean-Pierre Clamadieu,** CEO, SOLVAY  \n
-  **Ms Charlotte Wolff-Bye,** Vice President Sustainability, Statoil  \n
-  **Ms Lenka Kollar,** Director, Strategy &amp; External Relations, NuScale Power  \n
-  **Mr. Mauricio Rodas,** Mayor, Quito Metropolitan Government, Ecuador  \n
-  **Ms. Amanda Stone,** Mayor, Yarra, Australia  \n
-  **Mr. Bima Arya,** Mayor, Bogor, Indonesia  \n
-  **Ms. Claire Doe-Mvogo,** Mayor, Monrovia, Liberia  \n
-  **Mr. George Heyman,** Minister, British Colombia, Canada"
-- title: "Table talks among partners with dinner served"
+  speakers: "**Ms Nicola Brüning,** Head of BMW Representative Office Germany, BMW
+    \ \n **Mr Claude Nahon,** Senior Vice President, EDF  \n **Ms Diane Holdorf,**
+    Chief Sustainability Officer, Kellogg Company  \n **Mr Jean-Pierre Clamadieu,**
+    CEO, SOLVAY  \n **Ms Charlotte Wolff-Bye,** Vice President Sustainability, Statoil
+    \ \n **Ms Lenka Kollar,** Director, Strategy &amp; External Relations, NuScale
+    Power  \n **Mr. Mauricio Rodas,** Mayor, Quito Metropolitan Government, Ecuador
+    \ \n **Ms. Amanda Stone,** Mayor, Yarra, Australia  \n **Mr. Bima Arya,** Mayor,
+    Bogor, Indonesia  \n **Ms. Claire Doe-Mvogo,** Mayor, Monrovia, Liberia  \n **Mr.
+    George Heyman,** Minister, British Colombia, Canada"
+- title: Table talks among partners with dinner served
   date: 2017-11-13 19:30:00 Z
-- title: "City stories on innovation"
+- title: City stories on innovation
   date: 2017-11-13 20:10:00 Z
   speakers: "**Johanna Partin,** Carbon Neutral Cities Alliance (CNCA)"
-- title: "Warm-up Dialogue-2: City and business leaders on science-based
-policy and actions"
+- title: 'Warm-up Dialogue-2: City and business leaders on science-based policy and
+    actions'
   date: 2017-11-13 20:20:00 Z
   speakers: "**Mr Jianyu Zhang,** Secretary General, China Low Carbon Alliance  \n
-    **Mr Nigel Topping,** CEO, We Mean Business Coalition  \n
-    **Dr Jeanne Ng,** Director - Group Sustainability, CLP Group  \n
-    **Mr. Virgilio Viana,** Fundação Amazonas Sustentável  \n
-    **Ms Meg Argyriou,** Head of Engagement, ClimateWorks Australia  \n
-    **Mr. Dennis Coderre,** Mayor, Montreal, Canada  \n
-    **Ms. Elina Rantanen,** Chair of City Council, Turku, Finland  \n
-    **Ms. Jenny Gerbasi,** Mayor, Winnipeg, FCM President, Canada  \n
-    **Mr. Frank Cownie,** Mayor, Des Moines, USA"
-- title: "Table talks among partners with desserts served"
+    **Mr Nigel Topping,** CEO, We Mean Business Coalition  \n **Dr Jeanne Ng,** Director
+    - Group Sustainability, CLP Group  \n **Mr. Virgilio Viana,** Fundação Amazonas
+    Sustentável  \n **Ms Meg Argyriou,** Head of Engagement, ClimateWorks Australia
+    \ \n **Mr. Dennis Coderre,** Mayor, Montreal, Canada  \n **Ms. Elina Rantanen,**
+    Chair of City Council, Turku, Finland  \n **Ms. Jenny Gerbasi,** Mayor, Winnipeg,
+    FCM President, Canada  \n **Mr. Frank Cownie,** Mayor, Des Moines, USA"
+- title: Table talks among partners with desserts served
   date: 2017-11-13 21:00:00 Z
-- title: "Corporate leadership on carbon pricing - a debrief of today's high level discussions"
+- title: Corporate leadership on carbon pricing - a debrief of today's high level
+    discussions
   date: 2017-11-13 21:20:00 Z
   speakers: "**Feike Sijbesma,** CEO, Royal DSM"
-- title: "Remarks by COP23 presidency and high level climate champions: The way towards and beyond 2018 Facilitative Dialogue"
+- title: 'Remarks by COP23 presidency and high level climate champions: The way towards
+    and beyond 2018 Facilitative Dialogue'
   date: 2017-11-13 21:30:00 Z
-- title: "Closing Remarks"
+- title: Closing Remarks
   date: 2017-11-13 21:40:00 Z
   speakers: "**Gino Van Begin,** ICLEI Secretary General"
-- title: "VIDEO: Climate Action: Solutions for a Changing Planet"
+- title: 'VIDEO: Climate Action: Solutions for a Changing Planet'
   date: 2017-11-13 21:50:00 Z
-  description: <iframe title="vimeo-player" src="https://player.vimeo.com/video/281827530" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-- title: "Networking dialogue at the Piano Bar"
+  description: <iframe title="vimeo-player" src="https://player.vimeo.com/video/281827530"
+    width="640" height="360" frameborder="0" allowfullscreen></iframe>
+- title: Networking dialogue at the Piano Bar
   date: 2017-11-13 21:52:00 Z
 related-media:
 - description: |-
