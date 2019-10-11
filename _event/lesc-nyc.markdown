@@ -46,6 +46,46 @@ sessions:
     Princeton"
 - title: Networking Break
   date: 2017-09-20 15:15:00 Z
+- title: "Session C - Renewable Electricity Systems: How High Can We Go?"
+  date: 2017-09-20 15:30:00 Z
+  moderators: "**Angie Fyfe,** CEO, ICLEI USA"
+  speakers: "
+  **Elaine Hart,** Power analyst, Portland General Electric  \n
+  **Trieu Mai,** Senior Energy Analyst, National Renewable Energy Laboratory  \n
+  **Said Mouline,** Head of the Moroccan Agency for Renewable Energy and Energy Efficiency  \n
+  **Mayor Uy-Tan,** Mayor, Catbalogan Samar Province, Philippines  \n
+  **Tor Henrik Andersen,** Political Adviser to the Governing Mayor of Oslo, City of Oslo  \n
+  **Jean-Pierre MAUGENDRE,** Sustainable Development Deputy Manager, SUEZ"
+- title: "Closing Remarks"
+  date: 2017-09-20 17:30:00 Z
+- title: "Welcome"
+  date: 2017-09-21 09:00:00 Z
+  speakers: "**H.E. Mr. Salaheddine Mezouar**, COP22 President, UNFCCC"
+- title: "Session D. Autonomous and Electric Vehicles: On the Road to Deep Decarbonization?"
+  date: 2017-09-21 09:15:00 Z
+  moderators: "**Rasmus Valanko,** Director Climate & Energy, WBCSD"
+  speakers: "
+  **Lewis Fulton,** Director, Sustainable Transportation Energy Pathways, UC Davis ITS  \n
+  **Jason Babbie,** Deputy Director, Urban Solutions & Strategic Program Development, NRDC  \n
+  **Doug Kaufman,** CEO, Transloc  \n
+  **Corey Ershow,** Transportation Policy Manager, Lyft  \n
+  **Jean-Philippe Hermine,** Renault VP Environment Strategy & Planning, Renault-Nissan Alliance  \n
+  **Vidar Helgesen,** Minister of Climate and Environment, Norway"
+- title: "Session E: Alternative Energy, Nuclear and CCS: What are the Prospects?"
+  date: 2017-09-21 10:30:00 Z
+  moderators: "**William Horak,** Chair of the Department of Nuclear Science and Technology, Brookhaven National Laboratory"
+  speakers: "
+  **Rachel Slaybaugh,** Assistant Professor Nuclear Engineering Dept, UC Berkeley  \n
+  **Lenka Kollar,** Director, NuScale Power  \n
+  **Howard Hornfeld,** Founder and President Fusion Advocates, Geneva, Switzerland  \n
+  **Klaus Lackner,** Director, Center for Negative Carbon Emissions, Arizona State University  \n
+  **Bjørn Otto Sverdrup,** Senior Vice President, Corporate Sustainability, Statoil ASA"
+- title: "Closing Remarks"
+  date: 2017-09-21 11:45:00 Z
+  speakers: "**Jeff Sachs,** Director, SDSN"
+- title: "Documentary Pre-Screening"
+  date: 2017-09-21 12:45:00 Z
+  description: "Private theatre screening of a new, not yet released, documentary followed by live Q&A with filmmaker David Schumacher. The screening is in the Schapiro/CEPSR building, Davis Auditorium on the 4th floor (campus level), room 412 (10 minute walk from Conference Venue). This part of the program is co-hosted with the Columbia University Center on Global Energy Policy."
 schedule-text: |-
   # Agenda
 
