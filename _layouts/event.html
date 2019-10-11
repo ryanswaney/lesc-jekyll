@@ -83,6 +83,11 @@ layout: default
 
       {% if session.moderators or session.speakers or session.description %}
       <div class="session-meta">
+        {% if session.description %}
+        <div class="session-description">
+          {{ session.description | markdownify }}
+        </div>
+        {% endif %}
         {% if session.moderators %}
         <div class="session-moderators">
           <strong class="session-meta-header">Moderator(s):</strong> {{ session.moderators | markdownify }}
@@ -91,11 +96,6 @@ layout: default
         {% if session.speakers %}
         <div class="session-speakers">
           <strong class="session-meta-header">Speaker(s):</strong> {{ session.speakers | markdownify }}
-        </div>
-        {% endif %}
-        {% if session.description %}
-        <div class="session-description">
-          {{ session.description | markdownify }}
         </div>
         {% endif %}
       </div>

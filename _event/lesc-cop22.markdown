@@ -25,40 +25,40 @@ sessions:
 - title: Mid-century strategies for deep decarbonization at continental, national, and subnational scales
   date: 2016-11-14 11:00:00 Z
   speakers: "
-  **Guido Schmidt-Traub,**vExecutive Director, UN Sustainable Development Solutions Network (SDSN)  \n
+  **Guido Schmidt-Traub,** Executive Director, UN Sustainable Development Solutions Network (SDSN)  \n
   **Jonathan Pershing,** US Climate Change Envoy  \n
-  Rodolfo Lacy Tamayo  \n
-  Stephen Lucas  \n
-  **Jim Williams,** Director US DDPP  \n
-  Georgy Safonov  \n
-  Teng Fei  \n
-  Liu Qiang  \n
+  **Rodolfo Lacy Tamayo,** Undersecretary for Environmental Policy and Planning  \n
+  **Stephen Lucas,** Senior Associate Deputy Minister at Environment and Climate Change Canada  \n
+  **Jim Williams,** Deep Decarbonization Pathways Project Director, SDSN  \n
+  **Georgy Safonov,** Director of the Center for Environmental Economics, Higher School of Economics  \n
+  **Teng Fei,** Professor at the Institute of Energy, Environment, and Economy, Tsinghua University  \n
+  **Liu Qiang,** Director of Strategy and Planning Department, National Center for Climate Change Strategy and International Cooperation (NCSC), China  \n
   Daniel Buira  \n
-  Chris Bataille  \n
-  **Libby Ferguson,** Climate Group  \n
-  Stuart Hocking  \n
-  Aristóteles Sandoval  \n
-  Alice Ekwu  \n
-  Ken Alex"
+  **Chris Bataille,** Researcher, Institute for Sustainable Development and International Relations  \n
+  **Libby Ferguson,** The Climate Group  \n
+  **Stuart Hocking,** Deputy Chief Executive, Department of Treasury and Finance, South Australia  \n
+  **Aristóteles Sandoval,**  Governor of Jalisco  \n
+  **Alice Ekwu,** Commissioner for Climate Change of the Ministry of Climate Change  \n
+  **Ken Alex,** Director of the Governor’s Office of Planning and Research"
   description: What does it mean to create a mid-century that incorporates global emission trajectories out to 2050? Join this session for a better understanding of the new age of thinking that this approach demands. Learn about the important link between LESC stakeholders, and what metrics and tools are available to help you complete this process. The session will showcase SDSN’s Deep Decarbonization Pathways Project as a case study of how a country can effectively model its current and project energy mix. We’ll also explore how cities and sub-national groups are critical partners when it comes to operationalizing NDC targets.
 - title: Lunch Break
   date: 2016-11-14 12:30:00 Z
 - title: Opening & Status of Mission Innovation
   date: 2016-11-14 13:30:00 Z
   speakers: "
-  **Jeffrey Sachs,** Director of SDSN  \n
-  Ernest Moniz  \n
-  Arias Cañete  \n
-  Sharon Dijksma  \n
-  Anne Vasara  \n
-  Nick Hurd  \n
-  Josh Frydenberg  \n
-  Piyush Goyal  \n
-  Khalid Al-Falih  \n
-  Ségolène Royal  \n
-  Rodolfo Lacy Tamayo  \n
-  Matar Hamed Al Neyadi  \n
-  Peter Bakker"
+  **Jeffrey Sachs,** Special Advisor to the UN Secretary General and Director of UN Sustainable Development Solutions Network (SDSN)  \n
+  **Ernest Moniz,** Secretary of Energy, United States   \n
+  **Arias Cañete,** European Commissioner for Climate and Energy, European Commission  \n
+  **Sharon Dijksma,** Minister for the Environment, Netherlands  \n
+  **Anne Vasara,** Ambassador of Finland to the Kingdom of Morocco  \n
+  **Nick Hurd,** Minister of State for Climate Change and Industry, Department of Business, Energy and Industrial Strategy, United Kingdom  \n
+  **Josh Frydenberg,** Minister for the Environment and Energy of Australian government  \n
+  **Piyush Goyal,**  Minister of Power, India  \n
+  **Khalid Al-Falih,** Minister Energy, Industry and Mineral Resources Saudi Arabia  \n
+  **Ségolène Royal,** Minister of Environment, Energy and Marine Affairs, France  \n
+  **Rodolfo Lacy Tamayo,** Undersecretary for Environmental Policy and Planning  \n
+  **Matar Hamed Al Neyadi,** Undersecretary, Ministry of Energy, United Arab Emirates  \n
+  **Peter Bakker,**  President and CEO, WBCSD"
   description: This session will showcase the momentum of the Mission Innovation a year after its launch at COP21. Emphasis will be made on the critical role of innovation in achieving cost reductions and breakthroughs needed to deliver on deep de-carbonization targets globally.
 - title: Networking Break
   date: 2016-11-14 14:45:00 Z
