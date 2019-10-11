@@ -125,122 +125,109 @@ sessions:
   date: 2016-11-15 13:00:00 Z
 - title: Introduction to Mobility Challenges and Innovation in the Transport Sector
   date: 2016-11-15 14:00:00 Z
-  speakers: "
-  Ahmed Barroudi  \n
-  Patrick Oliva  \n
-  Peter Bakker  \n
-  Nasry Juan Asfura Zablah"
-  description: Transport and mobility play an important role in our economies, and they also represent about 25% of global energy related emissions. With demand set to grow significantly over the coming decades, how do we transform transport in order to we move towards a low-carbon economy?
+  speakers: " Ahmed Barroudi  \n Patrick Oliva  \n Peter Bakker  \n Nasry Juan Asfura
+    Zablah"
+  description: Transport and mobility play an important role in our economies, and
+    they also represent about 25% of global energy related emissions. With demand
+    set to grow significantly over the coming decades, how do we transform transport
+    in order to we move towards a low-carbon economy?
 - title: Electric and Hydrogen Mobility
   date: 2016-11-15 14:30:00 Z
-  speakers: "
-  Alexis Gazzo  \n
-  Christian Girardeau  \n
-  Sylvain Allano  \n
-  Andreas Klugescheid  \n
-  Toshifumi Kokubun  \n
-  Lan Marie Nguyen Berg"
-  description: Demand for electric vehicles is rising quickly alongside improvements in battery technology and a growing supply of renewable energy. These technologies are sure to dominate a decarbonized transport sector in the future. This session will explore innovations in EV and Fuel Cell vehicles, and explore options for scaling up their deployment across vehicle segments and other opportunities such as maritime and aviation.
+  speakers: " Alexis Gazzo  \n Christian Girardeau  \n Sylvain Allano  \n Andreas
+    Klugescheid  \n Toshifumi Kokubun  \n Lan Marie Nguyen Berg"
+  description: Demand for electric vehicles is rising quickly alongside improvements
+    in battery technology and a growing supply of renewable energy. These technologies
+    are sure to dominate a decarbonized transport sector in the future. This session
+    will explore innovations in EV and Fuel Cell vehicles, and explore options for
+    scaling up their deployment across vehicle segments and other opportunities such
+    as maritime and aviation.
 - title: Keynote & Networking Break
   date: 2016-11-15 15:30:00 Z
-  speakers: "
-  Dario Piselli  \n
-  Anastasia Kostamarova"
+  speakers: " Dario Piselli  \n Anastasia Kostamarova"
 - title: Low Carbon Fuels
   date: 2016-11-15 16:00:00 Z
-  speakers: "
-  Rachel Kyte  \n
-  Gerard Ostheimer  \n
-  David Burns  \n
-  Nour Amrani  \n
-  Sean Simpson  \n
-  William Brandt  \n
-  Andreas Foller"
-  description: Sustainable liquid fuels are back in the spotlight, with innovations such as waste-to-fuel or power-to-liquids changing the landscape. Low-carbon fuels make up only 3% of current transport fuels, but this figure must grow to 10% by 2030 to satisfy economic growth and help keep global warming below 2 degrees Celsius.This panel will describe the exciting progress made from lab to market and explain how these fuels can be an essential part of LEDs and fulfill strict sustainability criteria in a wide variety of national circumstances.
+  speakers: " Rachel Kyte  \n Gerard Ostheimer  \n David Burns  \n Nour Amrani  \n
+    Sean Simpson  \n William Brandt  \n Andreas Foller"
+  description: Sustainable liquid fuels are back in the spotlight, with innovations
+    such as waste-to-fuel or power-to-liquids changing the landscape. Low-carbon fuels
+    make up only 3% of current transport fuels, but this figure must grow to 10% by
+    2030 to satisfy economic growth and help keep global warming below 2 degrees Celsius.This
+    panel will describe the exciting progress made from lab to market and explain
+    how these fuels can be an essential part of LEDs and fulfill strict sustainability
+    criteria in a wide variety of national circumstances.
 - title: Low-Carbon Freight & Shipping
   date: 2016-11-15 17:00:00 Z
-  speakers: "
-  Vincent Benezech  \n
-  Martin Rapos  \n
-  Tristan Smith  \n
-  Sudhir Gota  \n
-  Rachid Tahri  \n
-  Sébastien Bougon"
-  description: Heavy goods transport requires a step change in order to accelerate the decarbonization of the sector. We must integrate ICT solutions, build smarter infrastructure, share data and assets, improve route optimization use and deploy new vehicle/vessel design paradigms. This panel will set a benchmark for the least emitting means of shipping (ie, boat vs truck vs plane), and will review challenges and solutions to decarbonizing freight on a global scale.
+  speakers: " Vincent Benezech  \n Martin Rapos  \n Tristan Smith  \n Sudhir Gota
+    \ \n Rachid Tahri  \n Sébastien Bougon"
+  description: Heavy goods transport requires a step change in order to accelerate
+    the decarbonization of the sector. We must integrate ICT solutions, build smarter
+    infrastructure, share data and assets, improve route optimization use and deploy
+    new vehicle/vessel design paradigms. This panel will set a benchmark for the least
+    emitting means of shipping (ie, boat vs truck vs plane), and will review challenges
+    and solutions to decarbonizing freight on a global scale.
 - title: 'Clean Energy: Leading the Transition'
   date: 2016-11-16 09:15:00 Z
-  speakers: "
-  Philippe Joubert  \n
-  Jordan Sturdy  \n
-  Eric Maucort  \n
-  Juan Ramon Silva Ferrada  \n
-  Carlos Sallé  \n
-  Mandy Rambharos"
-  description: 'The future of the global energy mix: as new technology developments drive down renewable costs, and new financial business models widen the diversity of energy market players and investors, decarbonization becomes more attractive and paves the way for increased levels of ambition in LEDs. This session will present the latest technological advances in clean energy, including innovative and renewable solutions that are being deployed on the ground; as well as exploring how countries and utilities are dealing with the intermittency of renewables.'
+  speakers: " Philippe Joubert  \n Jordan Sturdy  \n Eric Maucort  \n Juan Ramon Silva
+    Ferrada  \n Carlos Sallé  \n Mandy Rambharos"
+  description: 'The future of the global energy mix: as new technology developments
+    drive down renewable costs, and new financial business models widen the diversity
+    of energy market players and investors, decarbonization becomes more attractive
+    and paves the way for increased levels of ambition in LEDs. This session will
+    present the latest technological advances in clean energy, including innovative
+    and renewable solutions that are being deployed on the ground; as well as exploring
+    how countries and utilities are dealing with the intermittency of renewables.'
 - title: Keynote & Networking Break
   date: 2016-11-16 10:30:00 Z
-  speakers: "
-  Paulette van Ommen  \n
-  Said Mouline"
+  speakers: " Paulette van Ommen  \n Said Mouline"
 - title: Smart Grids
   date: 2016-11-16 11:00:00 Z
-  speakers: "
-  Vijay Modi  \n
-  Terry Boston  \n
-  Deepak Divan  \n
-  Maxine Ghavi  \n
-  Anjan Bose  \n
-  Felix Zhang"
-  description: Stable, reliable electricity is a key building block of social and economic development. Recent advances in micro-grid models and distributed energy resources have brought about a new age of thinking in the sector. Implementing smart grid technology will serve as the backdrop to envision how we generate and distribute energy differently in the new energy mix. Explore the challenges and opportunities around smart grid technology, including computerized grids, two-way digital communication, and how developing nations are making this work in their communities.
+  speakers: " Vijay Modi  \n Terry Boston  \n Deepak Divan  \n Maxine Ghavi  \n Anjan
+    Bose  \n Felix Zhang"
+  description: Stable, reliable electricity is a key building block of social and
+    economic development. Recent advances in micro-grid models and distributed energy
+    resources have brought about a new age of thinking in the sector. Implementing
+    smart grid technology will serve as the backdrop to envision how we generate and
+    distribute energy differently in the new energy mix. Explore the challenges and
+    opportunities around smart grid technology, including computerized grids, two-way
+    digital communication, and how developing nations are making this work in their
+    communities.
 - title: Lunch Break
   date: 2016-11-16 12:30:00 Z
 - title: Industry Climate Action and CCUS
   date: 2016-11-16 13:30:00 Z
-  speakers: "
-  Julio Friedmann  \n
-  Eric Masanet  \n
-  Manuela Ojan  \n
-  Valérie Quiniou  \n
-  Julien Perez  \n
-  Issam Dairanieh  \n
-  Charlotte Wolff-Bye  \n
-  Alan Knight  \n
-  K-C Tran  \n
-  Michel Bande"
-  description: The production of power, iron, steel, cement and chemicals alone are estimated to account for more than 40% of anthropogenic greenhouse gas emissions.Reducing these emissions is crucial for maintaining competitiveness in a carbon-constrained future. Hear about the approaches that different sectors are taking towards carbon capture, utilization and storage (CCU&S).
+  speakers: " Julio Friedmann  \n Eric Masanet  \n Manuela Ojan  \n Valérie Quiniou
+    \ \n Julien Perez  \n Issam Dairanieh  \n Charlotte Wolff-Bye  \n Alan Knight
+    \ \n K-C Tran  \n Michel Bande"
+  description: The production of power, iron, steel, cement and chemicals alone are
+    estimated to account for more than 40% of anthropogenic greenhouse gas emissions.Reducing
+    these emissions is crucial for maintaining competitiveness in a carbon-constrained
+    future. Hear about the approaches that different sectors are taking towards carbon
+    capture, utilization and storage (CCU&S).
 - title: Climate Smart Agriculture and Innovation
   date: 2016-11-16 14:45:00 Z
-  speakers: "
-  Sonja Vermeulen  \n
-  Varun Vats  \n
-  Chris Brown  \n
-  Virgilio Viana  \n
-  Diane Holdorf  \n
-  Gabriela Burian  \n
-  Abbie Reynolds  \n
-  Michael Obersteiner  \n
-  Margaret Torn"
-  description: This session highlights the important role of agriculture in reducing greenhouse gas emissions and the role that climate smart agriculture solutions can play in helping countries achieve their NDCs. This panel will discuss practical solutions for Climate Smart Agriculture as a response to challenges as diverse as deforestation, soil and nutrient management, food loss and waste, and the protection of smallholder farmers. Learn how CSA can be facilitated through enhanced monitoring, reporting and verifying tools.
+  speakers: " Sonja Vermeulen  \n Varun Vats  \n Chris Brown  \n Virgilio Viana  \n
+    Diane Holdorf  \n Gabriela Burian  \n Abbie Reynolds  \n Michael Obersteiner  \n
+    Margaret Torn"
+  description: This session highlights the important role of agriculture in reducing
+    greenhouse gas emissions and the role that climate smart agriculture solutions
+    can play in helping countries achieve their NDCs. This panel will discuss practical
+    solutions for Climate Smart Agriculture as a response to challenges as diverse
+    as deforestation, soil and nutrient management, food loss and waste, and the protection
+    of smallholder farmers. Learn how CSA can be facilitated through enhanced monitoring,
+    reporting and verifying tools.
 - title: Networking Break
   date: 2016-11-16 16:15:00 Z
 - title: Low-Carbon Policies
   date: 2016-11-16 16:45:00 Z
-  speakers: "
-  Maria Mendiluce  \n
-  Mark Sinclair  \n
-  Thomas Kerr  \n
-  Paul Simpson  \n
-  Carlos Gentile  \n
-  David Turk  \n
-  David Heurtel"
-  description: This session will provide an overview of the policies and regulations that are needed to support the deep decarbonization of energy systems. Hear about the challenges, benefits, and expected outcomes of policies such as taxes, carbon trading schemes, feed-in tariffs, and carbon pricing.
+  speakers: " Maria Mendiluce  \n Mark Sinclair  \n Thomas Kerr  \n Paul Simpson  \n
+    Carlos Gentile  \n David Turk  \n David Heurtel"
+  description: This session will provide an overview of the policies and regulations
+    that are needed to support the deep decarbonization of energy systems. Hear about
+    the challenges, benefits, and expected outcomes of policies such as taxes, carbon
+    trading schemes, feed-in tariffs, and carbon pricing.
 - title: Lessons Learned and Pathways Ahead
   date: 2016-11-16 18:00:00 Z
-  speakers: "
-  Peter Bakker  \n
-  Jeffrey Sachs  \n
-  Gino Van Begin  \n
-  Jean-Pierre Clamadieu"
+  speakers: " Peter Bakker  \n Jeffrey Sachs  \n Gino Van Begin  \n Jean-Pierre Clamadieu"
 schedule-text: |-
   # Agenda
 
