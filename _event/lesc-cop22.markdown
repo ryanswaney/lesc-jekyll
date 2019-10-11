@@ -12,135 +12,115 @@ location-text: Atlantic Room, Blue Zone, Marrakech, Morocco, COP22
 sessions:
 - title: Welcome and General Introduction
   date: 2016-11-14 09:15:00 Z
-  starts_at:
-  moderators:
-  speakers: "
-  **HE Minister Hakima El Haite,** Government of Morocco  \n
-  **Laurence Tubiana,** Founder, Institute for Sustainable Development and International Relations (IDDRI)  \n
-  **Paul Polman,** CEO of Unilever & Chairman of World Business Council for Sustainable Development (WBCSD)  \n
-  **Chang Beom Kim,** Ambassador of International Relations of Seoul Metropolitan Government & Representative of President Park Won-soon of ICLEI  \n
-  **Jeffrey Sachs,** Director of SDSN"
+  starts_at: 
+  moderators: 
+  speakers: " **HE Minister Hakima El Haite,** Government of Morocco  \n **Laurence
+    Tubiana,** Founder, Institute for Sustainable Development and International Relations
+    (IDDRI)  \n **Paul Polman,** CEO of Unilever & Chairman of World Business Council
+    for Sustainable Development (WBCSD)  \n **Chang Beom Kim,** Ambassador of International
+    Relations of Seoul Metropolitan Government & Representative of President Park
+    Won-soon of ICLEI  \n **Jeffrey Sachs,** Director of SDSN"
 - title: Networking break
   date: 2016-11-14 10:30:00 Z
 - title: Mid-century strategies for deep decarbonization at continental, national,
     and subnational scales
   date: 2016-11-14 11:00:00 Z
-  speakers: "
-  Guido Schmidt-Traub  \n
-  **Jonathan Pershing,** US Climate Change Envoy  \n
-  Rodolfo Lacy Tamayo  \n
-  Stephen Lucas  \n
-  **Jim Williams,** Director US DDPP  \n
-  Georgy Safonov  \n
-  Teng Fei  \n
-  Liu Qiang  \n
-  Daniel Buira  \n
-  Chris Bataille  \n
-  **Libby Ferguson,** Climate Group   \n
-  Stuart Hocking  \n
-  Aristóteles Sandoval  \n
-  Alice Ekwu  \n
-  Ken Alex"
-  description: What does it mean to create a mid-century that incorporates global emission trajectories out to 2050? Join this session for a better understanding of the new age of thinking that this approach demands. Learn about the important link between LESC stakeholders, and what metrics and tools are available to help you complete this process. The session will showcase SDSN’s Deep Decarbonization Pathways Project as a case study of how a country can effectively model its current and project energy mix. We’ll also explore how cities and sub-national groups are critical partners when it comes to operationalizing NDC targets.
+  speakers: " Guido Schmidt-Traub  \n **Jonathan Pershing,** US Climate Change Envoy
+    \ \n Rodolfo Lacy Tamayo  \n Stephen Lucas  \n **Jim Williams,** Director US DDPP
+    \ \n Georgy Safonov  \n Teng Fei  \n Liu Qiang  \n Daniel Buira  \n Chris Bataille
+    \ \n **Libby Ferguson,** Climate Group   \n Stuart Hocking  \n Aristóteles Sandoval
+    \ \n Alice Ekwu  \n Ken Alex"
+  description: What does it mean to create a mid-century that incorporates global
+    emission trajectories out to 2050? Join this session for a better understanding
+    of the new age of thinking that this approach demands. Learn about the important
+    link between LESC stakeholders, and what metrics and tools are available to help
+    you complete this process. The session will showcase SDSN’s Deep Decarbonization
+    Pathways Project as a case study of how a country can effectively model its current
+    and project energy mix. We’ll also explore how cities and sub-national groups
+    are critical partners when it comes to operationalizing NDC targets.
 - title: Lunch Break
   date: 2016-11-14 12:30:00 Z
 - title: Opening & Status of Mission Innovation
   date: 2016-11-14 13:30:00 Z
-  speakers: "
-  **Jeffrey Sachs,** Director of SDSN  \n
-  Ernest Moniz  \n
-  Arias Cañete  \n
-  Sharon Dijksma  \n
-  Anne Vasara  \n
-  Nick Hurd  \n
-  Josh Frydenberg  \n
-  Piyush Goyal  \n
-  Khalid Al-Falih  \n
-  Ségolène Royal  \n
-  Rodolfo Lacy Tamayo  \n
-  Matar Hamed Al Neyadi  \n
-  Peter Bakker"
-  description: This session will showcase the momentum of the Mission Innovation a year after its launch at COP21. Emphasis will be made on the critical role of innovation in achieving cost reductions and breakthroughs needed to deliver on deep de-carbonization targets globally.
+  speakers: " **Jeffrey Sachs,** Director of SDSN  \n Ernest Moniz  \n Arias Cañete
+    \ \n Sharon Dijksma  \n Anne Vasara  \n Nick Hurd  \n Josh Frydenberg  \n Piyush
+    Goyal  \n Khalid Al-Falih  \n Ségolène Royal  \n Rodolfo Lacy Tamayo  \n Matar
+    Hamed Al Neyadi  \n Peter Bakker"
+  description: This session will showcase the momentum of the Mission Innovation a
+    year after its launch at COP21. Emphasis will be made on the critical role of
+    innovation in achieving cost reductions and breakthroughs needed to deliver on
+    deep de-carbonization targets globally.
 - title: Networking Break
   date: 2016-11-14 14:45:00 Z
 - title: The Contribution of ICT to Climate Action in Other Sectors
   date: 2016-11-14 15:00:00 Z
-  speakers: "
-  Joan Krajewski  \n
-  Matilda Gennvi Gustafsson  \n
-  Caspar Herzberg  \n
-  Eric Rondolat  \n
-  Vijay Modi  \n
-  Neil Gerber"
-  description: Information and Communication Technology (ICT) has the potential to help other sectors reduce their emissions by up to 15% by 2030. That’s 12 gigatonnes, or 11 times the amount of CO2 saved by the EU in the past 25 years. Smart agriculture improves crop yields and reduces food waste; e-work can save up to 100 hours of travel yearly per person leading to 67% less travel emissions; smart metering in the home allows real-time energy monitoring, leading to energy savings; and in other sectors such as health management, education, lighting & appliances and building efficiency, ICT also has tremendous potential to help reduce emissions. Explore approaches that can maximize the integration and benefits of ICT across different sectors.
+  speakers: " Joan Krajewski  \n Matilda Gennvi Gustafsson  \n Caspar Herzberg  \n
+    Eric Rondolat  \n Vijay Modi  \n Neil Gerber"
+  description: Information and Communication Technology (ICT) has the potential to
+    help other sectors reduce their emissions by up to 15% by 2030. That’s 12 gigatonnes,
+    or 11 times the amount of CO2 saved by the EU in the past 25 years. Smart agriculture
+    improves crop yields and reduces food waste; e-work can save up to 100 hours of
+    travel yearly per person leading to 67% less travel emissions; smart metering
+    in the home allows real-time energy monitoring, leading to energy savings; and
+    in other sectors such as health management, education, lighting & appliances and
+    building efficiency, ICT also has tremendous potential to help reduce emissions.
+    Explore approaches that can maximize the integration and benefits of ICT across
+    different sectors.
 - title: Networking Break
   date: 2016-11-14 16:30:00 Z
 - title: ICT Innovative Approach to Raising Commitments Towards Climate
   date: 2016-11-14 16:45:00 Z
-  speakers: "
-  Frances Way  \n
-  Bill Weihl  \n
-  Malcolm Johnson  \n
-  David Hochschild \n
-  Gabrielle Ginér  \n
-  Thierry Valette"
-  description: Understand how the ICT sector is paving the way in clever climate initiatives such as the corporate sourcing of clean energy, building on the work of REBA, RE100, and the CEM7 Corporate Sourcing campaign. This session will also tackle the convergence between climate country strategies and National Broadband plans.
+  speakers: " Frances Way  \n Bill Weihl  \n Malcolm Johnson  \n David Hochschild
+    \n Gabrielle Ginér  \n Thierry Valette"
+  description: Understand how the ICT sector is paving the way in clever climate initiatives
+    such as the corporate sourcing of clean energy, building on the work of REBA,
+    RE100, and the CEM7 Corporate Sourcing campaign. This session will also tackle
+    the convergence between climate country strategies and National Broadband plans.
 - title: Driving NDC Implementation Through the Clean Energy Ministerial
   date: 2016-11-14 18:00:00 Z
-  speakers: "
-  Ernest Moniz  \n
-  Lars Christian Lilleholt  \n
-  Khalid Al-Falih  \n
-  Josh Frydenberg  \n
-  Piyush Goyal  \n
-  Ségolène Royal  \n
-  Ajay Mathur  \n
-  Matar Hamed  \n
-  Al Neyadi  \n
-  Stephen Lucas  \n
-  Mahama Kappiah  \n
-  Paul Simons  \n
-  Peter Bakker  \n
-  Kate Hampton"
-  description: The Clean Energy Ministerial (CEM) is a partnership of 24 countries and the European Commission working together to accelerate the global transition to clean energy. Through its annual ministerial meetings and year-round initiatives and campaigns, the forum has been helping countries implement the policies and solutions that speed the deployment of the clean energy technologies that are available today. Post-Paris Agreement, this work is more crucial than ever. This event will feature the CEM as an operational platform well positioned to help countries implement their Nationally Determined Contributions (NDCs) and will highlight the CEM resources, tools and support available to all countries.
+  speakers: " Ernest Moniz  \n Lars Christian Lilleholt  \n Khalid Al-Falih  \n Josh
+    Frydenberg  \n Piyush Goyal  \n Ségolène Royal  \n Ajay Mathur  \n Matar Hamed
+    \ \n Al Neyadi  \n Stephen Lucas  \n Mahama Kappiah  \n Paul Simons  \n Peter
+    Bakker  \n Kate Hampton"
+  description: The Clean Energy Ministerial (CEM) is a partnership of 24 countries
+    and the European Commission working together to accelerate the global transition
+    to clean energy. Through its annual ministerial meetings and year-round initiatives
+    and campaigns, the forum has been helping countries implement the policies and
+    solutions that speed the deployment of the clean energy technologies that are
+    available today. Post-Paris Agreement, this work is more crucial than ever. This
+    event will feature the CEM as an operational platform well positioned to help
+    countries implement their Nationally Determined Contributions (NDCs) and will
+    highlight the CEM resources, tools and support available to all countries.
 - title: 'Local Climate Action: Strategies and Implementation'
   date: 2016-11-15 09:15:00 Z
-  speakers: "
-  Gino Van Begin  \n
-  Maryke Van Staden  \n
-  Leszek Drogosz  \n
-  Antoine Faye  \n
-  Li Junfeng  \n
-  William Sisson"
-  description: |-
-    By 2050, 70% of the world’s population will live in cities. Join this session to enhance your understanding of the crucial role that cities must play in global climate action. ICLEI will introduce city and regional climate action strategies and their implementation plans for their targets, for example LEDs at the Municipal Level, Transformative Actions Program and so on. This session will also set the framework for discussing technical solutions to unprecedented challenges coming from rapid urbanization.
+  speakers: " Gino Van Begin  \n Maryke Van Staden  \n Leszek Drogosz  \n Antoine
+    Faye  \n Li Junfeng  \n William Sisson"
+  description: By 2050, 70% of the world’s population will live in cities. Join this
+    session to enhance your understanding of the crucial role that cities must play
+    in global climate action. ICLEI will introduce city and regional climate action
+    strategies and their implementation plans for their targets, for example LEDs
+    at the Municipal Level, Transformative Actions Program and so on. This session
+    will also set the framework for discussing technical solutions to unprecedented
+    challenges coming from rapid urbanization.
 - title: Innovation Award Ceremony & Networking Break
   date: 2016-11-15 10:30:00 Z
-  speakers: "
-  Peter Bakker  \n
-  Molly Webb"
+  speakers: " Peter Bakker  \n Molly Webb"
 - title: Smart Low Carbon & Sustainable Cities
   date: 2016-11-15 11:00:00 Z
-  speakers: "
-  Roman Mendle  \n
-  Michèle Pappalardo  \n
-  Haron Idris  \n
-  Don Iveson  \n
-  Akiko Miura  \n
-  Sylvia Parienté"
+  speakers: " Roman Mendle  \n Michèle Pappalardo  \n Haron Idris  \n Don Iveson  \n
+    Akiko Miura  \n Sylvia Parienté"
   description: |-
     Cities account for two-thirds of the world’s overall energy consumption and are responsible for about 70% of the world’s greenhouse gas emissions. As a critical player in the fight to reduce emissions worldwide, cities are developing smart solutions, concepts, frameworks and tools to reduce emissions and turn their communities into low-carbon cities and regions.
     In this session, representatives from local governments and the private sector will present approaches to smart cities and discuss the challenges and opportunities of using ‘smartness’ as a method for low-carbon development. They’ll share their experiences on how the public and private actors can improve on identifying and implementing smart low-carbon solutions.
 - title: 'Sustainable Construction: Energy Efficiency and Sustainable Materials'
   date: 2016-11-15 14:00:00 Z
-  speakers: "
-  Jennifer Layke  \n
-  Peter Moonen  \n
-  Nev Hyman  \n
-  Karen Scrivener  \n
-  Marcel Cobuz  \n
-  John Thwaites"
-  description: How we can move to a more sustainable built environment? In this panel session, hear from experts discussing the solutions that cover sustainable materials, construction innovations, increased energy efficiency, and adaptation and resilience. You’ll learn how these solutions can be deployed on larger scales, and explore practical pathways to overcome barriers to their adoption.
+  speakers: " Jennifer Layke  \n Peter Moonen  \n Nev Hyman  \n Karen Scrivener  \n
+    Marcel Cobuz  \n John Thwaites"
+  description: How we can move to a more sustainable built environment? In this panel
+    session, hear from experts discussing the solutions that cover sustainable materials,
+    construction innovations, increased energy efficiency, and adaptation and resilience.
+    You’ll learn how these solutions can be deployed on larger scales, and explore
+    practical pathways to overcome barriers to their adoption.
 - title: Lunch Break
   date: 2016-11-15 13:00:00 Z
 - title: Introduction to Mobility Challenges and Innovation in the Transport Sector
