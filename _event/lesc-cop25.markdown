@@ -4,7 +4,7 @@ date: 2019-10-16 14:54:00 Z
 permalink: "/event/lesc-at-cop25"
 is-featured: true
 theme: Systems Transformation for a 1.5 Degree World
-location-text: San Joaquin Campus, Pontifical Catholic University of Chile Av Vicuna Mackenna 4860, Macul, Santiago, Chile 
+location-text: San Joaquin Campus, Pontifical Catholic University of Chile Av Vicuna Mackenna 4860, Macul, Santiago, Chile
 event-date-text: December 9-10, 2019
 blurb: "The 2019 LESC will bring together leaders and scientists from businesses, governments, and academia from around the world. Happening on the side lines of COP25, the LESC will host six panels featuring distinguished speakers who will showcase decarbonization solutions in power, transport, industrial, and buildings sectors, and highlight the sector coupling opportunities available with a systems approach."
 registration-url: "https://www.eventbrite.com/e/low-emissions-solutions-conference-lesc-at-cop25-registration-77183448773"
