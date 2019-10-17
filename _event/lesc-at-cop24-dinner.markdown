@@ -2,7 +2,7 @@
 title: LESC at COP24
 date: 2018-11-27 15:51:00 Z
 theme: High-Level Dinner Dialogue
-is-featured: true
+is-featured: false
 location-text: Monopol Hotel (Katowice) - ul. Dworcowa 5, 40-012 Katowice, Poland
 event-date-text: Tuesday, December 11th 2018
 blurb: The aim is of this event is to promote dialogue between business, government
@@ -15,10 +15,10 @@ blurb: The aim is of this event is to promote dialogue between business, governm
 sessions:
 - title: Guest arrival and cocktail hour
   date: 2018-12-11 17:30:00 Z
-  starts_at: 
-  moderators: 
-  speakers: 
-  description: 
+  starts_at:
+  moderators:
+  speakers:
+  description:
 - title: Opening Remarks
   date: 2018-12-11 18:30:00 Z
   speakers: "**Minister Inia Seruiratu,** Fijian High-level Climate Champion  "
@@ -81,7 +81,7 @@ sessions:
     round of NDCs.
 - title: Final Remarks
   date: 2018-12-11 21:40:00 Z
-  description: 
+  description:
   speakers: "**Maria Mendiluce**, Managing Director, WBCSD"
 ---
 

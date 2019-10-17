@@ -1,6 +1,6 @@
 ---
 title: LESC at ICSD 2018
-date: 2018-06-26 14:25:00 Z
+date: 2018-09-27 14:00:00 Z
 position: 1
 theme: The Future of the Energy Transition
 location-text: Alfred Lerner Hall, Columbia University
@@ -12,7 +12,7 @@ blurb: The LESC panel will take place on day two of the 2018 International Confe
 sessions:
 - title: 'Low-Emissions Solutions: The Land-Energy Nexus'
   date: 2018-09-27 14:00:00 Z
-  starts_at: 
+  starts_at:
   moderators: "**Guido Schmidt-Traub,** Executive Director, UN SDSN"
   speakers: "**Chris Bataille,** Researcher, Institute for Sustainable Development
     and International Relations (IDDRI)  \n **Chad Frischmann,** Vice President &

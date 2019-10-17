@@ -1,6 +1,6 @@
 ---
 title: LESC at 2018 GCAS
-date: 2018-06-27 14:20:00 Z
+date: 2018-09-11 08:30:00 Z
 position: 0
 theme: The Land-Energy Nexus In Climate Change Mitigation
 is-featured: false
@@ -16,30 +16,30 @@ agenda-file: "/uploads/180907-lesc-gcas-program.pdf"
 sessions:
 - title: Registration Opens
   date: 2018-09-11 08:30:00 Z
-  starts_at: 
-  moderators: 
-  speakers: 
+  starts_at:
+  moderators:
+  speakers:
   description: Breakfast to be provided.
 - title: Welcome & Conference Objectives
   date: 2018-09-11 09:00:00 Z
-  starts_at: 
+  starts_at:
   moderators: "**Jim Williams,** University of San Francisco "
   speakers: "**Rev. Paul Fitzgerald SJ,** President, University of San Francisco    \n**Guido
     Schmidt-Traub,** UN Sustainable Development Solutions Network  \n**Maria Mendiluce,**
     World Business Council for Sustainable Development  \n**Margaret Torn,** University
     of California  "
-  description: 
+  description:
 - title: Opening Keynote
   date: 2018-09-11 09:13:00 Z
-  starts_at: 
-  moderators: 
+  starts_at:
+  moderators:
   speakers: "**Valery Miftakhov,** Emotorwerks, Enel  \n**Bill McKibben,** American
     Environmentalist"
-  description: 
+  description:
 - title: 'Plenary Panel 1: Climate Solutions in Action: policy perspectives on the
     land and energy nexus'
   date: 2018-09-11 09:30:00 Z
-  starts_at: 
+  starts_at:
   moderators: "**Daniel Lashof,** World Resources Institute"
   speakers: "**Governor David Ige,** Hawaii  \n**Executive Commissioner Luis Carlos
     Romo Salazar,** Sonora, Mexico  \n**Alexandre Ywata de Carvalho,** Brazilian Institute
@@ -57,7 +57,7 @@ sessions:
 - title: 'Plenary Panel 2: Where Energy and Land Use Meet: New Findings for Decarbonization
     Pathways'
   date: 2018-09-11 10:30:00 Z
-  starts_at: 
+  starts_at:
   moderators: "**Dan Sanchez** and **Margaret Torn,** UC Berkeley and Berkeley Lab"
   speakers: "**Petr Havlik,** International Institute for Applied Systems Analysis
     \ \n**Jim Williams,** University of San Francisco  \n**Emily McGlynn,** University
@@ -70,13 +70,13 @@ sessions:
     warming below 1.5-2ºC.
 - title: Networking Break
   date: 2018-09-11 11:45:00 Z
-  starts_at: 
-  moderators: 
-  speakers: 
-  description: 
+  starts_at:
+  moderators:
+  speakers:
+  description:
 - title: 'Plenary Panel 3: New Thinking on Navigating the Land-Energy Intersection'
   date: 2018-09-11 12:00:00 Z
-  starts_at: 
+  starts_at:
   moderators: "**Chris Weber,** World Wildlife Fund"
   speakers: "**Guido Schmidt-Traub,** UN Sustainable Development Solutions Network
     \ \n**Christa Anderson,** Stanford University and World Wildlife Fund  \n**Brian
@@ -95,13 +95,13 @@ sessions:
 - title: Lunch Break and Keynote Discussion with John Holdren, Professor, Harvard
     University, Pres. Obama's Science Advisor
   date: 2018-09-11 12:45:00 Z
-  starts_at: 
-  moderators: 
+  starts_at:
+  moderators:
   speakers: "**John Holdren,** Professor, Harvard"
   description: Lunch to be provided.
 - title: 'Parallel Session L1: Implementing Natural Climate Solutions'
   date: 2018-09-11 14:00:00 Z
-  starts_at: 
+  starts_at:
   moderators: "**Diane Regas,** The Trust for Public Lands"
   speakers: "**Peter Walke,** Vermont Agency of Natural Resources  \n**Hammerskjoeld
     Simwinga,** Foundation for Wildlife and Habitat Conservation  \n**Christopher
@@ -117,7 +117,7 @@ sessions:
 - title: 'Parallel Session E1:  From Microgrids to Global Interconnection: The Electricity
     System of the Future'
   date: 2018-09-11 14:00:00 Z
-  starts_at: 
+  starts_at:
   moderators: "**Erica Brand,** The Nature Conservancy  and **Jim Williams,** University
     of San Francisco"
   speakers: "**Daniele Agostini,** Enel  \n**Erica Brand,** The Nature Conservancy
@@ -131,14 +131,14 @@ sessions:
     of electricity, reliability of the power supply, energy security, and land use.  '
 - title: Networking Break
   date: 2018-09-11 15:10:00 Z
-  starts_at: 
-  moderators: 
-  speakers: 
-  description: 
+  starts_at:
+  moderators:
+  speakers:
+  description:
 - title: 'Parallel Session L2: Land for mitigation, biodiversity, food, and fiber:
     how can we do it all? '
   date: 2018-09-11 15:25:00 Z
-  starts_at: 
+  starts_at:
   moderators: "**Grace Wu,** University of California, Davis and **David Saah,** University
     of San Francisco"
   speakers: "**Virgilio Viana,** Amazonas Sustainable Foundation\n**Justin Baker,**
@@ -155,7 +155,7 @@ sessions:
 - title: 'Parallel Session E2: The Step After Next: Decarbonization Challenges Beyond
     Low Carbon Electricity'
   date: 2018-09-11 15:25:00 Z
-  starts_at: 
+  starts_at:
   moderators: "**Chris Bataille,** IDDRI"
   speakers: "**Ken Alex,** California Governor’s Office of Planning and Research  \n**Chris
     Bataille,** IDDRI  \n**Leon Clarke,** Pacific Northwest National Laboratory  \n**Ben
@@ -167,13 +167,13 @@ sessions:
     after 2030, through to 2050 and beyond.
 - title: Networking Break
   date: 2018-09-11 16:35:00 Z
-  starts_at: 
-  moderators: 
-  speakers: 
-  description: 
+  starts_at:
+  moderators:
+  speakers:
+  description:
 - title: 'Parallel Session L3: Solutions for Implementing Climate Smart Agriculture '
   date: 2018-09-11 16:50:00 Z
-  starts_at: 
+  starts_at:
   moderators: "**Matthew Reddy,** World Business Council for Sustainable Development"
   speakers: "**Hon. Ola Elvestuen,** Norwegian Minister of Climate and Environment
     \ \n**Noora Singh,** Global Sustainability, PepsiCo  \n**Candace Laing,** Nutrien
@@ -186,7 +186,7 @@ sessions:
     and reporting can assist in scaling up land-based solutions.
 - title: 'Parallel Session E3: Transforming Transport for a Clean Future'
   date: 2018-09-11 16:50:00 Z
-  starts_at: 
+  starts_at:
   moderators: "**Rasmus Valanko,** World Business Council for Sustainable Development"
   speakers: "**Anirban Ghosh,** Mahindra Group  \n**David Schlosberg,** eMotoworks
     \ \n**Patrick Browne,** United Parcel Service  \n**Michael Burns,** Novozymes
@@ -204,10 +204,10 @@ sessions:
     it will take to realize a decarbonized transport system.'
 - title: Cocktail Reception
   date: 2018-09-11 18:00:00 Z
-  starts_at: 
-  moderators: 
-  speakers: 
-  description: 
+  starts_at:
+  moderators:
+  speakers:
+  description:
 speakers:
 - name: H.E. Ola Elvestuen
   title: Minister of Climate and Environment, Norway
@@ -605,7 +605,7 @@ speakers:
 - name: Mr. Matthew Reddy
   title: Director of Climate Smart Agriculture, World Business Council for Sustainable
     Development (WBCSD)
-  bio_text: 
+  bio_text:
   image: "/uploads/Matthew%20Reddy.jpg"
 - name: Diane Regas
   title: President and Chief Executive Officer, The  Trust for Public Lands

@@ -2,7 +2,7 @@
 title: LESC at COP24
 date: 2018-11-27 15:50:00 Z
 theme: Accelerating Action to a Low-Carbon Future
-is-featured: true
+is-featured: false
 location-text: SDG Pavilion (E34), Katowice, Poland
 event-date-text: Monday, December 10th, 2018
 blurb: LESC now returns to COP, creating a space for in-depth dialogue with policy-makers.
@@ -13,21 +13,21 @@ blurb: LESC now returns to COP, creating a space for in-depth dialogue with poli
 sessions:
 - title: Welcome Keynotes and setting the scene
   date: 2018-12-10 15:30:00 Z
-  starts_at: 
-  moderators: 
+  starts_at:
+  moderators:
   speakers: "**Dr. Han Huang,** Vice President, Economic & Technology Research Institute,
     GEIDCO  \n**Jeffrey Sachs,** Director, UN Sustainable Development Solutions Network
     (Video conference)\n\n"
-  description: 
+  description:
 - title: 'Launch of WBCSD report: “New Energy Solutions for 1.5°C ” '
   date: 2018-12-10 15:50:00 Z
-  starts_at: 
-  moderators: 
+  starts_at:
+  moderators:
   speakers: "**Maria Mendiluce,** Managing Director, WBCSD"
-  description: 
+  description:
 - title: The role of decarbonized electricity in decarbonizing end use sectors
   date: 2018-12-10 16:00:00 Z
-  starts_at: 
+  starts_at:
   moderators: "**Elena Crete,** Program Manager, UN Sustainable Development Solutions
     Network"
   speakers: "**Carlos Sallé,** Vice-President of Energy Policies and Climate Change,
@@ -43,7 +43,7 @@ sessions:
     - solar and wind -  must grow rapidly.
 - title: 'Transport: electrification of passenger transport and key enablers'
   date: 2018-12-10 16:45:00 Z
-  starts_at: 
+  starts_at:
   moderators: "**Rasmus Valanko,** Director, Climate & Energy, WBCSD"
   speakers: "**Anirban Ghosh,** CSO, Mahindra         \n**Nicola Tagliafierro,** Head
     of Sustainabile Product Development,  Enel X          \n**Yeom Tae-young,** Mayor
@@ -69,7 +69,7 @@ sessions:
     services to the power grid via vehicle-to-grid (V2G) solutions."
 - title: 'Buildings: electrification of buildings, digitalization, and smart cities'
   date: 2018-12-10 17:30:00 Z
-  starts_at: 
+  starts_at:
   moderators: "**Wolfgang Teubner,** Regional Director, ICLEI Europe"
   speakers: "**Gilles Vermot Desroches,** CSO, Schneider Electric\n**Leszek Drogos,**
     Director of Infrastructure Department, City of Warsaw, Poland  \n**Meg Argyriou,**
@@ -90,10 +90,10 @@ sessions:
     will be important to managing load on the electricity system."
 - title: Concluding Remarks
   date: 2018-12-10 18:15:00 Z
-  starts_at: 
-  moderators: 
+  starts_at:
+  moderators:
   speakers: "**Bertrand Piccard,** Co Founder and Chairman, Solar Impulse "
-  description: 
+  description:
 speakers:
 - name: Meg Argyriou
   title: Head of International Programs, ClimateWorks Australia
@@ -190,7 +190,7 @@ speakers:
     engaged in global energy interconnection studies covering more than 100 countries
     and 5 continents, including Asia, South East Asia, North East Asia, Europe, Africa,
     etc., together with national government and regional unions. "
-  image: 
+  image:
   title: 'Vice President, Economic & Technology Research Institute, GEIDCO '
 - name: Maria Mendiluce
   bio_text: 'Dr. María Mendiluce has over 20 years’ experience in the energy and climate
@@ -312,14 +312,14 @@ speakers:
   image: "/uploads/Xiaodong%20Wang.jpg"
   title: Senior Energy Specialist, The World Bank
 - name: Leszek Drogos
-  bio_text: 
-  image: 
+  bio_text:
+  image:
   title: " Director of Infrastructure Department, City of Warsaw, Poland"
 related-media:
-- description: 
-  image: 
-- description: 
-  image: 
+- description:
+  image:
+- description:
+  image:
 ---
 
 This year’s LESC features distinguished panelists from government, academia, business, and civil society who will address the themes of energy and land use. Spotlight presentations will facilitate rich dialogue on what is still needed and how public-private partnerships can support the common objectives between nations, cities, business, and academia. The outcomes of this event will be submitted to the Marrakech Partnership for Global Climate Action.
