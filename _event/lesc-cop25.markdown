@@ -11,6 +11,9 @@ registration-url: "https://www.eventbrite.com/e/low-emissions-solutions-conferen
 ---
 The Systems Transformation for a 1.5 Degree World event is a special edition of the Low-Emissions Solutions Conference taking place alongside COP25 in partnership with WBCSD, ICLEI, and the Pontifical Catholic University of Chile.
 
+**Location:** Auditorio Andrónico Luksic, Campus San Joaquín, Universidad Catolica de Chile  
+**Date:** Monday, 9 December (full day) and Tuesday, 10 December (half day)
+
 With a dialogue between business, government and academia, LESC aims to help UNFCCC negotiators understand how to ramp up ambition on their NDCs and the technologies available to them to populate their Low Emission Development Strategies (LEDs).
 
 This year's event at COP25 will build off the learning from the SDSN's [Roadmap to 2050 A Manual for National to Decarbonize by Mid-Century report](https://roadmap2050.report/) done in partnership with Fondazione Eni Enrico Mattei (FEEM). The report was written in consultation with more than 60 engineers to catalog the technologies currently available to decarbonize our power, transport, industrial and buildings sectors, and to highlight the sector coupling opportunities available with a systems approach.
