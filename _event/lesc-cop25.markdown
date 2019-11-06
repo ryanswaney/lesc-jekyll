@@ -60,4 +60,4 @@ The 2019 LESC will bring together leaders and scientists from businesses, govern
 * Harder to abate industrial processes (steel, cement and petrochemicals etc.)
 * Transport and Shipping: Land, Air, Water
 * Systems Approach and Sector Coupling
-* Policy: Models for Success
+* Defining Metrics: Ensuring Impact for Sustainable Development
