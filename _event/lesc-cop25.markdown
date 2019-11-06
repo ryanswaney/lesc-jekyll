@@ -24,7 +24,7 @@ sessions:
   date: 2019-12-09 13:15:00 Z
 - title: Harder to abate industrial processes (steel, cement and petrochemicals)
   date: 2019-12-09 14:00:00 Z
-- title: Transport and Shipping: Land, Air, Water
+- title: "Transport and Shipping: Land, Air, Water"
   date: 2019-12-09 15:15:00 Z
 - title: Closing Remarks
   date: 2019-12-09 16:30:00 Z
@@ -32,7 +32,7 @@ sessions:
   date: 2019-12-10 08:30:00 Z
 - title: Welcome Remarks
   date: 2019-12-10 09:00:00 Z
-- title: Defining Metrics: Ensuring Impact for Sustainable Development
+- title: "Defining Metrics: Ensuring Impact for Sustainable Development"
   date: 2019-12-10 09:15:00 Z
 - title: Coffee break
   date: 2019-12-10 10:30:00 Z
