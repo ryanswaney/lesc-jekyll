@@ -5,6 +5,7 @@ is-featured: true
 theme: "Circular Economy: Driving Systems Transformation to Net-Zero"
 location-text: Casino de Madrid
 event-date-text: December 9, 2019
+registration-url: "https://wbcsd.secure.force.com/GuestEventPageV2?aId=a5s0N0000000I7Y&mc_cid=01fefee7bd&mc_eid=3a7e2b57a5"
 blurb: "The aim of this high-level dinner dialogue is to promote dialogue between business, government, and academia on what it means to realize a circular economy to various sectors and what are the key solutions to getting to net zero emissions across all sectors by mid-century."
 sessions:
 - title: Arrival of guests and welcome cocktail
