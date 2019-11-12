@@ -13,7 +13,7 @@ layout: default
   <div class="frontpage-events">
     <h2>Attend an event</h2>
   {% assign events = site.event | reverse %}
-  {% for event in events limit: 1 %}
+  {% for event in events limit: 2 %}
     <article class="event-archive">
       <header class="event-archive-header">
         <h2 class="event-archive-title">{{ event.title }}</h2>

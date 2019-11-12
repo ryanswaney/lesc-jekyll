@@ -1,10 +1,11 @@
 ---
 title: LESC at COP25 Dinner
-date: 2019-12-09 14:54:00 Z
+date: 2019-11-11 14:54:00 Z
 is-featured: true
 theme: "Circular Economy: Driving Systems Transformation to Net-Zero"
-location: Casino de Madrid
-event_date: December 9, 2019
+location-text: Casino de Madrid
+event-date-text: December 9, 2019
+blurb: "The aim of this high-level dinner dialogue is to promote dialogue between business, government, and academia on what it means to realize a circular economy to various sectors and what are the key solutions to getting to net zero emissions across all sectors by mid-century."
 sessions:
 - title: Arrival of guests and welcome cocktail
   date: 2019-12-09 18:30:00 Z
@@ -16,7 +17,7 @@ sessions:
   date: 2019-12-09 19:55:00 Z
 - title: "Table Talks"
   date: 2019-12-09 20:15:00 Z
-- title: "Ice-breaker Dialogue 1: Taking a systems approach to mitigate emissions - how can sectors work together?"
+- title: "Ice-breaker Dialogue 2: Taking a systems approach to mitigate emissions - how can sectors work together?"
   date: 2019-12-09 21:10:00 Z
 - title: "Table Talks"
   date: 2019-12-09 21:30:00 Z
