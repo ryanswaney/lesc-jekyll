@@ -4,7 +4,7 @@ date: 2019-10-16 14:54:00 Z
 permalink: "/event/lesc-at-cop25"
 is-featured: true
 theme: Systems Transformation for a 1.5 Degree World
-location-text: Polytechnic University of Madrid, Madrid, Spain
+location-text: Universidad Politécnica de Madrid, Madrid, Spain
 event-date-text: December 9-10, 2019
 blurb: "The 2019 LESC will bring together leaders and scientists from businesses, governments, and academia from around the world. Happening on the side lines of COP25, the LESC will host six panels featuring distinguished speakers who will showcase decarbonization solutions in power, transport, industrial, and buildings sectors, and highlight the sector coupling opportunities available with a systems approach."
 sessions:
@@ -44,7 +44,7 @@ registration-url: "https://www.eventbrite.com/e/low-emissions-solutions-conferen
 ---
 The Systems Transformation for a 1.5 Degree World event is a special edition of the Low-Emissions Solutions Conference taking place alongside COP25 in partnership with WBCSD, ICLEI, and the Pontifical Catholic University of Chile.
 
-**Location:** Polytechnic University of Madrid, Madrid, Spain  
+**Location:** Universidad Politécnica de Madrid, Madrid, Spain  
 **Date:** Monday, 9 December (full day) and Tuesday, 10 December (half day)
 
 With a dialogue between business, government and academia, LESC aims to help UNFCCC negotiators understand how to ramp up ambition on their NDCs and the technologies available to them to populate their Low Emission Development Strategies (LEDs).
